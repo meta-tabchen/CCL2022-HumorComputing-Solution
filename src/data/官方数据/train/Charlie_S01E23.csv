@@ -1,0 +1,373 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+4708,1,0,Hey.,Gabe,0
+4709,1,1,See you later.,Bob,0
+4710,1,2,"Hey, dad.",Gabe,0
+4711,1,3,"Before you go, can I ask you something? - Oh, ask your mother.",Gabe,0
+4712,1,4,"Why can't I ask you? Well, because whatever answer I give you, She's gonna tell me it's the wrong one.",Bob,1
+4713,1,5,"Wow, dad.",Gabe,0
+4714,1,6,When did you become so afraid of mom? I ask your mother.,Bob,1
+4715,2,0,"Hey, mom, can I ask you a question? Okay, why can't people learn to use their car alarms? - Turn it off, jerk! - Uh, mom, that jerk is you.",Amy,0
+4716,2,1,What? - That's your car alarm.,PJ,0
+4717,2,2,"Oh, well, that's entirely different.",Amy,0
+4718,2,3,Why is it going off? - That's why.,Gabe,0
+4719,2,4,Uh-oh.,Charlie,1
+4720,2,5,Charlie's going through her button-pushing phase.,Amy,0
+4721,2,6,"Isn't it adorable? - Yeah yeah, real cute baby.",Amy,0
+4722,3,0,"Can we get back to me now? - Okay, honey, what is it? The kids at school are teasing me again.",Gabe,0
+4723,3,1,"About your hair? - No, about my bike.",Gabe,0
+4724,3,2,What's wrong with my hair? - Nothing.,Gabe,0
+4725,3,3,"It worked when you were five, it works now.",PJ,1
+4726,4,0,"Okay, now what about your bike? It's lame.",Amy,0
+4727,4,1,I need a new one.,Gabe,0
+4728,4,2,"Oh, a new bike, huh? - Ask your father.",Amy,0
+4729,4,3,"Really? No, I'm just kidding.",Amy,1
+4730,4,4,You can't have a new bike.,Amy,1
+4731,4,5,Everyone knows your bike is a statement of who you are.,Gabe,0
+4732,4,6,My bike says 'this guy is a total geek.,Gabe,0
+4733,4,7,' Same thing your haircut says.,PJ,0
+4734,6,0,"鈾?Hey, honey.",Amy,0
+4735,6,1,"What you working on? Oh, nothing.",Amy,0
+4736,6,2,Do you mind? - I can't help it.,Teddy,0
+4737,6,3,I saw the word 'mom.,Amy,0
+4738,6,4,"' Okay, I'm writing a script for my drama class.",Teddy,0
+4739,6,5,We're supposed to sh**t a short film.,Teddy,0
+4740,6,6,About an important moment in our lives.,Teddy,0
+4741,6,7,Ooh ooh! Which moment? I've been involved in so many.,Amy,1
+4742,6,8,"Well, it's about the day you and dad sat me down.",Teddy,0
+4743,6,9,And told me you were expecting charlie.,Teddy,0
+4744,6,10,"Can I read it? - Sure, when I'm finished.",Teddy,0
+4745,6,11,"No, come on.",Amy,0
+4746,6,12,I'm really excited.,Amy,0
+4747,6,13,Give me a sneak peek.,Amy,0
+4748,6,14,Okay.,Teddy,0
+4749,6,15,"Okay, let's see here.",Amy,0
+4750,6,16,'bob' yak yak yak.,Amy,0
+4751,6,17,'teddy' blah blah blah.,Amy,1
+4752,6,18,"Teddy, we need to talk to you.",Amy,0
+4753,6,19,"' Oh, this is really good.",Amy,0
+4754,6,20,Mom exits.,Teddy,0
+4755,6,21,Where does it say that? I don't see that.,Amy,0
+4756,6,22,"No no, it doesn't.",Teddy,0
+4757,6,23,I'm saying that.,Teddy,1
+4758,7,0,"Guys, I'd like you to meet my new girlfriend nina.",Emmett,0
+4759,7,1,"Nina, this is my best friend p.J.",Emmett,0
+4760,7,2,Hi.,PJ,0
+4761,7,3,And his sister teddy.,Emmett,0
+4762,7,4,Nice to meet you.,Teddy,0
+4763,7,5,"Oh, nice to meet you too.",Others,0
+4764,7,6,Come on in.,PJ,0
+4765,7,7,"Emmett, when did you get a girlfriend? Like 20 minutes ago.",PJ,0
+4766,7,8,I rushed right over as soon as it happened.,Emmett,1
+4767,7,9,Emmett has told me so much about you.,Others,0
+4768,7,10,She talks like that all the time.,Emmett,0
+4769,7,11,She's from south america.,Emmett,0
+4770,7,12,Venezuela.,Others,0
+4771,7,13,I thought you said south america.,Emmett,0
+4772,7,14,"Emmett, venezuela is in south america.",PJ,0
+4773,7,15,"Right? Yeah, they have trouble with subjects ending in '-ography.",Amy,1
+4774,7,16,' And '-ath.,Amy,1
+4775,7,17,' and '-ience.,Amy,1
+4776,8,0,"' Teddy, can I talk to you for a second? - Sure.",Emmett,0
+4777,8,1,I'll be right back.,Emmett,0
+4778,8,2,Okay.,Others,0
+4779,8,3,So how long have you been in the country? - Only one day.,PJ,0
+4780,8,4,That explains how you ended up with emmett.,PJ,1
+4781,9,0,"So, teddy, Since I have a girlfriend now.",Emmett,0
+4782,9,1,"This thing that's been going on between us Mmm, that thing that exists only in your head? Yeah, that it's over.",Teddy,1
+4783,9,2,Okay.,Teddy,0
+4784,9,3,That's good.,Emmett,0
+4785,9,4,Deny the pain.,Emmett,0
+4786,9,5,No tears? - No problem.,Emmett,0
+4787,9,6,So brave.,Emmett,0
+4788,9,7,So Emmett.,Teddy,1
+4789,10,0,"Dad! Dad, dad, quick! Get in here! My bike is gone! Somebody stole it! - What? - Yeah, the garage door is wide open.",Gabe,0
+4790,10,1,But I closed it when I came in.,Bob,0
+4791,10,2,"Well, somebody opened it, And I think I know who.",Gabe,0
+4792,10,3,Charlie did it.,Gabe,0
+4793,10,4,No.,Charlie,0
+4794,10,5,You did that! She's pushing the buttons again.,Gabe,0
+4795,10,6,"Hang on, hang on.",Bob,0
+4796,10,7,Hey you.,Bob,0
+4797,10,8,How did charlie even get the garage door remote? Who cares? Wheelie is gone.,Bob,0
+4798,10,9,You called your bike wheelie? - I used to.,Bob,0
+4799,10,10,I loved that old bike.,Gabe,1
+4800,10,11,Hey hey hey hey hey.,Bob,0
+4801,10,12,It's okay.,Bob,0
+4802,10,13,You know what? We're gonna get you a new one.,Bob,0
+4803,10,14,"Okay, I'll be in the car.",Gabe,1
+4804,11,0,"Teddy honey, your script is terrific.",Amy,0
+4805,11,1,I love it.,Amy,0
+4806,11,2,"Oh, mom, I'm so glad you like it, 'cause I thought you were gonna be critical.",Teddy,0
+4807,11,3,"But you're not critical, you're just really smart.",Teddy,0
+4808,11,4,"Okay, so who's in it? Who's playing the duncans? Oh, kids from my drama class.",Amy,0
+4809,11,5,"This one kid, waiter, is playing dad.",Teddy,0
+4810,11,6,Blah blah blah.,Amy,0
+4811,11,7,Who's playing me? I haven't cast the mom role yet.,Amy,1
+4812,11,8,I'm having auditions later.,Teddy,0
+4813,11,9,"Oh, okay.",Amy,0
+4814,11,10,"Well, if you need me to do anything, Just let me know.",Amy,0
+4815,11,11,"I could do props, Costumes or play mom whatever.",Amy,0
+4816,11,12,Here we go.,Teddy,0
+4817,11,13,"You know, I don't know if I've told you this, But when I was younger I did a lot of theater.",Amy,0
+4818,11,14,Really? What did the southwest denver.,Teddy,0
+4819,11,15,Community college 'daily bugle' say? The southwest denver community college 'daily bugle' Called my maggie from 'cat on a hot tin roof' Purr-fect.,Teddy,0
+4820,11,16,Ah.,Amy,0
+4821,11,17,"Look, mom.",Teddy,0
+4822,11,18,I'm supposed to use kids.,Teddy,0
+4823,11,19,From my drama class in the video.,Teddy,0
+4824,11,20,Of course.,Amy,0
+4825,11,21,Of course you are.,Amy,0
+4826,11,22,I understand.,Amy,0
+4827,11,23,Thanks.,Teddy,0
+4828,11,24,You know what I feel like? I feel all the time like a cat on a hot tin roof.,Amy,0
+4829,11,25,Dad! Mom's bugging me! - Hello there.,Teddy,0
+4830,12,0,"Oh, hi.",PJ,0
+4831,12,1,It's p.,Others,0
+4832,12,2,J.,Others,0
+4833,12,3,", right? - That's right.",PJ,0
+4834,12,4,"So how are you liking south high? Oh, everyone is so nice.",PJ,0
+4835,12,5,Some more nice than others.,Others,0
+4836,12,6,That's Nice.,PJ,0
+4837,12,7,"Uh, I hope you don't think I'm being too forward, But I find you very intriguing.",Others,0
+4838,12,8,I find you standing very close now.,PJ,0
+4839,12,9,This is my number.,Others,0
+4840,12,10,I hope you'll use it.,Others,0
+4841,12,11,"Don't you already have a boyfriend? No, but I'm hoping to.",PJ,0
+4842,12,12,Ciao.,Others,0
+4843,13,0,"Ciao? Oh, no, she already has a nickname for me.",PJ,1
+4844,13,1,"Hi, honey.",Amy,0
+4845,13,2,Hey.,Bob,0
+4846,13,3,Why is there a new bike in the garage? Gabe's bike got stolen.,Amy,0
+4847,13,4,Poor kid was crushed.,Bob,0
+4848,13,5,What are you talking about? He hated his old bike.,Amy,0
+4849,13,6,"Wheelie? - Yes, weally.",Amy,1
+4850,13,7,"Are we talking like this for a weason? No, wheelie is what he called his bike.",Bob,0
+4851,13,8,Yesterday he called his bike lame.,Amy,1
+4852,13,9,And then asked me for a new one.,Amy,0
+4853,13,10,Huh.,Bob,1
+4854,13,11,"Kinda suspicious, don't you think? Yeah.",Amy,0
+4855,13,12,It weally is.,Bob,0
+4856,14,0,"Hey, do you know how they say bananas in venezuela? Bananas.",Emmett,1
+4857,14,1,Do you know what girls from venezuela call the guy.,PJ,0
+4858,14,2,They secretly want to date behind their best friend's back? Ciao.,PJ,1
+4859,14,3,Wait.,Emmett,0
+4860,14,4,What? Nina flirted with me at school today.,PJ,0
+4861,14,5,"No, she didn't.",Emmett,0
+4862,14,6,Did too.,PJ,0
+4863,14,7,"Okay, maybe you didn't understand her.",Emmett,0
+4864,14,8,I understand english.,PJ,0
+4865,14,9,I've been speaking it since I was seven.,PJ,0
+4866,14,10,I think you're making things up.,Emmett,0
+4867,14,11,"Now I don't speak spanish, but that has got to be a come-on.",PJ,1
+4868,15,0,All righty.,Teddy,0
+4869,15,1,Are you guys ready? Hey.,Teddy,0
+4870,15,2,I thought you kids might like some refreshments.,Amy,0
+4871,15,3,"Thank you, honey.",Others,0
+4872,15,4,I'm so lucky to have you.,Others,0
+4873,15,5,"Uh, mom, that's waiter.",Teddy,0
+4874,15,6,He's playing dad.,Teddy,0
+4875,15,7,"Please, call me bob.",Others,0
+4876,15,8,It'll help me stay in character.,Others,0
+4877,15,9,"Take your arm away, bob.",Amy,0
+4878,15,10,And this is kimmy.,Teddy,0
+4879,15,11,She's playing me.,Teddy,0
+4880,15,12,Question about.,Others,0
+4881,15,13,"Why did you name her teddy? Well, we just really liked the name.",Others,0
+4882,15,14,That was you blowing my mind.,Others,1
+4883,15,15,She was the only one who tried out.,Teddy,0
+4884,15,16,"Well, have you found a mom yet? Oh, no, all the amy candidates are out on the porch.",Teddy,0
+4885,15,17,"Oh, okay.",Amy,0
+4886,15,18,Whatever.,Amy,0
+4887,15,19,"I wasn't even thinking about that, really.",Amy,0
+4888,15,20,Is that the mail I hear? I'm just gonna go check and find out.,Amy,0
+4889,15,21,"Sorry, girls, the video sheet's been canceled.",Amy,0
+4890,15,22,"Yeah, the duncans have head lice.",Amy,0
+4891,15,23,"Okay, first let's Hey, where'd everybody go? b*at me.",Teddy,0
+4892,15,24,Anything mom can do for you? Wow.,Amy,0
+4893,15,25,You're unbelievable.,Teddy,0
+4894,15,26,"Okay, well, Seeing as I have no other choice, would you Yes! Okay, here we.",Teddy,1
+4895,16,0,"Mom, come on.",Teddy,0
+4896,16,1,I want to get started.,Teddy,0
+4897,16,2,Coming! - I spend more time.,Others,1
+4898,16,3,Waiting for that woman.,Others,1
+4899,16,4,"Mom, why did you change? - The script says amy's in scrubs.",Teddy,0
+4900,16,5,"Oh, honey, I learned in college theater.",Amy,0
+4901,16,6,That the script is really just an outline.,Amy,0
+4902,16,7,Okay.,Teddy,0
+4903,16,8,"All right, everyone, here we go.",Teddy,0
+4904,16,9,"Bob and amy, you're on the couch.",Teddy,0
+4905,16,10,Teddy enters from over there.,Teddy,0
+4906,16,11,"Now remember, guys, This is just a rehearsal so use your scripts.",Teddy,0
+4907,16,12,And action.,Teddy,0
+4908,16,13,"'teddy, can you come here a minute?' 'teddy crosses to the couch, nervous.",Others,0
+4909,16,14,'am I in trouble' question mark.,Others,1
+4910,16,15,"' No no no, kimmy, just the lines, honey.",Teddy,0
+4911,16,16,"Not the other stuff, okay? And action.",Teddy,0
+4912,16,17,"'teddy, we need to talk to you.",Amy,0
+4913,16,18,"' 'am I in trouble?' 'well, I'll just say it.",Others,0
+4914,16,19,Your mother's gonna have a baby.,Others,0
+4915,16,20,"' - Okay, can we stop? Can we stop? I'm sorry.",Amy,0
+4916,16,21,These words they just don't fit into my mouth comfortably.,Amy,0
+4917,16,22,But it's what happened.,Teddy,0
+4918,16,23,It's exactly what you said.,Teddy,0
+4919,16,24,The day you were supposed to be wearing scrubs.,Teddy,0
+4920,16,25,"Okay, valid point, but do we want to make it real.",Amy,0
+4921,16,26,Or do we want to make it good? I want to make it before my battery dies.,Teddy,1
+4922,17,0,Yeah.,Bob,0
+4923,17,1,"Well, that new bike sure is a beauty.",Bob,0
+4924,17,2,"Sure is, dad.",Gabe,0
+4925,17,3,All right.,Bob,0
+4926,17,4,Have fun.,Bob,0
+4927,17,5,Okay.,Gabe,0
+4928,17,6,"Gabe, before you go - Yeah? - One quick question.",Bob,0
+4929,17,7,Mm-hmm.,Bob,0
+4930,17,8,You know that garage door remote that charlie had? - Mm-hmm.,Bob,0
+4931,17,9,How do you think she got that down from the cupboard? - Maybe you should ask charlie.,Bob,0
+4932,17,10,"Yeah, well, - You know I can't do that.",Bob,0
+4933,17,11,"Oh, because she can't talk yet.",Gabe,0
+4934,17,12,Yeah.,Bob,0
+4935,17,13,"Yeah, that is a bummer.",Gabe,1
+4936,17,14,"Yeah, it sure is.",Bob,0
+4937,17,15,All right.,Bob,0
+4938,17,16,You know what? I'll see you later.,Bob,0
+4939,17,17,Okay.,Gabe,0
+4940,17,18,You know what? Just one more thing.,Bob,0
+4941,17,19,Mm-hmm.,Gabe,0
+4942,17,20,"You know, I don't even think.",Bob,0
+4943,17,21,That remote works from the kitchen where charlie was.,Bob,0
+4944,17,22,"Dad, what are you trying to say? Are you accusing me of something? No, I just wanna know when you're gonna be back.",Gabe,0
+4945,17,23,"Oh, half an hour.",Gabe,0
+4946,17,24,"Can I go now? Of course you can, gabe.",Bob,0
+4947,17,25,You've always been free to go.,Bob,0
+4948,17,26,Okay.,Gabe,0
+4949,18,0,"Okay okay, there she is.",Emmett,0
+4950,18,1,Now I'm going to prove to you that she likes me.,Emmett,0
+4951,18,2,And not you.,Emmett,0
+4952,18,3,Okay.,PJ,0
+4953,18,4,Okay.,Emmett,0
+4954,18,5,Hi.,Emmett,0
+4955,18,6,Hi.,Others,0
+4956,18,7,Hi.,Others,0
+4957,18,8,Hi.,PJ,0
+4958,18,9,So far it's a tie.,PJ,0
+4959,18,10,"Okay, I know we both have a lot to offer, But you're gonna have to choose between us.",PJ,0
+4960,18,11,"Oh, I choose p.J.",Others,0
+4961,18,12,"Okay, let's try that again.",Emmett,0
+4962,18,13,And remember it's a multiple-choice question.,Emmett,0
+4963,18,14,My choice is still p.J.,Others,0
+4964,18,15,"I'm sorry, I can't go out with you.",PJ,0
+4965,18,16,I wouldn't do that to emmett.,PJ,0
+4966,18,17,Pals before gals.,PJ,0
+4967,18,18,"Thanks, man.",Emmett,0
+4968,18,19,"You'd do the same for me, right? Yeah, let's go with that.",Emmett,0
+4969,18,20,Wait a minute.,Others,0
+4970,18,21,I know what's going on here.,Others,0
+4971,18,22,You think I'm nina.,Others,0
+4972,18,23,You're not? No! I'm tina.,PJ,0
+4973,18,24,That's nina.,Others,0
+4974,18,25,Twins! Wait.,PJ,1
+4975,19,0,"What are we doing? And then I could say, 'teddy girl, mama's having a baby child!' Right? Right? Isn't that better? Doesn't it make more sense.",Amy,0
+4976,19,1,"That amy would tell teddy about the baby? 'mama's having a baby child'? Well, teddy, I'm just trying to find.",Amy,0
+4977,19,2,The emotional truth to the piece.,Amy,0
+4978,19,3,No thank you.,Teddy,0
+4979,19,4,"Okay, fine.",Amy,0
+4980,19,5,"You want me to be a robot, I'll be a robot.",Amy,0
+4981,19,6,I'll be a robot.,Others,0
+4982,19,7,Am I in troue? No.,Others,1
+4983,19,8,No no no no no.,Teddy,0
+4984,19,9,Nobody's a robot.,Teddy,0
+4985,19,10,We're doing the script as written.,Teddy,0
+4986,19,11,"Okay, places everyone.",Teddy,0
+4987,19,12,And action.,Teddy,0
+4988,19,13,"Teddy, can you come here a minute? Am I in trouble? Teddy, we need to talk to you.",Others,0
+4989,19,14,"Well, I'll just say it Your mother's gonna have a baby.",Others,0
+4990,19,15,A what? A baby.,Others,0
+4991,19,16,You're gonna have.,Others,0
+4992,19,17,A new little brother or sister.,Others,0
+4993,19,18,Oh! - Now what are you doing? I just felt the baby kick.,Amy,0
+4994,19,19,No.,Teddy,0
+4995,19,20,No no no.,Teddy,0
+4996,19,21,That's impossible.,Teddy,0
+4997,19,22,The baby doesn't have feet yet.,Teddy,0
+4998,19,23,Okay.,Amy,0
+4999,19,24,You know what? I'm just trying.,Amy,0
+5000,19,25,To figure out the mix of emotions th I was feeling that day.,Amy,0
+5001,19,26,"You know, the excitement, the confusion, The fear, the hormones.",Amy,0
+5002,19,27,"Yeah, do you know what I was feeling that day? It was 'why are you having another baby? You barely have time for the three kids you have now.",Teddy,0
+5003,19,28,' Was that in the script? Because I'm lost.,Others,0
+5004,20,0,"Teddy honey, What was that? I'm sorry, mom.",Amy,0
+5005,20,1,I shouldn't have said that.,Teddy,0
+5006,20,2,"Well, is that really how you felt? Were you really mad that we were having another baby? - Yeah, I kinda was.",Amy,0
+5007,20,3,"Why didn't you say something? Mom, what was I supposed to say? Charlie was on the way.",Teddy,0
+5008,20,4,You were all so excited.,Teddy,0
+5009,20,5,Excited? I didn't know how we were gonna make it all work.,Amy,0
+5010,20,6,I was terrified.,Amy,0
+5011,20,7,Really? 'Cause you didn't show it.,Teddy,0
+5012,20,8,That's because I'm a really great actress.,Amy,1
+5013,20,9,Come here.,Amy,0
+5014,20,10,Sit down.,Amy,0
+5015,20,11,"Do you still feel that way, Like we don't have enough time for you? Actually, today I thought maybe you had.",Amy,0
+5016,20,12,A little bit too much time for me.,Teddy,0
+5017,20,13,No.,Teddy,0
+5018,20,14,"Seriously, I don't know how you're doing it, But you guys are doing a great job.",Teddy,0
+5019,20,15,"Well, that's because we're not doing it alone, And one of the big reasons it works is you.",Amy,0
+5020,20,16,The boys help out too.,Teddy,0
+5021,20,17,"But you're right, it's mostly me.",Teddy,1
+5022,20,18,"Look, teddy.",Amy,0
+5023,20,19,"In the future, If ever you're feeling something, you've got to tell me, okay? Come here.",Amy,0
+5024,20,20,Come here.,Amy,0
+5025,20,21,I want us to always be honest with each other.,Amy,0
+5026,20,22,"Okay, I'll be honest with you.",Teddy,0
+5027,20,23,Say the lines as written or you're fired.,Teddy,0
+5028,20,24,Aww.,Amy,0
+5029,21,0,"What's the matter, gabe? Um, dad are you okay? You look shook up.",Bob,0
+5030,21,1,Wheelie's back.,Gabe,0
+5031,21,2,I know! Isn't it great? Yay.,Bob,0
+5032,21,3,"Um How did you find him? Oh, I came home from work, I saw that kidake on your bike, So I called the cops and they arrested him.",Bob,0
+5033,21,4,They arrested jake? But he's just a kid.,Gabe,0
+5034,21,5,"Ooh, he won't be when he gets out.",Bob,1
+5035,21,6,"What? What's wrong, son? Something bothering you? Um No.",Bob,0
+5036,21,7,"No? Well, something's bothering me, Because here's what I think really happened.",Bob,0
+5037,21,8,"First, you sold your bike to jake And then you pocketed the money.",Bob,0
+5038,21,9,Then you opened the garage door Using the keypad.,Bob,0
+5039,21,10,"Finally, you grabbed the remote From the kitchen cabinet And you planted it on charlie.",Bob,0
+5040,21,11,"Interesting theory, but it doesn't prove a thing.",Gabe,0
+5041,21,12,You're right.,Bob,0
+5042,21,13,You're right.,Bob,0
+5043,21,14,"I didn't have any hard proof, But I kept thinking, thinking.",Bob,0
+5044,21,15,And thinking.,Bob,0
+5045,21,16,And then a bell went off.,Bob,0
+5046,21,17,Is gabe here? - No.,Others,0
+5047,21,18,Tell him jake wants his $10 back.,Others,0
+5048,21,19,This bike is a piece of junk.,Others,0
+5049,21,20,"All right, you got me.",Gabe,0
+5050,21,21,Now what happens? Ask your mother.,Bob,1
+5051,22,0,Back from the bike store.,Bob,0
+5052,22,1,"Charlie, your brother has something he would like to say to you.",Bob,0
+5053,22,2,"Go ahead, gabe.",Bob,0
+5054,22,3,"Charlie, I'm sorry I tried to frame you.",Gabe,0
+5055,22,4,Aw.,Bob,0
+5056,22,5,Remember the first time I said that to you? Like it was yesterday.,PJ,0
+5057,22,6,And now here is a little I'm-sorry present from your brother.,Bob,0
+5058,22,7,"Okay, bring it in.",Bob,0
+5059,22,8,Oh.,Amy,0
+5060,22,9,"Yay! Yeah, we exchanged gabe's new bike for this one.",Bob,0
+5061,22,10,Thank you.,Charlie,0
+5062,22,11,You're welcome.,Amy,0
+5063,22,12,"Charlie, there you are on your very first bike.",Teddy,0
+5064,22,13,Yeah yeah.,Amy,0
+5065,22,14,"Teddy girl, Mama's baby child has a new tricycle! It's pink and red and it's got little stickers on it.",Amy,0
+5066,22,15,"Yup, and there's mom stealing your very first spotlight.",Teddy,0
+5067,22,16,"Good luck, charlie.",Teddy,0
+5068,23,0,I feel so bad.,PJ,0
+5069,23,1,I just can't tell them apart.,PJ,0
+5070,23,2,It is hard.,Amy,0
+5071,23,3,And I don't want to offend them.,PJ,0
+5072,23,4,"Well, you just have to find one little thing that's different.",Amy,0
+5073,23,5,"What do you think? I have no idea, and I'm married to one of them.",Amy,0
+5074,23,6,"Hey, uh, dads, Can I have five bucks? Huh.",Gabe,0
+5075,23,7,I love having two dads.,Gabe,0
+5076,23,8,Unbelievable! Well! Let figure it out! Wait.,PJ,0
+5077,23,9,Wait.,Amy,0
+5078,23,10,Yup.,Amy,0
+5079,23,11,That's my guy.,Amy,0

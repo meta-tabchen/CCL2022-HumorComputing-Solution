@@ -1,0 +1,292 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+3785,1,0,"Okay, who's ready to have some fun?! I guess you didn't hear me.",Amy,0
+3786,1,1,What I said was.,Amy,0
+3787,1,2,"Who's ready to have some fun?! Mom, no offense, but whenever you say something's gonna be fun, It's not! Until now, Because it is time for the first and last Duncan family baby naming contest! And the streak continues.",Teddy,1
+3788,1,3,"Okay, you guys, the prize is the satisfaction.",Amy,0
+3789,1,4,Of having named your baby brother or sister.,Amy,0
+3790,1,5,And five bucks.,Amy,1
+3791,1,6,"Okay, come on, you guys.",Bob,0
+3792,1,7,Who wants to get the ball rolling? I'll go.,Bob,0
+3793,1,8,"If it's a girl, 'Erika.",PJ,0
+3794,1,9,"' If it's a boy, 'Noah.",PJ,0
+3795,1,10,' 'Erika' and 'Noah.,Amy,0
+3796,1,11,' Those are very interesting.,Amy,0
+3797,1,12,Where'd you get those? First things that popped into my head.,Amy,0
+3798,1,13,I'll go.,Teddy,0
+3799,1,14,"If it's a girl, 'Sydney.",Teddy,0
+3800,1,15,"' if it's a boy, 'Jonah.",Teddy,0
+3801,1,16,' Now I actually put some thought into these names.,Teddy,0
+3802,1,17,"I chose 'Jonah' after the character in the classic Okay, who's next? I'll go.",Teddy,0
+3803,1,18,"If it's a boy, 'Toby.",Gabe,0
+3804,1,19,"' If it's a girl, I don't care.",Gabe,1
+3805,1,20,"Okay, 'Toby.",Amy,0
+3806,1,21,' And I'll just gonna fill in 'Jenny.,Amy,0
+3807,1,22,"' How about you, Charlie? You wanna pick some names? Candy.",Bob,0
+3808,1,23,"Oh, that's cute.",Teddy,0
+3809,1,24,NULL,Charlie;Teddy;Gabe;Amy,1
+3810,1,25,Hot dog.,Amy,0
+3811,1,26,"Okay, hot dog Duncan.",Amy,0
+3812,1,27,We have a winner!,Amy,0
+3813,2,28,"Hey, honey.",Amy,0
+3814,2,29,Not now.,Teddy,0
+3815,2,30,"School? Teddy, you okay? I don't have time for all these questions.",Teddy,0
+3816,2,31,I have a huge european history final tomorrow.,Teddy,0
+3817,2,32,"Okay, take it easy.",Amy,0
+3818,2,33,Easy? It's worth half of my grade.,Teddy,0
+3819,2,34,"Plus it's second semester, junior year, So these are the most important grades for college.",Teddy,0
+3820,2,35,If I don't get I won't have a good career.,Teddy,0
+3821,2,36,"Or a nice family or a happy life! Everything's on the line here, people.",Teddy,1
+3822,2,37,Wow.,Bob,0
+3823,2,38,I Hope hot dog doesn't get this stressed out.,Bob,0
+3824,2,39,"Hey, dad.",PJ,0
+3825,2,40,"Hey, mom.",PJ,0
+3826,2,41,"Hey, there are High School graduates.",Bob,0
+3827,2,42,And they said it couldn't be done.,Others,0
+3828,2,43,"Come on, Emmett, who said that? My dad, my mom, Most of my teachers.",Others,1
+3829,2,44,"I think you did, Mr.",Others,0
+3830,2,45,Duncan.,Others,0
+3831,2,46,"Well, they were all wrong.",Amy,0
+3832,2,47,I can't believe my baby's gonna graduate.,Amy,0
+3833,2,48,I can't believe her baby's not gonna graduate.,PJ,0
+3834,2,49,Wait wait wait.,Others,0
+3835,2,50,What do you mean? I just found out I got an incomplete in p.,Others,0
+3836,2,51,E.,PJ,0
+3837,2,52,That means I'm not gonna get my diploma.,PJ,0
+3838,2,53,NULL,Others;PJ;Gabe,1
+3839,2,54,"My parents are gonna be crushed, man.",PJ,0
+3840,2,55,This is a disaster.,PJ,0
+3841,2,56,"Dude, you can't give up.",Others,0
+3842,2,57,"Just talk to your teacher, Work something out.",Others,0
+3843,2,58,Who is it? Mr.,Others,0
+3844,2,59,Hammerstone.,PJ,0
+3845,2,60,"Madman hammerstone? No, Fluffy bunny hammerstone.",Others,0
+3846,2,61,Then you should be fine.,Others,0
+3847,3,62,"Okay, Charlie, honey, We have something very very important to talk to you about.",Bob,0
+3848,3,63,"Now you know we have a new baby on the way, right? Where is it? It's in mommy's tummy.",Bob,0
+3849,3,64,Did you eat it? - No.,Charlie,1
+3850,3,65,NULL,Gabe;PJ;Bob,1
+3851,3,66,"You wanna not be here? Okay, Charlie, now when the new baby comes home, Mommy and daddy, we're gonna have to spend a lot of time with him or her, But that doesn't mean that we love you any less.",Bob,0
+3852,3,67,That's right.,Amy,0
+3853,3,68,We love all of our babies the same.,Amy,0
+3854,3,69,And every one of you has been a baby.,Amy,0
+3855,3,70,P.J.,Amy,0
+3856,3,71,Was a baby.,Amy,0
+3857,3,72,Teddy was a baby.,Amy,0
+3858,3,73,Gabe was a baby.,Amy,0
+3859,3,74,So let me get this straight.,PJ,0
+3860,3,75,"When dad plays peek-a-boo with me, he doesn't actually disappear? - No, he's just behind his hands.",Teddy,0
+3861,3,76,Are you sure? Do we have to have this conversation every day? - I'm hungry.,Gabe,0
+3862,3,77,"Me, too.",Teddy,0
+3863,3,78,I could eat.,PJ,0
+3864,3,79,Shall we? - On three.,Gabe,0
+3865,3,80,"Wait, does anyone know how to count to three? Three.",Teddy,0
+3866,3,81,What can possibly be going through that little head of hers? I have no idea.,Bob,0
+3867,4,82,"Hi, Ivy.",Teddy,0
+3868,4,83,"No, actually, I can't talk right now.",Teddy,0
+3869,4,84,"I have to study for my european history final tomorrow, So unless you wanna talk about the crimean w*r Hello? Mom.",Teddy,0
+3870,4,85,"Mom! Mom! Mom! - Mom! - Gabe, what are you doing? Isn't it obvious? I'm calling mom.",Gabe,1
+3871,4,86,"Mom! Dude, just go upstairs.",Teddy,0
+3872,4,87,I'm trying to study.,Teddy,0
+3873,4,88,It's important.,Gabe,0
+3874,4,89,"Mom! Oh, here's my pencil.",Gabe,1
+3875,4,90,"Gabe, did you need me? - Never mind.",Amy,0
+3876,4,91,What? I said never mind! Okay.,Gabe,0
+3877,4,92,"Are you done? - Yeah, I'm done.",Teddy,0
+3878,4,93,"Wait, where's my ruler? Mom! - What?! - Ugh! Mom, I'm trying to study, But Gabe keeps yelling.",Teddy,0
+3879,4,94,"Sweetie, if you need a quiet place to study, why don't you just do it here? I'm st doing my yoga.",Amy,0
+3880,4,95,I'll put on my headphones.,Amy,0
+3881,4,96,Won't bother you at all.,Amy,0
+3882,4,97,"Thanks, mom.",Teddy,0
+3883,4,98,Mm-hmm.,Amy,0
+3884,4,99,What are you doing? The breath of fire.,Teddy,0
+3885,4,100,"Well, could you extinguish it? I just lit it.",Teddy,0
+3886,4,101,I'll study in the kitchen.,Teddy,0
+3887,4,102,"What? - Hi, dad.",Teddy,0
+3888,4,103,"Hey, sweetie.",Bob,0
+3889,4,104,NULL,Teddy;Bob;Amy,1
+3890,5,105,"The old 'new baby pep talk,' huh? Well, forget it, Charlie.",Gabe,0
+3891,5,106,"Once that new baby comes along, you're just another middle child.",Gabe,0
+3892,5,107,Welcome to the forgotten kids club.,Gabe,0
+3893,5,108,"I Hope you enjoyed the spotlight, 'cause that's over.",Gabe,1
+3894,5,109,"No, it's not.",Charlie,0
+3895,5,110,Denial.,Gabe,0
+3896,5,111,That's smart.,Gabe,0
+3897,5,112,Use that.,Gabe,0
+3898,5,113,That's what got me through kindergarten.,Gabe,1
+3899,5,114,"Hey, honey.",Bob,0
+3900,5,115,"Bob, get over here.",Amy,0
+3901,5,116,I just heard Gabe talking to Charlie.,Amy,0
+3902,5,117,He said we're gonna forget about her when the new baby comes along.,Amy,0
+3903,5,118,What? How could we forget about sweet little Charlie? - She's adorable.,Bob,0
+3904,5,119,"I know, but what about him? - Who? - Gabe! He's feeling neglected.",Amy,0
+3905,5,120,Maybe we're not spending enough time with him.,Amy,0
+3906,5,121,What are you talking about? I just took him to the batting cages.,Bob,0
+3907,5,122,When he was 8.,Amy,0
+3908,5,123,NULL,Bob;Amy;Teddy,1
+3909,6,124,Hammerstone.,PJ,0
+3910,6,125,"What do you want, cupcake? - It's P.J.",Others,0
+3911,6,126,Excuse me? Cupcake works.,PJ,0
+3912,6,127,I like cupcake.,PJ,0
+3913,6,128,"Listen, I want to talk to you about my grade.",PJ,0
+3914,6,129,You gave me an incomplete - Mm-hmm.,PJ,0
+3915,6,130,Which means I can't graduate tomorrow.,PJ,0
+3916,6,131,So kind of big problem.,PJ,0
+3917,6,132,Not for me.,Others,0
+3918,6,133,"The thing is, though, I only missed one unit.",PJ,0
+3919,6,134,The most important unit of all The one that molds you into a man.,Others,0
+3920,6,135,"The one that combines athleticism and discipline, And prepares you for the hard realities of life.",Others,0
+3921,6,136,"Square dancing? That's right, cupcake.",PJ,1
+3922,6,137,"No offense, but it just doesn't seem that important.",PJ,0
+3923,6,138,'not important.,Others,0
+3924,6,139,' What if you're walking down the street.,Others,0
+3925,6,140,And bang! A hoedown breaks out? You wouldn't be prepared.,Others,1
+3926,6,141,"Well, you do make a good point there.",PJ,1
+3927,6,142,"Listen, I really wanna graduate on time.",PJ,0
+3928,6,143,"Isn't there anything I can do? - Well, there is one thing.",PJ,0
+3929,6,144,Yes.,PJ,0
+3930,6,145,You can learn how to square dance by tomorrow.,Others,0
+3931,6,146,Just one little problem It's impossible.,Others,1
+3932,6,147,"Oh, yeah? I say it can be done.",PJ,0
+3933,6,148,I'm gonna learn how to square dance by tomorrow.,PJ,0
+3934,6,149,And I'm gonna stop calling everybody cupcake.,Others,1
+3935,6,150,NULL,Others;PJ,1
+3936,7,151,Hi.,Others,0
+3937,7,152,What are you doing here? - I didn't know what to do.,Teddy,0
+3938,7,153,I've got no place else to go.,Teddy,0
+3939,7,154,"What's wrong, honey? I've had the worst day.",Teddy,0
+3940,7,155,"I have this big final tomorrow, And I can't find a quiet place to study.",Teddy,0
+3941,7,156,I tried my house but - Was it your mom? It was everybody.,Teddy,1
+3942,7,157,But mainly your mom.,Others,1
+3943,7,158,"Teddy, you are always welcome here.",Others,0
+3944,7,159,Come on.,Others,0
+3945,7,160,"Go on, you just get yourself comfortable, And I will make you some tea.",Others,1
+3946,7,161,"Um, how come you never do any of this for me? I do this for people who study.",Others,0
+3947,7,162,NULL,Ivy;Teddy,1
+3948,8,163,"Hey, there he is.",Bob,0
+3949,8,164,There's the guy we've been waiting for.,Amy,1
+3950,8,165,"Honey, we saw this karaoke machine, And we thought of you.",Amy,0
+3951,8,166,Because? Because we can sing together.,Amy,1
+3952,8,167,Because? Because it'll be fun.,Amy,0
+3953,8,168,Am I being punished? No.,Gabe,1
+3954,8,169,Your mom and I thought we just hadn't had enough 'gabe time' lately.,Bob,0
+3955,8,170,Oh.,Gabe,0
+3956,8,171,"You're not talking about one of those stupid homemade coupons I gave on mother's day, are you? Because those expired.",Gabe,1
+3957,8,172,"No, honey, we just want to spend more time with you.",Amy,0
+3958,8,173,"Okay, now you look at this.",Amy,0
+3959,8,174,And pick out any song you want.,Amy,0
+3960,8,175,"And while you're doing that, I'll do this.",Amy,0
+3961,8,176,"Bob, it's not a duet.",Amy,1
+3962,8,177,NULL,Bob;Amy;Gabe,1
+3963,9,178,"form a square and back you go ? now meet your honey with a do-si-do ? chicken in the bread pan pecking at dough ? skip to my Lou, my darlin' ? No no no no.",Others,1
+3964,9,179,Yep.,Others,0
+3965,9,180,"Okay, go, keep going.",Others,0
+3966,9,181,"ladies, do and, gents, you know ? it's bow to your partner and off you go, swing her around ? - Let's take a break.",Others,1
+3967,9,182,We don't have time.,PJ,0
+3968,9,183,I gotta learn this.,PJ,0
+3969,9,184,"P.J., we've been at it for over three hours, And you still don't know a 'do-si' from a 'do.",Others,1
+3970,9,185,' Then why do you keep saying 'good good'? I was talking about me.,PJ,0
+3971,9,186,I was k*ll it.,Others,0
+3972,9,187,"Unh! So that's it? I'm not gonna graduate? - Sorry, buddy.",PJ,0
+3973,9,188,Oh man.,PJ,0
+3974,9,191,NULL,PJ,1
+3975,10,192,We're wanna show you one of our favorite movies from when we were your age.,Amy,0
+3976,10,193,You're gonna love this.,Bob,0
+3977,10,194,It's about a giant squid.,Bob,0
+3978,10,195,That terrorizes a small beach community.,Bob,0
+3979,10,196,It's called 'tentacles over pismo.,Bob,1
+3980,10,197,' I still have nightmares about it.,Amy,0
+3981,10,198,"But don't worry, wwill be right here with you the whole time.",Amy,0
+3982,10,199,"How much longer is 'gabe time' gonna last? Sweetie, we just want you to know.",Gabe,1
+3983,10,200,That just because you're the middle kid.,Amy,0
+3984,10,201,Doesn't mean you're the forgotten kid.,Amy,0
+3985,10,202,Oh! You guys overheard me say Shh! Movie's starting.,Gabe,0
+3986,10,203,"Come on now, snuggle with mommy.",Amy,1
+3987,10,204,Eww! What's that? It's an arm.,Others,0
+3988,10,205,It's eight arms.,Others,0
+3989,10,206,NULL,Bob;Amy;Gabe,1
+3990,11,207,Catherine the great.,Teddy,1
+3991,11,208,Only seven more hours until this test.,Teddy,0
+3992,11,209,"Come on, Teddy, focus.",Teddy,1
+3993,11,210,"I'm sorry, Mrs.",Teddy,0
+3994,11,211,"Wentz, did I wake you? Mrs.",Teddy,1
+3995,11,212,Wentz? Are you okay? - Oh no.,Teddy,0
+3996,11,213,What's going on? She's sleep-playing.,Others,0
+3997,11,214,She's what? You know how some people sleepwalk and sleep-talk? My mom plays the organ in her sleep.,Others,1
+3998,11,215,Can you wake her up? I have to study.,Teddy,0
+3999,11,216,You can't wake up a sleepwalker.,Ivy,0
+4000,11,217,It's dangerous.,Ivy,0
+4001,11,218,She'll be done soon.,Ivy,0
+4002,11,219,"As long as she doesn't start singing, we're good.",Ivy,0
+4003,11,220,o beautiful for spacious skies for Amber waves of grain It's her salute to America.,Others,0
+4004,11,221,This'll take a while.,Ivy,1
+4005,11,222,Unbelievable.,Teddy,0
+4006,11,223,"Where you going? - My car, I guess.",Teddy,0
+4007,11,224,Gotta find a quiet place to study.,Teddy,0
+4008,11,225,NULL,Others;Teddy;Ivy,1
+4009,12,226,Charles II.,Teddy,0
+4010,12,227,"What are you doing? You can't tow my car! I have a final! Charlie, I wanna talk to you about something.",Teddy,0
+4011,13,228,"About what I said yesterday - Bob, Bob, get over I was wrong.",Gabe,0
+4012,13,229,You don't have to worry about mom and dad forgetting you.,Gabe,0
+4013,13,230,"They might be busy, But they love us very much.",Gabe,0
+4014,13,231,That is so sweet.,Amy,0
+4015,13,232,What is? Come on.,Charlie,1
+4016,13,233,"Well, I guess Gabe enjoys being the forgotten kid.",Bob,0
+4017,13,234,"Yeah, sure sounds like it.",Bob,0
+4018,13,235,"Hey, you know, if we were to forget him, Just every now and then That would be good parenting.",Bob,1
+4019,13,236,You know what? I think I'm going to do my part.,Bob,0
+4020,13,237,And forget him this week.,Bob,1
+4021,13,238,And I shall ignore him all weekend.,Amy,1
+4022,13,239,Mmm.,Amy,0
+4023,13,240,Feels good.,Bob,0
+4024,13,241,NULL,Amy;Bob;Gabe,1
+4025,14,242,"Well, Duncan, Did you master the art of square dancing in 24 hours? Actually, no.",Others,0
+4026,14,243,"Then what are you wearing the cap and gown for? Look, my parents are out there.",Others,0
+4027,14,244,They really wanna see me graduate.,PJ,0
+4028,14,245,So I came back here to appeal to your sense of mercy.,PJ,0
+4029,14,246,And humanity and Do you actually have any of those? Not since I started wearing the whistle.,PJ,1
+4030,14,247,Man over p.A.,Others,0
+4031,14,248,"I'd like to welcome this year's south high graduating class! I'll see you in the fall, duncan.",Others,0
+4032,14,249,Hey.,Bob,0
+4033,14,250,"Dad, what are you doing in here? Emmett just told me everything that's going on, So I'm here to help you graduate.",Bob,0
+4034,14,251,Forget it.,PJ,0
+4035,14,252,It's over.,PJ,0
+4036,14,253,I can't do it.,PJ,0
+4037,14,254,"Oh yes, you can.",Bob,0
+4038,14,255,You're a Duncan.,Bob,0
+4039,14,256,You've got square dancing in your bl*od.,Bob,1
+4040,14,257,"In High School, I was a square dancing champion.",Bob,0
+4041,14,258,"Whoa, wait a minute.",Others,0
+4042,14,259,"Are you 'do-si-do Duncan'? Whatever, whatever, whatever, whatever.",Others,0
+4043,14,260,"That's great for you, dad, but how does that help me? It helps you like this.",PJ,0
+4044,14,261,"Okay, start with your hand up, all right? Hey, just follow my lead.",Bob,0
+4045,14,262,"ladies, do, and, gents, you know ? it's bow to your partner and off we go ? swing her around and, gents, you know ? once and a half and off we go ? swing your partner with your left hand ? then follow that up with a right-left grand ? corn in the pigpen, beans in the sack ? circle right then promenade back ? two hands up and around you go ? form a star, now do-si-do ? give your honey an allemande ? dive for the oyster, dig for the clam ? form a square and back you go ? now meet your honey with a do-si-do ? chicken in the bread pan, pecking at dough ? skip to my Lou, my darlin'.",Others,0
+4046,14,263,? dang! That was beautiful.,Others,0
+4047,14,264,"Does that mean - You can graduate, cupcake.",Others,1
+4048,14,265,"Whoo! Come on, let's go.",PJ,0
+4049,14,266,"All right, let's go.",Bob,0
+4050,14,267,"Sir, It was an honor to watch you work the square.",Others,1
+4051,14,268,"Well, I'll be back.",Bob,0
+4052,14,269,NULL,Bob;PJ,1
+4053,15,270,"Great news, Charlie.",Teddy,0
+4054,15,271,Guess who got an 'a' on her european history final.,Teddy,0
+4055,15,272,Turns out the perfect place to study.,Teddy,0
+4056,15,273,Is at a tow truck office at 6:00 in the morning.,Teddy,0
+4057,15,274,"Well, I am very proud of you.",Amy,0
+4058,15,275,"And speaking of proud - I graduated! Yeah! It's upside down, honey.",PJ,0
+4059,15,276,I still graduated.,PJ,0
+4060,15,277,"In other news, Everyone in the family has picked out two names for the new baby.",Teddy,0
+4061,15,278,Mom and dad are gonna choose from one of these.,Teddy,0
+4062,15,279,"So any favorites, mom? I'm not saying.",Teddy,0
+4063,15,280,I see that 'candy' and 'hot dog' have made a reappearance.,Amy,1
+4064,15,281,NULL,Teddy;PJ;Amy,1
+4065,16,282,"Hey, guys, Mom and dad were talking about this thing called potty training.",Teddy,0
+4066,16,283,"What's that? You know that room at the end of the hall? The one with the weird chair? Yeah, that chair is called a toilet.",Teddy,1
+4067,16,284,They're gonna make us learn how to use it.,Teddy,1
+4068,16,285,Toilet? What's wrong with the current system? I am very happy in diapers.,Gabe,1
+4069,16,286,Me too.,PJ,0
+4070,16,287,I love diapers.,PJ,1
+4071,16,288,"Not loving this one, though.",PJ,1
+4072,16,289,Yeah.,Teddy,0
+4073,16,290,I could go for a change.,Teddy,1
+4074,16,291,Shall we? I'm coming.,Amy,1
+4075,16,292,NULL,PJ;Amy;Teddy,1

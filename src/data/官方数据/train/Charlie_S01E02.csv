@@ -1,0 +1,312 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+417,1,0,"Hi, charlie.",Teddy,0
+418,1,1,Teddy here.,Teddy,0
+419,1,2,So right now you're nine months old and everything is going great.,Teddy,0
+420,1,3,"Well, almost everything.",Teddy,1
+421,1,4,"Now what I'm about to show you is kind of disturbing, So brace yourself.",Teddy,0
+422,1,5,"Mmm, these sandwiches will be yummy wummy.",Amy,0
+423,1,6,"Yes, they will, yes, they will.",Bob,0
+424,1,7,"Mom and dad have been talking like that ever since you arrived And if it's not over soon, I'm gonna go crazy wazy.",Teddy,1
+425,1,8,P.,Gabe,0
+426,1,9,J.,Gabe,0
+427,1,10,! - What? What are you listening to? I downloaded a podcast on the history of ballet.,PJ,0
+428,1,11,You like that? - More than baby talk.,Gabe,1
+429,1,12,"Would you like some fishy wishies with your cookie wookie? Yes, I would, yes, I would.",Amy,0
+430,1,13,"Wait, guys, charlie isn't even here.",Teddy,0
+431,1,14,"No, widdle baby take a nappy wappy upstairs.",Amy,0
+432,1,15,So why are you guys still talking like that? I don't 'weawy' know.,Teddy,1
+433,1,16,I guess we're just kinda fried.,Amy,0
+434,1,17,"Well, we work all day, take care of a baby all night.",Bob,0
+435,1,18,"Work shift, baby shift-- I've barely got time to make doo-doo.",Bob,1
+436,1,19,"Well, when was t last time you guys had a night out? You know, like just the two of you-- like a date? Teddy made a funny.",Teddy,0
+437,1,20,A funny wunny.,Amy,0
+438,1,21,Seriously! You know what? It's Saturday night.,Teddy,0
+439,1,22,"You two, you go out, have fun, And do something besides work, take care of the baby and make doo-doo.",Teddy,0
+440,1,23,"Well, it's nice to dream, but who's gonna take care of charlie? Hello! You've got three great babysitters right here.",Amy,0
+441,1,24,I'm glad I didn't hear that.,PJ,1
+442,1,25,"I don't know, teddy.",Amy,0
+443,1,26,"It's really nice thought, But we're really not ready to go out without charlie just yet.",Amy,0
+444,1,27,You guys want to see a magic trick? - Sure! - Okay.,Gabe,0
+445,1,28,Prepare to be amazed.,Gabe,0
+446,1,29,I could use a night out.,Amy,0
+447,2,0,"All right, you guys have fun.",Teddy,0
+448,2,1,Stay out as late as you want.,Teddy,0
+449,2,2,But not too much fun-- we have enough kids already.,Teddy,1
+450,2,3,I'm serious.,Teddy,0
+451,2,4,"Okay, everyone, be good, have fun, love you.",Amy,0
+452,2,5,Both: Yeah yeah.,PJ,0
+453,2,6,All right.,Gabe,0
+454,2,7,"Hey, teddy, thanks for doing this.",Bob,0
+455,2,8,It's gonna be nice for your mom and I to have some special time together.,Bob,0
+456,2,9,"Bob, move your butt! - I'm coming! All right, so we divide it up evenly, We each get to spend an hour with charlie.",Teddy,0
+457,2,10,Who wants to go first? I think you should go first.,Gabe,0
+458,2,11,"And second and third, since this was your idea.",PJ,0
+459,2,12,"Hey, I'm not doing this all by myself.",Teddy,0
+460,2,13,You guys have to help out.,Teddy,0
+461,2,14,Fine.,PJ,0
+462,2,15,I'll go fourth.,PJ,1
+463,2,16,There is no fourth.,Teddy,0
+464,2,17,I meant I shall go forth to the park To sh**t some hoop.,PJ,1
+465,2,18,"You want to go to the park so badly, Then why don't you just take charlie? What's a baby supposed to do at the park? Babies love parks.",Teddy,0
+466,2,19,"You can show her the duck pond, The blue sky, clouds.",Teddy,0
+467,2,20,We're just gonna look at stuff? That's what tv is for.,PJ,0
+468,2,21,P.,Teddy,0
+469,2,22,J.,Teddy,0
+470,3,0,": Yeah heh hah, all right! This is great.",PJ,0
+471,3,1,"Whee! Yes, whoo! What are you looking at? I was here first.",PJ,0
+472,3,2,"Hey, you can ride that duck.",PJ,0
+473,3,3,I couldn't ride the duck.,PJ,1
+474,3,4,I'd look silly on the duck.,PJ,0
+475,3,5,Fine.,PJ,0
+476,3,6,"Hey there, charlie.",PJ,0
+477,3,7,Are we having fun yet? All right.,PJ,0
+478,3,8,"Man, you seen a kid's birthday party around here anywhere? I'm the entertainment.",Others,0
+479,3,9,I saw a bounce house on the other end of the park.,PJ,0
+480,3,10,"A bouncy house, eh? Great.",Others,0
+481,3,11,Another trip to the e.,Others,0
+482,3,12,R.,Others,0
+483,3,13,"Who are you supposed to be anyway? Plastic man, rubber man? No, those are all registered trademarks.",PJ,0
+484,3,14,I'm captain stretchy.,Others,0
+485,3,15,"There used to be a 'cs' here, but it came off in the wash.",Others,0
+486,3,16,So what's your super power? Super elasticity.,PJ,0
+487,3,17,"Hey, look, there's a quarter.",Others,0
+488,3,18,"Eh! ( mutters ) Ah, forget it.",Others,0
+489,3,19,"Not like it's a dollar, right? - Hi.",Others,0
+490,3,20,Hi.,Emma,0
+491,3,21,"Oh, yeah, I like your taste in strollers.",PJ,0
+492,3,22,"Thanks, you too.",Emma,0
+493,3,23,"Oh, wow, - That baby's so cute.",Emma,0
+494,3,24,You too.,PJ,0
+495,3,25,"Oh, I mean yours too.",PJ,0
+496,3,26,I'm emma.,Emma,0
+497,3,27,I'm p.,PJ,0
+498,3,28,J.,PJ,0
+499,3,29,Who's this little guy? - My brother.,PJ,0
+500,3,30,We're just out for our stroll.,Emma,0
+501,3,31,We do this every day.,Emma,0
+502,3,32,Us too.,PJ,0
+503,3,33,"Like I always say, babies love parks.",PJ,1
+504,3,34,Would you like to sit for a bit? - Sure.,PJ,0
+505,3,35,So I saw you talking to captain stretchy earlier.,Emma,0
+506,3,36,"Oh, yeah, he was lost.",PJ,0
+507,3,37,"Not much of a superhero, right? - Oh, he's the worst.",PJ,0
+508,3,38,We hired him for my brother's birthday party - And he sat on the cake.,Emma,1
+509,3,39,That sounds awful.,PJ,0
+510,3,40,"Oh, it gets worse.",Emma,0
+511,3,41,"The candles were lit, so he sat in the punch.",Emma,1
+512,3,42,That is so weird.,PJ,0
+513,3,43,I me he looks like such a quality entertainer.,PJ,1
+514,3,44,"You know, p.",Emma,0
+515,3,45,J.,Emma,0
+516,3,46,", I'm really impressed that you take your baby sister to the park.",Emma,0
+517,3,47,My brothers would never do anything like that.,Emma,0
+518,3,48,I hope not.,PJ,0
+519,3,49,She is my sister.,PJ,0
+520,4,0,Now watch closely.,Gabe,0
+521,4,1,"In this hand I have a quarter And in the other, an ordinary egg.",Gabe,0
+522,4,2,"Now I put them in this hat, spin them around a little And presto.",Gabe,0
+523,4,3,"Just out of curiosity, What was supposed to happen? I love this baby.",Teddy,0
+524,4,4,"Anytime she wants to go to the park, sign me up.",PJ,0
+525,4,5,"What happened to you? Let's just say charlie made a friend, p.",Teddy,0
+526,4,6,J.,PJ,0
+527,4,7,Made a friend.,PJ,0
+528,4,8,Oh-- and did either you Or your friend bother to change a diaper? There's no time for that.,Teddy,0
+529,4,9,I was too busy talking to emma.,PJ,0
+530,4,10,"Who's emma? - A vision, An angel, the girl who's moved into my heart.",Gabe,0
+531,4,11,Did you tell her about the vacancy in your brain? - P.,Gabe,0
+532,4,12,J.,Teddy,0
+533,4,13,? - What? You brought home the wrong baby.,Teddy,1
+534,4,14,What? I did not.,PJ,0
+535,4,15,Take a look! Wrong parts.,Teddy,0
+536,4,16,There's nothing wrong with those parts.,Gabe,1
+537,5,0,How could you bring home the wrong baby? I'm sorry.,Teddy,0
+538,5,1,I got a little distracted.,PJ,0
+539,5,2,Emma is really cute.,PJ,1
+540,5,3,"Yeah, well, so was our sister.",Teddy,0
+541,5,4,"Come on, let's go to the park and find her.",Teddy,0
+542,5,5,Relax! I got her number.,PJ,0
+543,5,6,Then what are you waiting for? Call her.,Teddy,0
+544,5,7,Wait a second.,PJ,0
+545,5,8,"Is it too soon? - If I call now, she'll think I'm desperate.",PJ,0
+546,5,9,"Oh, you are desperate.",Teddy,0
+547,5,10,Good point.,PJ,0
+548,5,11,"Hello, is emma there? This is a chinese restaurant? Sure, I'll hear the specials.",PJ,1
+549,5,12,She gave you the wrong number.,Teddy,0
+550,5,13,Who couldn't see that one coming? But I gave her gum and helped her change a poopy diaper.,PJ,0
+551,5,14,It was so romantic.,PJ,1
+552,5,15,"Well, what do we do now? ( cell phone ringing ) Oh no! Hi mom, what up? Yeah, everything's going great.",Teddy,0
+553,5,16,Why wouldn't it be? We're just having a grand old time here with-- Baby.,Teddy,0
+554,5,17,"Yeah, sure you can talk to him.",Teddy,0
+555,5,18,Her her! Talk to mommy.,Teddy,0
+556,5,19,Ooh-ooh ee ahh-ahh.,Teddy,1
+557,5,20,"What do you mean that didn't sound like charlie? What, do you just think I'm making baby noises into the phone? Mom, that's crazy.",Teddy,1
+558,5,21,"All right, bye.",Teddy,0
+559,5,22,"Say bye, charlie.",Teddy,0
+560,5,23,Ooh ahh-ahh-ahh.,Teddy,1
+561,5,24,"Not that I'm in the position to criticize, But I was getting more monkey.",PJ,1
+562,5,25,"Come on, let's go to the park.",Teddy,0
+563,5,26,And meet the girl who blew off p.,Gabe,0
+564,5,27,J.,Gabe,0
+565,5,28,? I'm there.,Gabe,0
+566,5,29,I don't see her.,PJ,0
+567,5,30,P.,Teddy,0
+568,5,31,J.,Teddy,0
+569,5,32,", what did she look like? She was hot, but what does it matter? Maybe we should call someone.",Teddy,0
+570,5,33,Who do you call when you search a baby? Captain stretchy! What is that? - You're still here? - Every Saturday and Sunday all day long.,PJ,0
+571,5,34,"Stay in school, kids.",Others,0
+572,5,35,Just the guy we needed to see.,PJ,0
+573,5,36,I think you can help us.,PJ,0
+574,5,37,"Hey, kid, I'm just an entertainer.",Others,0
+575,5,38,I can't get mommy and daddy back together.,Others,0
+576,5,39,"No, you don't understand.",PJ,0
+577,5,40,"I was talking to a girl here earlier, And she said that you worked a party for her brother.",PJ,0
+578,5,41,So? I work lots of parties.,Others,0
+579,5,42,Where was the party where you fell on the cake? You got three hours? This is really important.,Others,1
+580,5,43,We need to find her.,PJ,0
+581,5,44,Interesting situation.,Others,0
+582,5,45,"You kids need info, - And I need a mirdle.",Others,0
+583,5,46,What is a mirdle? That's a man girdle.,Teddy,0
+584,5,47,And they ain't cheap.,Others,0
+585,5,48,"Yeah, neither is dry cleaning, apparently.",Teddy,0
+586,5,49,Her name's emma.,PJ,0
+587,5,50,"Did she come back to the park? Well, maybe she did And maybe she didn't.",PJ,0
+588,5,51,Stop rubbing your fingers together and answer my question.,PJ,0
+589,5,52,He wants a bribe.,Gabe,0
+590,5,53,I can't believe it.,PJ,0
+591,5,54,Here.,PJ,0
+592,5,55,Here's what I know: Her name is emma.,Others,0
+593,5,56,I just told you that.,PJ,0
+594,5,57,I didn't say the information was fresh.,Others,1
+595,5,58,"Yeah, I know the girl.",Others,0
+596,5,59,"She comes from a big family-- seven, eight kids.",Others,0
+597,5,60,"For them I've been Astronaut pete, cowboy bob - Magic marv? - Yeah! You're familiar with my work.",Others,0
+598,5,61,"Yeah, and it stinks.",Gabe,1
+599,5,62,I'm just starting off - And I'm a better magician than you are.,Gabe,0
+600,5,63,"Oh yeah? You think this is easy, huh? Here.",Others,0
+601,5,64,Turn that into a schnauzer.,Others,0
+602,5,65,"You can't do it, huh? Maybe it's because you don't have the chops! Well, stretchy, do you know where she lives? Yeah, around here somewhere.",Others,0
+603,5,66,I'd know it if I saw it.,Others,0
+604,5,67,Great! Now you help us tonight and we'll get you into that mirdle tomorrow.,Teddy,0
+605,5,68,"Oh, and you understand we're not actually Gonna put you into it? That you have to do by yourself.",Teddy,0
+606,5,69,"Yeah, I get it.",Others,0
+607,5,70,"All right, come on, guys, we have to go find her.",Teddy,0
+608,5,71,"Uh, hey-- captain stretchy, away! - Truck's this way.",Others,0
+609,5,72,"Oh, okay.",Others,0
+610,6,0,"Order whatever you want, honey.",Bob,0
+611,6,1,I get a discount here.,Bob,0
+612,6,2,This place is one of my best customers.,Bob,0
+613,6,3,Not what you want to hear from an exterminator.,Amy,1
+614,6,4,"( baby cries ) - oh, look at that.",Amy,0
+615,6,5,"Oh, fajitas.",Bob,0
+616,6,6,"Not that, the baby.",Amy,0
+617,6,7,A little baby in a stroller just like ours.,Amy,0
+618,6,8,"Yeah, okay, honey, this is supposed to be a night away from the baby.",Bob,0
+619,6,9,So let's come back.,Bob,0
+620,6,10,"Okay okay, I'm back.",Amy,0
+621,6,11,I'm back.,Amy,0
+622,6,12,Just gotta run to the ladies' room.,Amy,0
+623,6,13,"Oh oh, hey, listen, while you're in there, Could you check the traps? Hola.",Bob,1
+624,6,14,Adios.,Amy,0
+625,6,15,"Bob, will you go over and look at that baby? - I think it's charlie.",Amy,0
+626,6,16,"What?! You heard me, that is charlie! Sweetheart, would you sit down, please? I will not sit down.",Bob,0
+627,6,17,A mother knows her own baby and that is my baby.,Amy,0
+628,6,18,"Honey, seriously, what do you think happened here? In the last hour somebody went over to our house, Borrowed our baby then brought her out for chips and guac? I don't know, it's a big family.",Bob,0
+629,6,19,Maybe that's how they get their babies.,Amy,1
+630,6,20,"Sweetheart, I think you're just missing charlie And you're having a little separation anxiety.",Bob,0
+631,6,21,"Oh, okay.",Amy,0
+632,6,22,You're right.,Amy,0
+633,6,23,Crazy wazy.,Amy,0
+634,6,24,"I mean, that isn't possible, right? - Exactly.",Amy,0
+635,6,25,I'm just going to go to the ladies' room one more time.,Amy,0
+636,6,26,Sit down.,Bob,0
+637,6,27,Now let's enjoy the rest of our night out At this very lovely restaurant.,Bob,0
+638,6,28,Okay? - Okay.,Amy,0
+639,6,29,I'm needed in the kitchen.,Bob,1
+640,7,0,Charlie! - Emma! - Charlie! - Emma! - Marco! - Polo.,Teddy,0
+641,7,1,"Gabe, not helping.",Teddy,0
+642,7,2,"Stretchy, is any of this looking familiar? Maybe it does, maybe it doesn't.",Teddy,0
+643,7,3,You are not getting any more money.,Teddy,0
+644,7,4,"No, I have night blindness.",Others,0
+645,7,5,All I'm seeing is shapes.,Others,0
+646,7,6,Why didn't you mention that earlier? - I needed a ride home.,Teddy,0
+647,7,7,Stop here.,Others,0
+648,7,8,"Oh, great.",Others,0
+649,7,9,Mom's up.,Others,1
+650,7,10,Maybe I'll just hang with you kids.,Others,0
+651,7,11,"Captain stretchy, away.",Teddy,0
+652,7,12,"Good night, stretchy.",PJ,0
+653,7,13,"Good night, stretchy.",Gabe,0
+654,7,14,Good night.,Others,0
+655,7,15,Now what? - We didn't hit the streets on the north end of the park.,PJ,0
+656,7,16,P.,Teddy,0
+657,7,17,J.,Teddy,0
+658,7,18,", we can't keep driving around all night.",Teddy,0
+659,7,19,It's over.,Teddy,0
+660,7,20,We have to tell mom and dad.,Teddy,0
+661,7,21,"But-- - no, it'll be okay.",Teddy,0
+662,7,22,They know what to do.,Teddy,0
+663,7,23,They always do.,PJ,0
+664,7,24,How am I gonna tell them I lost our baby sister? I'm the oldest.,PJ,0
+665,7,25,They're gonna think I'm the most responsible.,PJ,0
+666,7,26,P.,Teddy,0
+667,7,27,J.,Teddy,1
+668,7,28,", if it makes you feel any better, Nobody thinks that.",Teddy,0
+669,7,29,Why do I always mess everything up? You know what? This could have happened to any of us.,Teddy,0
+670,7,30,"All right, probably most likely you, but-- This one, we're all in it together.",Teddy,0
+671,7,31,Thanks.,PJ,0
+672,7,32,"Hey, look, Captain stretchy dropped his driver's license.",Gabe,0
+673,8,0,There they are.,PJ,0
+674,8,1,"All right, let's get this over with.",Teddy,0
+675,8,2,"Do you think it would be better or worse if we had the mariachi deliver the news? If it's in spanish, probably better.",PJ,1
+676,8,3,"Wait, I don't believe it.",PJ,0
+677,8,4,That's emma.,PJ,0
+678,8,5,So that's charlie.,Teddy,0
+679,8,6,"Yes! Oh, we're saved.",PJ,0
+680,8,7,Not quite.,Gabe,0
+681,8,8,"Hey, kids.",Amy,0
+682,8,9,What now? - I'll let you know when I think of it.,Teddy,0
+683,8,10,"Mom, dad, hi.",Teddy,0
+684,8,11,Hi.,Teddy,0
+685,8,12,"What are you doing here? We just realized you must be missing charlie, So we brought her.",Teddy,0
+686,8,13,"Oh, teddy, you're not fooling me.",Amy,0
+687,8,14,I'm not? - Nope.,Teddy,0
+688,8,15,You spent a little too much time with charlie And you're ready to hand her over early.,Amy,0
+689,8,16,"Well, I wouldn't say too much time.",Teddy,1
+690,8,17,"Well, I am ready too, so let me at her.",Amy,0
+691,8,18,Gimme gimme gimme.,Teddy,0
+692,8,19,"Mom, mom, mom.",Teddy,0
+693,8,20,You're on a date.,Teddy,0
+694,8,21,Let me bring her to you.,Teddy,0
+695,8,22,"Here? Wait, now? Well, all right.",Gabe,0
+696,8,23,"Hey, mom.",Gabe,0
+697,8,24,"Hi, baby.",Amy,0
+698,8,25,Hey.,Bob,0
+699,8,26,"Hey, dad.",Gabe,0
+700,8,27,Something I want to show you.,Gabe,0
+701,8,28,"What is it, honey? ( 'william tell overture' playing ) And now for my next trick, I'm gonna make a boy disappear.",Gabe,0
+702,8,29,"You know, you should be ashamed of yourself.",PJ,0
+703,8,30,"You lead a guy on, make him think you have a connection, And you give him a fake phone number.",PJ,0
+704,8,31,You put it in wrong.,Emma,0
+705,8,32,That three is supposed to be a two.,Emma,1
+706,8,33,"Oh, my bad.",PJ,0
+707,8,34,"So You wanna get a table? My widdle baby, did you miss your mommy and daddy? Yes, she did.",Amy,0
+708,8,35,"Yes, she did.",Bob,0
+709,8,36,"Oh, I never thought I'd be so happy to hear baby talk.",Teddy,1
+710,8,37,"Teddy, this isn't charlie's binky.",Amy,0
+711,8,38,"Where did you get this? Oh, well, that's actually a really funny story.",Amy,0
+712,8,39,"See, what happened was-- - ( music playing loudly ) Too loud.",Teddy,0
+713,8,40,Tell you later.,Teddy,0
+714,9,0,"Teddy: Yeah! Well, charlie, now you're home safe and sound And everything turned out okay.",Teddy,0
+715,9,1,For you.,Teddy,1
+716,9,2,"It would have been okay for us too, but when we got home, Mom started asking all these questions And no one really had an answer to the pee stains in the living room.",Teddy,0
+717,9,3,And that's when the truth came out and all the kids got into trouble.,Amy,0
+718,9,4,"So the lesson is if you ever try to pull anything over on mom, Good luck, charlie.",Amy,0
+719,9,5,Couldn't have said it better myself.,Teddy,0
+720,10,0,In this hand I have a quarter.,Gabe,0
+721,10,1,"And in the other hand, an ordinary egg.",Gabe,0
+722,10,2,"Now I put them in this hat, Spin them around and Presto! Now hold out your hand.",Gabe,0
+723,10,3,"Wow, that's a great trick.",Others,1
+724,10,4,How'd you do that? Interesting situation.,Others,0
+725,10,5,"It seems you need information, Meanwhile I need a new video game.",Gabe,1
+726,10,6,What a chump.,Gabe,0
+727,10,7,"Who you calling a chump? Hey, get back here.",Others,0

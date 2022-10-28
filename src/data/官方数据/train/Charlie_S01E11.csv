@@ -1,0 +1,308 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+2507,1,0,Cracker.,Emmett,0
+2508,1,1,Yes.,PJ,0
+2509,1,2,Pickle dill.,Emmett,0
+2510,1,3,Good.,PJ,0
+2511,1,4,And? Cottage cheese low fat small curd a touch of fuzz.,Emmett,0
+2512,1,5,Uch of fuzz.,Emmett,0
+2513,1,6,Expiration date? Three weeks ago.,PJ,0
+2514,1,7,Amazing.,PJ,0
+2515,1,8,Yes! What's going on? We're playing 'guess that snack.,PJ,0
+2516,1,9,' And next year you can vote.,Bob,0
+2517,1,10,Hey listen p.J.,Bob,0
+2518,1,11,I ran into a friend of mine today.,Bob,0
+2519,1,12,He's opening up a new chicken restaurant And he needs a delivery guy.,Bob,0
+2520,1,13,Dad you already have a Job.,PJ,1
+2521,1,14,I'm talking about you.,Bob,0
+2522,1,15,Oh thanks but I'm already booked solid Between the school the band our snacking competitions.,PJ,0
+2523,1,16,I can't do it all.,PJ,0
+2524,1,17,I'm just one guy.,PJ,0
+2525,1,18,One guy who delivers chicken.,Bob,1
+2526,1,19,Here's the number.,Bob,0
+2527,1,20,Hey emmett if you want I might be able to get you a Job too.,Bob,0
+2528,1,21,Oh no thanks mr.D.,Emmett,0
+2529,1,22,I already got a Job.,Emmett,0
+2530,1,23,Doing what? - My dad pays me to stay out of the house.,Emmett,1
+2531,1,24,Working right now.,Emmett,0
+2532,2,0,Hey charlie I want to show you something pretty adorable.,Teddy,0
+2533,2,1,You and mommy are doing yoga together.,Teddy,0
+2534,2,2,Okay charlie this next move Is called the warrior.,Amy,0
+2535,2,3,Charlie.,Amy,0
+2536,2,4,Mom lis to blame her farts on other people But love her anyway.,Teddy,1
+2537,2,5,Uh excuse me mom doesn't fart no.,Teddy,0
+2538,2,6,She toots.,Amy,1
+2539,2,7,That was quite a toot you just cut.,Teddy,1
+2540,2,8,Hey honey how was school? Good.,Teddy,0
+2541,2,9,Why are you wearing your hat like that? Oh no reason.,Teddy,0
+2542,2,10,It's how I roll.,Gabe,0
+2543,2,11,Oh my gosh gabe what happened? Charlie and I were playing pattycake And things went bad.,Gabe,0
+2544,2,12,Who did this to you? This new kid in my class Jo something.,Gabe,0
+2545,2,13,Poor thing.,Teddy,0
+2546,2,14,Why do the big kids always pick on the little kids? Isn't that the ice pack dad puts on his butt? Eww.,Teddy,1
+2547,2,15,Actually I think it's that one.,Gabe,0
+2548,2,16,Eww.,Teddy,0
+2549,2,17,What about broccoli? Dad hates broccoli.,Teddy,0
+2550,2,18,Which is why he'd use it on his Eww! Oh no.,Gabe,1
+2551,3,0,Is dad's butt acting up again? - Who is it? - Kwikki chikki Where everpiece of chicken is grilled with love.,PJ,1
+2552,3,1,Hi.,Others,0
+2553,3,2,Hello? Uh here you go.,PJ,0
+2554,3,3,Thanks.,Others,0
+2555,3,4,Keep the change.,Others,0
+2556,3,5,EnJoy your kwikki chikki.,PJ,0
+2557,3,6,I think I was just grilled with love.,PJ,1
+2558,3,7,Would you mind answering a few questions For a customer satisfaction survey? Okay.,PJ,0
+2559,3,8,Did you find kwikki chikki service To be good really good or super good? Really good.,PJ,0
+2560,3,9,If a good-looking kwikki chikki delivery dude asked you on a date Would his chances be good really good or super good? Could you take off that cap for a second? Super good.,PJ,1
+2561,4,0,Freeze.,Teddy,0
+2562,4,1,Back it up and bring it here.,Teddy,0
+2563,4,2,Oh gabe again? Yes again.,Teddy,0
+2564,4,3,Well did you at least hit him back this time? I can't do that.,Teddy,0
+2565,4,4,Why not? You gotta take this bully down Give him a taste of his own medicine.,Teddy,0
+2566,4,5,That's the only way to get him to stop.,Teddy,0
+2567,4,6,Just let me handle it.,Gabe,0
+2568,4,7,All right.,Teddy,0
+2569,4,8,Well you know what? If you won't do it then I will.,Teddy,0
+2570,4,9,I will school this kid teddy-style.,Teddy,0
+2571,4,10,Whoo! Whoa I need a manicure.,Teddy,1
+2572,5,0,Hey p.J.emmett's called a few times.,Bob,0
+2573,5,1,Yeah I'll call him later.,PJ,0
+2574,5,2,Oh dad I forgot to tell you My girlfriend I love saying that She told me something interesting.,PJ,0
+2575,5,3,She's your girlfriend already? You've had one date.,Amy,0
+2576,5,4,One amazing date.,PJ,0
+2577,5,5,One awesome magical fun What did she say? - Who? - Your girlfriend.,PJ,0
+2578,5,6,I love it when you say it too.,PJ,1
+2579,5,7,She said her mom and you know each other.,PJ,0
+2580,5,8,Her name used to be katherine davis.,PJ,0
+2581,5,9,Katherine davis? Um That's not ringing a bell.,Bob,1
+2582,5,10,Boy I'd sure like to see your reaction When someone does ring a bell.,Amy,1
+2583,5,11,Who is she? She's the last girl I dated before you.,Bob,0
+2584,5,12,I'm dating your old girlfriend's daughter? I hope that's not gonna be a problem for me.,PJ,0
+2585,5,13,Seems like it might be for me.,Bob,0
+2586,5,14,I'd like to hear more about her bob.,Amy,0
+2587,5,15,Oh look did I date a lot of girls before you? Yes sure.,Bob,0
+2588,5,16,Did I leave a trail of broken hearts? Absolutely.,Bob,0
+2589,5,17,But you know what? It was all worth it Because I saved the best for last.,Bob,1
+2590,5,18,Oh.,Amy,0
+2591,5,19,Me too.,Amy,0
+2592,5,20,And I can't wait to meet him.,Amy,1
+2593,5,21,Eh.,Bob,0
+2594,5,22,You did not just send me to voicemail.,Emmett,0
+2595,5,23,Sorry.,PJ,0
+2596,5,24,I'm expecting a call from my girlfriend.,PJ,0
+2597,5,25,You've been dodging my calls all day.,Emmett,0
+2598,5,26,Hey good news emmett.,Bob,0
+2599,5,27,We just put in a doorbell.,Bob,0
+2600,5,28,What were you calling about? - To see if you wanted to hang out.,Bob,0
+2601,5,29,Wish I could but I'm kind of busy right now.,PJ,0
+2602,5,30,Hey girlfriend.,PJ,0
+2603,5,31,No I'm not doing anything right now.,PJ,0
+2604,5,32,Yeah of course I can come over.,PJ,0
+2605,5,33,You want to hang out mr.,Emmett,0
+2606,5,34,D? We could play 'guess that snack.,Emmett,1
+2607,5,35,' I brought my blindfold.,Emmett,0
+2608,6,0,What are you doing here? - Brought you lunch.,Gabe,0
+2609,6,1,I already have my lunch.,Gabe,0
+2610,6,2,Well give this to the nerdy kid who does your homework yay! - Hey gabe.,Teddy,0
+2611,6,3,Hi Jo.,Others,0
+2612,6,4,Where do you think you're going? That's Jo? Gotta go.,Others,0
+2613,6,5,You're the kid who's been pounding my brother? But you're a girl.,Teddy,0
+2614,6,6,Yes and that's a chair.,Others,1
+2615,6,7,And that's a book.,Others,1
+2616,6,8,Are we done now? Have a seat Jo.,Others,0
+2617,6,9,You and me are gonna have a little talk.,Teddy,0
+2618,6,10,Okay.,Others,0
+2619,6,11,Jo I'm here because I'm not happy.,Teddy,0
+2620,6,12,And do you know why I'm not happy? No but I bet you're gonna tell me.,Teddy,0
+2621,6,13,Oh yes.,Teddy,0
+2622,6,14,I'm not happy Because you've been bullying my brother.,Teddy,0
+2623,6,15,He's a boy so he can't hit back.,Teddy,0
+2624,6,16,But I'm not a boy.,Teddy,0
+2625,6,17,You don't scare me.,Others,0
+2626,6,18,Really? Well Do I scare you now? No.,Teddy,0
+2627,6,19,Fair enough.,Teddy,0
+2628,6,20,How about now? I can do that with pens.,Others,1
+2629,6,21,Okay I want you to leave my brother alone Or the next thing that gets snapped will be you.,Teddy,0
+2630,6,22,Now get out of my face.,Teddy,0
+2631,6,23,Does gabe ever talk about me? Ever since you gave him that fat lip He's had trouble talking about anyone.,Teddy,1
+2632,6,24,Does he have a girlfriend? No and why would you? Wait a minute.,Teddy,0
+2633,6,25,Do you like gabe? Eww that's disgusting.,Others,0
+2634,6,26,Okay maybe a little.,Others,0
+2635,7,0,Oh so I had a chat with your little friend Jo.,Teddy,0
+2636,7,1,Did she punch you? - No.,Gabe,1
+2637,7,2,Kick you? - No.,Gabe,1
+2638,7,3,Okay well get this turns out she has a crush on you.,Teddy,0
+2639,7,4,She does? Why does she keep hitting me? Well she has trouble expressing her feelings And then she gets frustrated and lashes out.,Teddy,0
+2640,7,5,So I get punched for being a hunk? Yep that's it.,Gabe,0
+2641,7,6,She really said she likes me? Whoa wait do you like her too? Eww that's just disgusting.,Gabe,1
+2642,7,7,Okay maybe a little.,Gabe,0
+2643,8,0,Hi mr.,Others,0
+2644,8,1,Duncan.,Bob,0
+2645,8,2,Hi madison.,Others,0
+2646,8,3,P.J.'s downstairs.,Bob,0
+2647,8,4,Thanks.,Others,0
+2648,8,5,Bobby.,Others,0
+2649,8,6,Kitty-kat.,Bob,0
+2650,8,7,Look at you.,Others,0
+2651,8,8,Look at you.,Bob,0
+2652,8,9,Look at me.,Amy,1
+2653,8,10,Hey honey.,Bob,0
+2654,8,11,I'd like you to meet kitty katherine.,Bob,0
+2655,8,12,I'm madison's mom.,Others,0
+2656,8,13,Hi I'm amy p.J.'s mom And bob's first wife.,Bob,0
+2657,8,14,Can you believe our kids are dating each other? That's a crazy twist isn't it? Whoo! Well I've got to run.,Others,0
+2658,8,15,It was so nice to meet you And so great to see you again bobby.,Others,0
+2659,8,16,Yeah.,Bob,0
+2660,8,17,Okay.,Bob,0
+2661,8,18,Kitty-kat huh? Well I could come up with a nickname for you.,Bob,1
+2662,8,19,Like You know it's really funny 'cause I'm thinking of a lot of nicknames for you.,Amy,1
+2663,9,0,Hi boyfriend.,Others,0
+2664,9,1,Hi girlfriend.,PJ,0
+2665,9,2,Hi emmett.,Others,0
+2666,9,3,Girlfriend.,Emmett,0
+2667,9,4,You guys are rehearsing.,Others,0
+2668,9,5,Should I come back later? - Yes.,Others,0
+2669,9,6,No.,PJ,0
+2670,9,7,No we're just finishing up.,PJ,0
+2671,9,8,Aren't we? - We started five minutes ago.,Emmett,0
+2672,9,9,It was a good five minutes.,PJ,0
+2673,9,10,I feel like I'm intruding.,Others,0
+2674,9,11,No you're not.,PJ,0
+2675,9,12,Yes you are.,Emmett,0
+2676,9,13,I'll be upstairs.,Others,0
+2677,9,14,Okay one two one two three four - No emmett stop.,Emmett,0
+2678,9,15,What? I don't like the way you were talking to my girlfriend.,PJ,0
+2679,9,16,I don't like the way she's interrupting our rehearsal.,Emmett,0
+2680,9,17,She has no respect for the process.,Emmett,0
+2681,9,18,We don't have a process.,PJ,1
+2682,9,19,She doesn't know that.,Emmett,0
+2683,9,20,Everyone knows that.,PJ,0
+2684,9,21,What's more important to you your girlfriend or this band? This band was just a way to get girls Which I did.,Emmett,1
+2685,9,22,Fine.,Emmett,0
+2686,9,23,Then this band is through.,Emmett,0
+2687,9,24,I'll take my drums and get out of your life.,Emmett,0
+2688,9,25,Someone will be by to collect my things.,Emmett,0
+2689,10,0,Hey what are you doing out here? Just thinking.,Bob,0
+2690,10,1,P.J.,Bob,0
+2691,10,2,And the vibe broke up today.,PJ,0
+2692,10,3,Oh well son it's hard to keep a band together.,Bob,0
+2693,10,4,And you guys did have some challenges Most of them musical.,Bob,0
+2694,10,5,We'd still be together if emmett wasn't jealous of my girlfriend.,PJ,0
+2695,10,6,Son you've been spending an awful lot of time with madison.,Bob,0
+2696,10,7,Now did you ever consider that maybe emmett feels rejected? By my girlfriend? By you.,Bob,0
+2697,10,8,Because I have a girlfriend.,PJ,0
+2698,10,9,Because you've been ignoring him.,Bob,0
+2699,10,10,Because of my girlfriend.,PJ,0
+2700,10,11,P.J.,Bob,0
+2701,10,12,I'm ready to break up with you.,Bob,0
+2702,10,13,Son you can't let a girl Come between you and your best friend.,Bob,0
+2703,10,14,But madison's softer And smells better than emmett.,PJ,1
+2704,10,15,Look trust me on this okay? I nearly made the same mistake When I was dating madison's mom.,Bob,0
+2705,10,16,Really? What happened? Katherine was too clingy Too demanding.,Bob,0
+2706,10,17,She came between me and my friends So I did what I had to do Let her go Said goodbye No more bobby love for her.,Bob,1
+2707,10,18,Bobby love? That's what she called you? Oh you know it.,PJ,0
+2708,10,19,Um that one we don't need to share with your mom.,Bob,0
+2709,11,0,This is weird.,Others,0
+2710,11,1,I don't usually get invited To play dates with the kids I b*at up.,Others,0
+2711,11,2,About that I talked to gabe And turns out he kinds of likes you too.,Teddy,0
+2712,11,3,He does? Why are you clenching your fist? I feel like punching someone.,Teddy,1
+2713,11,4,Okay well we need to work on how you express yourself with boys.,Teddy,0
+2714,11,5,Why don't we try a little role-playing okay? - I'll be gabe.,Teddy,0
+2715,11,6,You'll be you.,Teddy,0
+2716,11,7,Okay.,Others,0
+2717,11,8,So let's pretend we run into each other at school.,Teddy,0
+2718,11,9,Hi Jo.,Teddy,0
+2719,11,10,Hi gabe.,Others,0
+2720,11,11,I like your jacket.,Teddy,0
+2721,11,12,Well somebody knows karate.,Teddy,0
+2722,11,13,Sorry.,Others,0
+2723,11,14,It was a reflex.,Others,0
+2724,11,15,Let me try again.,Others,0
+2725,11,16,Okay but this time Let's keep our hands to ourselves okay? Got it.,Teddy,1
+2726,11,17,Okay.,Others,0
+2727,11,18,Hi Jo.,Teddy,0
+2728,11,19,Hi gabe.,Others,0
+2729,11,20,Want to sit with me at lunch? Yah! I see you found a loophole.,Teddy,0
+2730,11,21,You didn't say anything about the feet.,Others,0
+2731,11,22,And now you've learned the word 'loophole.,Teddy,0
+2732,11,23,' Now try this time With no hands and no feet Or anything else you could hit me with.,Teddy,0
+2733,11,24,Got it.,Others,0
+2734,11,25,Hi Jo.,Teddy,0
+2735,11,26,You look nice.,Teddy,0
+2736,11,27,Very good Jo.,Teddy,0
+2737,11,28,You clenched your fist and then you unclenched.,Teddy,0
+2738,11,29,That is called progress.,Teddy,0
+2739,11,30,Feels weird without hitting But I kind of like it.,Others,0
+2740,11,31,What is she doing here? No no it's okay.,Gabe,0
+2741,11,32,You have nothing to worry about.,Teddy,0
+2742,11,33,Right Jo? - Right.,Teddy,0
+2743,11,34,Hey gabe.,Others,0
+2744,11,35,You look nice.,Others,0
+2745,11,36,What? She gave you a compliment.,Teddy,0
+2746,11,37,Say something nice back.,Teddy,0
+2747,11,38,Uh Your hair looks softer than your fists? Thanks.,Gabe,1
+2748,11,39,Why don't you two hang out for a while? I'll be upstairs trying to decide If I should apply ice or heat.,Teddy,0
+2749,11,40,So what do you like to do? I like monster trucks Mixed martial arts and dolls.,Others,1
+2750,11,41,You like video games? - What do you got? - 'galaxy of death.,Gabe,0
+2751,11,42,' - Is it violent? Level two comes with the barf bags.,Gabe,0
+2752,11,43,It's really fun.,Gabe,0
+2753,11,44,You had me at barf bag.,Others,1
+2754,12,0,Hey what are you doing here? I'm between deliveries But I really wanted to say something to you.,PJ,0
+2755,12,1,First I'm like totally psyched that you're my girlfriend.,PJ,0
+2756,12,2,Great.,Others,0
+2757,12,3,Anything else? Well yeah.,Others,0
+2758,12,4,I was just thinking That we should be spending a little less time together You know so we still have time for friends.,PJ,0
+2759,12,5,Works for me.,Others,0
+2760,12,6,Not starting right now.,PJ,0
+2761,12,7,Madison what's going on? - Nothing.,PJ,0
+2762,12,8,Gotta get to work babe.,Others,0
+2763,12,9,Who's that? - Nobody.,PJ,0
+2764,12,10,See you later babe.,Others,0
+2765,12,11,Nice hat.,Others,0
+2766,12,12,Thanks.,PJ,0
+2767,12,13,You too.,PJ,0
+2768,12,14,Who was that? Just the pizza delivery guy.,Others,0
+2769,12,15,Really? Don't they usually deliver pizzas To your house not from your house? I don't And don't they usually not kiss the customers And call them 'babe'? You were cheating on me with pizza pirate.,PJ,0
+2770,12,16,No actually I was cheating on pizza pirate With kwikki chikki.,Others,1
+2771,12,17,That's it.,PJ,0
+2772,12,18,We're through.,PJ,0
+2773,12,19,Are you breaking up with me? Unless you promise never to see him again.,Others,0
+2774,12,20,Yeah we should probably break up.,Others,0
+2775,12,21,He gave me a whole bunch of coupons.,Others,0
+2776,13,0,Get off me! Help! Ow! Jo what are you doing? This is not the way to express yourself.,Teddy,0
+2777,13,1,This is not about me liking gabe.,Others,0
+2778,13,2,This is about him cheating at 'galaxy of death.,Others,0
+2779,13,3,' I didn't cheat.,Gabe,0
+2780,13,4,Get this whacko off me! Come on Jo get off him.,Others,0
+2781,13,5,Let go.,Teddy,0
+2782,13,6,Let go.,Teddy,0
+2783,13,7,Whoa! You want some of this? Hey charlie.,Others,0
+2784,14,0,Well today was a bad day for the duncan kids.,Teddy,0
+2785,14,1,We learned that sometimes love hurts.,Teddy,0
+2786,14,2,No kidding.,Gabe,0
+2787,14,3,Jo dislocated my shoulder.,Gabe,0
+2788,14,4,Madison dislocated my heart.,PJ,0
+2789,14,5,Well maybe love gets easier as we get older.,Teddy,0
+2790,14,6,Honey it's no kitty-kat but at least it's a nickname.,Bob,0
+2791,14,7,Amy-potomus? Well when you say it like that Or maybe love never gets easier.,Bob,1
+2792,14,8,Then again you might be the one to figure that out.,Teddy,0
+2793,14,9,Good luck with that charlie.,Teddy,0
+2794,14,10,Hi.,PJ,0
+2795,14,11,Heard about your breakup.,Emmett,0
+2796,14,12,Who told you? I saw you change your online status From 'in a relationship' to 'dumped.,Emmett,1
+2797,14,13,' Bring it here.,Emmett,0
+2798,14,14,It hurts so much.,PJ,0
+2799,14,15,I know.,Emmett,0
+2800,14,16,Emmett's here.,Emmett,0
+2801,14,17,Let it out.,Emmett,0
+2802,14,18,And ignore my last voicemail.,Emmett,0
+2803,14,19,What? - No no no no.,Emmett,0
+2804,15,0,Hey gabe.,Others,0
+2805,15,1,Nice backpack.,Others,0
+2806,16,0,What do you want Jo? I think I was pretty clear.,Gabe,0
+2807,16,1,I want your backpack.,Others,0
+2808,16,2,No.,Gabe,0
+2809,16,3,I'm sorry did you just say no? You heard me.,Others,0
+2810,16,4,You're not bullying me anymore.,Gabe,0
+2811,16,5,What you're gonna sic your sister on me again? I'm not afraid of her.,Others,0
+2812,16,6,I have more than one sister.,Gabe,0
+2813,16,7,And that's after only one karate lesson.,Gabe,0

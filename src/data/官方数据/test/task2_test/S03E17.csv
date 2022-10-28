@@ -1,0 +1,345 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+8539,1,0,Gabe.,Amy,0
+8540,1,1,"Gabe, I have something to tell you.",Amy,0
+8541,1,2,"Tomorrow when I take you to school, I'm going to park the car and come inside.",Amy,0
+8542,1,3,"Mom, we've been over this.",Gabe,0
+8543,1,4,"If you have to use the bathroom, you can just go at the gas station.",Gabe,1
+8544,1,5,You didn't let me finish.,Amy,0
+8545,1,6,No.,Amy,0
+8546,1,7,The reason I'm going inside is Please don't freak out.,Amy,0
+8547,1,8,I'm gonna be your school nurse.,Amy,0
+8548,1,9,"What?! No! ( Stammering ) You can't Why do you hate me?! Well, thank you for not freaking out.",Gabe,1
+8549,1,10,My mom is working at my school? ( Sighs ) My life is over.,Gabe,1
+8550,1,11,"It's just for a week, okay? I'm just filling in while your regular nurse is on vacation.",Amy,0
+8551,1,12,You couldn't have done this at a worse time.,Gabe,0
+8552,1,13,"Right now at school, I'm considered cool.",Gabe,0
+8553,1,14,"( Laughs ) I just Okay, you're serious.",Amy,1
+8554,1,15,Go on.,Amy,0
+8555,1,16,"Well, there's this really cool kid, Walker, and he invited me to eat at his lunch table.",Gabe,0
+8556,1,17,"Now, they're all eighth graders, and I'm only a seventh grader.",Gabe,0
+8557,1,18,"Do you how big of an honor that is? Oh, Gabe.",Gabe,1
+8558,1,19,I'm sorry.,Amy,0
+8559,1,20,I I had no idea.,Amy,0
+8560,1,21,Why didn't you tell me? I'll just turn down the money we need for groceries.,Amy,0
+8561,1,22,Thank you.,Gabe,1
+8562,1,23,And then I'll teach you about sarcasm.,Amy,1
+8563,1,24,"Well, can't you at least not tell anybody you're my mom? I mean, maybe you can use a different name.",Gabe,0
+8564,1,25,"Well, I guess I could use my maiden name.",Amy,1
+8565,1,26,Blankenhooper.,Amy,1
+8566,1,27,That's good.,Gabe,0
+8567,1,28,"And if we see each other at school, we just keep going.",Gabe,0
+8568,1,29,"We don't talk, we don't look at each other, we don't interact in any way.",Gabe,0
+8569,1,30,NULL,Gabe;Amy,1
+8583,2,44,"Hey, dad.",Teddy,0
+8584,2,45,"Hey, honey.",Bob,0
+8585,2,46,"Oh, hey.",Bob,0
+8586,2,47,I'm Bob.,Bob,0
+8587,2,48,I'm Teddy's dad.,Bob,0
+8588,2,49,I know.,Others,0
+8589,2,50,I'm Vonnie.,Others,0
+8590,2,51,"We've met, like, three times.",Others,1
+8591,2,52,"Oh, I'm I'm sorry.",Bob,0
+8592,2,53,That's okay.,Others,0
+8593,2,54,Happens all the time.,Others,0
+8594,2,55,Some people just don't stand out in a crowd.,Others,1
+8595,2,56,Or in a group of two.,Others,1
+8596,2,57,"Well, I won't forget you again.",Bob,1
+8597,2,58,"All right, girls.",Bob,0
+8598,2,59,"So what you working on? Oh, it's a it's an assignment for our business and marketing class.",Teddy,0
+8599,2,60,"Basically, come up with a product idea then pitch it to the group.",Teddy,0
+8600,2,61,Oh! I got I got a good idea for a product.,Bob,0
+8601,2,62,"Let me guess, it's the corn chips that clean your teeth while you eat them? Did I mention they come in different flavors? Bye, dad.",Teddy,1
+8602,2,63,Dentitos.,Bob,0
+8603,2,64,"Bye, dad.",Teddy,1
+8604,2,65,"So, let's talk.",Teddy,0
+8605,2,66,( Coughs ) Let's talk ideas.,Teddy,0
+8606,2,67,"What's up with your voice? - Oh, it's just a little scratchy.",Others,0
+8607,2,68,"So, uh, what'd you come up with? - It's your house, you go first.",Others,0
+8608,2,69,Okay.,Teddy,0
+8609,2,70,"Um, so my idea is pajamas with a fun twist.",Teddy,0
+8610,2,71,"Basically, they're footie pajamas that you decorate yourself.",Teddy,0
+8611,2,72,Introducing Graffooties! Wow.,Teddy,1
+8612,2,73,"Man, that is so weird.",Others,0
+8613,2,74,What is? I had the exact same idea.,Others,1
+8614,2,75,"I mean, I don't have a drawing, or like a name, but everything else, exactly the same.",Others,1
+8615,2,76,"You don't have an idea, do you? No, ma'am.",Teddy,1
+8616,2,77,I do not.,Others,1
+8617,2,78,NULL,Others;Teddy,1
+8618,3,79,I said I'm coming.,PJ,0
+8619,3,80,Mom? What are you doing here? What am I doing here? I'm dropping off Charlie and Toby.,Amy,0
+8620,3,81,I thought Gabe would be the first kid you got rid of.,PJ,1
+8621,3,82,"PJ, I'm working at Gabe's school.",Amy,0
+8622,3,83,You're gonna have to watch the little ones for a few days.,Amy,0
+8623,3,84,I thought I explained all this on the phone to Emmett.,Amy,0
+8624,3,85,"Didn't he give you the message? - No, he didn't.",Amy,0
+8625,3,86,I'm gonna call him.,PJ,0
+8626,3,87,"( Cell phone ringing ) Hello? Emmett, did you forget to give me a message? Your mom's dropping the kids off.",PJ,1
+8627,3,88,I'll pick them up at 3:30.,Amy,0
+8628,3,89,She'll pick them up at 3:30.,Emmett,1
+8629,3,90,"Hey, you.",Amy,0
+8630,3,91,Have fun.,Amy,0
+8631,3,92,Okay.,Charlie,0
+8632,3,93,Is this your house? Yep.,Charlie,0
+8633,3,94,NULL,Charlie;Amy,1
+8634,4,95,"I'm nurse Blankenhooper, what's your name? You promised you wouldn't talk to me.",Amy,0
+8635,4,96,"Well, I just wanted to let you know that your zipper is down.",Amy,1
+8636,4,97,Oh! Made you look.,Amy,1
+8637,4,98,( Laughs ) I love middle school.,Amy,1
+8638,4,99,"Hey, s'up.",Gabe,0
+8639,4,100,S'up.,Others,0
+8640,4,101,I can't believe I have to run the mile in P.E.today.,Gabe,0
+8641,4,102,I hate the mile.,Gabe,0
+8642,4,103,"Yeah, me too.",Others,0
+8643,4,104,It totally ruins my hair.,Others,1
+8644,4,105,Someone as cool as you shouldn't have to run the mile.,Gabe,0
+8645,4,106,"I mean, your name's Walker, not runner.",Gabe,0
+8646,4,107,"( Chuckles ) Am I right? Don't worry about me, dude.",Gabe,0
+8647,4,108,I'm not running it.,Others,0
+8648,4,109,"How are you gonna get out of it? I've been in eighth grade for three years now, I've picked up some things.",Amy,0
+8649,4,110,"Oh, nurse? Over here.",Others,0
+8650,4,111,"What's the problem? Oh, the problem is, I just totally barfed.",Others,0
+8651,4,112,Guess I can't go to P.E.,Others,0
+8652,4,113,"Wow, that looks like potato soup and fruit punch.",Amy,1
+8653,4,114,That's what I ate.,Others,0
+8654,4,115,Guess they had a fight in my stomach.,Others,0
+8655,4,116,Are you sure they were ever in your stomach? They seem to have landed in two separate puddles.,Amy,1
+8656,4,117,Yeah.,Others,0
+8657,4,118,"Gnarly, huh? So, guess you'd better write me a note to get out of P.E.",Others,0
+8658,4,119,"Yeah, I better.",Amy,0
+8659,4,120,Okay.,Amy,0
+8660,4,121,I'm gonna write you an ID 10-T form.,Amy,1
+8661,4,122,Okay.,Amy,0
+8662,4,123,I want you to wear this all day.,Amy,0
+8663,4,124,NULL,Amy,1
+8664,5,125,Hey There she is! There he is.,Bob,1
+8665,5,126,The guy who can't remember my name.,Others,1
+8666,5,127,I remember your name Connie.,Bob,1
+8667,5,128,Nope.,Others,0
+8668,5,129,"Oh, uh Little bit of bad news, Teddy's got some laryngitis.",Bob,0
+8669,5,130,Doctor's said she shouldn't speak for a couple of days.,Bob,0
+8670,5,131,"A couple days? But what about our presentation? Oh, me? No.",Others,1
+8671,5,132,I can't.,Others,0
+8672,5,133,"No, but I've never given a presentation before.",Others,0
+8673,5,134,Wow.,Bob,0
+8674,5,135,Look at this! It's like she knows exactly what you're gonna say.,Bob,0
+8675,5,136,"Hey, I bet you don't have a card for me.",Bob,1
+8676,5,137,And away I go.,Bob,0
+8677,5,138,NULL,Bob,1
+8678,6,139,Can I have my balloon back now? Whatever.,PJ,1
+8679,6,140,"Hi, PJ.",Others,0
+8680,6,141,"Hey, Mindy.",PJ,0
+8681,6,142,I didn't know you were a babysitter.,Others,0
+8682,6,143,I'm not.,PJ,0
+8683,6,144,I'm just watching my brother and sister.,PJ,0
+8684,6,145,"Actually, I'm kind of in a bind.",Others,0
+8685,6,146,My nanny just canceled.,Others,0
+8686,6,147,Any chance you could watch the twins for a couple of hours? Oh I don't know.,Others,0
+8687,6,148,I'll pay you 15 bucks an hour.,Others,0
+8688,6,149,Per kid? - Sure.,Others,0
+8689,6,150,Wow.,PJ,0
+8690,6,151,"Let's see, that's 15 bucks an hour times two kids for two hours.",PJ,0
+8691,6,152,"Oh, let's see.",PJ,0
+8692,6,153,Carry the one Just say yes.,PJ,1
+8693,6,154,NULL,PJ,1
+8694,7,155,Okay.,Others,0
+8695,7,156,So here's my new plan.,Others,0
+8696,7,157,"Yesterday's fake puke went on the floor, tomorrow's is gonna go all over nurse Blankenhooper.",Others,0
+8697,7,158,You're gonna puke on her? Doesn't that seem a little extreme? Yeah.,Gabe,0
+8698,7,159,"We're gonna humiliate her so bad, she'll never show her face in this school again.",Others,0
+8699,7,160,"Well, I do like that part.",Gabe,0
+8700,8,161,"Hey, Teddy.",Others,0
+8701,8,162,How you feeling? Male voice: Super good and getting better.,Teddy,1
+8702,8,163,What's all this? This is how I'm going to communicate with you today.,Teddy,0
+8703,8,164,A text-to-speech program.,Teddy,0
+8704,8,165,Okay.,Others,0
+8705,8,166,Here's the presentation.,Teddy,0
+8706,8,167,Read this out loud.,Teddy,0
+8707,8,168,Hi.,Others,0
+8708,8,169,I'm Vonnie.,Others,0
+8709,8,170,My partner Teddy and I have something very exciting to share with you today.,Others,1
+8710,8,171,Be more excited.,Teddy,0
+8711,8,172,Give me some sizzle with that steak.,Teddy,1
+8712,8,173,Hi! I'm Vonnie.,Others,0
+8713,8,174,My partner Teddy and I have something very exciting to share with you! Stop.,Others,0
+8714,8,175,You're k*ll me.,Teddy,0
+8715,8,176,Hey.,Others,0
+8716,8,177,Don't take that tone with me.,Others,0
+8717,8,178,This is the only tone I have.,Teddy,0
+8718,8,179,I can't do this.,Others,0
+8719,8,180,Let's just give up.,Others,0
+8720,8,181,What is wrong with you? Are you a loser? Hey! I'm not a loser! You're a loser! That's it.,Teddy,0
+8721,8,182,Use that passion tomorrow.,Teddy,0
+8722,8,183,"You'll nail it, Connie.",Teddy,1
+8723,8,184,"Sorry, typo.",Teddy,1
+8724,8,185,NULL,Teddy,1
+8725,9,186,"Little Lambs Babysitting Service, taking good care of your kids since Yesterday.",PJ,1
+8726,9,187,"Yes, we are fully licensed.",PJ,0
+8727,9,188,I've been driving for two years.,PJ,1
+8728,9,189,"Hello? PJ, this babysitting thing is a gold mine.",Emmett,0
+8729,9,190,"I know, dude.",PJ,0
+8730,9,191,We got seven kids.,PJ,0
+8731,9,192,"Seven times 15, times two Carry the three uh.",PJ,1
+8732,9,193,I'm bored.,Charlie,0
+8733,9,194,"Hey, I'm kinda bored too.",Emmett,0
+8734,9,195,Okay.,PJ,0
+8735,9,196,"Uh, how about music time? - Yeah, music time? - Yeah.",PJ,0
+8736,9,197,"Come on, kids.",Emmett,0
+8737,9,198,"Yay! - Gather around, little lambs.",Emmett,0
+8738,9,199,Come on.,PJ,0
+8739,9,200,There we go.,PJ,0
+8740,9,201,Uh.,PJ,0
+8741,9,202,Grab a crayon.,PJ,0
+8742,9,203,Draw a flower.,PJ,0
+8743,9,204,You get all this for 15 an hour.,PJ,1
+8744,9,205,"Fun in leaps, and fun in bounds.",PJ,0
+8745,9,206,And now it's time to sing about sounds.,PJ,0
+8746,9,207,A car goes - Beep.,PJ,0
+8747,9,208,And a dog goes - Woof.,PJ,0
+8748,9,209,And a bird goes - Tweet.,PJ,0
+8749,9,210,And a phone goes - Ring.,PJ,0
+8750,9,211,And a bee goes - Buzz.,PJ,0
+8751,9,212,And these are the sounds of the sounds.,PJ,0
+8752,9,213,"And these are the sounds, of the sounds.",PJ,0
+8753,9,214,Yay! - Woo! ( Knocking on door ) Wait.,PJ,0
+8754,9,215,Shh shh shh shh.,PJ,0
+8755,9,216,Verna: What's going on in there? - It's the landlady.,PJ,0
+8756,9,217,"Um Hey, kids.",PJ,0
+8757,9,218,"How about a field trip to bathroom land? - Yay! - Woo! Hey, come on.",PJ,1
+8758,9,219,Silent trip.,PJ,0
+8759,9,220,Silent trip.,PJ,1
+8760,9,221,Verna! Who's making all the noise? I heard kids.,Others,0
+8761,9,222,You got kids in here? No.,Others,0
+8762,9,223,No kids.,Emmett,0
+8763,9,224,Just us.,Emmett,0
+8764,9,225,"( Chuckles ) Then what's with all the juice boxes? And the shirts? We're just two young guys who like to drink juice from boxes, while wearing matching shirts.",PJ,1
+8765,9,226,It's relaxing.,Emmett,1
+8766,9,227,Yeah.,PJ,0
+8767,9,228,"Well, I hope you're not running some kind of babysitting service.",Others,0
+8768,9,229,Because that is against building regulations.,Others,0
+8769,9,230,"( Chuckles ) Babysitting service? Oh, that's ridiculous.",PJ,0
+8770,9,231,"No, it's just me and Emmett.",PJ,0
+8771,9,232,"( Toilet flushes ) Somebody in your bathroom? Mm-mm, no, it's uh, the toilet's broken.",Others,0
+8772,9,235,"Yeah, we're having this delayed flushing issue.",PJ,0
+8773,9,236,It's very upsetting.,Emmett,0
+8774,9,237,"When I do my business, I like it to be gone immediately.",Emmett,0
+8775,9,238,"Well, thanks for stopping by.",PJ,1
+8776,9,239,I'll grab my tools and be right back.,Others,0
+8777,9,240,Okay.,PJ,0
+8778,9,241,"Dude, what are we gonna do? We have to hide the kids.",PJ,0
+8779,9,242,Okay.,Emmett,0
+8780,9,243,Um.,Emmett,0
+8781,9,244,NULL,Emmett;PJ,1
+8782,9,245,No.,PJ,0
+8783,9,246,No.,PJ,0
+8784,9,247,Okay.,Emmett,0
+8785,10,248,"Hey, mom.",Gabe,0
+8786,10,249,Hey.,Amy,0
+8787,10,250,Whoa.,Gabe,0
+8788,10,251,"What? Nothing, it's just You look kind of tired.",Gabe,1
+8789,10,252,What? That's ridiculous.,Amy,0
+8790,10,253,I feel great.,Amy,0
+8791,10,254,Took a three hour nap in the nurse's office today.,Amy,1
+8792,10,255,"Kids kept banging on the door, I was out.",Amy,1
+8793,10,256,I think you should take tomorrow off.,Gabe,0
+8794,10,257,"Why? Well, you've heard of bring your kid to work day? Well, tomorrow's keep your mom at home day.",Gabe,1
+8795,10,258,"Come on, Gabe.",Amy,0
+8796,10,259,You're better than that.,Amy,0
+8797,10,260,"Oh, just stay home.",Gabe,0
+8798,10,261,I'm desperate.,Gabe,1
+8799,10,262,"What is going on? Well, I'm going through the worst dilemma of my life.",Gabe,0
+8800,10,263,"It's you versus being cool, and I can't believe I'm picking you.",Gabe,1
+8801,10,264,"Okay, Gabe.",Amy,0
+8802,10,265,"What's going on? Well, you didn't hear this from me, but There's a good chance you're getting puked on tomorrow by Walker.",Gabe,1
+8803,10,266,I'm getting puked on and you struggled to tell me? This kid throws really cool parties.,Amy,1
+8804,10,267,NULL,Amy;Gabe,1
+8805,10,268,"Okay, so I don't go in tomorrow.",Amy,0
+8806,10,269,What about Thursday and Friday? When does it end? Saturday.,Amy,0
+8807,11,270,Easy.,Emmett,0
+8808,11,271,Easy.,Emmett,0
+8809,11,272,Okay.,Emmett,0
+8810,11,273,Perfect.,Emmett,0
+8811,11,274,( Knocks on door ) It's open.,PJ,0
+8812,11,275,Here to fix the toilet.,Others,0
+8813,11,276,Bathroom's right over there.,PJ,0
+8814,11,277,Was that there before? - Was what there before? The giant pile of clothes.,Others,0
+8815,11,278,Laundry day.,Emmett,0
+8816,11,279,Yeah.,PJ,0
+8817,11,280,"You drink as much juice as we do, you're gonna have a lot of laundry.",PJ,1
+8818,11,281,"Well, shouldn't you get started with your wash? Uh Yes.",Others,0
+8819,11,282,We should.,PJ,1
+8820,11,283,Emmett.,PJ,0
+8821,11,284,Come on.,PJ,0
+8822,11,285,Let's get started.,PJ,0
+8823,11,286,NULL,Emmett;PJ,1
+8824,12,287,( Doorbell rings ) Male voice: Turns out laryngitis is contagious.,Others,1
+8825,12,288,"Oh, no.",Teddy,0
+8826,12,289,Our presentation is in one hour.,Teddy,0
+8827,12,290,"What are we going to do? Oh, hey girls.",Others,0
+8828,12,291,What's up? I have an idea.,Bob,1
+8829,12,292,I have the same idea.,Others,1
+8830,12,293,You go first.,Others,1
+8831,12,294,Bob: Hi.,Bob,0
+8832,12,295,I'm Teddy.,Bob,1
+8833,12,296,"My partner, Vonnie and I have something very exciting to share with you today.",Bob,1
+8834,12,297,We take you to a sleepover Somewhere in the U.S.A.,Bob,0
+8835,12,298,Ding dong.,Bob,0
+8836,12,299,"Hey, girl! Thanks for the sleepover.",Bob,0
+8837,12,300,No prob.,Bob,0
+8838,12,301,That's what besties do.,Bob,1
+8839,12,302,I just wish there was some way we could wake up this slumber party.,Bob,0
+8840,12,303,"Well now, there is.",Bob,0
+8841,12,304,(Dance music playing) Yeah yeah yeah yeah! With Graffooties! The all new pajamas you can write on.,Bob,0
+8842,12,305,Wow! That combines the two things girls love best.,Bob,0
+8843,12,306,Drawing and sleepwear.,Bob,1
+8844,12,307,Now together in one super fun package.,Bob,0
+8845,12,308,Omg.,Bob,0
+8846,12,309,Bff.,Bob,0
+8847,12,310,Graffooties will make you lol.,Bob,0
+8848,12,311,Ha ha ha.,Bob,1
+8849,12,312,Hee hee hee.,Bob,1
+8850,12,313,NULL,Bob,1
+8851,12,314,Graffooties.,Bob,0
+8852,12,315,They make bedtime a blast.,Bob,0
+8853,12,316,"Yeah yeah yeah yeah! ( Music stops ) ( Cheering, applause ) Ah, there's Blankenhooper.",Bob,0
+8854,13,317,"Now, Gabe.",Others,0
+8855,13,318,Remember what to do? Yeah.,Others,0
+8856,13,319,I distract her while you take a big swig of mushroom soup.,Gabe,0
+8857,13,320,And then boom.,Others,0
+8858,13,321,I get her right in the face.,Others,1
+8859,13,322,"Oh, nurse? I don't feel so good.",Others,0
+8860,13,323,"Oh, no.",Others,0
+8861,13,324,"What's wrong? - Oh, I feel nauseous.",Others,0
+8862,13,325,Oh.,Amy,0
+8863,13,326,Nurse! Look over there.,Gabe,0
+8864,13,327,Something medical looks like it's happening.,Gabe,1
+8865,13,328,"Hey, don't distract me, kid.",Amy,0
+8866,13,329,"Can't you see that this boy here is very ill? Fortunately, I've come prepared.",Amy,0
+8867,13,330,( Whimpers ) - What's that? - Your anti-nausea sh*t.,Amy,1
+8868,13,331,Uh I don't need it.,Others,0
+8869,13,332,"Actually, I'm feeling a whole lot better now.",Others,0
+8870,13,333,"Oh, no.",Amy,0
+8871,13,334,That means the puke is eating your brain.,Amy,0
+8872,13,335,I'm gonna have to give you this sh*t right in your head.,Amy,0
+8873,13,336,In my head? - In your head.,Amy,0
+8874,13,337,"First, of course, I'm gonna have to shave your hair.",Amy,1
+8875,13,338,NULL,Others;Amy,1
+8876,14,339,Okay.,Bob,0
+8877,14,340,"All right, Charlie.",Bob,0
+8878,14,341,"Uh Well, Teddy still can't talk so Uh, dad's gonna fill in for the video diary.",Bob,0
+8879,14,342,"So, uh Good luck, Charlie.",Bob,0
+8880,14,343,What? I thought that was pretty good.,Bob,0
+8881,14,344,We all right.,Bob,0
+8882,14,345,We okay.,Bob,0
+8883,14,346,"Uh, Charlie, I guess I'm supposed to say more.",Bob,0
+8884,14,347,"So uh All right, well uh Okay, so this week, uh, Teddy learned a very valuable lesson About um uh Being yourself? Telling the truth? Going for it? Teamwork? Teamwork! Teamwork.",Bob,1
+8885,14,348,"Because oh oh oh oh! Because if you don't work as a team, then the team don't work.",Bob,1
+8886,14,349,Huh? How about that.,Bob,0
+8887,14,350,"That come on, that's pretty good.",Bob,0
+8888,14,351,I got a bunch of that.,Bob,0
+8889,14,352,NULL,Teddy;Bob,1
+8890,15,353,"( In Bob's voice ) What am I gonna do? Ever since the presentation, my voice has been like this.",Bob,1
+8891,15,354,( In Teddy's voice ) You think you got problems? I got kicked off my bowling team because of this.,Teddy,1
+8892,15,355,"( In Gabe's voice ) Hey, guys.",Gabe,1
+8893,15,356,Something really strange is going on around here.,Gabe,1
+8894,15,357,( In Amy's voice ) Tell me about it.,Amy,1
+8895,15,358,NULL,Amy;Gabe,1

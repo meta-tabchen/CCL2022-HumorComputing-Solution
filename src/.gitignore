@@ -1,0 +1,15 @@
+# model/
+.DS_Store
+.ipynb_checkpoints
+*.pyc
+*.log
+wandb
+nohup.out
+gpt2_fintuning
+model/open_source
+model/task1/
+model/task1_old
+model/tmp
+cache/
+model/task2/gpt-neo-1.3B/
+model/task2/tmp/

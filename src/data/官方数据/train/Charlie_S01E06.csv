@@ -1,0 +1,266 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+1621,1,0,"So then Spencer said, 'are you coming to my party tonight?' And inside I was like, 'waah!' But on the outside I was like, 'sure, whatevs.",Teddy,1
+1622,1,1," So then I said, 'what should I bring?' And he said, 'just your cute self.",Teddy,0
+1623,1,2," And that time I did say, 'waah!' - Hi, honey.",Teddy,1
+1624,1,3,"Oh, hey, mom.",Teddy,0
+1625,1,4,Homework call.,Teddy,1
+1626,1,5,Sorry.,Amy,0
+1627,1,6,"Where's Charlie? Kitchen, with Gabe.",Amy,0
+1628,2,0,Charlie did it.,Gabe,1
+1629,2,1,"What in the world? Well, Charlie asked for a milkshake.",Amy,1
+1630,2,2,"Like a good big brother, I decided to make one.",Gabe,0
+1631,2,3,Then she forgot to put the top on the blender.,Gabe,1
+1632,2,4,So you put your baby sister In charge of an electrical appliance? And she let me down.,Gabe,1
+1633,2,5,"Teddy, get in here.",Amy,0
+1634,2,6,"Mom, I'm on the Gotta call you back.",Teddy,0
+1635,2,7,Care to explain what's going on here? A chocolate b*mb went off? I asked if we could make milkshakes And Teddy did this.,Gabe,1
+1636,2,8,And then she started talking about her party again.,Gabe,1
+1637,2,9,That's what we call homework sometimes A party 'cause it's so fun.,Teddy,1
+1638,2,10,"Okay, you know what? That's it.",Amy,0
+1639,2,11,"No TV, no computer, no video games For the rest of the day.",Amy,0
+1640,2,12,I think that's fair.,Teddy,0
+1641,2,13,And you're watching him.,Amy,0
+1642,2,14,That's so unfair! And Charlie.,Teddy,1
+1643,2,15,"Mom, I have to get ready for my party.",Teddy,0
+1644,2,16,That's just too bad.,Amy,0
+1645,2,17,And what did I tell you about lying? It only works on dad.,Teddy,1
+1646,2,18,"Now both of you, clean this mess up.",Amy,0
+1647,2,19,My poor little baby.,Amy,0
+1648,2,20,I gotta give you a bath.,Amy,0
+1649,2,21,Or I could just lick you clean.,Amy,1
+1650,3,0,"Good morning, dad.",PJ,0
+1651,3,1,"You gonna get to that lawn today? You know, when someone says 'good morning,' The traditional response is 'good morning' back.",PJ,1
+1652,3,2,Sorry.,Bob,0
+1653,3,3,"You gonna get to that lawn today? So where you off to? I'm meeting with some jingle writers, Getting ready to sh**t a new commercial for Bob's bugs be gone.",Bob,1
+1654,3,4,"A jingle? That's like a song, right? That's right, a catchy little tune that sticks in your head And drives you just a little bit crazy.",Bob,1
+1655,3,5,"You know Emmett and I have a band, right? You know we have a lawn mower, right? Don't you think you should give us a sh*t at writing your jingle? P.",PJ,1
+1656,3,6,J.,Bob,0
+1657,3,7,", come on, music's a great hobby for you, but I need a professional.",Bob,0
+1658,3,8,"Come on, just give us a chance.",PJ,0
+1659,3,9,"All right, okay.",Bob,0
+1660,3,10,"If you guys wanna take a sh*t at it, knock yourselves out.",Bob,0
+1661,3,11,You will not be sorry.,PJ,0
+1662,3,12,"And then one day when I accept my grammy For best exterminator jingle, I'm gonna say, 'this one's for you, dad.",PJ,1
+1663,3,13,And my girlfriend Taylor Swift.,PJ,1
+1664,3,14,"What up, Tay-Tay?' What's wrong with you? No TV, no computer, no video games.",PJ,0
+1665,4,0,I'm freaking out.,Gabe,0
+1666,4,1,"Why don't you read a book? Sure, right after I clean my room.",Teddy,0
+1667,4,2,Do you even know me? You're a strange little dude.,Gabe,1
+1668,4,3,Where are you going? To the store.,Gabe,0
+1669,4,4,We're out of diapers.,Teddy,0
+1670,4,5,Please take me with you.,Gabe,0
+1671,4,6,"You wanna go shopping for diapers? No, but I will not stay here And have these machines mock me.",Gabe,1
+1672,4,7,"Again, a strange little dude.",Teddy,1
+1673,5,0,"Okay, read back what we have so far.",PJ,0
+1674,5,1,Okay.,Emmett,0
+1675,5,2,"jingle number one, Written by P.",Emmett,0
+1676,5,3,J.,Emmett,0
+1677,5,4,and Emmett.,Emmett,0
+1678,5,5,' That's it.,Emmett,1
+1679,5,6,Think.,PJ,0
+1680,5,7,Gotta think.,PJ,0
+1681,5,8,"Oh, hey, my dad's name is Bob.",PJ,0
+1682,5,9,Maybe we should think of things that rhyme with 'Bob.,PJ,0
+1683,5,10," How about blob, glob and slob? I'm doing a load of his whites.",Amy,1
+1684,5,11,"Man, writing a jingle is harder than I thought.",PJ,0
+1685,5,12,"Mom, we need some inspiration.",PJ,0
+1686,5,13,"Well, lucky for you, I wrote quite a bit of poetry in high school.",Amy,0
+1687,5,14,Published five times in the school's literary magazine Whatever.,Amy,1
+1688,5,15,"Actually, I was thinking You could inspire us with some sandwiches.",PJ,1
+1689,5,16,My first piece or back it up Should I say my first published piece Is called simply 'locker.,Amy,1
+1690,5,17,' That's great.,Emmett,0
+1691,5,18,"I'll take a ham and cheese 'hey there, locker, Filled with my books and papers And secrets.",Amy,1
+1692,5,19,I can't remember your combination.,Amy,1
+1693,5,20,But then what? Am I locked out Or are you locked in?' So good.,Amy,1
+1694,5,21,So good.,Amy,1
+1695,5,22,It's still so good.,Amy,1
+1696,5,23,"You wanna do this at my house? Well well well, Gabriel B.",Emmett,1
+1697,6,0,Duncan.,Others,0
+1698,6,1,"Afternoon, Hugo.",Gabe,0
+1699,6,2,"The manager knows you? We have a history, yes.",Gabe,1
+1700,6,3,"A word of advice, Duncan You knock over a display or joy-ride a shopping cart, And I will personally open a can of Reddi Mart's finest butt-kick.",Others,1
+1701,6,4,"Hey, have you lost weight? Just kidding.",Gabe,1
+1702,6,5,"I'm watching you, punk.",Others,1
+1703,6,6,Soda and mints? What are these for? I'm gonna make a soda geyser.,Teddy,0
+1704,6,7,You drop a mint into the bottle And it makes this huge expl*si*n.,Gabe,1
+1705,6,8,"Wow, that sounds so cool.",Teddy,0
+1706,6,9,Put them back.,Teddy,1
+1707,6,10,How come you get to buy lip gloss and I can't buy this stuff? It's completely different.,Gabe,0
+1708,6,11,Soda and mints won't make you look totally cute at a party.,Teddy,1
+1709,6,12,Thank you very much.,Teddy,0
+1710,6,13,"What's going on? Why, it's Gabe.",Teddy,0
+1711,6,14,I must be getting psychic.,Others,1
+1712,6,15,I didn't do anything.,Gabe,0
+1713,6,16,"Mm-hmm, come on.",Others,0
+1714,6,17,Receipt.,Others,0
+1715,6,18,There you go.,Teddy,0
+1716,6,19,"Huh, I'm seeing diapers, But I'm not seeing sunglasses.",Others,0
+1717,6,20,Explain.,Others,1
+1718,6,21,Explanation we didn't get sunglasses.,Teddy,0
+1719,6,22,"Well, someone did.",Others,0
+1720,6,23,Charlie did it.,Gabe,0
+1721,6,24,This time she really did do it.,Teddy,0
+1722,6,25,She must have grabbed these when we weren't looking.,Teddy,0
+1723,6,26,That's so funny.,Teddy,0
+1724,6,27,You see me laughing? There's nothing funny about shoplifting.,Others,1
+1725,6,28,"In case you didn't notice, Hugo, we're still in the store.",Gabe,0
+1726,6,29,Unpaid items are considered stolen once they leave checkout.,Others,0
+1727,6,30,"In case you didn't notice, we don't have cash registers in the parking lot.",Others,1
+1728,6,31,Tell Alice to call the police.,Others,0
+1729,6,32,The police? You're arresting a baby? Or a very small person.,Teddy,0
+1730,6,33,We don't have all the facts yet.,Others,1
+1731,7,0,Turn her to the left.,Others,1
+1732,7,1,Don't you think it's a little ridiculous To take mug shots of a baby? That's procedure for shoplifters.,Teddy,0
+1733,7,2,Turn her to the right.,Others,0
+1734,7,3,"Okay, Charlie, smile for huge-oh.",Gabe,1
+1735,7,4,Sticks and stones may break my bones Are these the shoplifters? That's right.,Others,1
+1736,7,5,The perp is in the stroller.,Others,0
+1737,7,6,She's not a perp.,Teddy,0
+1738,7,7,She's a baby.,Teddy,0
+1739,7,8,Still undetermined.,Others,1
+1740,7,9,"I called the police, but they said this was low priority And they wouldn't be here for three or four hours.",Others,0
+1741,7,10,"Three or four hours? Alice, why can't you do anything right? It's not my fault.",Others,0
+1742,7,11,Please don't yell at me.,Others,0
+1743,7,12,"How many times have we been over this? Whenever you tell me not to yell at you, It makes me want to yell at you! Hi, as entertaining and twisted as this all is, Can we please move it along? I have a party to go to.",Others,0
+1744,7,13,You're going to a party? - Yes.,Others,0
+1745,7,14,That must be nice.,Others,0
+1746,7,15,"Nitwit, do not fraternize with the suspects.",Others,1
+1747,7,16,"Might as well make yourselves comfortable, Looks like you're gonna be here a while.",Others,0
+1748,7,17,I'll stay here as long as you want.,Gabe,0
+1749,7,18,There's t.,Gabe,0
+1750,7,19,V.,Gabe,0
+1751,7,20,Here.,Gabe,0
+1752,7,21,That's a security monitor.,Teddy,0
+1753,7,22,It's a screen and it's giving me pleasure.,Gabe,1
+1754,7,23,Woman over P.,Others,0
+1755,7,24,A.,Others,0
+1756,7,25,": Alice, register 2 needs nickels.",Others,0
+1757,7,26,"Hugo, I'm gonna bring nickels to register 2.",Others,0
+1758,7,27,I heard.,Others,1
+1759,7,28,"Gabe, we gotta get out of here.",Teddy,0
+1760,7,29,Are you giving me permission to be bad? - Yes.,Gabe,0
+1761,7,30,How bad? Do whatever it takes.,Teddy,0
+1762,7,31,I've been waiting to hear those words my whole life.,Gabe,0
+1763,7,32,No whispering.,Others,0
+1764,7,33,"Hugo, I have to go to the bathroom.",Gabe,0
+1765,7,34,Is this some kind of trick? It is a magic trick.,Gabe,0
+1766,7,35,I drink stuff up here and it comes out down here.,Gabe,1
+1767,7,36,"All right, let's go.",Others,0
+1768,7,37,"And you, don't do anything stupid.",Others,1
+1769,7,38,"Like that? 'like that?' All right, let's hear what you got.",Teddy,1
+1770,8,0,This first song is one of my personal favorites.,PJ,0
+1771,8,1,It's called 'jingle number one.,PJ,1
+1772,8,2," One, two, three, four.",PJ,0
+1773,8,3,"* Bob's bugs be gone, bugs be gone * * he k*ll them dead dead dead * * dead dead dead dead dead dead! * What do you think? I think you just loosened one of my fillings.",PJ,1
+1774,9,0,Where's Hugo? Bathroom.,Others,0
+1775,1,0,"Oh, no.",Others,0
+1776,9,0,That means I'm in charge for 30 minutes.,Others,1
+1777,9,1,"Where have I heard that before? Heard what? The In french class? Oh, yeah, yeah! You're Alice Wheezheimer.",Teddy,0
+1778,9,2,It's Wartheimer.,Others,1
+1779,9,3,"It is? Are you sure? Is that what people call me behind my back Wheezheimer? No, not at all.",Others,0
+1780,9,4,Nobody calls you Wheezheimer Or Wheezy.,Teddy,1
+1781,9,5,Hugo calls me Alice in Wheezerland.,Others,1
+1782,9,6,Why do you let him treat you so badly? He's my boss.,Teddy,0
+1783,9,7,I have to.,Others,0
+1784,9,8,"No, Alice, you don't.",Teddy,0
+1785,9,9,You have to stand up for yourself.,Teddy,0
+1786,9,10,"If he yells at you, you yell back.",Teddy,0
+1787,9,11,"Oh, I don't know.",Others,0
+1788,9,12,"Believe it or not, I'm not much of a yeller.",Others,1
+1789,9,13,This guy is treating you like a doormat.,Teddy,0
+1790,9,14,And that's bad? - Yes.,Others,1
+1791,9,15,"You have to stand up and say, 'you can't mess with me.",Teddy,0
+1792,9,16,"I'm Alice Wheezheimer!' Wartheimer! That's the fire I'm looking for, wheezy I mean warty.",Teddy,1
+1793,9,17,"Hugo, get your butt in here, Please.",Others,1
+1794,10,0,"* da bug, mon * * yeah, da bug, mon * * don't delay, call Bob today * * dial three * * zero * * three * Guys.",PJ,1
+1795,10,1,* fi-yi-yi-yive * Guys guys guys.,Bob,0
+1796,10,2,You haven't heard the second verse.,PJ,0
+1797,10,3,That's your fax number.,PJ,0
+1798,10,4,It's a 30-second commercial.,Bob,0
+1799,10,5,You can't place artificial limits on our art.,PJ,0
+1800,10,6,"Yah, mon, da song needs to breathe a little.",Emmett,1
+1801,10,7,"Look, guys, I gave you a sh*t, But I can't use any of these songs.",Bob,0
+1802,10,8,Why not? - Because they're not What's the word? Good.,Bob,1
+1803,10,9,P.,Bob,0
+1804,10,10,J.,Bob,0
+1805,10,11,", come on! It's just business.",Bob,0
+1806,10,12,It's not personal.,Bob,0
+1807,10,13,"So I guess the polka number's out? Did you just tell me to get my butt in here? Yes, she did.",Emmett,1
+1808,11,0,"She's got something to say to you Which is She's not your doormat, okay? She deserves to be treated with respect.",Teddy,0
+1809,11,1,How dare you talk to me that way? She's gonna talk to you any way I want to talk to you for her about.,Others,1
+1810,11,2,Woman over P.,Others,0
+1811,11,3,A.,Others,0
+1812,11,4,": Price check on aisle 1, Volcanic geyser on aisle 2.",Others,0
+1813,11,5,This ends now.,Others,1
+1814,11,6,"Let's go, Charlie.",Teddy,0
+1815,11,7,We're busting out of here.,Teddy,0
+1816,11,8,"You little! Come out, come out, wherever you are.",Others,0
+1817,11,9,Jalapeno-style.,Others,1
+1818,11,10,"Hugo, catch me if you can.",Gabe,1
+1819,11,11,Gabriel! Clean up on aisle Everywhere.,Others,1
+1820,12,0,Hey.,Bob,0
+1821,12,1,"You okay? - Dad, can I ask you something? - Sure.",PJ,0
+1822,12,2,"Do you think I should give up my dream of being a musician? Well, I think the only person That can answer that question is you.",PJ,0
+1823,12,3,Then the answer is no.,PJ,0
+1824,12,4,I'm not giving up.,PJ,0
+1825,12,5,Good.,Bob,0
+1826,12,6,That's good.,Bob,0
+1827,12,7,You don't want to have any regrets.,Bob,0
+1828,12,8,I should know.,Bob,0
+1829,12,9,What do you mean? I had a dream too.,PJ,0
+1830,12,10,"I was gonna be a professional wrestler, man.",Bob,1
+1831,12,11,I was gonna call myself 'Bobzilla.,Bob,1
+1832,12,12," Bobzilla? Maybe five more minutes on the name, dad.",PJ,1
+1833,12,13,"Well, it all worked out fine.",Bob,0
+1834,12,14,I've got a nice life and a wonderful family.,Bob,0
+1835,12,15,"Besides, you wouldn't want to see your dad on t.",Bob,0
+1836,12,16,V.,Bob,0
+1837,12,17,", - b*at up other guys, would you? - That would be awesome.",PJ,0
+1838,12,18,I know.,Bob,0
+1839,12,19,"So awesome, right? Well, I'm not giving up.",Bob,1
+1840,12,20,"In fact, I used the pain of rejection to write another song.",PJ,0
+1841,12,21,Good for you.,Bob,0
+1842,12,22,Can I hear it? * the bug man crushed my dreams * * everything I wanted to be * * Bob's bugs be gone * * was the death of me.,PJ,1
+1843,12,23,"* You know what? I think you speed that up, Have a bug sing it and we've got our new jingle.",Bob,0
+1844,12,24,Are you serious? - I'm dead serious.,PJ,0
+1845,12,25,Yes! I did it! Now all I have to do is find a singing bug.,PJ,1
+1846,13,0,Alice.,Teddy,0
+1847,13,1,"Hey, what's going on? I wanted to tell you something.",Teddy,0
+1848,13,2,"What was it? Oh, I got fired.",Others,1
+1849,13,3,That's terrible.,Teddy,0
+1850,13,4,I'm so sorry.,Teddy,0
+1851,13,5,"No, it's wonderful.",Others,1
+1852,13,6,Then congratulations.,Teddy,1
+1853,13,7,"After I turned in my smock, guess what? - I stopped wheezing.",Others,0
+1854,13,8,That's great.,Teddy,0
+1855,13,9,"Well, it's only been an hour And the pollen count is low.",Others,1
+1856,13,10,"Well, let's keep our fingers crossed.",Teddy,0
+1857,13,11,"Anyway, I just wanted to thank you For helping me stand up to Hugo.",Others,0
+1858,13,12,See you in french class.,Others,0
+1859,13,13,"Hey, Alice, Would you like to come to a party? Really? I've never been invited to a party.",Teddy,0
+1860,13,14,Never? - Nope.,Teddy,0
+1861,13,15,I threw one once for arbor day.,Others,0
+1862,13,16,Nobody came.,Others,1
+1863,13,17,Just me and a tree.,Others,1
+1864,13,18,"Well, no trees at this party, just lots of cute boys.",Teddy,0
+1865,13,19,"Oh, cute boys are better than trees.",Others,1
+1866,13,20,"But you do realize You're going to have to talk to them, right? Sure, no problem.",Teddy,0
+1867,13,21,Or I'll talk to them for you.,Teddy,0
+1868,14,0,"Well, Charlie, what a day.",Teddy,0
+1869,14,1,You almost got us arrested.,Teddy,0
+1870,14,2,I had an awesome time at Spencer's party.,Teddy,0
+1871,14,3,And we totally trashed a store.,Teddy,1
+1872,14,4,"But amazingly, mom and dad never found out, So I think we got away with it.",Teddy,1
+1873,14,5,"Teddy, honey, can I ask you a question? Sure, mom.",Amy,0
+1874,14,6,"Why is Charlie's mug sh*t all over the Reddi Mart? If I go down, I'm taking you with me.",Teddy,1
+1875,14,7,"Good luck, Charlie.",Amy,0
+1876,15,0,And now for the main event.,Amy,0
+1877,15,1,"In this corner, he's nasty, he's dirty, He lives under the refrigerator, Ladies and germs, the roach! And in this corner, He's the best at controlling the pest, The man with the plan to put the bug in the can, The champion, Bobzilla! * the bug man crushed my dreams * * everything I wanted to be * * Bob's bugs be gone was the death of me.",Amy,1
+1878,1,0,* I'm Bob From Bob's bugs be gone.,Bob,0
+1879,1,1,You call me For all your pest control needs.,Bob,0
+1880,1,2,I will k*ll Your bug's dreams! Bob's bugs be gone is not affiliated with Robert's bugs be gone or bo's bugs be gone or Bob's bugs be good.,Bob,1
+1881,1,3,"Bob is not responsible for property damage Due to the hive removal, pest sterilization or larval dispersion.",Bob,0
+1882,1,4,"Bob's bugs be gone will not handle snakes longer than 5 1/2 feet in length, Arachnids with two thoraxes, bats of any kind Or the dreaded vinegaroon.",Bob,0
+1883,1,5,Bob offers free termite inspections And 30 dollars off with a purchase of an annual contract.,Bob,0
+1884,1,6,Bob is an equal opportunity employer.,Bob,0
+1885,1,7,Se habla Espanol.,Bob,0

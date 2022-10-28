@@ -1,0 +1,314 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+10573,1,0,"Ok people, P.J.'s birthday is this Saturday.",Teddy,0
+10574,1,1,And everyone needs to buy him a present.,Teddy,0
+10575,1,2,"And by everyone, I mean Gabe.",Teddy,0
+10576,1,3,"And by 'buy him a present', she means actually purchase one.",Teddy,0
+10577,1,4,Not borrow or steal it.,Teddy,1
+10578,1,5,Why are you guys peeking on me.,Gabe,1
+10579,1,6,I always get P.J.a present.,Gabe,0
+10580,1,7,"Last year, you wrapped up one of his shirts and gave it to him.",Teddy,1
+10581,1,8,And he loved it.,Gabe,0
+10582,1,9,I can't believe my baby boy is turning 18.,Amy,0
+10583,1,10,"Hey guys, what're you talking about? Nothing! What are you whistling about? My birthday.",PJ,0
+10584,1,11,That's for sure.,PJ,0
+10585,1,12,"Hey P.J., how would you like a pair of pants exactly like those? Oh man! Teddy.",Gabe,0
+10586,1,13,Are you ok? I'm just bummed out that I have to kiss Spencer.,Teddy,0
+10587,1,14,"Your ex-boyfriend Spencer? The one who cheated on you? No, dad, the other Spencer in my life.",Bob,0
+10588,1,15,"Well, why would you want to kiss that guy? Because I need a car.",Bob,0
+10589,1,16,Tell him more.,Amy,0
+10590,1,17,He's lost.,Amy,0
+10591,1,18,"Ok, I've got a new job at Super Adventure Land.",Teddy,0
+10592,1,19,"I have to play the princess, princess has to kiss to frog and the frog is Spencer.",Teddy,1
+10593,1,20,"Teddy honey, I feel for you.",Amy,0
+10594,1,21,I know how uncomfortable it is to kiss your ex.,Amy,0
+10595,1,22,"I remember this one time in college Fixed by WaitinZ Today's all burnt toast Running late, and dad jokes Has anybody seen my left shoe I close my eyes, take a bite Grab a ride, laugh out loud There it is up on the roof I've been there, I've survived So just take my advice Hang in there, baby Things are crazy But I know your future's bright Everything turns out all right Your life is up and down But trust me it comes back around You're gonna love who you turn out to be Hang in there, baby.",Amy,1
+10596,1,23,"Fixed by WaitinZ Charlie, did you do something with daddy's can? No daddy.",Bob,0
+10597,1,24,Well did you see where it went? It's a secret.,Bob,0
+10598,1,25,"Well, do you want to tell daddy the secret? Gabe.",Bob,0
+10599,1,26,That's why you are my favorite.,Bob,0
+10600,1,27,Gabe.,Bob,0
+10601,1,28,Did you just steal my can.,Bob,0
+10602,1,29,Can? I don't know anything about the can.,Gabe,0
+10603,1,30,Step away from the cabin.,Bob,0
+10604,1,31,"No, no, dad.",Gabe,0
+10605,1,32,Come on.,Bob,0
+10606,1,33,"Dad, I really don't think you want to do that.",Gabe,0
+10607,1,34,What's going on? I'm recycling.,Bob,0
+10608,1,35,No kid.,Bob,0
+10609,1,36,Yeah.,Gabe,0
+10610,1,37,I'm I'm concerned about the environment.,Gabe,0
+10611,1,38,I'm gonna be on this planet for a really long time.,Gabe,0
+10612,1,39,"Now you, you've got nothing to worry about.",Gabe,1
+10613,1,40,"So, all this sudden interest in recycling has nothing to do with the fact that maybe You think you can make a little money off it.",Bob,0
+10614,1,41,"Ahh, is that right? I did not know that.",Gabe,0
+10615,1,42,"Well, here's something else you don't seem to know, In the state of Colorado, they don't give you money for aluminum cans.",Bob,0
+10616,1,43,"Oh, yeah, I knew that.",Gabe,0
+10617,1,44,"Oh, dad, by the way, can you give me a ride? Sure, where to? Kansas.",Gabe,0
+10618,1,45,"Hey mom, guess what? I join Spanish club.",PJ,0
+10619,1,46,Is it about taking a school trip or meeting girls.,Amy,0
+10620,1,47,It's about taking a trip with girls or as we say in Spanish: con-girls.,PJ,0
+10621,1,48,Anyway I may need a passport to go to Mexico so I need my birth certificate.,PJ,0
+10622,1,49,You need your birth certificate.,Amy,0
+10623,1,50,Yes.,PJ,0
+10624,1,51,"You got it, right? Yeah It's It's in my files.",PJ,0
+10625,1,52,I will take it out for you.,PJ,0
+10626,1,53,Thanks.,PJ,0
+10627,1,54,"Yeah, no problem.",Amy,0
+10628,1,55,"Bob, it finally happened.",Amy,0
+10629,1,56,P.J.,Amy,0
+10630,1,57,wants to see his birth certificate.,Amy,0
+10631,1,58,We knew this day would come.,Amy,0
+10632,1,59,"Oh, stop whimpering and man up! Hey! Hey.",Amy,0
+10633,1,60,"So, today is the day of the big kiss.",Teddy,0
+10634,1,61,"Huh? Yeah, it's so.",Spencer,0
+10635,1,62,You look great in that outfit.,Spencer,0
+10636,1,63,"Oh, I know.",Teddy,0
+10637,1,64,I mean thanks.,Teddy,0
+10638,1,65,"Look! Spencer, there is no reason why it has to be awkward.",Teddy,0
+10639,1,66,Well It's not you and I kissing.,Teddy,0
+10640,1,67,It's just our characters.,Teddy,0
+10641,1,68,I mean we're professionals.,Teddy,0
+10642,1,69,"Right? Eh, you are right.",Spencer,0
+10643,1,70,I'm as professional as a guy in Frog suit making minimum wage it can be.,Spencer,0
+10644,1,71,"Well, that's our cue.",Teddy,0
+10645,1,72,See you out there.,Spencer,0
+10646,1,73,And when their joyous dance came to an end.,Others,0
+10647,1,74,The prince and the princess seal their love with a kiss.,Others,0
+10648,1,75,"Wait, Teddy.",Others,0
+10649,1,76,And the prince and the princess walk off together and live happily ever after.,Others,0
+10650,1,77,"Bob, you had 18 years to change P.J.'s birth certificate.",Amy,0
+10651,1,78,"Why didn't you? For once, can we not play the blaming game.",Amy,0
+10652,1,79,It's the only game we know.,Amy,0
+10653,1,80,"Ok, look.",Bob,0
+10654,1,81,There is a there is a very simple solution.,Bob,0
+10655,1,82,We'll just tell P.J.,Bob,0
+10656,1,83,we can't afford to send him to Mexico.,Bob,0
+10657,1,84,You want me to lie to him? I'm in.,Amy,0
+10658,1,85,Hola padre.,PJ,0
+10659,1,86,Hola madre.,Others,0
+10660,1,87,Hola Sr.,Others,0
+10661,1,88,And Sra.,Others,0
+10662,1,89,Duncan.,Others,0
+10663,1,90,Hola Emmett.,Others,0
+10664,1,91,C��mo est��s? What's she saying? I have no idea.,Amy,0
+10665,1,92,"P.J., hey.",Bob,0
+10666,1,93,"Eh, listen.",Bob,0
+10667,1,94,"Look, we've got some bad news about the trip which is heartbreaking considering how well you're doing with the Spanish.",Bob,0
+10668,1,95,Honey.,Amy,0
+10669,1,96,We can't afford to pay for your trip to Mexico.,Amy,0
+10670,1,97,I'm so sorry.,Amy,0
+10671,1,98,"Actually, the Spanish club is having fund raised all year.",Others,0
+10672,1,99,The trip is paid for.,Others,0
+10673,1,100,Yeah.,Others,0
+10674,1,101,No cash ** for a free trip to our neighbour to the north.,PJ,0
+10675,1,102,It's south.,Amy,0
+10676,1,103,"Umm, not on the way back.",PJ,0
+10677,1,104,Spencer.,Teddy,0
+10678,1,105,"Hey, eh.",Spencer,0
+10679,1,106,"Can we talk? I eh, just want to make sure you are ok.",Spencer,0
+10680,1,107,Well I'm not ok.,Teddy,0
+10681,1,108,"Teddy, I felt terrible about this, alright.",Spencer,0
+10682,1,109,You are in the job first and kissing me makes you feel that bad then I'm just going to quit.,Spencer,0
+10683,1,110,"No, Spencer.",Teddy,0
+10684,1,111,It's not that the kiss was bad.,Teddy,0
+10685,1,112,It's the kiss was Good.,Teddy,0
+10686,1,113,Ohh.,Spencer,0
+10687,1,114,You know.,Teddy,0
+10688,1,115,I didn't I didn't want it to be good.,Teddy,0
+10689,1,116,"In fact, I was all prepared to be disgusted.",Teddy,0
+10690,1,117,Thanks.,Spencer,0
+10691,1,118,Now I don't know what to do.,Teddy,0
+10692,1,119,Teddy Hurting you was the stupidest thing I've did.,Spencer,0
+10693,1,120,Could you please give me another chance? Did you notice that every time we kiss balloons appear? It was good to see them too.,Spencer,0
+10694,1,121,"Come on Charllie, say it.",Gabe,0
+10695,1,122,"I love you! Isn't that adorable, grandma? Yes, she made me call just so she could tell you that.",Gabe,0
+10696,1,123,"Hey listen, grandma.",Gabe,0
+10697,1,124,While I got you on the horn a thought occured to me.,Gabe,0
+10698,1,125,Every year you send me a Christmas check for 50$.,Gabe,0
+10699,1,126,And you know what? I'm thinking about it.,Gabe,0
+10700,1,127,"Won't it be easier for you to send me the next 10 checks for all at once? You know, like a prepay plan.",Gabe,0
+10701,1,128,Gabe! - Got to go.,Gabe,0
+10702,1,129,"Ok, out with it.",Bob,0
+10703,1,130,"What do you try to get this money for? Uhm, alright.",Bob,0
+10704,1,131,The truth is I want the ZCube 6.,Gabe,0
+10705,1,132,A new game system? I just got you the ZCube 5 last year.,Bob,0
+10706,1,133,"Yeah, last year! It doesn't even have 3D graphics.",Gabe,0
+10707,1,134,I might have used it as a food store.,Gabe,0
+10708,1,135,"Ok, you are gonna have to find another way to make money without shaking down your relatives.",Bob,0
+10709,1,136,Hello.,Gabe,0
+10710,1,137,"Oh, hey Aunt Diane.",Gabe,0
+10711,1,138,"Yeah, thanks for calling back.",Gabe,0
+10712,1,139,"Oh, what did I want? Eh, eh just just say I..",Gabe,0
+10713,1,140,I love ya.,Gabe,0
+10714,1,141,See what you're making me do.,Gabe,0
+10715,1,142,"Eh, P.J..",Bob,0
+10716,1,143,There is something I need to tell you.,Bob,0
+10717,1,144,"Now before I say anything, I just want you to know your mother and I would love you very much.",Bob,0
+10718,1,145,That doesn't sound good.,PJ,0
+10719,1,146,"What's going on? P.J., we've been keeping a secret from you.",Bob,0
+10720,1,147,What is it? - It's about your name.,PJ,0
+10721,1,148,"As you know, you were named after your great grandfather Patrick John.",Bob,0
+10722,1,149,"Yeah, they gave and usually called me Patty John.",Bob,0
+10723,1,150,"Yeah, yeah, ok, here is what you don't know.",Bob,0
+10724,1,151,"Uhm, when you were born, I filled out the papers and I was really nervous and I-I-I think my hand was shaking a little and here.",Bob,0
+10725,1,152,That is your legal birth certificate.,Bob,0
+10726,1,153,That's what P.J.stands for.,PJ,0
+10727,1,154,I'm afraid so.,Bob,0
+10728,1,155,My name is Potty John.,PJ,0
+10729,1,156,"Legally, yes! Potty John.",PJ,0
+10730,1,157,I'm named after two toilets.,PJ,1
+10731,1,158,"Legally, yeah! And you never bother to fix this.",Bob,0
+10732,1,159,But we always meant to.,Bob,0
+10733,1,160,"I just, we just never got around to it.",Bob,0
+10734,1,161,Kinda like the upstairs potty huh? Too soon? So your dad and I were talking and We felt really bad that you have to go to work every day and kiss that horrible Spencer.,Bob,0
+10735,1,162,Yeah.,Teddy,0
+10736,1,163,'Horrible' is kinda a strong word.,Teddy,0
+10737,1,164,"Anyway, since the only reason you're doing this is to get money for a car.",Amy,0
+10738,1,165,Well Come with me.,Amy,0
+10739,1,166,Tada! - Ooh.,Amy,0
+10740,1,167,What's this? - It's your new car.,Amy,0
+10741,1,168,Shut up! One of the other nurses was selling it and I got a great price.,Amy,0
+10742,1,169,Now it's all yours.,Amy,0
+10743,1,170,Aww! I don't know what to say.,Teddy,0
+10744,1,171,Thank you thank you Get in.,Teddy,0
+10745,1,172,And the best part is now you can quit your job so that you never have to go near that jerk Spencer ever again.,Amy,0
+10746,1,173,Yay.,Teddy,0
+10747,1,174,You should give it a name.,Amy,0
+10748,1,175,Oh I know.,Amy,0
+10749,1,176,How about the: 'Now I don't have to kiss Spencer anymore mobile'? Or Ed.,Amy,0
+10750,1,177,I kinda like Ed.,Teddy,0
+10751,1,178,Come on in guys.,Gabe,0
+10752,1,179,Right this way.,Gabe,0
+10753,1,180,The fun begins in a minute.,Gabe,0
+10754,1,181,"Err, Gabe.",Bob,0
+10755,1,182,Yep.,Bob,0
+10756,1,183,Who're these kids.,Bob,0
+10757,1,184,I've never seen them before.,Bob,0
+10758,1,185,You've never seen them because these are the kids who never get invited anywhere.,Gabe,0
+10759,1,186,"Ok, so why are they here.",Bob,0
+10760,1,187,What's in it for you.,Bob,0
+10761,1,188,The satisfaction of bringing joy to a few sad misfits.,Gabe,0
+10762,1,189,Excuse me! Yes! Do I give you the twenty dollars now or when the play date is over? - Now is good.,Gabe,0
+10763,1,190,Awesome.,Others,0
+10764,1,191,Gabe.,Bob,0
+10765,1,192,Did you see the smile on the little scamp's face.,Gabe,0
+10766,1,193,"Mom, I had the craziest dream last night.",Teddy,0
+10767,1,194,"Ooh, me too.",Amy,0
+10768,1,195,I was in high school.,Amy,0
+10769,1,196,Only I had wings and all the cheerleaders were really jealous because I kept flying around during our routine.,Amy,0
+10770,1,197,"Then out of nowhere, Lady Gaga appeares throwing her shoe at me.",Amy,0
+10771,1,198,"Ok mom, can we stay on me.",Teddy,0
+10772,1,199,"Anyway, in my crazy dream, Spencer and I got back together.",Teddy,0
+10773,1,200,And then you guys found out and you took my car away.,Teddy,0
+10774,1,201,Oh duh.,Amy,0
+10775,1,202,"You know Teddy, my dream is a lot more entertaining than yours.",Amy,0
+10776,1,203,"Mom, I have to tell you something.",Teddy,0
+10777,1,204,Did you know that this car has a satellite radio? - It does? - Uh-huh.,Amy,0
+10778,1,205,Over 100 stations.,Amy,0
+10779,1,206,"Uhm you were saying? Right, right, ok.",Amy,0
+10780,1,207,Here is the thing.,Teddy,0
+10781,1,208,I Is that the mp3 hookup? This baby is fully loaded.,Teddy,0
+10782,1,209,Oh men.,Teddy,0
+10783,1,210,You are not making this easier.,Teddy,0
+10784,1,211,"Speaking of making things easier, ba-bam, your very own gas card.",Amy,0
+10785,1,212,Huh.,Teddy,0
+10786,1,213,"And, so you don't get lost.",Amy,0
+10787,1,214,"Ba-bam, your very own GPS.",Amy,0
+10788,1,215,"Now what was that you wanted to tell me? Mom, I want to tell you that I'm in love with Ed.",Amy,0
+10789,1,216,"Alright, this is from Gabe.",PJ,0
+10790,1,217,A 10-dollar gift card for frozen yogurt.,PJ,0
+10791,1,218,Probably about 6 dollars left on it.,Gabe,0
+10792,1,219,"I was feeling snacky! Ok, here is mine.",Gabe,0
+10793,1,220,It's a journal for your trip to Mexico.,Teddy,0
+10794,1,221,"Everyday you can write what you did, what you saw, how you felt about it.",Teddy,0
+10795,1,222,"Aw, I love it.",PJ,0
+10796,1,223,Yeah.,Teddy,0
+10797,1,224,"You didn't happen to get a *** for this, did you? No.",PJ,0
+10798,1,225,Okay.,Amy,0
+10799,1,226,Here is a little something from mom and dad.,Amy,0
+10800,1,227,"Oh, wow, guys.",PJ,0
+10801,1,228,This is so generous.,PJ,0
+10802,1,229,Just a little spending money for Mexico.,Bob,0
+10803,1,230,Enjoy your dinaro.,Bob,0
+10804,1,231,"Oh, do I have to spend it on dinaro.",PJ,0
+10805,1,232,"Can I use it for breakfast-o or lunch-o? Sweetie, when you're down there, stay close to the teacher.",PJ,0
+10806,1,233,There is one more thing we got you.,PJ,0
+10807,1,234,Went down to the court house this morning.,Bob,0
+10808,1,235,Finally got your birth certificate fixed.,Bob,0
+10809,1,236,You are now officially P.J.,Bob,0
+10810,1,237,Duncan.,Bob,0
+10811,1,238,"Dad, did you double check this.",Bob,0
+10812,1,239,"No! Why, how can anybody possibly mess up P.J..",Bob,0
+10813,1,240,Don't ask me.,PJ,0
+10814,1,241,According to this my name is PP Duncan.,PJ,1
+10815,1,242,"Turn out, it's not looking so bad now, is it? Well, looks like that's all the presents.",Teddy,0
+10816,1,243,"PP, happy birthday!! Oh wait, wait.",Amy,0
+10817,1,244,There's one left.,Teddy,0
+10818,1,245,It says it's from Charlie.,Teddy,0
+10819,1,246,Charlie! You don't have to give me anything.,PJ,0
+10820,1,247,What? A new guitar! This is just what I wanted.,PJ,0
+10821,1,248,How do you guys know? Did you do that? Hey Gabe.,PJ,0
+10822,1,249,"How are you liking that new ZCube? Oh, I decided not to get it, the ZCube 7's coming out soon.",Gabe,0
+10823,1,250,You used that money to buy that new guitar for your bro.,Bob,0
+10824,1,251,I don't know what you're talking about.,Gabe,0
+10825,1,252,Oh come on Gabe.,Bob,0
+10826,1,253,If you tell anybody about this I will never forgive you.,Gabe,0
+10827,1,254,Why would you want to keep that a secret? Because I can't let people think that I've gone soft or that I love my brother.,Bob,0
+10828,1,255,Alright alright.,Bob,0
+10829,1,256,Your secret is safe with me.,Bob,0
+10830,1,257,I'm proud of you.,Bob,0
+10831,1,258,You're a good kid.,Bob,0
+10832,1,259,See! That's the exact kind of talk I was afraid of.,Gabe,0
+10833,1,260,Hey guys.,Teddy,0
+10834,1,261,Hey.,Bob,0
+10835,1,262,Hi honey.,Teddy,0
+10836,1,263,There are the keys dad.,Teddy,0
+10837,1,264,I'm giving 'em back.,Teddy,0
+10838,1,265,What? Why? Oh because you're gonna taking him back anyway.,Teddy,0
+10839,1,266,Why would we do that? There is a secret that I've been keeping from you guys.,Teddy,0
+10840,1,267,Come on in.,Teddy,0
+10841,1,268,Hi Mr.,Spencer,0
+10842,1,269,and Mrs.,Spencer,0
+10843,1,270,Duncan.,Spencer,0
+10844,1,271,Spencer and I are dating again.,Teddy,0
+10845,1,272,"Ok, at first I didn't want to tell you guys because I was afraid that you would take away the car.",Teddy,0
+10846,1,273,I figured that I had a choice to make either Ed or Spencer so after thinking about it for a long time.,Teddy,0
+10847,1,274,A really long time.,Spencer,0
+10848,1,275,I chose Spencer.,Teddy,0
+10849,1,276,I decided to give him another chance.,Teddy,0
+10850,1,277,"So, we're back together now and I'm very happy.",Teddy,0
+10851,1,278,Well.,Amy,0
+10852,1,279,I'm just glad that you could be honest with us.,Amy,0
+10853,1,280,And.,Bob,0
+10854,1,281,If you're happy I guess that's all that really matter.,Bob,0
+10855,1,282,Thanks.,Teddy,0
+10856,1,283,You're letting me keep the car.,Teddy,0
+10857,1,284,We're letting you pay for the car.,Amy,0
+10858,1,285,With the job that you're going to keep.,Bob,0
+10859,1,286,Fair enough.,Teddy,0
+10860,1,287,Welcome back to the family Spencer.,Amy,0
+10861,1,288,And if you ever Hurt my little girl again Ba-Bam.,Amy,0
+10862,1,289,"Hey Charlie, so, big news.",Teddy,0
+10863,1,290,This week I got a new old boyfriend named Spencer and an old new car named Ed.,Teddy,0
+10864,1,291,"And someday if I take good care if him, you could have him.",Teddy,0
+10865,1,292,"Oh Ed, not Spencer.",Teddy,0
+10866,1,293,That would be just weird.,Teddy,0
+10867,1,294,Excuse me! Who are you? I'm Eliot.,Others,0
+10868,1,295,I paid Gabe for another play date for playing hide and seek.,Others,0
+10869,1,296,But I've been hiding for almost 5 hours.,Others,0
+10870,1,297,He went to baseball practice.,Teddy,0
+10871,1,298,"Oh, I'll wait.",Others,0
+10872,1,299,"Well, I guess there's only one thing left to say.",Teddy,0
+10873,1,300,"Oh hey, you are here why don't you say it? Good luck Charlie.",Teddy,0
+10874,1,301,"Teddy! Who said that? It's me, your car.",Others,0
+10875,1,302,"Ed, you can talk? I prefer Edward.",Teddy,0
+10876,1,303,And yes.,Others,0
+10877,1,304,"Huh, so I have a talking car? Oh does that mean we're going on an adventure and solve crimes and stuff.",Teddy,0
+10878,1,305,"Well, that sounds kind of dangerous I've thought we'd just drive carefully and stay within speed limit and stuff.",Others,0
+10879,1,306,Oh man.,Teddy,0
+10880,1,307,So I have a talking car who's boring.,Teddy,0
+10881,1,308,"Oh uh, one other thing I have to tell you.",Others,0
+10882,1,309,I don't feel so good.,Others,0
+10883,1,310,"Edward, Edward talk to me.",Teddy,0
+10884,1,311,Gotcha.,Others,0
+10885,1,312,"Not so boring now, am I?",Others,0

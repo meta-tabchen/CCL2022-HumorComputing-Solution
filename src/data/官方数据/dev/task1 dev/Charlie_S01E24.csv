@@ -1,0 +1,305 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+1589,1,0,Right down the middle.,PJ,0.0
+1590,1,1,Right here.,PJ,0.0
+1591,1,2,Okay.,Gabe,0.0
+1592,1,3,There we go.,Gabe,0.0
+1593,1,4,Nice! - Throw again.,PJ,0.0
+1594,1,5,"Kids, listen up.",Amy,0.0
+1595,1,6,Big news.,Amy,0.0
+1596,1,7,Please tell us you're not having another baby.,Teddy,0.0
+1597,1,8,"No, we're not having another baby.",Amy,0.0
+1598,1,9,"And I can assure you, we will not be making that announcement ever again.",Amy,0.0
+1599,1,10,"Yeah, this family is big enough.",Teddy,0.0
+1600,1,11,"Hey, you completely clear on that, dad? Why you pointin' your finger at me? Having babies is a team effort.",Bob,0.0
+1601,1,12,What do you mean? This should be good.,Teddy,1.0
+1602,1,13,Uh You know what? Getting back to that big announcement We're going on a family vacation! And it's our first one with Charlie.,Bob,0.0
+1603,1,14,And Gabe.,Gabe,0.0
+1604,1,15,What are you talking about? You've been on lots of vacations.,Bob,0.0
+1605,1,16,"Okay, visiting grandma after she had the fat sucked out of her butt.",Gabe,0.0
+1606,1,17,Is not a vacation.,Gabe,0.0
+1607,1,18,"Okay, this time we are going on a real vacation.",Amy,0.0
+1608,1,19,To a ski resort in the mountains.,Amy,0.0
+1609,1,20,"Oh, and here's an interesting piece of family history The place is called mount bliss.",Bob,0.0
+1610,1,21,And it happens to be Where your dad and I got married.,Amy,0.0
+1611,1,22,It's very romantic.,Amy,0.0
+1612,1,23,"Honey, you just interrupted me.",Bob,0.0
+1613,1,24,"I was just trying to get to the point, Bob.",Amy,0.0
+1614,1,25,You know your stories go on forever.,Amy,0.0
+1615,1,26,And the romance continues.,Teddy,0.0
+1616,1,27,"You know, the weekend we got married, We weren't even planning on doing it.",Bob,0.0
+1617,1,28,Getting married.,Amy,0.0
+1618,1,29,Then we met judge Lawson and he said we were perfect for each other.,Amy,0.0
+1619,1,30,So we did it.,Amy,0.0
+1620,1,31,Got married.,Bob,0.0
+1621,1,32,Why do you keep saying that? Haven't you had the talk with him yet? I haven't had the talk with P.J.,Gabe,0.0
+1622,1,33,Yet.,Bob,0.0
+1623,1,34,I'm good.,PJ,0.0
+1624,2,0,"Oh, isn't it beautiful? A lot of good memories here.",PJ,0.0
+1625,2,1,More to come.,Amy,0.0
+1626,2,2,"It's gonna be like this the whole week, isn't it? All right, why don't you kids have a seat while we check in? Hey, P.J, I have to go to the bathroom.",Teddy,0.0
+1627,2,3,Can you come with me? - Aren't you a little old for that? I put my ski pants on backwards.,Gabe,1.0
+1628,2,4,First vacation's always the hardest.,PJ,0.0
+1629,2,5,Whoa.,Others,0.0
+1630,2,6,I am getting a very powerful vibe from you.,Others,0.0
+1631,2,7,Oh sorry.,Teddy,0.0
+1632,2,8,I've been sitting in a hot minivan for four hours.,Teddy,0.0
+1633,2,9,"Oh, sweetie, no.",Others,0.0
+1634,2,10,No no no.,Others,0.0
+1635,2,11,I mean I'm a psychic.,Others,0.0
+1636,2,12,Really? You're a psychic? - Yeah.,Teddy,0.0
+1637,2,13,"'cause, no offense, but you kind of look like a normal person.",Teddy,0.0
+1638,2,14,Did you know I was gonna say that? Did you know I was gonna say that? It doesn't work that way.,Teddy,0.0
+1639,2,15,"And yes, I did.",Others,0.0
+1640,2,16,Would you like a free reading? You tell me.,Teddy,0.0
+1641,2,17,I'll give you one anyway.,Others,1.0
+1642,2,18,Give me your hands.,Others,0.0
+1643,2,19,"Oh, this trip is going.",Others,0.0
+1644,2,20,To be a very important one for you.,Others,0.0
+1645,2,21,I'm seeing you will have two left feet.,Others,0.0
+1646,2,22,And that's odd.,Others,0.0
+1647,2,23,Now I see there is a bear in your room.,Others,0.0
+1648,2,24,And now I see why you give free readings in the lobby.,Teddy,1.0
+1649,2,25,"And finally, I see you will come face to face.",Others,0.0
+1650,2,26,With the love of your life.,Others,0.0
+1651,2,27,Oh whoa.,Others,0.0
+1652,2,28,Okay.,Teddy,0.0
+1653,2,29,No thanks.,Teddy,0.0
+1654,2,30,I I just got out of a relationship.,Teddy,0.0
+1655,2,31,"With this guy named Spencer, So I'm not really looking to meet anybody.",Teddy,0.0
+1656,2,32,Mmm.,Others,0.0
+1657,2,33,You think it's up to you.,Others,0.0
+1658,2,34,That's cute.,Others,0.0
+1659,2,35,"Uh, excuse me.",Others,0.0
+1660,2,36,I have to take this.,Others,0.0
+1661,2,37,"Take what? Hello? Oh, what a surprise.",Others,0.0
+1662,2,38,Not really.,Others,0.0
+1663,3,0,"Come on, don't you want to go snowboarding? I'm doing it right now.",PJ,0.0
+1664,3,1,Check this out.,Gabe,0.0
+1665,3,2,I just broke my neck.,Gabe,0.0
+1666,3,3,Sweet.,PJ,0.0
+1667,3,4,"So what are you gonna do all day? Room service! Does that answer your question? Your order, sir.",Gabe,0.0
+1668,3,5,"French fries, potato chips and onion rings a la mode.",Others,0.0
+1669,3,6,Mr.Starkwell? Gabe.,Gabe,0.0
+1670,3,7,You two know each other? Mr.Starkwell was my third-grade teacher.,Gabe,0.0
+1671,3,8,Gabe is the reason I quit teaching.,Others,1.0
+1672,3,9,And he's the reason I went to summer school.,Gabe,0.0
+1673,3,10,You went to summer school because you've got a mouth on you Sir.,Others,0.0
+1674,3,11,"Hey, remember me? Did I have you for third ade too? Yeah.",PJ,0.0
+1675,3,12,We had two great years together.,PJ,1.0
+1676,3,13,"Well, looks like the foot's on the other shoe now, isn't it? Don't you mean the shoe is on the other foot? Your days of correcting me are over, Marvin.",Gabe,1.0
+1677,3,14,"Oh, this is gonna be fun.",Gabe,1.0
+1678,4,0,What? Oh no.,Teddy,0.0
+1679,4,1,I brought two left boots by mistake.,Teddy,0.0
+1680,4,2,Wait two left feet.,Teddy,0.0
+1681,4,3,"Huh, that's weird.",Teddy,0.0
+1682,4,4,"What's weird? Well, I met this psychic in the lobby.",Teddy,0.0
+1683,4,5,And she made some crazy predictions.,Teddy,0.0
+1684,4,6,But one of them just kind of came true.,Teddy,0.0
+1685,4,7,I went to a psychic once.,Amy,0.0
+1686,4,8,"She was dead on about me, Said I was gonna be famous.",Amy,0.0
+1687,4,9,But that hasn't come true.,Teddy,0.0
+1688,4,10,Yet.,Amy,1.0
+1689,4,11,But mine was crazy.,Teddy,0.0
+1690,4,12,She said I'd come face to face with the love of my life.,Teddy,0.0
+1691,4,13,"Well, it could happen, Teddy.",Amy,0.0
+1692,4,14,Mount bliss is a magical place.,Amy,0.0
+1693,4,15,"Well, don't get too excited.",Teddy,0.0
+1694,4,16,She also said there would be a bear in my room.,Teddy,0.0
+1695,4,17,"Oh! Run for your lives! Okay, that's just weird.",Bob,0.0
+1696,4,18,Really? I thought it was kinda cute.,Bob,0.0
+1697,4,19,"All right, we'll go take it back.",Bob,1.0
+1698,5,0,Wow.,PJ,0.0
+1699,5,1,I could look at that view forever.,PJ,0.0
+1700,5,2,"Okay, that's enough.",PJ,1.0
+1701,5,3,Hmm.,PJ,0.0
+1702,5,4,Never seen this trail before.,PJ,0.0
+1703,5,5,Cool.,PJ,0.0
+1704,5,6,"All right, yeah! Ahhh! Am I in heaven? - Hello.",PJ,1.0
+1705,5,7,Hi.,Amy,0.0
+1706,6,0,Bye! Hey.,Charlie,0.0
+1707,6,1,Hey honey? Guess what? We're not actually married.,Bob,0.0
+1708,6,2,"Would you like to grab some lunch? What did you just say? - You want to grab some lunch? - No, before that.",Bob,0.0
+1709,6,3,"Oh, it turns out our wedding ceremony wasn't actually valid.",Bob,0.0
+1710,6,4,"You feel like mexican? What do you mean we're not actually married? Whoa whoa, I was asking around about judge Lawson.",Amy,0.0
+1711,6,5,And the guy at the front desk tells me he was like some kind of con man.,Bob,0.0
+1712,6,6,Apparently he did fake marriages all the time.,Bob,0.0
+1713,6,7,But he said we were perfect for each other.,Amy,0.0
+1714,6,8,Apparently it was just part of his scam.,Bob,1.0
+1715,6,9,"You know, there's this great fondue place I read about.",Bob,0.0
+1716,6,10,Would you stop talking about food? This is serious.,Amy,0.0
+1717,6,11,"I mean, we're not really married? Well, according to the universe, of course we are, honey.",Bob,0.0
+1718,6,12,"According to the state of Colorado, not so much.",Bob,1.0
+1719,7,0,"Oh hey, psychic lady! - Oh hi.",Teddy,0.0
+1720,7,1,So I've been looking around all day for the love of my life.,Teddy,0.0
+1721,7,2,And I haven't found him yet.,Teddy,0.0
+1722,7,3,"So when's that gonna happen? Oh gosh, I don't know.",Teddy,0.0
+1723,7,4,Psychic prediction is not an exact science.,Others,0.0
+1724,7,5,Ha! It's not a science at all.,Others,0.0
+1725,7,6,Right.,Teddy,0.0
+1726,7,7,"Can I at least have a little more info? Like is he hot or not? Not that it matters, but please say 'hot.",Teddy,0.0
+1727,7,8,' All I can tell you is keep your eyes open.,Others,0.0
+1728,7,9,Okay.,Teddy,0.0
+1729,7,10,"Well, they're open.",Teddy,0.0
+1730,7,11,And they're starting to see that this is a bunch of Hi.,Teddy,0.0
+1731,7,12,Hi.,Teddy,0.0
+1732,8,0,I'm Teddy.,Teddy,0.0
+1733,8,1,I'm Brandon.,Others,0.0
+1734,8,2,Wow.,Teddy,0.0
+1735,8,3,So I guess it's true.,Teddy,0.0
+1736,8,4,"What's true? Well, you I mean, us.",Teddy,0.0
+1737,8,5,"I mean, I didn't believe it, but then I had two left boots, Which aren't actually feet, but they're where feet go in.",Teddy,0.0
+1738,8,6,When you need something to walk in.,Teddy,0.0
+1739,8,7,"So in a sense, they're feet.",Teddy,0.0
+1740,8,8,"What? - Okay okay, I probably sound a little bit crazy right now.",Teddy,0.0
+1741,8,9,"But you would too if a psychic told you there was a bear in your room, Which there was sort of.",Teddy,0.0
+1742,8,10,"Oh, and in my room, not in your room.",Teddy,0.0
+1743,8,11,I don't know anything about your room.,Teddy,0.0
+1744,8,12,I'm gonna go now.,Others,0.0
+1745,8,13,I'm not crazy.,Teddy,0.0
+1746,9,0,"Seriously, I'm not crazy! For dinner I would like the lobster thermometer.",Gabe,0.0
+1747,9,1,It's lobster thermidor.,Others,1.0
+1748,9,2,"What did I say about correcting me? That if I did it again, you were going to Well, I can't say I didn't warn you.",Gabe,0.0
+1749,9,3,Now chop chop and get me my lobster.,Gabe,0.0
+1750,9,4,"I know this is none of my business, But you're running up quite a bill here.",Others,0.0
+1751,9,5,"What do you mean? You don't know what room service is, do you? Yeah.",Others,0.0
+1752,9,6,I want things and you bring them to me.,Gabe,0.0
+1753,9,7,For an additional charge.,Others,0.0
+1754,9,8,"Wait, it costs money? A lot of money.",Gabe,0.0
+1755,9,9,"Shall we see how much money? Let's go to my favorite channel, The bill channel.",Others,0.0
+1756,9,10,Oh mama! $300?! I don't have that kind of money.,Gabe,1.0
+1757,9,11,"Looks like you're in quite a pickle which, by the way, are $8.",Others,0.0
+1758,9,12,Mom and dad are gonna ground me forever.,Gabe,0.0
+1759,9,13,Perhaps we can make some kind of arrangement.,Others,0.0
+1760,9,14,What do you mean? I have to be a bellman? Bellboy.,Gabe,1.0
+1761,10,0,How's the cocoa? Are you warming up? Am I in heaven? Why does he keep saying that? I don't know.,Others,0.0
+1762,10,1,But it's so cute.,Others,1.0
+1763,10,2,"So this is your cabin, huh? Yep.",PJ,0.0
+1764,10,3,We don't get a lot of visitors.,Others,0.0
+1765,10,4,Especially ones with sparkling blue eyes.,Others,0.0
+1766,10,5,And beautiful blonde hair.,Others,0.0
+1767,10,6,This is a lucky day for everyone.,PJ,1.0
+1768,10,7,"Do you need to call your family and let them know you're okay? Nah, I'm good.",Others,0.0
+1769,10,8,"So you girls live here alone? - No, our pa lives with us.",PJ,0.0
+1770,10,9,Oh.,PJ,0.0
+1771,10,10,But he's away on business.,Others,0.0
+1772,10,11,Oh.,PJ,1.0
+1773,10,12,Why did you go down the wrong side of the mountain? Because - Do you girls get t.V.,Others,0.0
+1774,10,13,Here? - No.,PJ,0.0
+1775,10,14,I'm training to defend my olympic gold medal.,PJ,1.0
+1776,10,15,Wow.,Others,0.0
+1777,10,16,That's amazing.,Others,0.0
+1778,10,17,"You poor baby, you're freezing.",Others,0.0
+1779,10,18,I want to run him a hot bath.,Others,0.0
+1780,10,19,I will.,Others,0.0
+1781,10,20,"No, I will.",Others,0.0
+1782,10,21,"Oh girls, girls.",PJ,0.0
+1783,10,22,I'm gonna need more than one bath.,PJ,0.0
+1784,11,0,"Hey, mom, can I borrow your pink scarf? Sure, honey.",Teddy,0.0
+1785,11,1,Why are you all dolled up? Because I think I may have met the love of my life.,Teddy,0.0
+1786,11,2,"Except I acted crazy and scared him away, So now I have to get super cute and hang out in the lobby.",Teddy,0.0
+1787,11,3,So he can fall in love with me.,Teddy,1.0
+1788,11,4,"Mom, I've got to tell you, he is the perfect guy.",Teddy,0.0
+1789,11,5,"Well, okay, tell me all about him.",Amy,0.0
+1790,11,6,Okay.,Teddy,0.0
+1791,11,7,"Well, he's really cute.",Teddy,0.0
+1792,11,8,His name is Brandon.,Teddy,0.0
+1793,11,9,And that's all I know.,Teddy,0.0
+1794,11,10,He does sound perfect.,Amy,1.0
+1795,11,11,"Hey, honey.",Bob,0.0
+1796,11,12,Hey.,Bob,0.0
+1797,11,13,Why aren't you dressed? I thought we were going skiing.,Bob,0.0
+1798,11,14,"No, change of plans.",Amy,0.0
+1799,11,15,The front desk found a justice of the peace.,Amy,0.0
+1800,11,16,Who's going to marry us this afternoon.,Amy,0.0
+1801,11,17,"What are you talking about? Um, honey.",Teddy,0.0
+1802,11,18,I want you to brace yourself.,Amy,0.0
+1803,11,19,Okay? Your father and I aren't actually married.,Amy,0.0
+1804,11,20,Oh my gosh.,Teddy,0.0
+1805,11,21,I forgot to floss.,Teddy,0.0
+1806,11,22,So should we go get married? - Yeah.,Amy,0.0
+1807,11,23,"But can't it wait till we get home? Well, I just thought it would be really romantic and special.",Amy,0.0
+1808,11,24,"If we did it here You know, where we thought we did it 19 years ago.",Amy,0.0
+1809,11,25,But I already bought the lift tickets.,Bob,0.0
+1810,11,26,"Oh, come on, honey! We're on vacation.",Bob,0.0
+1811,11,27,"Come on, I want to enjoy myself.",Bob,0.0
+1812,11,28,Oh okay.,Amy,0.0
+1813,11,29,So being married to me.,Amy,0.0
+1814,11,30,Isn't something you'd enjoy? I'm not enjoying it right now.,Amy,1.0
+1815,11,31,"Fine, don't marry me then.",Amy,0.0
+1816,11,32,"Well, all right, fine.",Bob,0.0
+1817,11,33,I won't.,Bob,0.0
+1818,11,34,You won't last five minutes without me.,Amy,0.0
+1819,11,35,Oh yeah? You just watch me.,Bob,0.0
+1820,11,36,Have you seen that - It's around your neck.,Amy,1.0
+1821,11,37,Thank you.,Bob,0.0
+1822,12,0,"Starting right now, baby! Tell us more about your gold medal.",Others,0.0
+1823,12,1,"Well, it's gold.",PJ,0.0
+1824,12,2,And it's made out of metal.,PJ,1.0
+1825,12,3,Can we get you anything else? Yeah.,Others,0.0
+1826,12,4,"Why don't you get some marshmallows, Some chocolate and some Graham crackers? - What for? - So we can make s'mores.",PJ,0.0
+1827,12,5,"What are those? Girls, girls, girls, There's so much I have to teach you.",PJ,0.0
+1828,12,6,I'll get them.,Others,0.0
+1829,12,7,"No, I'll get them.",Others,0.0
+1830,12,8,I'll get them! - Ah! Whoa! Who are you? Who are you? I asked you first.,PJ,1.0
+1831,12,9,I don't like boys sniffing around my girls.,Others,0.0
+1832,12,10,You must be pa.,PJ,0.0
+1833,12,11,Wow.,PJ,0.0
+1834,12,12,You're bigger than everything.,PJ,0.0
+1835,12,13,Get out.,Others,0.0
+1836,12,14,My thoughts exactly.,PJ,1.0
+1837,12,15,Is that my robe? Oh whoopsie.,Others,0.0
+1838,12,16,Here you go.,PJ,0.0
+1839,12,17,"Nice to meet you, sir.",PJ,1.0
+1840,12,18,Enjoy your s'mores.,PJ,1.0
+1841,13,0,Bye.,Charlie,0.0
+1842,13,1,"Yeah, if mommy's gonna be single, You're gonna be single too.",Amy,1.0
+1843,13,2,"Hey, honey, still looking for the love of your life? Yeah, and I can't find him anywhere.",Amy,0.0
+1844,13,3,"Mom, what if I only had one chance and I blew it? I've been feeling exactly the same way.",Teddy,0.0
+1845,13,4,What? Because dad and I aren't actually married.,Amy,0.0
+1846,13,5,And he didn't want to marry me again.,Amy,0.0
+1847,13,6,"I know I'm putting up a brave front, But I'm really hurting.",Amy,0.0
+1848,13,7,"Oh, maybe that's him! Hey, what's up? How's it going? Listen, if a big scary guy with a beard shows up, I'm not here.",PJ,1.0
+1849,14,0,Room service.,Gabe,0.0
+1850,14,1,"Yeah, come on in.",Others,0.0
+1851,14,2,"Honey, food's here.",Others,0.0
+1852,14,3,Wow.,Others,0.0
+1853,14,4,What? Aren't you a little young to be working? I got myself into some trouble.,Gabe,0.0
+1854,14,5,Did you know that room service is extra? - Everyone knows that.,Others,0.0
+1855,14,6,"Not everyone, my friend.",Gabe,1.0
+1856,14,7,Great great.,Others,0.0
+1857,14,8,"Do you mind setting it up over there? And if you could toss the salad, that would be great.",Others,0.0
+1858,14,9,"My wife will be right out, okay? Uh, sure.",Others,0.0
+1859,14,10,Ech! - What did you do? - I tossed the salad.,Gabe,0.0
+1860,14,11,"No, you've made a mess.",Others,0.0
+1861,14,12,Get out of here.,Others,0.0
+1862,14,13,I have to open the cider.,Gabe,0.0
+1863,14,14,"Ow! My eye! I'm gonna go get you a washcloth, okay? If you need anything else, my name is Marvin.",Gabe,1.0
+1864,15,0,"I assure you, sir, when we find this person, they'll be dealt with severely.",Others,0.0
+1865,15,1,Impersonating a bellman is a serious offense.,Others,0.0
+1866,15,2,"Well, time to go skiing.",Gabe,0.0
+1867,16,0,Whoa.,Others,0.0
+1868,16,1,Hi.,Teddy,0.0
+1869,16,2,I it's so weird running into you.,Teddy,0.0
+1870,16,3,I haven't been looking for you.,Teddy,0.0
+1871,16,4,"Okay, I see you have that scared look in your eye.",Teddy,0.0
+1872,16,5,"And you're probably gonna bolt any second, So before you do that, Can we just start over? Sure.",Teddy,0.0
+1873,16,6,"Hey, why don't I grab us some hot cocoa.",Teddy,0.0
+1874,16,7,And you find us somewhere to sit? P.S.,Teddy,0.0
+1875,16,8,I look really great next to fires.,Teddy,0.0
+1876,16,9,Then I'll be right here.,Others,0.0
+1877,16,10,"Well, I'll be right back.",Teddy,0.0
+1878,16,11,Whoa.,Teddy,0.0
+1879,16,12,Hi.,Others,0.0
+1880,16,13,Hi.,Teddy,0.0
+1881,16,14,I'm Justin.,Others,0.0
+1882,16,15,"Oh no, we're face to face.",Teddy,0.0
+1883,16,16,Yeah.,Others,0.0
+1884,16,17,"Yeah, we are.",Others,0.0
+1885,16,18,But I already was face to face.,Teddy,0.0
+1886,16,19,I can't be face to face to face.,Teddy,1.0
+1887,16,20,"Wait, what? Well, you were supposed to be him, but now I guess it could be you.",Teddy,0.0
+1888,16,21,You know what? I need to talk to my psychic.,Teddy,0.0
+1889,16,22,I'll be right back.,Teddy,0.0
+1890,16,23,Sorry.,Teddy,0.0
+1891,16,24,Teddy.,Spencer,0.0
+1892,16,25,Spencer.,Teddy,0.0

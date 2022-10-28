@@ -1,0 +1,318 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+6666,1,0,Thanks for the ride home.,Teddy,0
+6667,1,1,I've never been on a motorcycle before.,Teddy,0
+6668,1,2,Were you scared? You were holding on pretty tight.,Others,0
+6669,1,3,"Yeah, but that wasn't because I was scared.",Teddy,0
+6670,1,4,"Anyway, see you tomorrow night at the movies? Yeah, for sure.",Others,0
+6671,1,5,"What time do you want me to pick you up? Pick me up? Um, you know what? You don't have to do that.",Teddy,0
+6672,1,6,We can just we'll meet at the mall.,Teddy,0
+6673,1,7,That way you don't have to come here.,Teddy,0
+6674,1,8,We'll just meet there.,Teddy,0
+6675,1,9,Well At the mall.,Teddy,0
+6676,1,10,"Okay, but maybe we could just, like, go in and hang out - for a little while.",Others,0
+6677,1,11,No.,Teddy,0
+6678,1,12,"Derek, no.",Teddy,0
+6679,1,13,"If we hang out now, what will we have to talk about tomorrow, at the mall? Well, maybe we could Shh.",Teddy,0
+6680,1,14,Save it for the mall.,Teddy,1
+6681,1,15,"Okay, well, I'll see you later.",Others,0
+6682,1,16,"All right, bye.",Teddy,0
+6683,1,17,Who's the guy? - What?! What guy? The guy you're trying to hide from mom and dad.,Gabe,0
+6684,1,18,I'm not trying to hide anybody from anyone.,Teddy,0
+6685,1,19,"Teddy, let's not play this game.",Gabe,0
+6686,1,20,We all know there's a guy.,Gabe,0
+6687,1,21,We all know he has a motorcycle.,Gabe,0
+6688,1,22,And we all know I have photos.,Gabe,0
+6689,1,23,So what do I care? You care because I can't be trusted with information like this.,Gabe,0
+6690,1,24,Gabby Gabe they call me.,Gabe,0
+6691,1,25,"Okay, just tell me what you want, gabby.",Teddy,0
+6692,1,26,I got into a little trouble at school.,Gabe,0
+6693,1,27,And now my teacher wants to talk with my parents.,Gabe,0
+6694,1,28,"So what does that have to do with me? Funny you should ask, Teddy.",Teddy,0
+6695,1,29,"Or should I say 'mom'? Oh, no no no no.",Gabe,1
+6696,1,30,It can totally work.,Gabe,0
+6697,1,31,Miss Monroe is old and has terrible eyesight.,Gabe,1
+6698,1,32,"No, that's crazy.",Teddy,0
+6699,1,33,I'm not gonna pretend to be mom.,Teddy,0
+6700,1,34,Here's an interesting photo.,Gabe,0
+6701,1,35,I believe they call this a wheelie.,Gabe,0
+6702,1,36,"Well, isn't someone being especially evil today? I got a good night's sleep.",Teddy,0
+6703,1,37,"Okay, so even if I do agree, who are you gonna get to play dad? Hey, guys.",Teddy,0
+6704,1,38,"P.J., I need you to be my pretend dad at school.",Gabe,0
+6705,1,39,Sure.,PJ,0
+6706,1,40,That's it.,Teddy,0
+6707,1,41,"You're just gonna do what he says? In the long run, it just saves time.",PJ,0
+6708,2,0,"鈾?Thank you, honey.",Bob,0
+6709,2,1,Hey hey hey hey! Didn't you forget something? I'm not gonna do it every time.,Amy,0
+6710,2,2,"Bob, do you think we should get something for Charlie to play on, like a swing set or slide? She doesn't need any of that stuff.",Amy,0
+6711,2,3,She's got all sorts of things to do back here.,Bob,0
+6712,2,4,"Really? Honey, look at her.",Amy,0
+6713,2,5,"Honey, she's using her imagination.",Bob,0
+6714,2,6,"In her mind, that stick, it's a sword.",Bob,0
+6715,2,7,It's a magic wand.,Bob,0
+6716,2,8,"What you got there, Charlie? - A stick.",Charlie,1
+6717,2,9,Which you are pretending is a Stick.,Bob,1
+6718,3,0,"P.J., there's something we need to talk about.",Skyler,0
+6719,3,1,"Oh no, I knew this was gonna happen.",PJ,0
+6720,3,2,"You wanna break up, right? Oh, no no no, I think things are going really well.",Skyler,0
+6721,3,3,Me too.,PJ,1
+6722,3,4,It's just that we've been seeing each other for three weeks and we haven't even gone out on our first date yet.,Skyler,0
+6723,3,5,Oh.,PJ,0
+6724,3,6,"Yeah, you're right.",PJ,0
+6725,3,7,We've only been out with friends.,PJ,0
+6726,3,8,"Yeah, and I think you learn a lot about a person on a first date.",Skyler,0
+6727,3,9,Like what? Like sometimes their name.,Skyler,1
+6728,3,10,Or if the relationship is meant to be.,Skyler,0
+6729,3,11,Really? - Yeah.,PJ,0
+6730,3,12,An awesome first date sets the tone for the entire relationship.,Skyler,0
+6731,3,13,I saw it on a cover of a magazine.,Skyler,0
+6732,3,14,"Just the cover? Did you read the article? No, I'm not a big reader.",PJ,0
+6733,3,15,We are so right for each other.,PJ,0
+6734,3,16,Unh-unh-unh.,Skyler,0
+6735,3,17,"How do I know until we've had our first date? Okay, all right, well, where do you wanna go on our awesome first date? What date? No one's asked me out yet.",Skyler,0
+6736,3,18,Hint hint.,Skyler,0
+6737,3,19,Right.,PJ,0
+6738,3,20,"Right, okay.",PJ,0
+6739,3,21,"Well, Skyler, would you like to Oops, I think my earring just fell out.",Skyler,0
+6740,3,22,Uh-oh.,PJ,0
+6741,3,23,Do you see it? No.,Skyler,0
+6742,3,24,Wait.,PJ,0
+6743,3,25,Wait.,PJ,0
+6744,3,26,"Oh, yeah, here it is.",PJ,0
+6745,3,27,Got it.,PJ,0
+6746,3,28,"Where was I? Oh, yeah.",PJ,0
+6747,3,29,"Skyler, would you - P.J., what are you doing?! - Dad, I was I was about to ask Skyler a very important question.",Bob,1
+6748,3,30,You're 17 years old.,Bob,0
+6749,3,31,You work at kwikki chikki.,Bob,0
+6750,3,32,You wanna ruin your life forever? I was just gonna ask her out on a date.,PJ,1
+6751,3,33,Oh.,Bob,1
+6752,3,34,Have fun.,Bob,1
+6753,4,0,Li'l tots forts o' fun Charlie is gonna love this.,Amy,0
+6754,4,1,Now let's rip this baby open and slap her together.,Amy,0
+6755,4,2,Whoa whoa whoa.,Bob,0
+6756,4,3,Slow down.,Bob,0
+6757,4,4,Slow down.,Bob,0
+6758,4,5,"Before we do any ripping and slapping, we're gonna read the directions.",Bob,0
+6759,4,6,"Bob, that always takes forever.",Amy,0
+6760,4,7,"Honey, the directions are the difference between a fort and firewood.",Bob,1
+6761,4,8,We don't need directions.,Amy,0
+6762,4,9,All we have to do is look at the picture on the box and make that.,Amy,0
+6763,4,10,Just look at the picture and make that.,Bob,1
+6764,4,11,"Well, that explains your cooking.",Bob,1
+6765,4,12,I'm gonna go get some reading glasses.,Bob,0
+6766,4,13,Do not touch anything until I get back.,Bob,0
+6767,4,14,I won't.,Amy,0
+6768,4,15,Take your time.,Amy,0
+6769,4,16,"Stop! Whoa whoa whoa, stop stop! What are you doing? I'm making these two pieces fit.",Bob,0
+6770,4,17,I almost got it.,Amy,0
+6771,4,18,"No no, no more kicking.",Bob,0
+6772,4,19,We have to read the directions.,Bob,0
+6773,4,20,We don't have to read the directions to know that this piece fits into this piece pretty much.,Amy,0
+6774,4,21,Gimme this.,Bob,0
+6775,4,22,"No, would you just let me do this.",Amy,0
+6776,4,23,Gimme this.,Bob,0
+6777,4,24,"You don't know what you're doing, and somebody might get hurt.",Bob,0
+6778,4,25,"Are you okay? Because I'm seeing three of you right now and I don't even wanna see one of you, I'm gonna let you build this by yourself.",Bob,0
+6779,4,26,Thank you.,Amy,0
+6780,4,27,From all of us.,Amy,0
+6781,5,0,"Gabe, are your parents coming or not? Mrs.",Others,0
+6782,5,1,"Monroe, how many fingers am I holding up? - Three.",Gabe,1
+6783,5,2,"Yeah, they're on their way.",Gabe,1
+6784,5,3,Hello.,Teddy,0
+6785,5,4,"Mom! There you are, you little scamp.",Teddy,0
+6786,5,5,Dial it down.,Gabe,0
+6787,5,6,I'm Mrs.Monroe.,Others,0
+6788,5,7,Hi.,Teddy,0
+6789,5,8,So nice to meet you.,Others,0
+6790,5,9,"Yes, Amy Duncan, nurse, mother of four.",Teddy,1
+6791,5,10,How you doing? Way down.,Gabe,0
+6792,5,11,There's my husband.,Teddy,0
+6793,5,12,"Dad? Sorry, I'm late, chaps.",PJ,0
+6794,5,13,I'm Bob.,PJ,0
+6795,5,14,"Mr.Duncan, I didn't know you were british.",Others,0
+6796,5,15,"Yeah, neither did Mrs.",Teddy,0
+6797,5,16,Duncan.,Teddy,0
+6798,5,17,That's right.,PJ,0
+6799,5,18,I'm british.,PJ,0
+6800,5,19,What an interesting accent.,Others,0
+6801,5,20,What part of england are you from? Ostrich-shi-shi-shire.,PJ,1
+6802,5,21,Pardon.,Others,0
+6803,5,22,Ostrich-shi-shi-shire.,PJ,0
+6804,5,23,I don't believe I've heard of ostrichshire.,Others,0
+6805,5,24,"You one 'shi' short, love.",PJ,0
+6806,5,25,"Dad, I'm in trouble.",Gabe,0
+6807,5,26,Let's focus on that.,Gabe,0
+6808,5,27,"Yes, Gabe has been misbehaving and I thought we should talk about it.",Others,0
+6809,5,28,"Yes, rest assured, we are aware, and are going to put an end to this behavior.",Teddy,0
+6810,5,29,"Yes, I will be taking the young lad out to the hollyhock house where we'll Shepherd his pie.",PJ,1
+6811,5,30,What? - It's just something they say in ostrich-shi-shi where he's from.,Teddy,0
+6812,6,0,"Hey, dad.",PJ,0
+6813,6,1,Hey.,Bob,0
+6814,6,2,"Why are you wearing a fake mustache? Why aren't you wearing one? I do enjoy our talks, son.",Bob,1
+6815,6,3,"Hey, while we're talking, at's your idea of a perfect first date? First date? First date.",PJ,0
+6816,6,4,"No, I'm sorry.",Bob,0
+6817,6,5,I really need an answer on that mustache.,Bob,1
+6818,6,6,Fine.,PJ,0
+6819,6,7,I was pretending to be a british version of you.,PJ,0
+6820,6,8,So you got a question about dating.,Bob,1
+6821,6,9,"Yeah, I gotta come up with something great for Skyler, but I don't have any ideas.",PJ,0
+6822,6,10,"How about a moonlight picnic? You can drive up into the mountains, look out over the lights of the city.",Bob,0
+6823,6,11,Sounds romantic.,PJ,0
+6824,6,12,Yeah.,Bob,0
+6825,6,13,I like it.,PJ,0
+6826,6,14,"Thanks, dad.",PJ,0
+6827,6,15,"Hey, dad.",Teddy,0
+6828,6,16,Hey.,Bob,0
+6829,7,0,"Why are you wearing a fake mustache? Why aren't you wearing one? Charlie, before you know it, you're gonna have something a lot better than a box to play in.",Amy,0
+6830,7,1,"Now let me just finish off this last nail and Then again, that box looks pretty fun.",Amy,1
+6831,8,0,"Oh, hey.",Teddy,0
+6832,8,1,Hey.,Others,0
+6833,8,2,Hey.,Teddy,0
+6834,8,3,Hey.,Others,0
+6835,8,4,You look good.,Teddy,0
+6836,8,5,You look good.,Others,0
+6837,8,6,We all look good.,Others,1
+6838,8,7,Would you sit down? Trying to do the celebrity word scramble here.,Others,1
+6839,8,8,"Julia Roberts! Teddy, I gotta ask you something.",Others,0
+6840,8,9,"Is there a reason that you didn't want me to come to your house? No, what are talking about? Ryan Reynolds.",Teddy,0
+6841,8,10,Do it in your head.,Others,1
+6842,8,11,I don't know.,Others,0
+6843,8,12,I kinda got the vibe that maybe you don't wanna introduce me to your family.,Others,0
+6844,8,13,"No, it's not that I don't want them to meet you.",Teddy,0
+6845,8,14,It's that I don't want them to meet your motorcycle and your biker boots and your leather jacket with the skull on it.,Teddy,0
+6846,8,15,"Teddy, I don't wanna be somebody you have to hide from your parents.",Others,0
+6847,8,16,Zac Efron! - Come on! You know what? I like you the way you are.,Others,0
+6848,8,17,That's all that matters.,Teddy,0
+6849,8,18,So come over tomorrow night and I'll introduce you.,Teddy,0
+6850,8,19,Cool.,Others,0
+6851,8,20,Here you go.,Others,0
+6852,8,21,"Thank you, mother.",Others,0
+6853,8,22,That's Gabe's mother.,Others,0
+6854,8,23,And that's not her husband.,Others,1
+6855,8,24,"Relax, maybe they're just friends.",Others,1
+6856,8,25,Or not.,Others,0
+6857,8,26,"Diet, mother? You're 41 years old and single.",Others,0
+6858,8,27,"Yeah, diet.",Others,0
+6859,9,0,Angelina Jolie! - Mom! Ha! Look at that.,Amy,1
+6860,9,1,"Yeah, first it was there, and now it's here.",Amy,0
+6861,9,2,"There, here.",Amy,0
+6862,9,3,You actually did this.,Bob,0
+6863,9,4,Guess somebody was wrong.,Amy,0
+6864,9,5,"Charlie, honey, who was wrong? - Daddy! Well, daddy's very impressed.",Bob,0
+6865,9,6,And a little shocked.,Bob,0
+6866,9,7,And mommy is gonna do a victory dance.,Amy,0
+6867,9,8,"I'm right, you're wrong 鈾?- I'm right, you're wrong, I'm right.",Amy,0
+6868,9,9,All right.,Bob,0
+6869,9,10,Now we're gonna switch it up.,Amy,0
+6870,9,11,"'Cause you're wrong and I'm right 鈾?you're wrong, I'm right, you're wrong.",Amy,0
+6871,9,12,鈾?- going inside now.,Bob,0
+6872,9,13,Bye-bye.,Amy,0
+6873,9,14,"In Spanish Estoy correcto, estoy correcto.",Amy,0
+6874,9,15,"鈾?- hi, I'm Tim.",Others,0
+6875,9,16,I'm Bob.,Bob,0
+6876,9,17,Why are we talking? Forgot to give this to your wife.,Bob,0
+6877,9,18,What is it? It's the bill for assembling your play structure.,Others,0
+6878,9,19,"You put that together? Yep, turned out pretty good, huh? Couldn't possibly have turned out better.",Others,0
+6879,9,20,"Well, if you'd like to reflect your satisfaction with a tip.",Others,0
+6880,9,21,"Bye-bye, Tim.",Bob,0
+6881,10,0,"You know, I take How are you enjoying our first date so far? Pretty special, right? This sure is a twisty road.",PJ,0
+6882,10,1,Which is fine with me 'cause this is fun.,PJ,0
+6883,10,2,Whoo-oo! Whoo-oo! You aren't whooing.,PJ,0
+6884,10,3,That's because I don't feel very well.,Skyler,0
+6885,10,4,Maybe you're just hungry.,PJ,0
+6886,10,5,Take something out of the picnic basket.,PJ,0
+6887,10,6,Or put something in.,PJ,0
+6888,10,7,Your choice.,PJ,0
+6889,11,0,"Help! - ( Structure falling ) - Help! Gabe, Gabe, watch Charlie! Bob! What happened? I don't know.",Amy,0
+6890,11,1,"I was just standing here admiring the swing set You know, the one you put together all by yourself And then boom! The whole thing came down on top of me.",Bob ,0
+6891,11,2,Are you okay? - I don't know.,Bob ,0
+6892,11,3,I just I feel so sleepy.,Bob ,0
+6893,11,4,No no no.,Amy,0
+6894,11,5,"No, Bob, stay with me.",Amy,0
+6895,11,6,Stay with me.,Amy,0
+6896,11,7,"Amy, just know that no matter what happens to me, I don't blame you for the way you put this thing together.",Bob ,1
+6897,11,8,I'm gonna go get help.,Amy,0
+6898,11,9,No no! Let me.,Bob ,0
+6899,11,10,Tim.,Bob ,0
+6900,11,11,"Oh, you know Tim, right? Of course I do.",Bob ,0
+6901,11,12,"Hi, Tim.",Amy,0
+6902,11,13,"How you doing? - Hi, Mrs.Duncan.",Amy,0
+6903,11,14,"Bob Duncan, how dare you scare me like that! Well, you deserved it for lying to me.",Amy,0
+6904,11,15,What? So now I can't lie to you? I thought we had a good marriage going here.,Bob ,0
+6905,11,16,Here's the bill for taking it apart.,Others,0
+6906,11,17,Thank you.,Bob ,0
+6907,11,18,"Oh, could you put this back together again please? Sure, then tomorrow you want me to come back and take it apart again? No.",Others,1
+6908,11,19,"Gosh, Tim, we're not crazy.",Amy,1
+6909,12,0,I am so glad you're giving me a second chance.,PJ,0
+6910,12,1,Let's just pretend our first date never happened.,Skyler,0
+6911,12,2,What first date? The one where I puked in the picnic basket.,Skyler,0
+6912,12,3,"No, it's an expression.",PJ,0
+6913,12,4,Puked in the picnic basket's an expression? I don't think that's gonna catch on.,Skyler,0
+6914,12,5,Excuse me.,PJ,0
+6915,12,6,Mrs.,PJ,0
+6916,12,7,"Monroe, what are you doing here? Mr.Duncan, you've seemed to have lost your accent.",Others,0
+6917,12,8,It comes and goes.,PJ,1
+6918,12,9,"Ah, there it is.",PJ,1
+6919,12,10,Pip pip.,PJ,1
+6920,12,11,And you've lost your mustache too.,Others,0
+6921,12,12,That's right.,PJ,1
+6922,12,13,Me mustache went cheerio.,PJ,1
+6923,12,14,Mr.,Others,0
+6924,12,15,"Duncan, I have disturbing news.",Others,0
+6925,12,16,It's about your wife.,Others,0
+6926,12,17,Your wife? You have a wife? - No.,Skyler,1
+6927,12,18,You don't? Of course I do.,PJ,0
+6928,12,19,Who are you? - I'm his girlfriend.,Skyler,0
+6929,12,20,"Hey, guys, what's the And here she is with her boyfriend? You're cheating on me? You're a married woman.",Teddy,1
+6930,12,21,You're married? - No.,Others,0
+6931,12,22,No no no.,Teddy,0
+6932,12,23,You're not? - Of course I am.,Teddy,0
+6933,12,24,"Eww! - Gabe! - Yes, mother.",Gabe,1
+6934,12,25,I'm starting to see why you didn't want me to meet your family.,Others,1
+6935,12,26,"Gabe, Mrs.Monroe has found out that your father and I are having problems.",Teddy,0
+6936,12,27,And does she know that you guys are the reason I misbehave? I do now.,Gabe,0
+6937,12,28,"Well, maybe some good can come from all this pain.",Gabe,1
+6938,12,29,Dial it down.,Teddy,0
+6939,12,30,"Mrs.Monroe, if you'll excuse us, this family has some healing to do.",Teddy,0
+6940,12,31,Which I would like to do just with my parents and their dates.,Gabe,0
+6941,12,32,"Stay warm, love.",PJ,0
+6942,12,33,Don't wanna freeze off your English muffins.,PJ,0
+6943,12,34,"Grandma, grandpa! What's going on? I'm Gabe's teacher.",Gabe,1
+6944,12,35,I came to talk to his parents.,Others,0
+6945,12,36,We're his parents.,Bob,0
+6946,12,37,"That's right, grandpa.",Gabe,1
+6947,12,38,You're my dad.,Gabe,1
+6948,12,39,He thinks he's the president too.,Gabe,1
+6949,12,40,"Who are you? - Hey, I'm Derek.",Others,0
+6950,12,41,Just a friend.,Teddy,0
+6951,12,42,Is that your motorcycle? - Yeah.,Bob,0
+6952,12,43,No - I love motorcycles.,Bob,0
+6953,12,44,"We're dating, me and Derek.",Teddy,0
+6954,12,45,Will you stop throwing that in my face? - We're done with that part.,PJ,0
+6955,12,46,Jolly good.,PJ,0
+6956,13,0,"Hey, Charlie.",Teddy,0
+6957,13,1,"Well, we all got grounded for pretending to be mom and dad, but there's some good news.",Teddy,0
+6958,13,2,"Looking good, Mr.Duncan.",Others,0
+6959,13,3,"Oh, please, call me Bob.",Bob,0
+6960,13,4,"Yeah, turns out I was worried about nothing.",Teddy,0
+6961,13,5,My new boyfriend is dad's new best friend.,Teddy,0
+6962,13,6,Maybe I do have something to worry about.,Teddy,0
+6963,13,7,"And things are cool between me and Skyler, after I explained I wasn't married to my sister.",PJ,0
+6964,13,8,"Yeah, that would have been awful.",Skyler,0
+6965,13,9,Talk about puke in the picnic basket.,Skyler,0
+6966,13,10,Right.,PJ,0
+6967,13,11,"What? - Oh, it's an expression.",Skyler,0
+6968,13,12,Yeah.,PJ,0
+6969,13,13,( Engine revving ) - Whoopsie.,Bob,0
+6970,13,14,"My bike! Oh, well, that should put a dent in the old friendship.",Teddy,1
+6971,13,15,"And of course, your swing set has now collapsed three times.",Teddy,1
+6972,13,16,"Good luck, Charlie.",Teddy,0
+6973,14,0,"( Videogame beeping ) - ( Doorbell rings ) - What are you doing? - Sorry to trouble you, governor, but I'm visiting the States from the u.K.",PJ,0
+6974,14,1,And me auto seems to have broken down in front of your house.,PJ,0
+6975,14,2,I'm trying to play a videogame here.,Gabe,0
+6976,14,3,"If there's a funny part to this story, can we please get to it.",Gabe,0
+6977,14,4,"Saucy little bloke, aren't you? Anyway, may I use your telephone to ring up the garage? Get in here.",PJ,0
+6978,14,5,"Gabe, who was at the By jove, you're a handsome lad.",PJ,1
+6979,14,6,"Back at you, british dude.",PJ,1
+6980,14,7,Wh if you're What? Are you by any chance from ostrich-shi-shi-shire? Where? Never heard of it.,PJ,1
+6981,14,8,I'm from ostrich-shi-shi-shi-shire.,PJ,1
+6982,14,9,"Ah, I was one 'shi' short.",PJ,1

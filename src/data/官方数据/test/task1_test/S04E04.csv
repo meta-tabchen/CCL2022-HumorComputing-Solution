@@ -1,0 +1,320 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker
+3313,1,0,"Okay, Charlie.",Bob
+3314,1,1,Let's go.,Bob
+3315,1,2,Time for daddy to take you to school.,Bob
+3316,1,3,"Forgetting something, Bob? Um uh, keys, wallet, phone.",Amy
+3317,1,4,"No, I'm good.",Bob
+3318,1,5,How about your pants? You're not taking Charlie to school in your bathrobe.,Amy
+3319,1,6,"Honey, it's Little Dolphins Preschool.",Bob
+3320,1,7,It's not Buckingham Palace.,Bob
+3321,1,8,Go change.,Amy
+3322,1,9,I haven't showered yet.,Bob
+3323,1,10,"Then I gotta get dressed, take Charlie, come back, get undressed, shower, then get dressed all over again.",Bob
+3324,1,11,"You mean like a regular person? Hey, he's planning on taking a shower.",Amy
+3325,1,12,Let's not push it.,Gabe
+3326,1,13,"Teddy, you want a ride? Yeah, but you can drop me off a block away.",Teddy
+3327,1,14,Me too.,Charlie
+3328,1,15,Bye.,Bob
+3329,1,16,Bye.,Amy
+3330,1,17,"Hey, guys.",PJ
+3331,1,18,"Hey, honey I'm so glad you're here, I need you to do something for me.",Amy
+3332,1,19,"Oh! Again? You know, for once, I'd like to just drop off my dirties, eat the breakfast you make for me and leave with my clothes clean and folded.",PJ
+3333,1,20,I'll pass that on to the staff.,Amy
+3334,1,21,"Okay, look, I need you to take Toby to the playground later.",Amy
+3335,1,22,And you're going too.,Amy
+3336,1,23,Why me? Because your brother has a bad record with babies.,Amy
+3337,1,24,What are you talking about? ,PJ
+3338,1,25,"Oh, come on.",Amy
+3339,1,26,You lost Charlie.,Amy
+3340,1,27,Twice.,Amy
+3341,1,28,You raced Charlie.,Amy
+3342,1,29,Twice.,Amy
+3343,1,30,And those are the things I know about.,Amy
+3344,1,31,"When did I become the responsible one? Oh, honey, you didn't.",Gabe
+3345,1,32,I'm just out of options.,Amy
+3346,1,33,What about that staff you mentioned? ,PJ
+3347,2,34,Far enough.,Charlie
+3348,2,35,"Well, don't you want me to come in with you? No, thank you.",Bob
+3349,2,36,Mr.Duncan.,Others
+3350,2,37,"Hey, teacher Emma! It's 'Director' now.",Bob
+3351,2,38,And it's Emily.,Others
+3352,2,39,"Oh, wow, look at that.",Bob
+3353,2,40,They even promoted your name.,Bob
+3354,2,41,Yeah.,Others
+3355,2,42,"Well, congratulations, Director Emily.",Bob
+3356,2,43,Uh I hate to ask you this.,Others
+3357,2,44,"But, you do know you're in a bathrobe, right? I was just dropping Charlie off.",Others
+3358,2,45,"You know what? I'm in, I'm out, you won't even know I'm here.",Bob
+3359,2,46,"Oh, but I do know you're here.",Others
+3360,2,47,And you're in violation of our dress code.,Others
+3361,2,48,You've got a dress code for drop-off? And pick-up.,Bob
+3362,2,49,We have rules here.,Others
+3363,2,50,And I expect all parents to follow them.,Others
+3364,2,51,Come on! Oh! I put four kids through Little Dolphins.,Bob
+3365,2,52,"How about cutting me a little slack? What I'd like to cut you, Mr.Duncan Are some slacks.",Others
+3366,3,53,"( Doorbell ringing ) Hey, Kelsey.",Teddy
+3367,3,54,How was practice? Not good.,Teddy
+3368,3,55,"There was this accident, and one of the girls got hurt.",Others
+3369,3,56,"Oh, no.",Teddy
+3370,3,57,"I'd explain it to you, but it involves a lot of technical cheer leading stuff you probably wouldn't understand.",Others
+3371,3,58,What happened? - We dropped her.,Teddy
+3372,3,59,"Yeah, she's okay.",Others
+3373,3,60,But now we have to replace her before our big trip to Oahu.,Others
+3374,3,61,"Oahu? Yeah, it's where the National Cheerleading Competition is this year.",Others
+3375,3,62,"Oh, man! I love that place.",Teddy
+3376,3,63,I went there with my family.,Teddy
+3377,3,64,I'd love to go there without my family.,Teddy
+3378,3,65,"Yeah, well, tryouts are later.",Others
+3379,3,66,I could try out.,Teddy
+3380,3,67,"Really? That would be awesome! Go-o-o-o Teddy! Hi, Gabe.",Others
+3381,3,68,"Hi, Kelsey.",Gabe
+3382,3,69,I didn't know you were a cheerleader.,Gabe
+3383,3,70,I am.,Others
+3384,3,71,And you know who else might be? - Hmm? I thought you said you didn't like cheerleaders.,Gabe
+3385,3,72,They were always the dumbest kids in school.,Gabe
+3386,3,73,"No, Gabe.",Teddy
+3387,3,74,I said they're the funnest kids in school.,Teddy
+3388,3,75,"Yeah, we are super fun.",Others
+3389,3,76,( Chuckles ) You know the coach actually tried to recruit me to The Squad freshman year.,Teddy
+3390,3,77,( Chuckles ) Why? ,Gabe
+3391,3,78,( Laughs ) Isn't it obvious? Imagine all this in that.,Teddy
+3392,3,79,Now you've ruined it.,Gabe
+3393,4,80,"All right, since we have to be here, can we at least make things interesting? ",Gabe
+3394,4,81,How about a bet? ,Gabe
+3395,4,82,I'm listening.,PJ
+3396,4,83,All right.,Gabe
+3397,4,84,How about this? I bet you can't fit into this baby swing.,Gabe
+3398,4,85,"Oh, yeah? Well, a cheeseburger says I can.",PJ
+3399,4,86,You're on.,Gabe
+3400,4,87,Hold on.,PJ
+3401,4,88,A cheeseburger with onions.,PJ
+3402,4,89,Fine.,Gabe
+3403,4,90,Hold on.,PJ
+3404,4,91,And mustard.,PJ
+3405,4,92,Fine.,Gabe
+3406,4,93,"And not just plain old yellow mustard, ",PJ
+3407,4,94,I'm talking about the kind of mustard ,PJ
+3408,4,95,"Okay, just do it.",Gabe
+3409,4,96,Okay.,PJ
+3410,4,97,All right.,PJ
+3411,4,98,( Grunts ) Hang on.,PJ
+3412,4,99,"Okay, this is not over.",PJ
+3413,4,100,I have an idea.,PJ
+3414,4,101,Let's go! Forgetting something? I knew that.,Gabe
+3415,4,102,"You don't actually think I'd forget a baby three times, do you? Let's take it one bet at a time.",PJ
+3416,5,103,"Hey, girls.",Amy
+3417,5,104,"Hey, mom.",Teddy
+3418,5,105,Whatcha doing? My friend Kelsey sent me this video of a cheer leading routine.,Teddy
+3419,5,106,I have to learn it for tryouts.,Teddy
+3420,5,107,"Really? Okay, so I looked through all of your old yearbooks to confirm you were never a cheerleader.",Teddy
+3421,5,108,That's why I'm telling you this.,Teddy
+3422,5,109,"Well, honey.",Amy
+3423,5,110,"You know, I had to choose Be one of many cheerleaders or be the mascot.",Amy
+3424,5,111,"There's only one Wammy the Rammy! Charlie, honey, have I ever told you about my years as Wammy the Rammy? Coming! Mom, I'm kind of surprised you chose mascot, since your face was hidden under a giant head.",Amy
+3425,5,112,Mm-hmm.,Amy
+3426,5,113,I struggled with that.,Amy
+3427,5,114,But then I realized that the head could fall off Twice a performance.,Amy
+3428,5,115,( Chuckles ) Which became my trademark.,Amy
+3429,5,116,( Clicks tongue ) Good luck.,Amy
+3430,5,117,"Is she gone? All clear, Charlie.",Teddy
+3431,5,118,"Okay, Teddy.",Charlie
+3432,5,119,Here's the routine.,Others
+3433,5,120,See if you can stay with me.,Others
+3434,5,121,"( Dance music playing ) Seven, eight run, run, run, run.",Others
+3435,5,122,"Step, turn, step, turn.",Others
+3436,5,123,"Run, run, run, run.",Others
+3437,5,124,"Step, turn, step, turn.",Others
+3438,5,125,"Step, step, hip, cross.",Others
+3439,5,126,"Open, cross, down, up.",Others
+3440,5,127,Go Rams! ,Others
+3441,5,128,( Exhales ) And that's all there is to it.,Others
+3442,5,129,Piece of cake.,Teddy
+3443,5,130,Where are you going? I'm going to the Mall to get some things for Oahu.,Teddy
+3444,5,131,"That's right, Charlie.",Teddy
+3445,5,132,Your sister's going to Hawaii! ,Teddy
+3446,5,133,( Chanting ) Hey hey! Hoot hoot! I'm off to buy a bathing suit.,Teddy
+3447,5,134,"Hey hey, hoot hoot Woo! Now, here's where it get complicated.",Others
+3448,5,135,( Up-tempo music playing ) Uh-oh.,Charlie
+3449,6,136,"Huh! Okay, what's with the huh-ing? Oh, Director Emily had a little problem with my robe this morning.",Bob
+3450,6,137,"Oh, I'm sorry, Bob.",Amy
+3451,6,138,I should have said something before you left.,Amy
+3452,6,139,"Look, according to the Little Dolphins handbook 'When dropping off children, pajamas,' 'lounge-wear and sleepwear of any kind' 'Are strictly prohibited'.",Bob
+3453,6,140,"It's no big deal, Bob, okay? Just let it go.",Amy
+3454,6,141,"Oh, just let it go.",Bob
+3455,6,142,Just like that.,Bob
+3456,6,143,"Yeah, just like that.",Amy
+3457,6,144,"All right, all right.",Bob
+3458,6,145,"All right, I'll I'll let it go.",Bob
+3459,6,146,I'm letting it go.,Bob
+3460,6,147,Look.,Bob
+3461,6,148,( Whispering ) It's gone.,Bob
+3462,6,149,Good.,Amy
+3463,6,150,"( Scoffs ) Oh-ho, no.",Bob
+3464,7,151,"( Grumbling ) You really wanna win this bet, don't you? It is now a question of honor.",PJ
+3465,7,152,You're buttering your legs to fit into a baby swing.,Gabe
+3466,7,153,Honor comes in many flavors.,PJ
+3467,7,154,Okay.,PJ
+3468,7,155,( Grunts ) Uh-huh.,PJ
+3469,7,156,"Ah, yes! Yeah! Yeah! Yup.",PJ
+3470,7,157,Oh! And I'm stuck.,PJ
+3471,7,158,Stuck? - Are you sure? ,Gabe
+3472,7,159,"Yup yup, I'm sure.",PJ
+3473,7,160,"Okay, well, I I guess I should probably do something.",Gabe
+3474,7,161,How about this? ,Gabe
+3475,7,162,What? ,PJ
+3476,7,163,Whee! ,Gabe
+3477,7,164,Hey! ,PJ
+3478,8,165,"( Groans ) Whee! Mrs.Lutes, hello! Teddy Duncan.",Teddy
+3479,8,166,I was a little surprised to see your name on the sign-up sheet.,Others
+3480,8,167,Why? We've talked about cheer leading before.,Teddy
+3481,8,168,"Right, I remember that conversation.",Others
+3482,8,169,I suggested you try out and you said 'I'll become a cheerleader when I lose 50 I.,Others
+3483,8,170,Q.,Others
+3484,8,171,Points'.,Others
+3485,8,172,I say some crazy things.,Teddy
+3486,8,173,No ( Exhales ),Teddy
+3487,8,174,I have so much respect for cheer leading now.,Teddy
+3488,8,175,I've seen 'bring it on' like Twice.,Teddy
+3489,8,176,"This has nothing to do with our big trip, does it? You're taking a trip? Wait.",Others
+3490,8,177,This is the first I'm hearing of this.,Teddy
+3491,8,178,"All right, let's see what you got.",Others
+3492,8,179,Hit it.,Others
+3493,8,180,Woo! Woo! Woo! Woo! ,Teddy
+3494,8,181,Go Rams! ,Teddy
+3495,8,182,Keep going.,Others
+3496,8,183,Go Rams! I don't understand.,Teddy
+3497,9,184,"How can you get in, but not out? It's hot, and my legs are cooking with all this butter.",PJ
+3498,9,185,They've swelled up like a couple of hairy hot dogs.,PJ
+3499,9,186,"Oh, hey, mom.",Gabe
+3500,9,187,"Yeah, no we'll be home soon.",Gabe
+3501,9,188,"I just, uh Just gotta get this kid outta the swing.",Gabe
+3502,9,189,"All right, I'll talk to you soon.",Gabe
+3503,9,190,"Okay, bye.",Gabe
+3504,9,191,"Dude, you gotta get me outta here.",PJ
+3505,9,192,I'm losing feeling in my hot dogs.,PJ
+3506,9,193,My buns don't feel so good either.,PJ
+3507,10,194,"( Sighs ) Hey, what's wrong? I blew my stupid cheer leading tryout.",Teddy
+3508,10,195,What's the big deal? I fail at stupid things all the time.,PJ
+3509,10,196,Kinda what I'm known for.,PJ
+3510,10,197,"Yeah, well, I'm known for being a winner.",Teddy
+3511,10,198,"Teddy, a winner is someone who gets back up after being knocked down.",PJ
+3512,10,199,"No, P.J.",Teddy
+3513,10,200,A winner is someone who doesn't lose.,Teddy
+3514,10,201,So much for that fortune cookie.,PJ
+3515,10,202,I just can't believe I'm not going to Oahu.,Teddy
+3516,10,203,It's all my own fault.,Teddy
+3517,10,204,"Let me tell you a story, sis.",PJ
+3518,10,205,This is a story that happened a long long time ago.,PJ
+3519,10,206,Not today.,PJ
+3520,10,207,There was this guy who made a bet with his brother That he could fit into a baby swing.,PJ
+3521,10,208,"Now he couldn't at first, but did he give up? No.",PJ
+3522,10,209,He buttered up his legs Forced 'em into that swing.,PJ
+3523,10,210,Now that's what I call a winner.,PJ
+3524,10,211,"You're wearing a baby swing, aren't you? I might be.",Teddy
+3525,10,212,Quick! Mom's coming upstairs! Hide! Go go! Wh mom is not home.,Gabe
+3526,10,213,"I know, I just wanted to see him run around like that.",Gabe
+3527,11,214,"Good morning, Charlie.",Others
+3528,11,215,Did mommy drop you off today? No.,Others
+3529,11,216,( Cheerily ) Good morning.,Bob
+3530,11,217,"Bye, daddy.",Charlie
+3531,11,218,"Sayonara, Sweetie.",Bob
+3532,11,219,Mr.Duncan? I thought we discussed the dress code.,Others
+3533,11,220,Yes.,Bob
+3534,11,221,And I read the handbook cover to cover.,Bob
+3535,11,222,Then why are you wearing a robe? Oh! No.,Others
+3536,11,223,This is not a robe.,Bob
+3537,11,224,This is a kimono.,Bob
+3538,11,225,It is a traditional Japanese garment Often worn at weddings and tea ceremonies.,Bob
+3539,11,226,"It is not sleepwear, it is not lounge-wear.",Bob
+3540,11,227,And therefore is allowed at the school.,Bob
+3541,11,228,"Game, set And match! You know, if you were a little dolphin, you'd be in a time-out right now.",Others
+3542,11,229,"Oh, let me put this in little dolphin talk.",Bob
+3543,11,230,The kimono Not a no-no.,Bob
+3544,11,231,"So until tomorrow then When Bob Duncan takes a trip to the continent of Europe? Oh, do I have your attention? Oh, Mrs.",Bob
+3545,12,232,"Lutes, hi! Um If you have a second, I'd love to explain what happened at my tryout.",Teddy
+3546,12,233,What happened was you didn't make the team.,Others
+3547,12,234,I know.,Teddy
+3548,12,235,But do you know why I didn't make the team? Because you were terrible.,Teddy
+3549,12,236,"Okay, but do you know why I was terrible? Because you have no talent.",Teddy
+3550,12,237,Let's try a different tack.,Teddy
+3551,12,238,Because you're uncoordinated.,Others
+3552,12,239,We're not doing that anymore! ,Teddy
+3553,12,240,Look ( Sighs ) Being on this team is very important to me.,Teddy
+3554,12,241,"In fact, it's always been a dream of mine to be a cheerleader for the last half of my senior year.",Teddy
+3555,12,242,"Well, seeing as we haven't filled the spot, I'm gonna give you one more chance to prove yourself.",Others
+3556,12,243,This time at a real sporting event.,Others
+3557,12,244,Really? - Mm-hmm.,Teddy
+3558,12,245,"Well, what is it? Volleyball, basketball? Eh, not exactly.",Teddy
+3559,13,246,You can do it! Woo-hoo! ,Teddy
+3560,13,247,Oh! ,Teddy
+3561,13,248,( Chanting ) Get it out! Get it out! All out! ,Teddy
+3562,13,249,"( Groaning ) Way to go, way to be! I think we have an emergency! ",Teddy
+3563,13,250,"( Mimics ambulance siren ) Are you guys not seeing this? Good morning, honey.",Teddy
+3564,14,251,You look beautiful today.,Bob
+3565,14,252,So do you.,Amy
+3566,14,253,"So, wearing a skirt puts you in a good mood, huh? It's not a skirt.",Amy
+3567,14,254,( Scottish accent ) It's a kilt! ,Bob
+3568,14,255,( Normal voice ) It's not sleepwear.,Bob
+3569,14,256,It's not lounge-wear and therefore Is permitted at drop-off.,Bob
+3570,14,257,Every day I fall in love with you all over again.,Amy
+3571,14,258,"You know, yesterday I told Director Emily 'The kimono not a no-no'.",Bob
+3572,14,259,( Laughing ) I wonder what I'm gonna tell her today.,Bob
+3573,14,260,"Well, don't rack your brain.",Amy
+3574,14,261,Director Emily called.,Amy
+3575,14,262,You and your international wardrobe have been banned from the school.,Amy
+3576,14,263,"Oh-ho-ho, no! No no no no no! This is not over.",Bob
+3577,14,264,"Yes, it is.",Amy
+3578,14,265,"No, it's not over until I say it's over.",Bob
+3579,14,266,I just said it's over.,Amy
+3580,14,267,"Well, okay.",Bob
+3581,14,268,Now it's over.,Bob
+3582,14,269,( Mutters ) Shaved my legs for nothing.,Bob
+3583,15,270,"Hey, I've been meaning to thank you for taking Toby to the park.",Amy
+3584,15,271,"Oh, no problem.",PJ
+3585,15,272,"There were no mishaps, nobody got lost.",Amy
+3586,15,273,"Three people left, three people came back.",Amy
+3587,15,274,The same three people.,PJ
+3588,15,275,Yeah.,Amy
+3589,15,276,Come here.,Amy
+3590,15,277,Give your mother a hug.,Amy
+3591,15,278,Oh.,PJ
+3592,15,279,"No, thanks.",PJ
+3593,15,280,P.J.,Amy
+3594,15,281,( Snaps fingers ) Hug ,Amy
+3595,15,282,( Clicks tongue ) Now.,Amy
+3596,15,283,( Chains rattling ) Is there something you wanna tell me? No.,Amy
+3597,15,284,P.J.,Amy
+3598,15,285,I know you're wearing a swing.,Amy
+3599,15,286,You know you're wearing a swing.,Amy
+3600,15,287,Can we just be honest with each other? Or we could just Pretend we don't know and go about our day.,PJ
+3601,15,288,Pretend we don't know?! ,Amy
+3602,15,289,( Breathes deeply ) Okay.,Amy
+3603,15,290,"Bye, mom! - Bye, Sweetie.",PJ
+3604,16,291,"Teddy, I hear you did great at the cross-country meet.",Others
+3605,16,292,"That the runners loved you, the fans loved you and so did the paramedics.",Others
+3606,16,293,"So am I on the team? Yes, you are.",Teddy
+3607,16,294,"( Both cheer ) Woo-hoo! Hey, save some of that spirit for Ohio.",Others
+3608,16,295,"( Stammering ) I'm sorry, what? The cheer leading competition is in Columbus, Ohio.",Others
+3609,16,296,The Big Apple of the Midwest.,Others
+3610,16,297,Ohio?! You said Oahu! I did? I always mix those up.,Teddy
+3611,16,298,I'm such a cheerleader! Ohio.,Others
+3612,16,299,Not Oahu.,Teddy
+3613,16,300,I thought it was weird we were taking the bus.,Others
+3614,17,301,"Well, Charlie, I made fun of cheerleaders all my life, and now I am one.",Teddy
+3615,17,302,"My reward ( Flatly ) Go, Teddy! To pass the time, Kelsey and I will be working on this puzzle.",Teddy
+3616,17,303,She's gonna learn where the states are and how to pronounce them.,Teddy
+3617,17,304,P.J.! ,Teddy
+3618,17,305,"Huh? Hi, there.",Teddy
+3619,17,306,"Uh, I see you got the baby swing off.",Teddy
+3620,17,307,"Yes, I did.",PJ
+3621,17,308,"Make any new bets? - Yes, I did.",Teddy
+3622,17,309,That's your gene pool.,Teddy
+3623,17,310,"Good luck, Charlie.",Teddy
+3624,18,311,"How about this? I bet you, you can't throw this pine cone Have it hit that street sign, ricochet off the bird's nest, knock the glass out of that lady's hands, carom off the cat, have it bounce off the trampoline and then hit the giant in the head.",Gabe
+3625,18,312,Question.,PJ
+3626,18,313,Why is there a giant in the park? Do you want the bet or not? Cone me.,PJ
+3627,18,314,All right.,PJ
+3628,18,315,( Exhales) Yeah! ,PJ
+3629,18,316,"Yeah! Woo! I got it! Oh, I gotta say, that was a heck of a sh*t.",Gabe
+3630,18,317,Yeah.,PJ
+3631,18,318,Both: Oh I am not the guy you wanna be messing with.,Others

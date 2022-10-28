@@ -1,0 +1,377 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker
+5527,1,0,Guys.,Bob
+5528,1,1,What are you doing Saturday night? Your mom really needs a night out.,Bob
+5529,1,2,You want us to take mom out? Isn't that kind of your job? I need you guys to babysit so that we can go out to dinner with the Wentzes.,PJ
+5530,1,3,We're going to Mondello's.,Bob
+5531,1,4,Oh.,PJ
+5532,1,5,Isn't that place like super expensive? I don't care.,PJ
+5533,1,6,Your mother deserves the best.,Bob
+5534,1,7,"You got a coupon, huh? Yes, Sir.",Gabe
+5535,1,8,I do.,Bob
+5536,2,9,Hey.,Bob
+5537,2,10,"Bob, honey, the Wentzes just called and canceled.",Amy
+5538,2,11,They said they have to go to Nebraska for some family emergency.,Amy
+5539,2,12,"Oh, really? All right.",Bob
+5540,2,13,"Well, I'll tell the boys they don't have to babysit.",Bob
+5541,2,14,No no no no no no no no.,Amy
+5542,2,15,"I need a night out so bad, I'm willing to spend it just with you.",Amy
+5543,2,16,And the love affair continues.,Bob
+5544,3,17,"Hi, Teddy.",Beau
+5545,3,18,"Hi, Beau.",Teddy
+5546,3,19,"Uh, what are you doing here? Oh, me and your dad have a new plan.",Teddy
+5547,3,20,We're carpooling.,Beau
+5548,3,21,Really? Because he just left to pick you up.,Teddy
+5549,3,22,"Well, I didn't say it was a good plan.",Beau
+5550,3,23,"Listen, while I'm here I wanted to ask you something.",Beau
+5551,3,24,"Do you have any plans Saturday night? Beau, that's really sweet.",Beau
+5552,3,25,"But just I have some unresolved feelings with my old boyfriend, so I'm not really into dating right now.",Teddy
+5553,3,26,I wasn't asking you out on a date.,Beau
+5554,3,27,I should have let you finish.,Teddy
+5555,3,28,"Why don't you do that now? See, there's this girl, Katie.",Teddy
+5556,3,29,She invited me out and I want to go.,Beau
+5557,3,30,But I don't want her to think it's a date.,Beau
+5558,3,31,"So I thought if I brought a friend, she'd get the message.",Beau
+5559,3,32,Mm.,Teddy
+5560,3,33,So you're asking me out on a date that's not really a date so that you'll look like you're not on a date.,Teddy
+5561,3,34,Exactly.,Beau
+5562,3,35,And I'm asking you because I don't know anyone else who's willing to not date me.,Beau
+5563,3,36,"Well, I guess as long as I'm not not dating anyone.",Teddy
+5564,3,37,"So it's a not date? Why not? Okay, guys.",Teddy
+5565,4,38,We're leaving.,Amy
+5566,4,39,"Hey, mom.",Amy
+5567,4,40,You look great.,Gabe
+5568,4,41,"Oh, thanks, honey.",Gabe
+5569,4,42,Dad.,Gabe
+5570,4,43,Look how good mom looks.,Gabe
+5571,4,44,Oh.,Amy
+5572,4,45,I think your father looks very handsome.,Amy
+5573,4,46,"Thank you, honey.",Bob
+5574,4,47,And I'm very much looking forward to a wonderful night out.,Amy
+5575,4,48,"Oh, by the way.",Bob
+5576,4,49,We're taking the bug truck.,Bob
+5577,4,50,I can write off the mileage.,Bob
+5578,4,51,I'll be right there.,Bob
+5579,4,52,"Gentlemen, tonight I want nothing to go wrong.",Bob
+5580,4,53,"When I come back, I want to see every baby, every babysitter, and everything in the house just the way it is now.",Bob
+5581,4,54,"You got that, PJ? - Dad, relax.",Bob
+5582,4,55,Everything is under control.,PJ
+5583,4,56,I know.,Bob
+5584,4,57,But you say that every time.,Bob
+5585,4,58,"Well, one of these times it's bound to come true.",PJ
+5586,4,59,All right.,Bob
+5587,4,60,That's good enough to get me out of the house.,Bob
+5588,4,61,Bye.,PJ
+5589,4,62,Uh-huh.,PJ
+5590,4,63,Okay.,PJ
+5591,4,64,Listen up.,PJ
+5592,4,65,Tonight I am Captain of the ship.,PJ
+5593,4,66,"And I say there will be no running, no mess, no horseplay of any kind.",PJ
+5594,4,67,Boring.,Charlie
+5595,4,68,Yeah.,Gabe
+5596,4,69,"Why are you being so strict? I mean, you're worse than mom and her stupid no fireworks in the basement rule.",Gabe
+5597,4,70,I'll tell you why.,PJ
+5598,4,71,Because I'm tired of everyone always thinking I'm the irresponsible one.,PJ
+5599,4,72,All right? That ends tonight.,PJ
+5600,4,73,Uh-oh.,PJ
+5601,4,74,"What? Either I just wet myself, or I sat on Charlie's juice box.",PJ
+5602,4,75,I'm not sure what to root for here.,Gabe
+5603,4,76,Oh no! It's mom's new couch.,PJ
+5604,4,77,"Well, you had a good 30 seconds,Captain. Welcome to Boots N Saddles.",Gabe
+5605,5,78,I've never been to a Country-Western place before.,Teddy
+5606,5,79,Sit down.,Beau
+5607,5,80,You're gonna love it.,Beau
+5608,5,81,So - Where's Katie? ,Teddy
+5609,5,82,She should be here any minute.,Teddy
+5610,5,83,"Howdy, partners.",Others
+5611,5,84,"I'm Donald, your server.",Others
+5612,5,85,"Can I get you something from the watering hole? Donald, it doesn't really sound like your heart's really into this Country-Western thing.",Teddy
+5613,5,86,"My dream was to work in the yogurt business, but you gotta know someone to get in.",Others
+5614,5,87,Um I'll have a lemonade.,Teddy
+5615,5,88,Make that two.,Beau
+5616,5,89,"Coming right up, y'all.",Others
+5617,5,90,"So, how do you like working for my dad? I love it.",Teddy
+5618,5,91,He's a great guy.,Beau
+5619,5,92,But he sure does tell a lot of bug stories.,Beau
+5620,5,93,And they all end the same way.,Beau
+5621,5,94,And then I k*ll it.,Beau
+5622,5,95,"Oh, man.",Beau
+5623,5,96,Katie can't make it.,Beau
+5624,5,97,Oh.,Teddy
+5625,5,98,"Well then, we should cancel the lemonades because my job's done.",Teddy
+5626,5,99,Where's Donald? - Hold up.,Teddy
+5627,5,100,Hold up.,Beau
+5628,5,101,"As long as we're here, we might as well stay and hang out.",Beau
+5629,5,102,I don't know.,Teddy
+5630,5,103,This isn't really my thing.,Teddy
+5631,5,104,What's not your thing? Having fun? Are you kidding? Nobody's more fun than me.,Teddy
+5632,5,105,"Barrels of monkeys look at me and go, wow! We wish we were that fun.",Teddy
+5633,5,106,Really? - Mm hmm.,Beau
+5634,5,107,I don't believe you.,Beau
+5635,5,108,"Are you implying that you don't think I'm fun? Actually, I'm kind of saying it.",Teddy
+5636,5,109,Oh yeah? All right.,Teddy
+5637,5,110,"Well, I'll show you how much fun I am.",Teddy
+5638,5,111,I'm gonna order up a Mess-o-grub.,Teddy
+5639,5,112,"And then when I'm done eating, I'm gonna ride that mechanical bull.",Teddy
+5640,5,113,Just from prior experience You might want to reverse that.,Beau
+5641,6,114,"Anything look good? Uh, you mean other than my beautiful wife? Mr.",Bob
+5642,6,115,Duncan.,Amy
+5643,6,116,Are you flirting with me? I believe I am.,Amy
+5644,6,117,"Uh, anything look good to you? No.",Bob
+5645,6,118,"Well, that was kind of hurtful.",Bob
+5646,6,119,Not you.,Amy
+5647,6,120,Look.,Amy
+5648,6,121,The Wentzes? I thought they had some kind of family emergency.,Bob
+5649,6,122,In Nebraska.,Amy
+5650,6,123,Do you think they blew us off? There's only one way to find out.,Bob
+5651,6,124,I'm gonna call Mary Lou.,Amy
+5652,6,125,"If she says they're in Nebraska, then we have our answer.",Amy
+5653,6,126,I don't believe it.,Others
+5654,6,127,Did you do something to tick her off? Don't be ridiculous.,Bob
+5655,6,128,When have I ever ticked anyone off? You know what? Let me call Harry.,Bob
+5656,6,129,Let's see what's going on.,Bob
+5657,7,130,"You're in trouble, you're in trouble.",Charlie
+5658,7,131,It was your grape juice.,PJ
+5659,7,132,It was your butt.,Charlie
+5660,7,133,"Oh, what are you smiling about, Toby? I could pin this on you in a New York minute, what would you say? Gah gah gah gah.",PJ
+5661,7,134,Gah gah gah gah gah.,PJ
+5662,7,135,"PJ, calm down.",Gabe
+5663,7,136,It's happening again.,PJ
+5664,7,137,"I'm in charge, and I'm blowing it.",PJ
+5665,7,138,Relax.,Gabe
+5666,7,139,The couch repair guy will be here soon.,Gabe
+5667,7,140,Well how do we know he's any good? ,PJ
+5668,7,141,He had an ad on the Internet.,Gabe
+5669,7,142,They don't just give those to anybody.,Gabe
+5670,7,143,Sofa surgeon.,Others
+5671,7,144,Thanks for coming over so quickly.,PJ
+5672,7,145,Sure.,Others
+5673,7,146,Where's the patient.,Others
+5674,7,147,Patient? You take this surgeon thing pretty seriously.,Gabe
+5675,7,148,"Well, I didn't put yellow blinking lights on the top of my hatchback because I don't take it seriously.",Others
+5676,7,149,It's right over here.,Others
+5677,7,150,Okay.,Others
+5678,7,151,What is the nature of the stain? ,Others
+5679,7,152,It's grape juice.,Others
+5680,7,153,And we're done.,Others
+5681,7,154,You're giving up already? ,PJ
+5682,7,155,"It's grape juice, man.",Others
+5683,7,156,I am a sofa surgeon.,Others
+5684,7,157,Not a miracle worker.,Others
+5685,7,158,Isn't there anything we can do? ,Gabe
+5686,7,159,"If our parents come home and see this, ",PJ
+5687,7,160,we're gonna be in huge trouble.,PJ
+5688,7,161,"Well, mostly him.",Gabe
+5689,7,162,Your only option is to replace the deceased.,Others
+5690,7,163,You find another couch that looks exactly like this one.,Others
+5691,7,164,"How are we supposed to do that? I mean, go to an all-night couch store? Alan's all-night couch store.",Others
+5692,7,165,"Oh, and if you use my name, you get a free balloon.",Others
+5693,7,166,I'm in.,Charlie
+5694,8,167,You don't have to do this.,Beau
+5695,8,168,I've done this before.,Teddy
+5696,8,169,You've ridden a mechanical bull? No.,Beau
+5697,8,170,But I rode a pony outside the grocery store.,Teddy
+5698,8,171,"Well, as long as you've had experience.",Beau
+5699,8,172,Giddy up.,Teddy
+5700,8,173,Whoa! Whoa.,Teddy
+5701,8,174,"Aah! You okay? Yeah, I'm fine.",Beau
+5702,8,175,Am I standing up? Look at them over there.,Amy
+5703,8,176,"Talking, laughing, having a grand old time.",Amy
+5704,8,177,Makes me sick.,Amy
+5705,8,178,I don't get it.,Amy
+5706,8,179,"Why would the Wentzes blow us off? Oh, I don't know.",Bob
+5707,8,180,"I mean, we're a fun couple, right? - Yes.",Bob
+5708,8,181,Uh-huh.,Amy
+5709,8,182,"Now what is that supposed to mean? I just In social situations, you tend to talk about bugs and rodents.",Amy
+5710,8,183,A lot.,Amy
+5711,8,184,"So now this is my fault? Bob, I'm your wife.",Bob
+5712,8,185,Of course it's your fault.,Amy
+5713,8,186,"Honey, I mean, since we're pointing fingers, I mean You know, you tend to talk about yourself.",Bob
+5714,8,187,A lot.,Bob
+5715,8,188,At least I'm talking about something interesting.,Amy
+5716,8,189,"Are you? Yes, I am.",Bob
+5717,8,190,I happen to be a fascinating woman.,Amy
+5718,8,191,You see what we're doing here? We're turning on each other like rats.,Bob
+5719,8,192,And we're back to you.,Amy
+5720,8,193,"Well, that was great.",Teddy
+5721,8,194,At least now I can cross riding a mechanical bull off my bucket list.,Teddy
+5722,8,195,You have a bucket list? Yeah.,Beau
+5723,8,196,I started making one about halfway through the bull ride.,Teddy
+5724,8,197,"Hey, partners.",Others
+5725,8,198,The karaoke machine is now ready for action.,Others
+5726,8,199,I reckon.,Others
+5727,8,200,"What do you say? You want to mosey on over and sing a little karaoke? No, thank you.",Teddy
+5728,8,201,I can't really sing.,Beau
+5729,8,202,What? It's karaoke.,Teddy
+5730,8,203,You don't have to be good.,Teddy
+5731,8,204,I don't think so.,Beau
+5732,8,205,Well.,Teddy
+5733,8,206,Look who's wearing the not fun hat now? ,Teddy
+5734,8,207,That's not gonna work.,Beau
+5735,8,208,And the not fun shirt.,Teddy
+5736,8,209,And the not fun boots.,Teddy
+5737,8,210,You stop right there.,Beau
+5738,8,211,You can mess with my hat.,Beau
+5739,8,212,You can mess with my shirt.,Beau
+5740,8,213,But you leave my boots out of it.,Beau
+5741,8,214,"Well then, let's go.",Teddy
+5742,8,215,Okay.,Teddy
+5743,8,216,What song do you want to sing? Something short.,Beau
+5744,8,217,Like your bull ride.,Beau
+5745,8,218,Maybe this one.,Beau
+5746,8,219,Works for me.,Teddy
+5747,8,220,If you forget the reason that you're singing.,Teddy
+5748,8,221,And it's hard to find the song of your soul.,Teddy
+5749,8,222,Just remember how you helped me start believing.,Beau
+5750,8,223,"Anytime you're feeling down, I hope you know Who's gonna always have your back? Who's gonna be a friend like that? I will.",Beau
+5751,8,224,I will.,Teddy
+5752,8,225,Yeah yeah! If you're feeling like the Queen of nothing's working.,Beau
+5753,8,226,And you question every choice you make.,Beau
+5754,8,227,When you're sick and tired of being so uncertain.,Teddy
+5755,8,228,And everything you thought was right Was lost along the way.,Teddy
+5756,8,229,Who's gonna always have your back? Who's gonna be a friend like that? I will.,Teddy
+5757,8,230,I will.,Teddy
+5758,8,231,"Can't sing, huh? I may have fibbed a little.",Beau
+5759,9,232,"Hello? Anybody here? May I help you? Hey, it's you again.",PJ
+5760,9,233,Excuse me? - You're the sofa surgeon.,Gabe
+5761,9,234,Was the sofa surgeon.,Others
+5762,9,235,"Yes, now I'm Alan, and I'm the owner of the all-night couch store.",Others
+5763,9,236,"Well, whoever you are, where's our couch? You said you had one just like it.",PJ
+5764,9,237,Oh no no no.,Others
+5765,9,238,The sofa surgeon said that.,Others
+5766,9,239,"Yeah, no, see his job is to get you in the store.",Others
+5767,9,240,My job is to help you deal with your disappointment.,Others
+5768,9,241,"Well, I just want to say for the record, both of you have really let us down.",PJ
+5769,9,242,Hey.,Gabe
+5770,9,243,Check it out.,Gabe
+5771,9,244,That looks like the green couch we used to have.,Gabe
+5772,9,245,So what? That's not gonna help us.,PJ
+5773,9,246,"Or is it? - Okay, call me crazy - You're crazy.",Gabe
+5774,9,247,Anyway What if we replace the yellow couch with this green one? Mom and dad were so used to seeing this couch for years.,Gabe
+5775,9,248,Maybe their brains will trick them into believing it's the right couch.,Gabe
+5776,9,249,That's your plan? To trick mom and dad's brains? ,PJ
+5777,9,250,Yes.,Gabe
+5778,9,251,I love it.,PJ
+5779,10,252,Okay.,Bob
+5780,10,253,Let's go.,Bob
+5781,10,254,Great.,Amy
+5782,10,255,Now we have to walk right past the Wentzes.,Amy
+5783,10,256,Maybe we should just climb out the bathroom window instead.,Amy
+5784,10,257,Why are we avoiding them? They're the ones who should be avoiding us.,Bob
+5785,10,258,They're the liars.,Bob
+5786,10,259,Yes.,Amy
+5787,10,260,"Yes, they are.",Amy
+5788,10,261,"Okay, let's walk past them with our heads held high.",Amy
+5789,10,262,"Oh, Amy, Bob.",Others
+5790,10,263,"Oh, hey.",Bob
+5791,10,264,Hi.,Others
+5792,10,265,What are you guys doing here? I thought you had a family emergency.,Amy
+5793,10,266,"Oh, it turns out my uncle didn't have to go to the hospital after all.",Others
+5794,10,267,Oh.,Amy
+5795,10,268,Wow.,Amy
+5796,10,269,Lucky him.,Amy
+5797,10,270,"And by the time we found out, it was too late to call you.",Others
+5798,10,271,"That's interesting because I actually called you earlier, but no one answered.",Amy
+5799,10,272,"I tell you what, I just got a new phone.",Others
+5800,10,273,And I can't seem to figure out how to use it.,Others
+5801,10,274,"Uh, what about you, Harry? Oh, darn family plan.",Bob
+5802,10,275,I have the same phone.,Others
+5803,10,276,And I'm usually just like Want to hear something really funny? We actually thought you guys were trying to avoid us.,Amy
+5804,10,277,What? You can't be serious.,Others
+5805,10,278,"Oh, that's hilarious.",Others
+5806,10,279,Right? I know.,Others
+5807,10,280,I know.,Others
+5808,10,281,Okay.,Bob
+5809,10,282,All right.,Bob
+5810,10,283,"Let's get together soon, okay? Okay, try and stop us.",Bob
+5811,10,284,"All right, bye.",Bob
+5812,10,285,You think they bought it? - Those two? Oh yeah.,Others
+5813,11,286,"You know, I have to admit.",Teddy
+5814,11,287,I had a great time tonight.,Teddy
+5815,11,288,It was the best not date I've ever been on.,Teddy
+5816,11,289,"Listen, there's something I've got to tell you.",Beau
+5817,11,290,What? There never was another girl.,Beau
+5818,11,291,I kind of made her up.,Beau
+5819,11,292,Why would you do that? Because.,Teddy
+5820,11,293,"You said you didn't want to date anyone, and I wanted to go out with you.",Beau
+5821,11,294,Oh.,Teddy
+5822,11,295,"The thing is, Teddy, ever since I met you, I felt like there was a connection.",Beau
+5823,11,296,I kind of think you feel something too.,Beau
+5824,11,297,I don't know.,Teddy
+5825,11,298,Don't you feel something right now? Maybe.,Beau
+5826,11,299,Definitely.,Teddy
+5827,11,300,"Good night, Beau.",Teddy
+5828,11,301,"Good night, Teddy.",Beau
+5829,11,302,Bye.,Teddy
+5830,12,303,"Okay, when mom and dad come in, just act natural.",PJ
+5831,12,304,Okay.,Gabe
+5832,12,305,"How about this? Uh, no no no no.",PJ
+5833,12,306,"No, not on the couch, because you'll draw attention to it.",PJ
+5834,12,307,Oh.,Gabe
+5835,12,308,"Although, now you're off it, it's practically screaming, hey, look at me! ",PJ
+5836,12,309,Hey.,Amy
+5837,12,310,"Hey, you guys.",Amy
+5838,12,311,We're home.,Amy
+5839,12,312,"How was your night? You guys have a good time? Yeah, a little rocky at first, but yeah.",Gabe
+5840,12,313,How was everything here? ,Bob
+5841,12,314,"Oh, little ones are safely in bed.",PJ
+5842,12,315,Just like you two should be.,Gabe
+5843,12,316,Wow.,Bob
+5844,12,317,I'm impressed.,Bob
+5845,12,318,"Whole evening, no trouble.",Bob
+5846,12,319,Mm hmm.,PJ
+5847,12,320,One in a row.,PJ
+5848,12,321,"Thanks, guys.",Amy
+5849,12,322,You're the best.,Amy
+5850,12,323,Mwah! - All right.,Amy
+5851,12,324,Good night.,Amy
+5852,12,325,Good night.,PJ
+5853,12,326,It worked.,PJ
+5854,12,327,Told you.,PJ
+5855,12,328,Wait a minute.,Amy
+5856,12,329,Something's different.,Amy
+5857,12,330,Really? Everything looks fine to me.,PJ
+5858,12,331,"If anything, it looks more normal than usual.",Gabe
+5859,12,332,This Belongs here.,Amy
+5860,12,333,Oh.,PJ
+5861,12,334,Yeah.,PJ
+5862,12,335,That's better.,PJ
+5863,12,336,That's so much better.,PJ
+5864,12,337,Hey.,Gabe
+5865,12,338,"Good eye, mom.",Gabe
+5866,12,339,"Lucky for you two, I hated that yellow couch.",Amy
+5867,13,340,"Well, Charlie, I went on my first ever not date.",Teddy
+5868,13,341,And I got to say Not bad.,Teddy
+5869,13,342,"In fact, very not bad.",Teddy
+5870,13,343,I guess you could say old Teddy Duncan is Back in the saddle.,Teddy
+5871,13,344,I reckon.,Teddy
+5872,13,345,"Hey, Teddy.",Bob
+5873,13,346,"Hi, dad.",Teddy
+5874,13,347,Oh.,Teddy
+5875,13,348,"By the way, the family's got a little pool going.",Teddy
+5876,13,349,When will dad notice the new old couch? ,Teddy
+5877,13,350,"Something wrong, dad? ",Teddy
+5878,13,351,Yep.,Bob
+5879,13,352,It's the couch.,Bob
+5880,13,353,I'm always losing my phone in it.,Bob
+5881,13,354,"Man, sometimes I can be so clueless.",Bob
+5882,13,355,Hmm.,Teddy
+5883,13,356,You heard the man.,Teddy
+5884,13,357,"Good luck, Charlie.",Teddy
+5885,14,358,I can't believe we're being blown off ,Amy
+5886,14,359,Again.,Amy
+5887,14,360,I know.,Bob
+5888,14,361,Especially by them.,Bob
+5889,14,362,They told me they were gonna stay home tonight and go to bed early.,Amy
+5890,14,363,Maybe we're wrong.,Bob
+5891,14,364,Maybe it's not them.,Bob
+5892,14,365,"Oh, it's them.",Amy
+5893,14,366,Come on.,Amy
+5894,14,367,Well well well.,Amy
+5895,14,368,"How's bedtime going? Hi, mommy.",Amy
+5896,14,369,You guys are blowing us off.,Bob
+5897,14,370,No.,Charlie
+5898,14,371,We love you guys.,Charlie
+5899,14,372,Oh.,Amy
+5900,14,373,What were we thinking? They love us.,Amy
+5901,14,374,"Oh, of course they do.",Bob
+5902,14,375,"Hey, enjoy your dinner, kids, okay? Do you think they bought it? Yep!",Charlie

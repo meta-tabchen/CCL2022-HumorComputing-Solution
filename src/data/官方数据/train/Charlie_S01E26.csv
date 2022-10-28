@@ -1,0 +1,303 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+5080,1,0,"Okay, Charlie, what do you say when you get in trouble? Uh-oh.",PJ,0
+5081,1,1,"Oh, Charlie just made an uh-oh? I just changed you.",Amy,0
+5082,1,2,"No, Charlie didn't do anything.",PJ,0
+5083,1,3,I'm just sampling her.,PJ,0
+5084,1,4,'sampling' means I'm recording all the words she says.,PJ,0
+5085,1,5,So I can play them back.,Amy,0
+5086,1,6,"Oh, we used to do that.",Amy,0
+5087,1,7,We called it tape-recording.,Amy,0
+5088,1,8,Check it out.,PJ,0
+5089,1,9,"Mine, yes, no, cookie, Nana.",Others,0
+5090,1,10,"Dad, you promised you'd take me driving today.",Teddy,0
+5091,1,11,"To be fair, I promise a lot of things I don't deliver on.",Bob,0
+5092,1,12,"Yeah, but you can't keep putting this off.",Teddy,0
+5093,1,13,"My driver's test is in three days, and you haven't taken me out once.",Teddy,0
+5094,1,14,"No, I know, I know.",Bob,0
+5095,1,15,You explained it all to me.,Bob,0
+5096,1,16,While I was trying to read in the bathroom.,Bob,0
+5097,1,17,You were outside the door while dad was in the bathroom? That's how much I want it.,PJ,1
+5098,1,18,"Bob, take her driving already.",Amy,0
+5099,1,19,"All right, fine.",Bob,0
+5100,1,20,Let's go.,Bob,0
+5101,1,21,"Boy, I tell you, nothing good ever happens when I leave the bathroom.",Bob,1
+5102,1,22,Bye-bye.,Others,0
+5103,1,23,Bye bye bye-bye.,Others,0
+5104,1,24,What's that? - Just in case you don't make it back.,PJ,0
+5105,2,0,"_ P.J., what did you get Teddy for her birthday? - Birthday? - Your sister's turning 16.",Amy,0
+5106,2,1,We're having a surprise party for her tonight.,Amy,0
+5107,2,2,"Well, it's working, 'cause I'm surprised.",PJ,0
+5108,2,3,The party starts at 7:00.,Amy,0
+5109,2,4,"You have to get her a present, and something nice.",Amy,0
+5110,2,5,How about? - Not another sock puppet.,Amy,1
+5111,2,6,You have to get her something too.,Amy,0
+5112,2,7,"Whoa whoa, what did I just walk into? Mom says we have to buy Teddy a birthday present.",Gabe,1
+5113,2,8,What about a dog? I bet she'd like a dog.,Gabe,0
+5114,2,9,I'm serious.,Amy,0
+5115,2,10,You have to get her something.,Amy,0
+5116,2,11,What about a dog? I bet she'd like a dog.,Gabe,0
+5117,2,12,"Gabe, is there a dog in my house? Maybe.",Amy,0
+5118,2,13,"He followed me home, mom.",Gabe,0
+5119,2,14,Can we keep him? No.,Gabe,0
+5120,2,15,I've told you I do not want a dog in this house.,Amy,0
+5121,2,16,"Mom, please.",Amy,0
+5122,2,17,Horsy.,Charlie,0
+5123,2,18,"No, honey.",Amy,0
+5124,2,19,It's actually a doggie.,Amy,0
+5125,2,20,Who just made a horsy-sized uh-oh.,PJ,1
+5126,3,0,"Sorry, Teddy.",Bob,0
+5127,3,1,I've made my decision and it's final.,Bob,0
+5128,3,2,"Dad, that's so unfair.",Teddy,0
+5129,3,3,"Mom, dad says I can't get my license.",Teddy,0
+5130,3,4,What? Why not? - Because she's not ready.,Bob,0
+5131,3,5,"Well, my driving instructor thinks I am.",Teddy,0
+5132,3,6,He says I'm doing great.,Teddy,0
+5133,3,7,The man works for the public schools.,Bob,0
+5134,3,8,He's got nothing to live for.,Bob,0
+5135,3,9,"Mom, can you say something? Teddy honey, I'm sorry, But your father has a very small area of authority And unfortunately for you, Teaching you kids to drive is part of it.",Amy,1
+5136,3,10,So what else is in that area? Barbecuing.,Bob,0
+5137,3,11,That's it.,Amy,1
+5138,3,12,"Dad, please.",Teddy,0
+5139,3,13,I really want to get my license the day I turn 16.,Teddy,0
+5140,3,14,"Look, it's not gonna happen, all right? So until further notice, there's gonna be no driving.",Bob,0
+5141,3,15,Sorry.,Bob,0
+5142,3,16,"Can I have the keys, please? Here.",Bob,0
+5143,3,17,I can't believe I stood outside the bathroom door for this.,Teddy,1
+5144,3,18,Hey.,Bob,0
+5145,3,19,"You're on my side, right? - Honey.",Bob,1
+5146,3,20,Yeah? Why am I talking to a dog? He followed Gabe home.,Bob,1
+5147,3,21,But don't worry.,Amy,0
+5148,3,22,I made it very clear.,Amy,0
+5149,3,23,We are not keeping him.,Amy,0
+5150,3,24,"Hey, you know something? He kind of reminds me of your Uncle stan.",Bob,0
+5151,3,25,What? - The wet nose and the bloodshot eyes.,Bob,0
+5152,3,26,"Come on, he Oh, now I see it.",Amy,1
+5153,4,0,"P.J., I have a question.",Teddy,0
+5154,4,1,"Was dad out of control when he was teaching you how to drive? No no, he was very mellow.",Teddy,0
+5155,4,2,"Then what is his problem? Well, hair loss, k*ll bugs for a living There's so much to choose from.",PJ,0
+5156,4,3,"Well, whatever it is, why did he have to take it out on me? I don't know.",Teddy,0
+5157,4,4,Maybe you're a bad driver.,PJ,0
+5158,4,5,"No, I'm a good driver.",Teddy,0
+5159,4,6,I was the only kid in driver's ed.,Teddy,0
+5160,4,7,Who didn't barf during the splattered brains movie.,Teddy,0
+5161,4,8,Actually I have a question for you.,PJ,0
+5162,4,9,I have a friend who is turning 16.,PJ,0
+5163,4,10,And I have to buy her a birthday present.,PJ,0
+5164,4,11,"Mm, well, I know your friend wouldn't want a sock puppet.",Teddy,0
+5165,4,12,Okay.,PJ,0
+5166,4,13,"Well, what would she want? Well, She'd probably like boots, Like from that cool store at the mall, But not the black ones with the purple trim.",Teddy,0
+5167,4,14,She already has those.,Teddy,0
+5168,4,15,I'm just guessing.,Teddy,1
+5169,5,0,"Oh hi, Mrs.",Teddy,0
+5170,5,1,Dabney.,Teddy,0
+5171,5,2,I see you people have a dog now.,Dabney,0
+5172,5,3,"Oh, I'm doing fine, thanks.",Teddy,0
+5173,5,4,How are you? Let me explain something to you.,Dabney,0
+5174,5,5,Your dog makes my Cat nervous.,Dabney,0
+5175,5,6,"And when my Cat gets nervous, I get nervous.",Dabney,0
+5176,5,7,"And when I get nervous, Mr.Dabney gets nervous.",Dabney,0
+5177,5,8,Then what happens? Mr.Dabney goes to stay with his mother.,Dabney,0
+5178,5,9,So this dog thing is not entirely bad.,Dabney,0
+5179,5,10,"All right, we're done here.",Dabney,1
+5180,5,11,"Oh, Mrs.Dabney, before you go, Um, I need some more practice hours.",Teddy,0
+5181,5,12,"Before I take my driver's test, So if you ever need a chauffeur, I'm your girl.",Teddy,0
+5182,5,13,Let's go.,Dabney,0
+5183,5,14,Right now? I've got a bunch of errands to run.,Dabney,0
+5184,5,15,"And if you drive, I can play word jumble on my cell phone.",Dabney,0
+5185,5,16,"Actually I do that anyway, but this way it's legal.",Dabney,0
+5186,6,0,This store only has girls in it.,Gabe,0
+5187,6,1,Yeah.,PJ,1
+5188,6,2,So what's Teddy's oe size? I don't know.,Gabe,0
+5189,6,3,You don't know her shoe size? I don't know her middle name.,Gabe,0
+5190,6,4,"Well, dude, how are we supposed to buy her shoes? Wait a minute.",Gabe,0
+5191,6,5,"Teddy wore your sneakers by mistake last week, right? - Yes.",PJ,0
+5192,6,6,That means you're the same size.,PJ,0
+5193,6,7,"Here, try these on.",PJ,0
+5194,6,8,Oh no.,Gabe,0
+5195,6,9,I am not putting on girl boots.,Gabe,0
+5196,6,10,"Oh, come on.",PJ,0
+5197,6,11,They'll look good with that girl shirt you're wearing.,PJ,0
+5198,6,12,It's not a pony.,Gabe,0
+5199,6,13,It's a stallion.,Gabe,0
+5200,6,14,"Fine, I'll put them on for two seconds.",Gabe,0
+5201,6,15,Buying boots for my sister.,PJ,0
+5202,6,16,Funny story she and my brother have the same size feet.,PJ,0
+5203,6,17,"Good thing she didn't want underwear, right? Okay, see you.",PJ,1
+5204,6,18,"Okay, they fit.",Gabe,0
+5205,6,19,"Whoa, hold on, dude.",PJ,0
+5206,6,20,"You've gotta stand up, Walk around, make sure they're comfortable.",PJ,0
+5207,6,21,Come on.,PJ,0
+5208,6,22,"Wow, those do wonders for your legs.",PJ,0
+5209,6,23,"Okay, that's enough.",Gabe,0
+5210,6,24,They won't come off.,Gabe,0
+5211,6,25,What? Let me try.,PJ,0
+5212,6,26,Why are your feet so fat? They're not fat.,PJ,0
+5213,6,27,They're husky.,Gabe,0
+5214,6,28,"What are we gonna do? Well, there's only one thing to do.",PJ,0
+5215,6,29,Who are you calling? - No one.,Gabe,0
+5216,6,30,I'm taking a picture of you in girl boots.,PJ,0
+5217,7,0,The light's not getting any greener.,Dabney,0
+5218,7,1,"I know, but the car in front of me hasn't moved yet.",Teddy,0
+5219,7,2,Here's a quick driving lesson.,Dabney,0
+5220,7,3,"Wake up, grandpa! Sorry, that was her, not me.",Dabney,0
+5221,7,4,"Oh look, grandpa's telling us we're number one.",Teddy,0
+5222,7,5,"No, he's not.",Dabney,0
+5223,7,6,He's I know what he's doing.,Teddy,0
+5224,7,7,"So we should probably head home now, right? Just one more stop boulder.",Teddy,0
+5225,7,8,I want to see my sister.,Dabney,0
+5226,7,9,Boulder? That's in the mountains.,Teddy,0
+5227,7,10,"Oh, you got one of those flat-land-only driving permits? No, it's just I have to be home by 7:00.",Teddy,0
+5228,7,11,"Oh, and we should probably stop for gas.",Teddy,0
+5229,7,12,In this car you can drive I'll tell you when we need gas.,Dabney,0
+5230,8,0,Now we need gas.,Dabney,0
+5231,8,1,"Yeah, just one problem We're in the middle of nowhere.",Teddy,0
+5232,8,2,And it looks like rain.,Teddy,0
+5233,8,3,Agh! And there's a crazy woman outside my window.,Others,0
+5234,8,4,So actually we got three problems.,Teddy,0
+5235,9,0,Hello.,Teddy,0
+5236,9,1,Kinda hard to talk with the window open just a crack.,Others,0
+5237,9,2,Sorry.,Teddy,0
+5238,9,3,What are y'all doing over here? We're out of gas.,Others,0
+5239,9,4,"Well, this is your lucky day.",Others,0
+5240,9,5,There's gas and such down the road a spell.,Others,0
+5241,9,6,"Oh, how far is a spell? Of course, I got a gallon of gas right here.",Others,0
+5242,9,7,Great.,Teddy,0
+5243,9,8,How much is it? The mountain lady's got an angle.,Dabney,0
+5244,9,9,"I also got gum, mints, magazines.",Others,0
+5245,9,10,I could keep you up to date on all things Justin bieber.,Others,0
+5246,10,0,Oh.,Amy,0
+5247,10,1,Charlie.,Amy,0
+5248,10,2,"Charlie, hand mommy the tape.",Amy,0
+5249,10,3,Fine.,Amy,0
+5250,10,4,It'll just be a 'sweet 6' party.,Amy,0
+5251,10,5,"What are you drawing? Are you making a pretty picture? What do you want, dog? Horsy.",Amy,0
+5252,10,6,What are you doing? What are you doing? You cannot be here.,Amy,0
+5253,10,7,You're kind of sweet.,Amy,0
+5254,10,8,"Okay, just for a minute.",Amy,0
+5255,10,9,"You're not such a bad dog, are you? No, you're a good dog.",Amy,0
+5256,10,10,I'm gonna call you sweetie-pie 'cause you're a sweetie-pie.,Amy,0
+5257,10,11,Mommy.,Charlie,0
+5258,10,12,"Charlie, not now.",Amy,0
+5259,10,13,Yes.,Amy,0
+5260,10,14,"Mom, we have got a big problem.",Gabe,0
+5261,10,15,"Oh, you sure do.",Amy,0
+5262,10,16,Those boots do not go with those shorts.,Amy,0
+5263,10,17,You are working my last nerve.,Gabe,0
+5264,10,18,She is a handful.,PJ,0
+5265,11,0,Does any of this look familiar? Looks like the same road we drove down 10 minutes ago.,Gabe,0
+5266,11,1,So I'm just going in circles.,Teddy,0
+5267,11,2,And you didn't want to say anything? I thought my annoyed silence was speaking volumes.,Gabe,0
+5268,11,3,Okay.,Teddy,0
+5269,11,4,"Well, we're lost.",Teddy,0
+5270,11,5,And we need to look at a map.,Teddy,0
+5271,11,6,Do you have a map? On my cell phone.,Teddy,0
+5272,11,7,But I'd have to turn off my word jumble.,Dabney,0
+5273,11,8,Okay.,Teddy,0
+5274,11,9,What did you do now? I think we're in some kind of hole.,Teddy,0
+5275,11,10,"Well, then one of us is gonna have to get out and push The one of us who's 16.",Dabney,0
+5276,11,11,I'm not 16 yet.,Teddy,0
+5277,11,12,Get out.,Dabney,1
+5278,11,13,Okay.,Teddy,0
+5279,11,14,"Okay, hit it, but try to go Slow.",Teddy,0
+5280,11,15,"Okay, go again, but this time.",Teddy,0
+5281,11,16,Try to go a little bit slower.,Teddy,0
+5282,11,17,Oh.,Dabney,0
+5283,11,18,"Well, this would be a great time.",Teddy,0
+5284,11,19,For the mountain lady to come by with some skirts.,Teddy,0
+5285,12,0,"Hey, sweetie.",Amy,0
+5286,12,1,Hi.,Others,0
+5287,12,2,Hi.,Others,0
+5288,12,3,I think you found my dog.,Others,0
+5289,12,4,"Um, we don't have a dog here.",Amy,0
+5290,12,5,Really? I found this flyer with your address on it.,Others,0
+5291,12,6,Must be a misprint.,Amy,0
+5292,12,7,No dog.,Amy,0
+5293,12,8,Bye-bye.,Amy,0
+5294,12,9,"Mom, mom, can I talk to you for a minute? Hi, we'll be right with you.",Gabe,0
+5295,12,10,Okay.,Others,0
+5296,12,11,"Look, mom, we've got to do the right thing here.",Gabe,0
+5297,12,12,"If you want a dog, we can get you another one.",Gabe,0
+5298,12,13,I don't want another dog.,Amy,0
+5299,12,14,I want my sweetie-pie.,Amy,0
+5300,12,15,"Mom, he already has a family.",Gabe,0
+5301,12,16,Who loves him and misses him.,Gabe,0
+5302,12,17,He needs to go home.,Gabe,0
+5303,12,18,I know.,Amy,0
+5304,12,19,"Goodbye, sweetie-pie.",Amy,0
+5305,12,20,I will never forget you.,Amy,0
+5306,12,21,Winston! Thank you.,Others,0
+5307,12,22,You're welcome.,Amy,0
+5308,12,23,I'm very very proud of you.,Gabe,0
+5309,12,24,Now how about we go get you some ice cream? - Okay.,Gabe,0
+5310,12,25,"Yes, come on.",Gabe,0
+5311,13,0,"Oh, you guys, Teddy's here.",Gabe,0
+5312,13,1,Everybody hide.,PJ,0
+5313,13,2,Hide.,PJ,0
+5314,13,3,Surprise! Aww.,Others,0
+5315,13,4,"Oh, okay.",Teddy,0
+5316,13,5,I know what you're thinking Teddy can wear anything.,Teddy,0
+5317,13,6,"Oh, um Why don't I go clean up.",Teddy,0
+5318,13,7,"And we'll try this again in 30 minutes, okay? Oh, one more thing you guys! - Great cake, mom.",Teddy,0
+5319,14,0,I got it at the store.,PJ,0
+5320,14,1,I know.,Amy,1
+5321,14,2,"That's why I said 'great cake, mom.",PJ,1
+5322,15,0,"' Dad, what are you doing out here? Just thinking.",Teddy,0
+5323,15,1,"Are you enjoying your party? Yeah, it's awesome.",Bob,0
+5324,15,2,Thank you so much.,Teddy,0
+5325,15,3,"Dad, I have to tell you something.",Teddy,0
+5326,15,4,You spent the afternoon driving with Mrs.,Bob,0
+5327,15,5,Dabney.,Bob,0
+5328,15,6,"You got all that from 'I have to tell you something'? No, actually I got all that.",Teddy,0
+5329,15,7,From when Mrs.,Bob,0
+5330,15,8,Dabney returned your skirt.,Bob,0
+5331,15,9,Now you know I told you I didn't want you driving.,Bob,0
+5332,15,10,I know.,Teddy,0
+5333,15,11,I'm sorry.,Teddy,0
+5334,15,12,"All right, you know what? Let's just talk about this tomorrow.",Bob,0
+5335,15,13,"Dad, I'm a really good driver.",Teddy,0
+5336,15,14,Teddy.,Bob,0
+5337,15,15,"No, why are you treating me different than P.J.? You didn't freak out on him when he was learning how to drive.",Teddy,0
+5338,15,16,Because teaching P.J.,Bob,0
+5339,15,17,To drive was a completely different thing.,Bob,0
+5340,15,18,Why? - Because it was.,Bob,0
+5341,15,19,Why? - Because he's P.J.,Bob,0
+5342,15,20,You're my little girl.,Bob,0
+5343,15,21,Driving means leaving.,Bob,0
+5344,15,22,"And once you get in that car, You go.",Bob,0
+5345,15,23,Dad.,Teddy,0
+5346,15,24,"Look, I'm sorry, okay? You've got your party and stuff going on.",Bob,0
+5347,15,25,I should be talking about this stuff.,Bob,0
+5348,15,26,"Dad, it's sad to think.",Teddy,0
+5349,15,27,All your kids are gonna leave someday.,Teddy,0
+5350,15,28,"Well, actually to be perfectly honest, With P.J.",Bob,0
+5351,15,29,I'm kind of worried he's never gonna leave.,Bob,1
+5352,15,30,"Yeah, well, We'll hope for the best.",Teddy,0
+5353,15,31,"Dad, I want you to know that even though I'm gonna get in that car and drive away someday, I'm also gonna drive back home.",Teddy,0
+5354,15,32,"Yeah, probably with a trunkful of laundry.",Bob,0
+5355,15,33,Yeah.,Teddy,0
+5356,16,0,And now P.J.,Amy,0
+5357,16,1,And Gabe.,Amy,0
+5358,16,2,Have a special birthday surprise for you.,Amy,0
+5359,16,3,But first let me introduce.,PJ,0
+5360,16,4,Snoop Charlie char.,PJ,0
+5361,16,5,"Teddy, this one's for you.",PJ,0
+5362,16,6,Ready? - Yep.,Gabe,0
+5363,16,7,"Ready, set, go.",Charlie,0
+5364,16,8,"we went to buy boots for a special sister _ but they got stuck and now I got a blister _ owie ow ow owie _ we were out of money, we were out of time _ so we dressed up with Charlie and busted out a rhyme _ boogie boogie cake boogie boogie cake _ you're 16 now, gonna move out soon _ in a few more years I'm gonna get your room _ Teddy, Teddy, t-t-t-t-teddy _ that's all we got, but we hope you know _ that we're with you, Teddy, not matter where you go _ - Teddy, Teddy _ - Happy Birthday._.",PJ,0
+5365,17,0,"Well, Charlie, here we are, The Duncan sisters on my 16th birthday.",Teddy,0
+5366,17,1,"Can you say, 'happy birthday, Teddy'? No? Okay.",Teddy,0
+5367,17,2,"Well, it's the thought that counts.",Teddy,0
+5368,17,3,"Anyway, the big news is I got my driver's license, Which means I now have total freedom to go wherever I want.",Teddy,0
+5369,17,4,"Teddy, I need you to pick up some things at the store.",Amy,0
+5370,17,5,"And while you're at it, the car needs gas.",Bob,0
+5371,17,6,And pick up gabe just 'cause I don't wanna.,Bob,0
+5372,17,7,Total freedom.,Teddy,0
+5373,17,8,"Can you wish me good luck, Charlie? It's the thought that counts.",Teddy,0
+5374,18,0,Are we there yet? Did you see a grand canyon? I need to go to the bathroom.,Amy,0
+5375,18,1,I told you to go before we left.,PJ,0
+5376,18,2,I didn't have to go then.,Bob,0
+5377,18,3,"Are we there now? License and registration, ma'am.",Gabe,0
+5378,18,4,"Gabe, it's me Teddy.",Teddy,0
+5379,18,5,I'm sorry.,Gabe,0
+5380,18,6,"License and registration, Teddy.",Gabe,0
+5381,1,7,You got lucky.,Gabe,0

@@ -1,0 +1,290 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+1332,1,0,I made the mistake of bringing the cute boy home Where my dear family lives.,Teddy,1
+1333,1,1,He wasn't that cute.,Gabe,1
+1334,1,2,Get out.,Teddy,0
+1335,1,3,"Anyway, still waiting on that first kiss.",Teddy,0
+1336,1,4,"But there's a dance this Friday Where the girls ask the guys, And this time I'm going to make sure I get it.",Teddy,0
+1337,1,5,"Get what, honey? Oh, my first a+ in science, daddy.",Teddy,1
+1338,1,6,That's my girl.,Bob,0
+1339,2,0,"Hey, dad, great news.",PJ,0
+1340,2,1,I got a job.,PJ,0
+1341,2,2,Stop right there.,Bob,0
+1342,2,3,I'm having the greatest dream of my life.,Bob,1
+1343,2,4,The school's gonna pay me 100 bucks to D.J.,PJ,0
+1344,2,5,At the dance on Friday.,PJ,0
+1345,2,6,The dream continues.,Bob,1
+1346,2,7,I just need you to give me 200 dollars To rent the D.J.,PJ,0
+1347,2,8,Equipment.,PJ,0
+1348,2,9,And now I'm awake.,Bob,1
+1349,2,10,"Hey, what was I doing in the dream? You weren't saying anything, which is why I thought it was a dream.",Bob,1
+1350,2,11,"P.J., why would you take a job where you're gonna lose money? Does everything always have to be about money? Are you giving me the 200? Sorry, son.",PJ,0
+1351,2,12,You're gonna have to come up with the money some other way.,Bob,0
+1352,2,13,"Like how? Oh, I know.",Bob,0
+1353,2,14,Get a job.,Bob,0
+1354,2,15,I'll be right back.,PJ,0
+1355,2,16,"Wait, where's your sister? - Don't bother her, Emmett.",PJ,0
+1356,2,17,"Okay, where shouldn't I bother her? - In the kitchen.",Emmett,1
+1357,2,18,All right.,Emmett,0
+1358,3,0,"Hey, Teddy bear.",Emmett,1
+1359,3,1,"Hey, Emmett.",Teddy,0
+1360,3,2,"You know this dance this Friday night is 'girls ask guys,' right? You're a girl.",Emmett,0
+1361,3,3,I'm a guy.,Emmett,0
+1362,3,4,"Something you want to ask me? Okay, Emmett, listen, P.J. is my brother and you're his best friend.",Teddy,0
+1363,3,5,So in a way you're kind of like my brother too.,Teddy,0
+1364,3,6,And I can't go to the dance with my brother.,Teddy,0
+1365,3,7,"You can see why that would be wrong, right? This is the longest conversation we've ever had.",Emmett,1
+1366,3,8,Did you hear anything I just said? Something about wanting to go to the dance with a brother.,Emmett,1
+1367,3,9,"Emmett, I want you to listen to me very carefully.",Teddy,0
+1368,3,10,I'm not going to ask you to the dance.,Teddy,0
+1369,3,11,When you touch me it feels like electricity.,Emmett,1
+1370,4,0,"Hi, kids.",Amy,0
+1371,4,1,"Hey, mom.",PJ,0
+1372,4,2,"Come on, Charlie, let's go see daddy.",PJ,0
+1373,4,3,You know what I realized today? Charlie's never played laser tag.,Gabe,0
+1374,4,4,I bet she'd enjoy doing that on Friday night.,Gabe,0
+1375,4,5,"Oh, how very sweet and unselfish of you.",Amy,1
+1376,4,6,But Charlie's gonna be with us Friday night.,Amy,0
+1377,4,7,It's your school's open house.,Amy,0
+1378,4,8,Right.,Gabe,0
+1379,4,9,Forgot about that.,Gabe,0
+1380,4,10,"Well, we haven't.",Amy,0
+1381,4,11,Dad and I can't wait To meet this miracle worker Mrs.,Amy,0
+1382,4,12,Mellish.,Amy,0
+1383,4,13,She's the first teacher who hasn't called to complain about you.,Amy,0
+1384,4,14,"Are you sure he's actually going to school? Mom, you've been to so many open houses.",PJ,1
+1385,4,15,And you'd love laser tag.,Gabe,0
+1386,4,16,It's like a workout but you get to sh**t stuff.,Gabe,0
+1387,4,17,"Oh, come on, we can play laser tag anytime.",Amy,0
+1388,4,18,Meeting a teacher that has no problems with you That may never happen again.,Amy,1
+1389,4,19,This is bad.,Gabe,0
+1390,4,20,What's bad? The only reason I haven't been getting in trouble Is that I told my teacher mom and dad have been fighting a lot.,Gabe,0
+1391,4,21,That actually works? You also have to give the teacher one of these.,Gabe,1
+1392,4,22,"Wow, that's good.",PJ,0
+1393,4,23,I almost hugged you.,PJ,0
+1394,4,24,And I never want to hug you.,PJ,1
+1395,4,25,Works even better on Mrs. Mellish.,Gabe,0
+1396,4,26,Any time I do something wrong Mommy and daddy were fighting again.,Gabe,1
+1397,4,27,"Well, I guess your evil plan is gonna be over on Friday night, 'cause mom and dad won't be fighting.",PJ,0
+1398,4,28,"Or will they? So who are you asking to the dance? Okay, here's a hint.",Gabe,0
+1399,5,0,"He's really cute and You ladies talking about me again? You know I'm not talking about you, Since I dumped your sorry butt a long time ago.",Ivy,1
+1400,5,1,That's now how me and my sorry butt remember it.,Emmett,1
+1401,5,2,Remind me again why you ever went out with him.,Teddy,0
+1402,5,3,Only one way to explain it Brain fart.,Ivy,0
+1403,5,4,Brain fart.,Ivy,1
+1404,5,5,So who's this cutie you're gonna ask? Spencer.,Ivy,0
+1405,5,6,"Oh, right, Mr.",Ivy,0
+1406,5,7,Almost first kiss.,Ivy,1
+1407,5,8,You'd better get moving on that.,Ivy,0
+1408,5,9,Your window is closing.,Ivy,0
+1409,5,10,What window? - The window of opportunity.,Ivy,0
+1410,5,11,"Oh, thanks.",Teddy,0
+1411,5,12,That really clears things up.,Teddy,0
+1412,5,13,"T, you almost kissed this guy, But nothing happened since then.",Ivy,0
+1413,5,14,"If you don't act soon, you're doomed to be just friends.",Ivy,0
+1414,5,15,"I like Spencer, he likes me, And I'll ask him when the time is right.",Teddy,0
+1415,5,16,"That better be right now, chica, Because Lauren sandoval is gonna ask him.",Ivy,0
+1416,5,17,Lauren would never do that to me.,Teddy,0
+1417,5,18,She's too good a friend.,Teddy,0
+1418,5,19,There's your good friend right now.,Ivy,0
+1419,5,20,Where? - Walking up to Spencer.,Ivy,0
+1420,5,21,"What? That little witch! Yeah! Oh, Lauren, you poor thing.",Teddy,1
+1421,5,22,"What a horrible, ugly tomatoey mess you are.",Teddy,1
+1422,5,23,"Come on, pizza face, let's get you cleaned up.",Ivy,1
+1423,5,24,Come on.,Ivy,0
+1424,5,25,"Oh, Spencer, hey.",Teddy,0
+1425,5,26,Didn't see you there.,Teddy,0
+1426,5,27,"Hi, Teddy.",Spencer,0
+1427,5,28,"Boy, that pizza really came out of nowhere, huh? Yeah.",Teddy,1
+1428,5,29,Nice sh*t.,Spencer,1
+1429,5,30,It's all in the wrist.,Teddy,1
+1430,6,0,"Now tell me again And don't leave out a single detail What exactly did Spencer say when you asked him? He said, and I quote, 'okay.",Ivy,0
+1431,6,1,"' Oh, wouldn't it be so romantic If I got my first kiss during a slow dance? That could happen if you don't wear That red polkadot thing that makes you look like a clown.",Ivy,1
+1432,6,2,"No no, you're right.",Teddy,0
+1433,6,3,I should dress more subtle and understated Like you.,Teddy,1
+1434,6,4,That's all I'm saying.,Ivy,0
+1435,6,5,Now I just have to figure out How Spencer and I are gonna get to the dance.,Teddy,0
+1436,6,6,How are you getting there? I haven't asked anyone yet.,Ivy,0
+1437,6,7,I'm still trying to decide between five guys.,Ivy,0
+1438,6,8,"Well, do any of them drive? Let's see Sophomore, freshman, sophomore, Eighth-grader I don't really want to talk about, And sophomore.",Ivy,1
+1439,6,9,"So no, no drivers on the list.",Ivy,0
+1440,6,10,"That's too bad, because if you could find somebody who drives Then Spencer and I could double with you.",Teddy,0
+1441,6,11,"Yeah, consider it done.",Ivy,0
+1442,6,12,I'll just expand my list And lower my standards a little bit.,Ivy,1
+1443,6,13,"Lower than the eighth grade? You want a ride or not? Okay, they say it's gonna be chilly tonight.",Ivy,1
+1444,7,0,I want to make sure you're nice and toasty.,Amy,0
+1445,7,1,Did I remember to change your diaper? I'm gonna go with yes.,Amy,1
+1446,7,2,Are you ready to go? - Yeah.,Amy,0
+1447,7,3,"It is gonna be so nice to go to an open house And not to have to hear the words 'Oh, you're Gabe's parents.",Amy,1
+1448,7,4,"' Mom, are you wearing perfume? I am.",Gabe,0
+1449,7,5,"What? You don't like it? Oh, I like it, but But what? Does someone else not like it? I don't want to get dad in trouble.",Gabe,1
+1450,7,6,"Wait, dad says he doesn't like my perfume? He doesn't just say it.",Amy,0
+1451,7,7,He makes a face too.,Gabe,0
+1452,7,8,And sometimes there's gagging.,Gabe,1
+1453,7,9,"Well, that's interesting.",Amy,0
+1454,7,10,Has your father shared anything else with you About how I disgust him? I've said too much already.,Amy,1
+1455,7,11,"Oh, okay.",Amy,0
+1456,7,12,Okay.,Amy,0
+1457,8,0,"Nice jacket, dad.",Gabe,0
+1458,8,1,Isn't it? Got my company logo right there Free advertising and a great conversation starter.,Bob,1
+1459,8,2,"Does mom know you're wearing it? Oh, I've been dressing myself for some time now.",Gabe,1
+1460,8,3,"So no, I didn't run it by her.",Bob,0
+1461,8,4,"Oh, I guess she'll just have to live with it.",Gabe,1
+1462,8,5,"Why? Is there a problem? I don't want to get mom in trouble, But just between us, She thinks you talk too much about your job.",Gabe,1
+1463,8,6,"I talk too much about my job The same job that puts a roof over your mother's head? Hey, I'm on your side.",Bob,1
+1464,8,7,So what else does she say about me behind my back? I've said too much already.,Gabe,1
+1465,8,8,"Come on, guys.",Amy,0
+1466,8,9,Gotta go.,Amy,0
+1467,8,10,Gonna be late.,Amy,0
+1468,8,11,"Well, we're taking the bug truck, If that's okay with you.",Bob,0
+1469,8,12,As long as the windows work.,Amy,0
+1470,8,13,I don't want to trigger anyone's gag reflex.,Amy,1
+1471,8,14,Women.,Gabe,1
+1472,8,15,"Hey, good luck at your open house tonight.",Teddy,0
+1473,8,16,Good luck at whatever you're dressed so weird for.,Gabe,1
+1474,9,0,Look at you.,Ivy,0
+1475,9,1,"Oh, no, look at you.",Teddy,0
+1476,9,2,"Well, I wish I was someone else So I could look at both of us.",Ivy,1
+1477,9,3,So where's your date? Parking the car.,Teddy,0
+1478,9,4,"Oh, I like it.",Teddy,0
+1479,9,5,"Who is he? Okay, about that there's something you should know 'sup? Emmett, would you excuse us for a minute real quick? Okay, just Emmett? We needed transportation.",Ivy,1
+1480,9,6,It was either Emmett or an eighth-grader With a skateboard.,Ivy,1
+1481,9,7,"Let's just go have a good time, okay? Shall we? Teddy bear.",Emmett,1
+1482,9,8,Grizzly bear.,Emmett,1
+1483,10,0,You look really nice.,Spencer,0
+1484,10,1,You are really nice.,Teddy,0
+1485,10,2,Thanks.,Spencer,0
+1486,10,3,Whose car is this? My grandpa's.,Ivy,0
+1487,10,4,He thinks I'm at the store getting bread.,Emmett,1
+1488,10,5,But instead You'll be at the dance getting nothing.,Ivy,1
+1489,10,6,"Wow, looks like my seat belt's broken.",Teddy,0
+1490,10,7,Maybe I should sit in the middle.,Teddy,0
+1491,10,8,Is that okay? Yeah.,Teddy,0
+1492,10,9,'cause I'm all about safety.,Teddy,1
+1493,10,10,"Teddy, you're blocking my view.",Emmett,0
+1494,10,11,"You mind moving away from Spencer? Big guy, lean the other way.",Emmett,1
+1495,10,12,More.,Emmett,0
+1496,10,13,More.,Emmett,0
+1497,10,14,"Emmett, if he leans any more, he'll fall out of the car.",Teddy,0
+1498,10,15,More.,Emmett,1
+1499,11,0,"Well, this is my classroom.",Gabe,0
+1500,11,1,Mrs. Mellish looks busy.,Gabe,0
+1501,11,2,Maybe we should come back next year.,Gabe,1
+1502,11,3,"Whoa, p-u alert.",Bob,0
+1503,11,4,"I get it, okay? I'm talking about Charlie's diaper.",Amy,1
+1504,11,5,What's her problem? Heck if I know.,Gabe,1
+1505,11,6,"And for your information, Some people find that scent very pleasant.",Amy,1
+1506,11,7,A full diaper? I'm gonna be back in a minute.,Bob,0
+1507,11,8,"I'm gonna go change Charlie, okay? - Okay.",Bob,0
+1508,11,9,"Hi, Gabe.",Others,0
+1509,11,10,"Hi, Mrs. Mellish.",Gabe,0
+1510,11,11,How is my brave little soldier? Not good.,Others,0
+1511,11,12,Mom and dad are fighting again.,Gabe,1
+1512,11,13,"Oh, you poor thing.",Others,0
+1513,11,14,They've been fighting all week.,Gabe,0
+1514,11,15,I don't think I can get that book report into you by Tuesday.,Gabe,1
+1515,11,16,"That's okay, dear.",Others,0
+1516,11,17,You take all the time you need.,Others,0
+1517,11,18,I don't need time.,Gabe,0
+1518,11,19,I need happiness.,Gabe,1
+1519,12,0,All right.,PJ,0
+1520,12,1,That song was brought to you By Freddy's stereo hut.,PJ,0
+1521,12,2,"When you're ready to rock steady, go see Freddy.",PJ,0
+1522,12,3,"P.J., what's with all the commercials? That's how I'm paying for all the equipment.",Teddy,0
+1523,12,4,I got some sponsors to buy advertising.,PJ,0
+1524,12,5,Who would buy advertising from you? You'd be surprised.,Teddy,0
+1525,12,6,"This next one is brought to you by mom Who gave me Mom when you absolutely, positively Can't get any more money out of dad.",PJ,1
+1526,13,0,"Bob, come here, honey, look.",Amy,0
+1527,13,1,Look at this picture Gabe drew.,Amy,0
+1528,13,2,"Isn't that sweet? Yeah, it sure is.",Bob,0
+1529,13,3,"You know what, honey? I guess we're doing something right.",Bob,0
+1530,13,4,"Would you look at that? Gabe, it seems like your parents are getting along.",Others,0
+1531,13,5,I'm gonna go introduce myself.,Others,0
+1532,13,6,Gotta think.,Gabe,0
+1533,13,7,Gotta think.,Gabe,0
+1534,13,8,"It's go time, Ricky.",Gabe,0
+1535,13,9,"Excuse me, lady.",Gabe,0
+1536,13,10,You've got a rat on your shoulder.,Gabe,0
+1537,13,11,Rat on the loose! Remain calm.,Gabe,0
+1538,13,12,Remain calm.,Others,0
+1539,13,13,Remain calm.,Others,0
+1540,13,14,Remain calm.,Others,0
+1541,14,0,"Spencer, could you get me some punch, please? Sure.",Teddy,0
+1542,14,1,I'll be right back.,Spencer,0
+1543,14,2,"Emmett, why don't you go get me some punch too? What, your feet don't work? - Ice or no ice? - Surprise me.",Emmett,1
+1544,14,3,I think it's time for me to make my move.,Teddy,0
+1545,14,4,"Go get that kiss, girl.",Ivy,0
+1546,14,5,"Hey, P.J., put on a slow song, okay? You got it, sis.",Teddy,0
+1547,14,6,"Okay, we're gonna bring it down now, Just like you should bring yourselves down to wally's waffles.",PJ,1
+1548,14,7,Tell them P.J.,PJ,0
+1549,14,8,sent you.,PJ,0
+1550,14,9,You can get a free pat of butter.,PJ,0
+1551,14,10,Here you go.,Spencer,0
+1552,14,11,"Oh, thanks.",Teddy,0
+1553,14,12,Let's dance.,Teddy,0
+1554,14,13,"Yo, quick, throw on some hip-hop.",Emmett,0
+1555,14,14,But I just started this song.,PJ,0
+1556,14,15,Now.,Emmett,1
+1557,14,16,"Okay, this next one is brought to you by Emmett.",PJ,0
+1558,14,17,Emmett he's Standing right there.,PJ,0
+1559,14,18,What just happened? Emmett stole my date.,Teddy,1
+1560,15,0,"Back we go, little guy, Safe and sound.",Bob,0
+1561,15,1,"Boy, really tired.",Gabe,0
+1562,15,2,We should go.,Gabe,0
+1563,15,3,"Thank you, Mr. Duncan.",Others,0
+1564,15,4,That was very impressive.,Others,0
+1565,15,5,"Well, when you've been in the pest control biz As long as I have, you You know, I really shouldn't talk about my work.",Bob,0
+1566,15,6,It bugs my wife.,Bob,1
+1567,15,7,"No, it doesn't.",Amy,0
+1568,15,8,Why would you think that? Because Gabe told me it did.,Amy,0
+1569,15,9,"Charlie looks more tired than me, so Gabe told me you hated my perfume.",Amy,0
+1570,15,10,I never said that.,Bob,0
+1571,15,11,"What are you talking about? Oh, please don't do this here.",Others,0
+1572,15,12,Isn't it bad enough that poor Gabe has to listen To you two constantly fighting at home? We don't fight at home.,Others,0
+1573,15,13,We're very happy.,Amy,0
+1574,15,14,Look at this picture Gabe drew of our family.,Amy,0
+1575,15,15,That's not his.,Others,0
+1576,15,16,That's Gabe M's.,Others,0
+1577,15,17,This is Gabe D's.,Others,1
+1578,15,18,That's disturbing.,Bob,0
+1579,15,19,"Mrs. Mellish, I assure you we're a very loving family.",Amy,0
+1580,15,20,"Gabe, get your butt over here.",Amy,1
+1581,15,21,Now why would you tell your teacher that we're fighting at home? So I could get out of doing my work.,Gabe,0
+1582,15,22,"I'm in big trouble, right? Oh, yeah! Have all your overdue assignments on my desk Monday morning.",Others,1
+1583,15,23,But that'll take me the whole weekend.,Gabe,0
+1584,15,24,You poor thing.,Others,0
+1585,15,25,Get your coat.,Amy,0
+1586,15,26,We're leaving.,Amy,0
+1587,15,27,I can't believe we let him play us like that.,Bob,0
+1588,15,28,I know.,Amy,0
+1589,15,29,"How could I ever think you didn't like my perfume? Well, it's not my favorite.",Bob,1
+1590,15,30,Said the guy with the cartoon cockroach on his blazer.,Amy,1
+1591,15,31,It's an ant.,Bob,1
+1592,16,0,"Man, your jerking is dope.",Spencer,0
+1593,16,1,"Man, your popping sick.",Emmett,0
+1594,16,2,I'd like to pop both of these jerks.,Ivy,1
+1595,16,3,Sorry you didn't get that kiss.,Ivy,0
+1596,16,4,"Yeah, well, the night's not over yet.",Teddy,0
+1597,16,5,Follow my lead.,Ivy,0
+1598,16,6,"Hey, what's that noise? What noise? The noise Teddy is talking about.",Ivy,1
+1599,16,7,Sounds like it's coming from the back of the car.,Teddy,0
+1600,16,8,"Yeah, I hear it too.",Ivy,0
+1601,16,9,It sounds bad.,Ivy,0
+1602,16,10,You should probably pull over and check it out.,Teddy,0
+1603,16,11,"I'm telling you - Stop the car! Just come on, I'll show you where the noise is coming from.",Ivy,1
+1604,16,12,I know where the noise is coming from.,Emmett,1
+1605,16,13,You want to keep that head? I suggest you not do that again.,Ivy,1
+1606,16,14,"Oh, sorry, sorry.",Teddy,1
+1607,16,15,In my head that went a lot smoother.,Teddy,1
+1608,16,16,Hello there.,Teddy,0
+1609,16,17,Hi.,Spencer,0
+1610,16,18,"Look, I'm sorry I got so caught up With Emmett and the dancing.",Spencer,0
+1611,16,19,I kind of like the way things were going before then.,Spencer,0
+1612,16,20,"Yeah, me too.",Teddy,0
+1613,16,21,I'm glad we got to go to the dance together.,Teddy,0
+1614,16,22,I was a little nervous because Ivy said my window was closing.,Teddy,0
+1615,16,23,And then Lauren sandoval almost asked you.,Teddy,0
+1616,16,24,"And then Ivy and Emmett Showed up at my house and I was like, 'oh, no.",Teddy,0
+1617,16,25,How is this gonna work?' And I just That was a really nice way of telling me to shut up.,Teddy,1
+1618,17,0,"Well, Charlie, I finally got my first kiss tonight And now I can't stop smiling.",Teddy,0
+1619,17,1,"Who knew that Emmett's grandpa's car Would turn out to be the most romantic place in the world? Okay, I'm gonna try and stop smiling.",Teddy,1
+1620,17,2,"No, I can't do it.",Teddy,1

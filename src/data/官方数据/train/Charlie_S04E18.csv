@@ -1,0 +1,643 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+17613,1,0,"Oh, hey.  ",Bob,0
+17614,1,1,You guys wanna hear a joke?  ,Bob,0
+17615,1,2,No!  ,Gabe,1
+17616,1,3,Why not?  ,Bob,0
+17617,1,4,Because they're never good.  ,Gabe,0
+17618,1,5,"Dad, your mouth is",Gabe,0
+17619,1,6,where jokes go to die.  ,Gabe,1
+17620,1,7,I can be funny.  ,Bob,0
+17621,1,8,It's funny watching,PJ,0
+17622,1,9,you try to tell a joke.  ,PJ,1
+17623,1,10,"See, now that's funny.   ",Teddy,1
+17624,1,11,"Honey, why don't you just",Amy,0
+17625,1,12,wait and tell your joke at lunch?   ,Amy,0
+17626,1,13,But I have lunch at work.   ,Bob,0
+17627,1,14,Uh-huh.   ,Amy,1
+17628,1,15,You know what? You,Bob,0
+17629,1,16,guys are gonna like this one.   ,Bob,0
+17630,1,17,"So, a guy walks into a",Bob,0
+17631,1,18,store with a frog on a leash...   ,Bob,0
+17632,1,19,"<em>No, no, no!</em>   ",Gabe,0
+17633,1,20,Sorry. Frog's on his head.   ,Bob,1
+17634,1,21,"So, anyway, the frog says...   ",Bob,0
+17635,1,22,"Ah, you shouldn't",Bob,0
+17636,1,23,know the frog talks yet.   ,Bob,0
+17637,1,24,"So, let's just forget",Bob,0
+17638,1,25,"I said that, okay?   ",Bob,0
+17639,1,26,The store owner says...   ,Bob,0
+17640,1,27,And it doesn't have,Bob,0
+17641,1,28,"to be the store owner,   ",Bob,1
+17642,1,29,it could just be a,Bob,0
+17643,1,30,guy who works there.   ,Bob,0
+17644,1,31,"Okay, okay.",Amy,0
+17645,1,32,"Or a girl, whatever.   ",Amy,0
+17646,1,33,"You know what, guys?   ",Amy,0
+17647,1,34,"In the interest of time, let's just",Amy,0
+17648,1,35,laugh now and get it over with.   ,Amy,0
+17649,1,36,Okay. Go.   ,Amy,1
+17650,1,37,Ohh!   ,PJ,0
+17651,1,38,"Good one, Dad.",PJ,0
+17652,1,39,"<em>- No, no, wait.</em>   ",Bob,0
+17653,1,40,Wait a minute. I'm not done yet.   ,Bob,0
+17654,1,41,"No, but we are.",Gabe,1
+17655,1,42,Yeah.   ,PJ,0
+17656,1,43,"Well, you wanna hear",Bob,0
+17657,1,44,"the joke, right, Charlie?   ",Bob,0
+17658,1,45,"Sure, Daddy.   ",Charlie,0
+17659,1,46,"Okay, so...   ",Bob,0
+17660,1,47,Guy walks into a,Bob,0
+17661,1,48,store with a frog...   ,Bob,0
+17662,1,49,Wait a minute.   ,Bob,0
+17663,1,50,It's not a frog. It's a parrot.   ,Bob,1
+17664,1,51,Parrots are funny.   ,Charlie,1
+17665,1,52,Yeah.   ,Bob,0
+17666,1,53,Yeah. Okay. But,Bob,0
+17667,1,54,there's more to the joke.   ,Bob,0
+17668,1,55,It doesn't end on 'parrot'.   ,Bob,0
+17669,1,56,You said it again.   ,Charlie,1
+17670,2,0,"It's here, it's here!   ",Teddy,0
+17671,2,1,What is?   ,Amy,0
+17672,2,2,The email from Yale. I'm,Teddy,0
+17673,2,3,about to find out if I got in.   ,Teddy,0
+17674,2,4,Open it! What are,Amy,0
+17675,2,5,you waiting for?   ,Amy,0
+17676,2,6,I can't. I'm too nervous.   ,Teddy,0
+17677,2,7,Yale is my dream school.   ,Teddy,0
+17678,2,8,The next ten seconds are gonna,Teddy,0
+17679,2,9,decide the course of my entire life.   ,Teddy,1
+17680,2,10,"Okay. Easy now, honey.   ",Amy,0
+17681,2,11,Nobody likes a drama queen.   ,Amy,1
+17682,2,12,What are you looking at me for?   ,Amy,1
+17683,2,13,"Okay. Dad, here, you read it.   ",Teddy,0
+17684,2,14,I'll be able to tell,Teddy,0
+17685,2,15,by your expression.   ,Teddy,0
+17686,2,16,Uh-oh.   ,Bob,0
+17687,2,17,I didn't get in?   ,Teddy,0
+17688,2,18,"No, I sent it to trash.   ",Bob,1
+17689,2,19,"Hey, how do I get this",Bob,0
+17690,2,20,back? 'Empty trash.'   ,Bob,1
+17691,2,21,No!   ,Teddy,1
+17692,2,22,Gosh. I'll do it.   ,Teddy,0
+17693,2,23,Okay.   ,Teddy,0
+17694,2,24,Here goes.   ,Teddy,0
+17695,2,25,Huh?   ,Teddy,0
+17696,2,26,I'm on the wait list.   ,Teddy,0
+17697,2,27,"Well, that's good.   ",Amy,0
+17698,2,28,You still have a,Amy,0
+17699,2,29,chance to get in.   ,Amy,0
+17700,2,30,You just have to wait,Amy,0
+17701,2,31,for a spot to open up.   ,Amy,0
+17702,2,32,"Well, yeah, but what",Teddy,0
+17703,2,33,are the odds of that?   ,Teddy,0
+17704,2,34,"Honey, look, it's",Amy,0
+17705,2,35,out of your hands.   ,Amy,0
+17706,2,36,"Okay, so until you hear otherwise,",Amy,0
+17707,2,37,you just have to do what I do.   ,Amy,0
+17708,2,38,Just relax and go with the flow.   ,Amy,1
+17709,2,39,You're looking at me again.   ,Amy,1
+17710,3,0,What is that?   ,Amy,0
+17711,3,1,It's a scooter.   ,Gabe,0
+17712,3,2,Which I bought with my,Gabe,0
+17713,3,3,graduation money from Grandpa.   ,Gabe,0
+17714,3,4,You didn't graduate.,Amy,0
+17715,3,5,Grandpa doesn't know that.   ,Gabe,1
+17716,3,6,"Gabe, we talked about this.   ",Amy,0
+17717,3,7,I specifically said you could,Amy,0
+17718,3,8,not get one of these things.   ,Amy,0
+17719,3,9,You said I couldn't,Gabe,0
+17720,3,10,have a dirt bike.   ,Gabe,0
+17721,3,11,This is an electric scooter.   ,Gabe,0
+17722,3,12,It's what kids with,Gabe,0
+17723,3,13,dirt bikes make fun of.   ,Gabe,1
+17724,3,14,"Well, whatever it is, it",Amy,0
+17725,3,15,doesn't look very safe.   ,Amy,0
+17726,3,16,"Listen, before you decide anything,",Gabe,0
+17727,3,17,how about you just take it for a spin?    ,Gabe,0
+17728,3,18,Then you can see how tame it is.    ,Gabe,0
+17729,3,19,Whoo-hoo!    ,Amy,0
+17730,3,20,"Aww, yeah!    ",Amy,1
+17731,3,21,"Fun, huh? So can I keep it?    ",Gabe,0
+17732,3,22,Don't know. Not,Amy,0
+17733,3,23,done testing it yet.    ,Amy,1
+17734,3,24,Whoo-hoo!    ,Amy,0
+17735,3,25,"Aw, yeah!    ",Amy,0
+17736,4,0,"Okay, Charlie, let's go.    ",Bob,0
+17737,4,1,"Hello, Mr. Duncan.    ",Others,0
+17738,4,2,"Hello, Teacher Lily.    ",Bob,0
+17739,4,3,I wanted to show you something,Others,0
+17740,4,4,Charlie wrote about you.    ,Others,0
+17741,4,5,It's on the 'Mommy Daddy' wall.    ,Others,0
+17742,4,6,Let me apologize in advance.    ,Bob,1
+17743,4,7,No. It's good this time.    ,Others,1
+17744,4,8,Here's Charlie's.    ,Others,0
+17745,4,9,'My daddy tells funny jokes.'    ,Bob,0
+17746,4,10,My...    ,Bob,0
+17747,4,11,"Well, at least somebody",Bob,0
+17748,4,12,appreciates me.    ,Bob,0
+17749,4,13,"Thank you, Charlie.    ",Bob,0
+17750,4,14,"You're welcome, Daddy.    ",Charlie,0
+17751,4,15,Since you're coming in for,Others,0
+17752,4,16,"circle time tomorrow anyway,    ",Others,0
+17753,4,17,how about telling the,Others,0
+17754,4,18,kids a couple of jokes?    ,Others,0
+17755,4,19,"Oh, I...    ",Bob,0
+17756,4,20,I don't know.    ,Bob,0
+17757,4,21,Sometimes I,Bob,0
+17758,4,22,get a little rattled.    ,Bob,0
+17759,4,23,"Mr. Duncan, they're",Others,0
+17760,4,24,four-year-olds.    ,Others,0
+17761,4,25,You're not hosting the Oscars.    ,Others,1
+17762,4,26,"Please, Daddy.    ",Charlie,0
+17763,4,27,Um...    ,Bob,0
+17764,4,28,"Well, I guess I",Bob,0
+17765,4,29,could tell a few jokes.    ,Bob,0
+17766,4,30,"I mean, how hard could that be?    ",Bob,0
+17767,4,31,Tell the one about the parrot.    ,Charlie,0
+17768,4,32,It's <em>so</em> funny.    ,Charlie,1
+17769,5,0,"Oh, hey, Victor, if you're",Teddy,0
+17770,5,1,not busy tomorrow night...    ,Teddy,0
+17771,5,2,"And, uh, I'm",Teddy,0
+17772,5,3,assuming you're not...    ,Teddy,0
+17773,5,4,Hey!    ,Others,1
+17774,5,5,Oh. I'm sorry. Are you busy?    ,Teddy,0
+17775,5,6,No.    ,Others,1
+17776,5,7,Continue.    ,Others,0
+17777,5,8,"Well, I could use some",Teddy,0
+17778,5,9,help with the senior prank.    ,Teddy,0
+17779,5,10,A prank?    ,Others,0
+17780,5,11,I don't know. That,Others,0
+17781,5,12,sounds like hijinks.    ,Others,0
+17782,5,13,Which borders on shenanigans.    ,Others,0
+17783,5,14,And from there it's a,Others,0
+17784,5,15,slippery slope into tomfoolery.    ,Others,1
+17785,5,16,And you wonder why,Teddy,0
+17786,5,17,you're never busy.    ,Teddy,1
+17787,5,18,"Look, I don't wanna",Others,0
+17788,5,19,get into any trouble.    ,Others,0
+17789,5,20,I have too much at stake.    ,Others,0
+17790,5,21,I was just accepted at Yale.    ,Others,0
+17791,5,22,Hey! Congratulations.    ,Teddy,0
+17792,5,23,I was just wait-listed there.    ,Teddy,0
+17793,5,24,They didn't reject you?    ,Others,1
+17794,5,25,Now I feel less,Others,0
+17795,5,26,good about getting in.    ,Others,1
+17796,5,27,Thanks.    ,Teddy,0
+17797,5,28,I'm sorry I didn't get in too.    ,Teddy,1
+17798,5,29,"So, uh...    ",Teddy,0
+17799,5,30,Are you gonna go?    ,Teddy,0
+17800,5,31,"Well, it's between",Others,0
+17801,5,32,Harvard and Yale.    ,Others,0
+17802,5,33,"Well, you are clearly",Teddy,0
+17803,5,34,a Harvard man.    ,Teddy,0
+17804,5,35,"I mean, Yale is so 'ehh'",Teddy,0
+17805,5,36,and you're so 'whoa!'    ,Teddy,1
+17806,5,37,"Teddy, I know what you're doing.    ",Others,0
+17807,5,38,You're trying to talk me out of Yale,Others,0
+17808,5,39,so that it opens up a spot for you.    ,Others,0
+17809,5,40,That's good Harvard,Teddy,0
+17810,5,41,thinking right there.    ,Teddy,1
+17811,5,42,It's not gonna work.    ,Others,0
+17812,5,43,Fine.    ,Teddy,0
+17813,5,44,"Well, will you help me",Teddy,0
+17814,5,45,with the senior prank?    ,Teddy,0
+17815,5,46,Ivy was gonna do,Teddy,0
+17816,5,47,"it, but she's sick.    ",Teddy,0
+17817,5,48,Okay. Why not?    ,Others,0
+17818,5,49,But I will not participate in,Others,0
+17819,5,50,any malarkey or monkeyshines.    ,Others,1
+17820,5,51,Those are some big words.    ,Teddy,0
+17821,5,52,I could have also gone with,Others,0
+17822,5,53,'poppycock' or 'balderdash.'    ,Others,1
+17823,5,54,"Okay, we get it.",Teddy,0
+17824,5,55,You got into Yale.    ,Teddy,1
+17825,6,0,Going somewhere?    ,Gabe,1
+17826,6,1,You forgot your lunch.    ,Amy,0
+17827,6,2,Got it right here.    ,Gabe,0
+17828,6,3,You forgot your homework.    ,Amy,0
+17829,6,4,I don't do my homework.    ,Gabe,1
+17830,6,5,"Well, you should.    ",Amy,0
+17831,6,6,"And as punishment, I'm",Amy,0
+17832,6,7,gonna ride your scooter.    ,Amy,0
+17833,6,8,"No, you're not.",Gabe,0
+17834,6,9,Why?    ,Amy,0
+17835,6,10,Why won't you share with me?    ,Amy,0
+17836,6,11,"Because, Mom, it's bad",Gabe,0
+17837,6,12,"enough I have a scooter,    ",Gabe,0
+17838,6,13,but a scooter that I,Gabe,0
+17839,6,14,share with my mom?    ,Gabe,0
+17840,6,15,I'd b*at myself up.    ,Gabe,0
+17841,6,16,Fine.    ,Amy,0
+17842,6,17,I won't ride it anymore.    ,Amy,0
+17843,6,18,Good. Thank you.    ,Gabe,0
+17844,6,19,I can do this all day.    ,Gabe,1
+17845,7,0,So you're telling jokes,PJ,0
+17846,7,1,at Charlie's preschool?    ,PJ,0
+17847,7,2,Yeah.    ,Bob,0
+17848,7,3,Why?    ,PJ,0
+17849,7,4,Isn't school hard,PJ,0
+17850,7,5,enough on kids?    ,PJ,1
+17851,7,6,"Look, I just wanna",Bob,0
+17852,7,7,practice some jokes on you.    ,Bob,0
+17853,7,8,Just pretend you're,Bob,0
+17854,7,9,four years old.    ,Bob,1
+17855,7,10,Oh! Okay.    ,PJ,0
+17856,7,11,All right...    ,Bob,0
+17857,7,12,How do you make a tissue dance?    ,Bob,0
+17858,7,13,You blow your nose in it!    ,Bob,1
+17859,7,14,"I think it goes, 'How do",PJ,0
+17860,7,15,you make a tissue dance?    ,PJ,0
+17861,7,16,Put a little boogie in it.'    ,PJ,1
+17862,7,17,That's what I said.    ,Bob,0
+17863,7,18,"I may be four, but",PJ,0
+17864,7,19,that's not what you said.    ,PJ,0
+17865,7,20,Try another one.,PJ,0
+17866,7,21,<em>- All right.</em>    ,PJ,0
+17867,7,22,Oh! How do you make time fly?    ,Bob,0
+17868,7,23,You throw it out the window!    ,Bob,1
+17869,7,24,No. No.    ,PJ,0
+17870,7,25,No.    ,PJ,0
+17871,7,26,"To make time fly, you",PJ,0
+17872,7,27,throw a clock out the window.    ,PJ,1
+17873,7,28,That's what I said.    ,Bob,0
+17874,7,29,"Dad, you're not",PJ,0
+17875,7,30,saying the crucial word.    ,PJ,0
+17876,7,31,But I heard it inside my head.    ,Bob,0
+17877,7,32,Did you hear me,PJ,0
+17878,7,33,laughing inside your head?    ,PJ,1
+17879,7,34,You're pretty harsh,Bob,0
+17880,7,35,for a four-year-old.    ,Bob,1
+17881,7,36,"Dad, you know what you need?    ",PJ,0
+17882,7,37,Cue cards.    ,PJ,0
+17883,7,38,Then all you have to,PJ,0
+17884,7,39,do is read the jokes.    ,PJ,0
+17885,7,40,But isn't that cheating?    ,Bob,0
+17886,7,41,Let me tell you something my,PJ,0
+17887,7,42,school counselor once told me...    ,PJ,0
+17888,7,43,'Cheating is your only hope.'    ,PJ,1
+17889,8,0,I wonder what Principal,Teddy,0
+17890,8,1,Higgins is gonna say    ,Teddy,0
+17891,8,2,when he walks in and,Teddy,0
+17892,8,3,sees all this tomorrow.    ,Teddy,0
+17893,8,4,"Probably something like,",Others,0
+17894,8,5,'That's a lot of sticky notes.'    ,Others,1
+17895,8,6,And it'll all be worth it.    ,Teddy,0
+17896,8,7,This is really gonna,Others,0
+17897,8,8,get Ernie's goat.    ,Others,0
+17898,8,9,You call the principal 'Ernie'?    ,Teddy,0
+17899,8,10,"Well, he's given me so",Others,0
+17900,8,11,"many awards over the years,    ",Others,0
+17901,8,12,we've become pretty close.    ,Others,1
+17902,8,13,Ahh! Paper cut.    ,Others,0
+17903,8,14,Ow. Oh!    ,Others,0
+17904,8,15,My mother was right.    ,Others,0
+17905,8,16,Mischief always,Others,0
+17906,8,17,has repercussions.    ,Others,0
+17907,8,18,Calm down. It's,Teddy,0
+17908,8,19,just a little cut.    ,Teddy,0
+17909,8,20,I need first aid. Did,Others,0
+17910,8,21,you bring some?    ,Others,0
+17911,8,22,"I didn't think it was necessary,    ",Teddy,0
+17912,8,23,given that we're,Teddy,0
+17913,8,24,dealing with paper.    ,Teddy,1
+17914,8,25,It hurts! Do something!    ,Others,0
+17915,8,26,"Okay, fine. I have a",Teddy,0
+17916,8,27,bandage in my locker.    ,Teddy,0
+17917,8,28,I'll be right back.    ,Teddy,0
+17918,8,29,Hey!    ,Others,0
+17919,8,30,What's going on here?    ,Others,0
+17920,8,31,I can explain.    ,Others,1
+17921,8,32,Let's go.    ,Others,0
+17922,8,33,Where are you taking me?    ,Others,0
+17923,8,34,To the movies.    ,Others,1
+17924,8,35,"Oh, thank goodness.    ",Others,0
+17925,8,36,I thought you were,Others,0
+17926,8,37,taking me to jail.    ,Others,1
+17927,8,38,You have the right,Others,0
+17928,8,39,to remain silent.    ,Others,0
+17929,8,40,"Oh, don't worry. I never",Others,0
+17930,8,41,talk during the movies.    ,Others,1
+17931,8,42,"Okay, Victor.    ",Teddy,0
+17932,8,43,Victor?    ,Teddy,0
+17933,8,44,Maybe he left a note.    ,Teddy,0
+17934,8,45,This could take a while.    ,Teddy,1
+17935,9,0,There you are! What happened?    ,Teddy,0
+17936,9,1,Where did you go?    ,Teddy,0
+17937,9,2,Not to the movies.,Others,0
+17938,9,3,I'll tell you that.    ,Others,1
+17939,9,4,I got arrested.    ,Others,0
+17940,9,5,What?,Teddy,0
+17941,9,6,That's right.    ,Others,0
+17942,9,7,"Handcuffed, fingerprinted,",Others,0
+17943,9,8,and had my mug sh*t taken.    ,Others,0
+17944,9,9,"You ever been to jail, Teddy?    ",Others,0
+17945,9,10,Super Adventure Land jail.    ,Teddy,1
+17946,9,11,Denver County Jail,Others,0
+17947,9,12,is a little different.    ,Others,0
+17948,9,13,"It's an adventure,",Others,0
+17949,9,14,but it's not super!    ,Others,1
+17950,9,15,I have to go see the,Others,0
+17951,9,16,principal tomorrow.    ,Others,0
+17952,9,17,"If he presses charges, my college",Others,0
+17953,9,18,admission could be rescinded.    ,Others,0
+17954,9,19,Rescinded means 'taken away',Others,0
+17955,9,20,for those of you on the wait list.    ,Others,0
+17956,9,21,"Victor, I'm so sorry.    ",Teddy,0
+17957,9,22,Are you?    ,Others,0
+17958,9,23,"I mean, wasn't this all",Others,0
+17959,9,24,part of your big plan?    ,Others,0
+17960,9,25,What are you talking about?    ,Teddy,0
+17961,9,26,You set me up!    ,Others,0
+17962,9,27,"First, you talk me",Others,0
+17963,9,28,"into doing the prank,    ",Others,0
+17964,9,29,then you conveniently disappear,Others,0
+17965,9,30,just before the police arrived.    ,Others,0
+17966,9,31,Why would I do that?    ,Teddy,0
+17967,9,32,So that my arrest would,Others,0
+17968,9,33,open up a spot for you at Yale.    ,Others,0
+17969,9,34,"Okay, Victor, you're babbling.    ",Teddy,0
+17970,9,35,How much bl*od did you,Teddy,1
+17971,9,36,lose from that paper cut?    ,Teddy,1
+17972,9,37,"Not enough to k*ll me, if",Others,0
+17973,9,38,that's what you were hoping for!    ,Others,1
+17974,10,0,Ba-bam!    ,Amy,1
+17975,10,1,"Oh, what's this?    ",Gabe,0
+17976,10,2,I got a scooter too.    ,Amy,0
+17977,10,3,"Oh, that's great.",Gabe,0
+17978,10,4,Yup!    ,Amy,0
+17979,10,5,And now we can ride together.    ,Amy,0
+17980,10,6,That's not so great.    ,Gabe,1
+17981,10,7,"Mom, let me explain",Gabe,0
+17982,10,8,something to you.    ,Gabe,0
+17983,10,9,I'm in middle school.    ,Gabe,0
+17984,10,10,I can't be seen riding,Gabe,0
+17985,10,11,side-by-side with my mother.    ,Gabe,1
+17986,10,12,"Look, I bought this so",Amy,0
+17987,10,13,that we could ride together.    ,Amy,0
+17988,10,14,We're gonna ride together.,Amy,0
+17989,10,15,"No, we're not.    ",Gabe,0
+17990,10,16,"Yes, we are.",Amy,0
+17991,10,17,"No, we're not.    ",Gabe,0
+17992,10,18,We can go back and,Amy,0
+17993,10,19,"forth all night about this,    ",Amy,0
+17994,10,20,but the bottom line is we're,Amy,0
+17995,10,21,going on a double scoot.    ,Amy,1
+17996,10,22,Fine.    ,Gabe,0
+17997,10,23,But here are the conditions.    ,Gabe,0
+17998,10,24,We go to a neighborhood,Gabe,0
+17999,10,25,"where nobody knows me,    ",Gabe,0
+18000,10,26,we scoot for no,Gabe,0
+18001,10,27,"longer than    minutes,    ",Gabe,0
+18002,10,28,and if at any point you,Gabe,0
+18003,10,29,"tell me how cute I look,    ",Gabe,0
+18004,10,30,it's over.    ,Gabe,1
+18005,10,31,Forty minutes and,Amy,0
+18006,10,32,I get one 'cute'.    ,Amy,0
+18007,10,33,Thirty-five minutes and,Gabe,0
+18008,10,34,you can pinch my cheek.    ,Gabe,0
+18009,10,35,Deal.    ,Amy,1
+18010,11,0,"Teddy, we are so proud of",Bob,0
+18011,11,1,you for graduating from Yale.    ,Bob,0
+18012,11,2,"Aww. Thanks, Dad.    ",Teddy,0
+18013,11,3,"But, um, why is it just",Teddy,0
+18014,11,4,you and Toby here?    ,Teddy,0
+18015,11,5,"Oh, everybody else was",Bob,0
+18016,11,6,busy in your mom's dream.    ,Bob,0
+18017,11,7,Tonight she's starring in her,Bob,0
+18018,11,8,"one-woman Broadway show,    ",Bob,1
+18019,11,9,<em>Ba-bamalot.</em>    ,Bob,1
+18020,11,10,"Hup, food's here.    ",Bob,0
+18021,11,11,Oh. I'll get it.    ,Teddy,0
+18022,11,12,Pizza delivery.    ,Others,1
+18023,11,13,Victor?    ,Teddy,0
+18024,11,14,"Hello, Teddy.    ",Others,0
+18025,11,15,What?    ,Teddy,0
+18026,11,16,You're delivering pizza now?    ,Teddy,0
+18027,11,17,Yes.    ,Others,0
+18028,11,18,"After my arrest, no",Others,0
+18029,11,19,college would take me.    ,Others,0
+18030,11,20,So instead of realizing my destiny,Others,0
+18031,11,21,"of becoming a brilliant scientist,    ",Others,0
+18032,11,22,I work a dead-end job,Others,0
+18033,11,23,with no hope for the future.    ,Others,0
+18034,11,24,This is awkward.    ,Teddy,0
+18035,11,25,We didn't order pepperoni.    ,Teddy,1
+18036,11,26,"My life is a disaster, Teddy.    ",Others,0
+18037,11,27,And it's all your fault.    ,Others,0
+18038,11,28,"Fault, fault...    ",Others,0
+18039,11,29,What are you doing?    ,Teddy,0
+18040,11,30,I thought the dream was over.    ,Others,0
+18041,11,31,No. I get to say when,Teddy,0
+18042,11,32,the dream is over...    ,Teddy,0
+18043,11,33,"Over, over, over...    ",Teddy,1
+18044,12,0,"Okay, Dad, showtime. All",PJ,0
+18045,12,1,you gotta do is read the cards.    ,PJ,1
+18046,12,2,Got it.    ,Bob,0
+18047,12,3,"Okay, children, we have",Others,0
+18048,12,4,a real treat for you today.    ,Others,0
+18049,12,5,Let's welcome Charlie's,Others,0
+18050,12,6,"daddy, Mr. Duncan.    ",Others,0
+18051,12,7,"Thank you, thank you, thank you.    ",Bob,0
+18052,12,8,"So, anybody here",Bob,0
+18053,12,9,from outta town?    ,Bob,1
+18054,12,10,"Okay, now for a few jokes.    ",Bob,0
+18055,12,11,Why did the chicken,Bob,0
+18056,12,12,cross the road?    ,Bob,0
+18057,12,13,To make time fly!    ,Bob,1
+18058,12,14,"Next joke, next joke.    ",Bob,0
+18059,12,15,"Uh, what's black and",Bob,0
+18060,12,16,white and red all over?    ,Bob,0
+18061,12,17,To get to the other side.    ,Bob,1
+18062,12,18,You know what? They don't get it    ,Bob,0
+18063,12,19,because they don't,Bob,0
+18064,12,20,know what a newspaper is.    ,Bob,0
+18065,12,21,You didn't say 'newspaper'.    ,Bob,1
+18066,12,22,Wrap it up.    ,Charlie,1
+18067,12,23,Um...    ,Bob,0
+18068,12,24,"Okay, okay, okay, look.    ",Bob,0
+18069,12,25,"The thing is, I'm not",Bob,0
+18070,12,26,very good at telling jokes.    ,Bob,0
+18071,12,27,We know.    ,Others,1
+18072,12,28,Well...    ,Bob,0
+18073,12,29,I guess the truth is some,Bob,0
+18074,12,30,people just aren't funny.    ,Bob,0
+18075,12,31,But I'm not one of those people!    ,Bob,1
+18076,12,32,Told you he was funny.    ,Charlie,1
+18077,13,0,"So, what'd you wanna",Others,0
+18078,13,1,"see me about, Ernie?    ",Others,0
+18079,13,2,Uh-uh. 'Principal Higgins.'    ,Others,1
+18080,13,3,I lost first name privileges?    ,Others,0
+18081,13,4,Are we still on for Jazz Fest?    ,Others,0
+18082,13,5,"No, we are not.    ",Others,1
+18083,13,6,"Excuse me, Principal Higgins.    ",Teddy,0
+18084,13,7,Sorry to interrupt.    ,Teddy,0
+18085,13,8,"What is it, Duncan?    ",Others,0
+18086,13,9,"Look, the senior",Teddy,0
+18087,13,10,prank was my idea.    ,Teddy,0
+18088,13,11,Victor wanted nothing to do,Teddy,0
+18089,13,12,"with it, but I forced him to help me.    ",Teddy,0
+18090,13,13,So if you're gonna,Teddy,0
+18091,13,14,punish anyone...    ,Teddy,0
+18092,13,15,punish me.    ,Teddy,0
+18093,13,16,I'm okay with that.    ,Others,1
+18094,13,17,I am very disappointed,Others,0
+18095,13,18,in both of you.    ,Others,0
+18096,13,19,"Two of my best students,    ",Others,0
+18097,13,20,and all you came up,Others,0
+18098,13,21,with was sticky notes?    ,Others,1
+18099,13,22,That's pathetic!    ,Others,0
+18100,13,23,So you're not going,Others,0
+18101,13,24,to press charges?    ,Others,0
+18102,13,25,For what? Lack of creativity?    ,Others,1
+18103,13,26,"Next time you pull a prank,    ",Others,0
+18104,13,27,put a cow in my office or,Others,0
+18105,13,28,glue the furniture to the ceiling.    ,Others,0
+18106,13,29,Something!    ,Others,0
+18107,13,30,"Now you're thinking, Ernie.    ",Others,0
+18108,13,31,Stop that.    ,Others,1
+18109,13,32,I gotta take this.    ,Others,0
+18110,13,33,"Now, uh, clean all this up.    ",Others,1
+18111,13,34,"Thank you, Teddy.    ",Others,0
+18112,13,35,You didn't have to do that.    ,Others,0
+18113,13,36,"Victor, as much as",Teddy,0
+18114,13,37,"I wanna go to Yale,    ",Teddy,0
+18115,13,38,I would never do anything,Teddy,0
+18116,13,39,to hurt your chances.    ,Teddy,0
+18117,13,40,"Well, I'm glad to",Others,0
+18118,13,41,hear you say that.    ,Others,0
+18119,13,42,Because I'm,Others,0
+18120,13,43,accepting their offer.    ,Others,0
+18121,13,44,You should!    ,Teddy,0
+18122,13,45,Yale is lucky to have you.    ,Teddy,0
+18123,13,46,Thanks.    ,Others,0
+18124,13,47,And I hope you,Others,0
+18125,13,48,end up getting in too.    ,Others,0
+18126,13,49,That...    ,Others,0
+18127,13,50,was the North High principal.    ,Others,0
+18128,13,51,You know what his,Others,0
+18129,13,52,seniors did to him?    ,Others,0
+18130,13,53,They took apart his car and,Others,0
+18131,13,54,reassembled it in his office!    ,Others,1
+18132,13,55,Now that's a prank!    ,Others,1
+18133,13,56,"We're sorry, okay?    ",Teddy,0
+18134,13,57,What am I supposed to tell him?    ,Others,0
+18135,13,58,"Yeah, things are tough",Others,0
+18136,13,59,over here too. I got stickied.'    ,Others,1
+18137,13,60,We could trash your,Teddy,0
+18138,13,61,office if you want.    ,Teddy,0
+18139,13,62,That's the least you could do.    ,Others,1
+18140,14,0,"Whoo! This isn't so bad, is it?    ",Amy,0
+18141,14,1,Seventeen minutes and counting.    ,Gabe,1
+18142,14,2,All right. Stop the clock.    ,Amy,0
+18143,14,3,I need to find a bathroom.    ,Amy,0
+18144,14,4,"Well, well, well.    ",Others,0
+18145,14,5,Gabe Duncan.    ,Others,0
+18146,14,6,"Paul, what are you",Gabe,0
+18147,14,7,doing on this side of town?    ,Gabe,0
+18148,14,8,I get around.    ,Others,0
+18149,14,9,I guess the question,Others,0
+18150,14,10,is what are <em>you</em> doing?    ,Others,0
+18151,14,11,"Oh, you know, just nothing.    ",Gabe,0
+18152,14,12,Hanging out.    ,Gabe,0
+18153,14,13,By myself.    ,Gabe,1
+18154,14,14,"Hey, wanna see a cute pic?    ",Others,0
+18155,14,15,It's you and your,Others,0
+18156,14,16,mommy scooting together.    ,Others,1
+18157,14,17,"You know, I think that a lot of",Others,0
+18158,14,18,people would like to see this.    ,Others,0
+18159,14,19,"Oh, okay, let's just",Gabe,0
+18160,14,20,calm down for a second.    ,Gabe,0
+18161,14,21,'Post album.'    ,Others,0
+18162,14,22,Should I?    ,Others,1
+18163,14,23,"No, no, no.    ",Gabe,0
+18164,14,24,"What do you want, Paul?    ",Gabe,0
+18165,14,25,I'm tired of walking.    ,Others,0
+18166,14,26,I could use a little transpo.    ,Others,0
+18167,14,27,"Oh, please take it.    ",Gabe,0
+18168,14,28,This thing has brought,Gabe,0
+18169,14,29,me nothing but trouble.    ,Gabe,1
+18170,14,30,Nice doing business with you.,Others,0
+18171,14,31,"Whoa, whoa, whoa.    ",Gabe,0
+18172,14,32,Delete it first.    ,Gabe,0
+18173,14,33,Now get outta here.    ,Gabe,0
+18174,14,34,What happened to your scooter?    ,Amy,0
+18175,14,35,I traded it.    ,Gabe,0
+18176,14,36,For what?    ,Amy,0
+18177,14,37,My reputation.    ,Gabe,1
+18178,14,38,I'll explain later.    ,Gabe,0
+18179,14,39,Need a ride home?,Amy,0
+18180,14,40,Yeah.    ,Gabe,0
+18181,14,41,Hop on.,Amy,0
+18182,14,42,<em>- All right.</em>    ,Gabe,0
+18183,14,43,"Okay, hold on tight, sweetie.    ",Amy,0
+18184,14,44,And smile.    ,Others,1
+18185,15,0,"Oh, my gosh, oh, my gosh!    ",Teddy,0
+18186,15,1,"What, what? What is it?    ",Bob,0
+18187,15,2,It's another e-mail from Yale.    ,Teddy,0
+18188,15,3,"Oh, you want me to...    ",Bob,0
+18189,15,4,No!    ,Teddy,1
+18190,15,5,"Mom, you do it.    ",Teddy,0
+18191,15,6,Okay.    ,Amy,0
+18192,15,7,You got in.    ,Amy,0
+18193,15,8,I got in?    ,Teddy,0
+18194,15,9,You got in.    ,Amy,0
+18195,15,10,"Oh, man! We...    ",Bob,0
+18196,15,11,We are so proud of you!    ,Bob,0
+18197,15,12,I'm so proud of me too.    ,Teddy,0
+18198,15,13,What about me?    ,Amy,0
+18199,15,14,I'm gonna be the,Amy,0
+18200,15,15,mother of a Yalie.    ,Amy,1
+18201,15,16,You're looking at me again.    ,Amy,1
+18202,15,17,"No, I didn't...    ",Bob,0
+18203,15,18,Hey!,Bob,0
+18204,15,19,Yeah!    ,Amy,0
+18205,16,0,"Well, Charlie, I got into Yale.    ",Amy,0
+18206,16,1,"You know, there's actually a lot",Amy,0
+18207,16,2,of famous people that went there.    ,Amy,0
+18208,16,3,"Several U.S. presidents,",Amy,0
+18209,16,4,"Supreme Court justices,    ",Amy,0
+18210,16,5,and the Circle Gurgle.    ,Amy,1
+18211,16,6,"Yep, soon I will be",Amy,0
+18212,16,7,joining that proud lineup.    ,Amy,0
+18213,16,8,"Whee! Hey, Gabe!    ",PJ,0
+18214,16,9,I got your scooter back.    ,PJ,0
+18215,16,10,What?,Gabe,0
+18216,16,11,Yeah.    ,PJ,0
+18217,16,12,Big brother to the rescue.    ,PJ,0
+18218,16,13,Saw that punk and,PJ,0
+18219,16,14,just took it from him.    ,PJ,1
+18220,16,15,Yeah.    ,PJ,0
+18221,16,16,He was not happy about it.    ,PJ,0
+18222,16,17,"Yeah, thank you,    ",Gabe,0
+18223,16,18,but there's just one problem.    ,Gabe,0
+18224,16,19,That's not my scooter.    ,Gabe,1
+18225,16,20,I'll be right back.,PJ,1
+18226,16,21,Yeah.    ,PJ,0
+18227,16,22,Whee!    ,PJ,0
+18228,16,23,"Wish him good luck, Charlie.    ",Amy,1
+18229,17,0,<em>There she is.</em>    ,Bob,0
+18230,17,1,The toast of Broadway.    ,Bob,0
+18231,17,2,You were magnificent tonight.    ,PJ,0
+18232,17,3,"Great, listen,    ",Amy,0
+18233,17,4,I'm gonna need you both,Amy,0
+18234,17,5,in my dream tomorrow night.    ,Amy,0
+18235,17,6,"Mm, no can do, Mom. I gotta be",PJ,0
+18236,17,7,in Gabe's dream tomorrow night.    ,PJ,0
+18237,17,8,He's getting chased by monsters,PJ,0
+18238,17,9,and I do not wanna miss that.    ,PJ,1
+18239,17,10,And I have to be,Bob,0
+18240,17,11,in my own dream.    ,Bob,0
+18241,17,12,I'm giving a book report in,Bob,0
+18242,17,13,front of my second-grade class    ,Bob,0
+18243,17,14,in my underwear.,Bob,1
+18244,17,15,"Hey, hey, hey!    ",Amy,0
+18245,17,16,Let's bring this back to,Amy,0
+18246,17,17,"me, okay? This is my dream.    ",Amy,0
+18247,17,18,Where is Gabe anyway?    ,Amy,0
+18248,17,19,Sorry we're late.    ,Gabe,0
+18249,17,20,Mrs. Dabney was having,Gabe,0
+18250,17,21,that nightmare again.    ,Gabe,0
+18251,17,22,We?    ,Bob,0
+18252,17,23,How many of you are there?    ,Bob,0
+18253,17,24,Three thousand.    ,Gabe,0
+18254,17,25,She had tacos.,Gabe,1

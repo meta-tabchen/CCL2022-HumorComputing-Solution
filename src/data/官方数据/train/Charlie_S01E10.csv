@@ -1,0 +1,352 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+2156,1,0,Mom.,Teddy,0
+2157,1,1,"What? What are you doing? Squeezing in my cardio, working up a sweat.",Amy,1
+2158,1,2,Okay.,Teddy,0
+2159,1,3,"Well, can you sweat on P.J.'s sandwich? Gotta feel the burn.",Teddy,1
+2160,1,4,"Gotta buy my lunch! Hey, honey.",Teddy,0
+2161,1,5,Honey! - What? - I'm leaving for work.,Bob,0
+2162,1,6,Give me a kiss.,Bob,0
+2163,1,7,Catch me if you can.,Amy,1
+2164,1,8,I've kissed you enough already.,Bob,1
+2165,1,9,"Wow, I guess it's true: Breakfast is the most disturbing meal of the day.",Teddy,1
+2166,1,10,Wait.,Amy,0
+2167,1,11,Whoa whoa whoa.,Amy,0
+2168,1,12,"Bob, wait.",Amy,0
+2169,1,13,I forgot to tell you something.,Amy,0
+2170,1,14,It's about your Uncle Mel he called.,Amy,0
+2171,1,15,I don't wanna hear it.,Bob,0
+2172,1,16,"Oh, come on! He begged me to pass on the message.",Amy,0
+2173,1,17,"Thank you, and now I'm going to pass on the message.",Bob,1
+2174,1,18,Who's Uncle Mel? - Somebody you'll never know.,Bob,0
+2175,1,19,He's your father's uncle.,Amy,0
+2176,1,20,"Okay, so you told me about Uncle Stanley Who knits sweaters for his cats, But you didn't want to tell me about Uncle Mel? Because, Teddy, if you don't have Anything nice to say about someone, Then don't say anything at all.",Teddy,1
+2177,1,21,And Mel's an idiot.,Bob,1
+2178,1,22,"Okay, mom, tell me about Uncle Mel.",Teddy,0
+2179,1,23,"Well, he and your father had Some kind of falling out.",Amy,0
+2180,1,24,That's all I know.,Amy,0
+2181,1,25,"Isn't there some way we can find out more? This is the first interesting thing about dad since Well, this is the first interesting thing about dad.",Teddy,1
+2182,1,26,"Honey, trust me.",Amy,0
+2183,1,27,"I've learned the hard way: When it comes to Duncan family drama, - Stay out.",Amy,1
+2184,1,28,Are there any other Surprise relatives you want to tell me about? No.,Teddy,0
+2185,1,29,No.,Amy,0
+2186,2,0,"Great news, mom.",Gabe,0
+2187,2,1,I like Charlie now.,Gabe,0
+2188,2,2,"Well, finally.",Amy,0
+2189,2,3,What happened? We were in the park and this photographer Thought that Charlie was the cutest baby ever.,PJ,0
+2190,2,4,He offered to pay her 100 dollars to use her as a model.,PJ,0
+2191,2,5,Who knew? She's actually good for something Besides drooling and pooping.,Gabe,1
+2192,2,6,'Walter Louper photography.,Amy,0
+2193,2,7,"Specializing in dogs, cats and babies.",Amy,0
+2194,2,8,' Forget it.,Amy,0
+2195,2,9,I'm not exploiting my baby.,Amy,0
+2196,2,10,But we don't have a dog or a cat.,Gabe,1
+2197,2,11,"Mom, come on.",PJ,0
+2198,2,12,This could be a big break for Charlie.,PJ,0
+2199,2,13,"P.J., Charlie is not getting a job before you do.",Amy,1
+2200,2,14,"Well, the photographer didn't offer to shoot me.",PJ,1
+2201,2,15,Ha.,Amy,0
+2202,2,16,You don't have to have a modeling job.,Amy,0
+2203,2,17,Any job will do.,Amy,0
+2204,2,18,Come here.,Amy,0
+2205,2,19,"Man, this conversation sure took an ugly turn.",PJ,1
+2206,2,20,"Anyway, we will not be needing this.",Amy,0
+2207,2,21,I knew we should've done it my way.,Gabe,0
+2208,2,22,"What was your way? We don't tell mom we're doing the photo shoot, We go ahead and do it anyway and split the money.",Gabe,1
+2209,2,23,When did you come up with that? At the park.,PJ,0
+2210,2,24,I told you when The girls' cross-country team ran by.,Gabe,0
+2211,2,25,"Oh, yeah! What were we talking about again? Hi, Charlie.",PJ,0
+2212,3,0,Teddy here.,Teddy,0
+2213,3,1,So it turns out there's a Duncan family mystery.,Teddy,0
+2214,3,2,"Yeah, yesterday I found out we have an Uncle Mel.",Teddy,0
+2215,3,3,"Does this look good on me? Well, only if you pull your pants over your face, because that is a belt.",Teddy,1
+2216,3,4,We need to go to the mall today.,Ivy,0
+2217,3,5,You don't have anything new for me to wear.,Ivy,0
+2218,3,6,"Okay, Ivy, I'm thinking about something a little bit more important than clothes.",Teddy,0
+2219,3,7,Shoes? - Family.,Ivy,1
+2220,3,8,"You're funny, t.",Ivy,1
+2221,3,9,"Okay, listen.",Teddy,0
+2222,3,10,Something went down between my dad and his Uncle Mel And I have to know what happened.,Teddy,0
+2223,3,11,"What is this? Oh, that's a credit card my dad gave me a while ago.",Teddy,0
+2224,3,12,"And I'm just now hearing about this? Well, it's for emergencies only.",Ivy,1
+2225,3,13,"Honey, I've seen your closet.",Ivy,0
+2226,3,14,It is an emergency.,Ivy,1
+2227,3,15,Okay.,Teddy,0
+2228,3,16,"Well, if you go to the rest home with me, I will go to the mall with you.",Teddy,0
+2229,3,17,"Okay, but I have to warn you: My grandpa was in a rest home And it was depressing.",Ivy,0
+2230,3,18,He'd just sit there And complain about how nobody ever came to visit.,Ivy,0
+2231,3,19,"Finally, I just stopped going.",Ivy,1
+2232,4,0,"We have several options at Shady Hills: There's the one-year plan, the three-year plan and the fi How old is your father? You might want to go month to month.",Others,1
+2233,4,1,Okay.,Others,0
+2234,4,2,Bye-bye.,Others,0
+2235,4,3,Welcome to Shady Hills.,Others,0
+2236,4,4,How can I help you? We're here to see Mel Duncan.,Teddy,0
+2237,4,5,Have you signed in? - No.,Others,0
+2238,4,6,"Are you waiting for a formal invitation? No, we just got here.",Others,1
+2239,4,7,We're happy to sign in.,Teddy,0
+2240,4,8,I'd be most honored.,Others,0
+2241,4,9,Let me page Mel for you.,Others,0
+2242,4,10,"Mel, you have a visitor! Somebody here to see me? Hi, Uncle Mel.",Others,0
+2243,4,11,I'm your great-niece Teddy.,Teddy,0
+2244,4,12,I'm Bob's daughter.,Teddy,0
+2245,4,13,You're kidding.,Others,0
+2246,4,14,"Bob made you? Yeah, well, my mom's pretty hot.",Teddy,1
+2247,4,15,"Oh, this is my friend Ivy.",Teddy,0
+2248,4,16,Hi.,Ivy,0
+2249,4,17,My mom's hot too.,Ivy,1
+2250,4,18,Okay.,Others,0
+2251,4,19,"Hey, everybody, this is my niece - What did you say your name was again? - Teddy.",Others,1
+2252,4,20,Hedy.,Others,0
+2253,4,21,"No no, Teddy.",Teddy,0
+2254,4,22,Teddy.,Others,0
+2255,4,23,That's a weird name.,Others,0
+2256,4,24,Weirder than hedy? This is my niece Teddy - And do you like music? - I love music.,Others,0
+2257,4,25,"Hey, everybody, my niece is gonna sing us some songs.",Others,1
+2258,4,26,I am? - Yeah.,Teddy,0
+2259,4,27,"Ivy, help.",Teddy,0
+2260,4,28,"Hi, everybody.",Teddy,0
+2261,4,29,And welcome to The room that we're in.,Teddy,0
+2262,4,30,We're gonna start off with a little - Maestro? - I think I remember 'Swanee River.,Teddy,1
+2263,4,31,' 'Swanee River.,Teddy,0
+2264,4,32,' * way down upon the Swanee River * * far far away * I don't remember the words.,Teddy,0
+2265,4,33,I only know the dirty ones from third grade.,Ivy,1
+2266,4,34,"* it's such a funny name for a river * * and that's all I have to say, hey.",Teddy,0
+2267,4,35,"* Okay, that's enough of that.",Teddy,0
+2268,4,36,Let's try something else.,Teddy,0
+2269,4,37,Any requests? - 'Swanee River.,Teddy,0
+2270,4,38,"' Oh, boy.",Teddy,1
+2271,5,0,It's almost ready to go.,Others,0
+2272,5,1,"You've got a real cute baby there, One of the best I've ever seen.",Others,0
+2273,5,2,"Yeah yeah, did you bring the cash? I did, but first I need a parent to sign this release form.",Others,0
+2274,5,3,No problemo.,Gabe,0
+2275,5,4,Problemo.,Gabe,0
+2276,5,5,Sure.,PJ,0
+2277,5,6,Mom is right in the kitchen.,PJ,0
+2278,5,7,She is? - She is.,PJ,0
+2279,5,8,"Gabe, why don't you go into the kitchen And have mom sign this for us? So you're a photographer, huh? Yup.",PJ,0
+2280,5,9,"Oh, I got a camera for my seventh birthday - Then I lost it.",PJ,1
+2281,5,10,Cute story.,Others,0
+2282,5,11,"Well, here you go.",Gabe,0
+2283,5,12,Your mom has very nice Printing.,Others,1
+2284,5,13,"You know, before we start the session I probably better go talk to her.",Others,0
+2285,5,14,Very bad idea.,PJ,0
+2286,5,15,And why is that? Because she's in one of her moods And now she wants more money.,Gabe,0
+2287,5,16,She does? How much? - 125 dollars.,Others,0
+2288,5,17,What? - But we agreed on 100 dollars.,Others,0
+2289,5,18,"Walter, I've been riding This rollercoaster for the past 17 years.",PJ,1
+2290,5,19,Let me handle it.,PJ,0
+2291,5,20,This is a strange situation.,Others,0
+2292,5,21,The moms almost always want to meet me.,Others,0
+2293,5,22,This one just wants her money.,Gabe,1
+2294,5,23,Pack it up.,PJ,0
+2295,5,24,The show's over.,PJ,0
+2296,5,25,What? What happened? - She wants you out.,PJ,0
+2297,5,26,You don't understand.,Others,0
+2298,5,27,I have a deadline to meet.,Others,0
+2299,5,28,We have to make this work.,Others,0
+2300,5,29,"Well, you might want to offer her 150 dollars.",PJ,0
+2301,5,30,Fine.,Others,0
+2302,5,31,"150 dollars, but that's it.",Others,0
+2303,5,32,Let me see what I can do.,PJ,0
+2304,5,33,Let's make some magic.,PJ,0
+2305,6,0,And my baby sister's name is Charlie.,Teddy,0
+2306,6,1,"Charlie, Teddy didn't your dad know any girl names? Speaking of my dad, What exactly happened between you guys? - You don't want to hear about that.",Teddy,0
+2307,6,2,"Actually, I do.",Teddy,0
+2308,6,3,"Well, look.",Others,0
+2309,6,4,We just met And I'd like to get to know someone Before I start saying bad things about their father.,Others,0
+2310,6,5,Okay.,Teddy,0
+2311,6,6,"Well, let's get to know each other.",Teddy,0
+2312,6,7,Tell me about yourself.,Teddy,0
+2313,6,8,"Well, I love baseball.",Others,0
+2314,6,9,"Hey, there's a game today.",Others,0
+2315,6,10,Will you take me? Tell me other things about yourself.,Teddy,0
+2316,6,11,"Oh, come on.",Others,0
+2317,6,12,I haven't been to a ballgame in forever.,Others,0
+2318,6,13,I'd give anything to go to one.,Others,0
+2319,6,14,"Well, today? - I don't know.",Teddy,0
+2320,6,15,"I promised my friend - yeah yeah, fine, thanks.",Teddy,0
+2321,6,16,Thanks for dropping by.,Others,0
+2322,6,17,See you in 20 years.,Others,0
+2323,6,18,I'll be sitting right here.,Others,1
+2324,6,19,T.,Ivy,0
+2325,6,20,You've got to try this.,Ivy,0
+2326,6,21,What is it? - Steak and potatoes.,Ivy,0
+2327,6,22,They can blend anything in this place.,Ivy,0
+2328,6,23,"Okay, Ivy.",Teddy,0
+2329,6,24,Hey.,Teddy,0
+2330,6,25,What would you say to a little change in plans? - Am I gonna like this change? - It involves us getting out of here.,Teddy,0
+2331,6,26,I'm in.,Ivy,0
+2332,6,27,We're going to a ballgame.,Teddy,0
+2333,6,28,I'm out.,Ivy,0
+2334,6,29,"Fine, then stay here.",Teddy,0
+2335,6,30,Back in.,Ivy,0
+2336,6,31,"Mel, come on, let's go.",Teddy,0
+2337,6,32,"We're going to the ballgame - hot dog! Sounds great, But first we've got to get past the warden.",Others,0
+2338,6,33,I'll handle her.,Teddy,0
+2339,6,34,Excuse me.,Teddy,0
+2340,6,35,I'd like to take - Mel out for the afternoon.,Teddy,0
+2341,6,36,Are you over 18 years of age? - No.,Others,0
+2342,6,37,Is he dead? - No.,Others,1
+2343,6,38,Request denied.,Others,0
+2344,6,39,Step away from the desk.,Others,0
+2345,6,40,Thank you for your time.,Teddy,0
+2346,6,41,Plan B.,Teddy,0
+2347,6,42,Right.,Others,0
+2348,6,43,Break.,Teddy,0
+2349,6,44,"I'm sorry, dude.",Ivy,0
+2350,6,45,It's for a good cause.,Ivy,0
+2351,6,46,We've got a roller! - Not on my watch we don't.,Ivy,0
+2352,7,0,"You having a good time, Uncle Mel? - The best.",Teddy,0
+2353,7,1,"Oh, this is terrific, kid.",Others,0
+2354,7,2,Thanks for bringing me.,Others,0
+2355,7,3,Yeah.,Teddy,0
+2356,7,4,So listen.,Teddy,0
+2357,7,5,You said when we got to the game You were going to tell me the story about whoo! What happened between you and dad.,Teddy,0
+2358,7,6,After this inning.,Others,0
+2359,7,7,Hot stuff coming through.,Ivy,0
+2360,7,8,"Ivy! Ivy, what is all this? It's your fault for giving me a credit card.",Ivy,0
+2361,7,9,Right.,Teddy,0
+2362,7,10,The emergency credit card.,Teddy,0
+2363,7,11,Some of this stuff could be used in an emergency.,Ivy,1
+2364,7,12,"Right, like if we run into a giant foam nose.",Teddy,0
+2365,7,13,It looks like he's having fun.,Ivy,0
+2366,7,14,Yeah.,Teddy,0
+2367,7,15,Such a sweet old guy.,Teddy,0
+2368,8,0,"Who could possibly have a problem with him? You stink! Are you a ballplayer or a ballerina?! You make me want to puke! * su-su-superstar * * she's a star, going far * * there you are, su-su-superstar * * su-su-superstar, yeah, come on * * looks all right, ladylike, day and night * * come on, su-su-superstar * * su-su-superstar * * grooving the runway from Monday through Sunday * * she wrote the book, got the look, on every magazine, love her * * superstar, superstar, that's what you are * * su-su-superstar, yeah, a superstar * * yeah, a superstar, that's what you are * * su-su-superstar.",Others,0
+2369,9,0,"* Careful, cupcake! If you slide, you might dirty your skirt! Hey, Uncle Mel, calm down.",Others,1
+2370,9,1,We're winning.,Teddy,0
+2371,9,2,"Yeah, for now, but it ain't gonna last.",Others,0
+2372,9,3,"Because they stink! Like a sewer, they stink! Hey, control your grandpa! He's scaring my kids.",Others,0
+2373,9,4,"Hey, your kids stink.",Others,0
+2374,9,5,Sorry.,Teddy,0
+2375,9,6,He didn't mean that.,Teddy,0
+2376,9,7,I'm sure your kids smell awesome.,Teddy,0
+2377,9,8,"Okay, Uncle Mel, why don't you just sit down And enjoy a nice, quiet hot dog? I'd love a hot dog.",Teddy,0
+2378,9,9,"Hey, weiner, have a weiner! - No! - Are you gonna do something about him or should I? Yeah, I said I'd handle it and it would be A lot easier without your helpful suggestions.",Others,0
+2379,9,10,"Oh, well, here's a helpful suggestion: Take him out of here or I take you out of here.",Others,0
+2380,9,11,"Oh, you shouldn't have said that, 'cause now Ivy's about to get out of her chair.",Ivy,1
+2381,9,12,"T, hold my ring.",Ivy,0
+2382,9,13,"Okay, can we all just chill? Hey, losers! Get a load of this! No! Oh no, we're on the jumbo screen.",Others,0
+2383,10,0,"Are we almost done? 'cause if not, we're kinda getting into overtime.",PJ,0
+2384,10,1,Is that a problem? - Not for us.,Others,0
+2385,10,2,But for mom.,Gabe,0
+2386,10,3,I think it's gonna cost you.,Gabe,0
+2387,10,4,"Exactly what I was thinking, little brother.",PJ,0
+2388,10,5,I'm gonna run this by the boss Mom.,PJ,0
+2389,10,6,What are you doing here? - I live here.,PJ,0
+2390,10,7,But you're not supposed to be back yet.,PJ,0
+2391,10,8,"Well, I finished everything I needed to do got the car washed, Did the grocery shopping, went to the bank.",Amy,0
+2392,10,9,"What is that flashing coming from the living room? Oh, it's probably a fuse.",Amy,0
+2393,10,10,You might want to check The fuse box out in the garage.,PJ,0
+2394,10,11,Get out! Shut it down! - What's going on? Mom's home.,PJ,0
+2395,10,12,She's really home.,PJ,0
+2396,10,13,"Get out! - What's going on here? - P.J, you want to take that one? No, I'll take the next one.",Gabe,0
+2397,10,14,I can't believe you two disobeyed me.,Amy,0
+2398,10,15,"Oh, my poor little baby.",Amy,0
+2399,10,16,I love it mom and baby.,Others,0
+2400,10,17,Look.,Amy,0
+2401,10,18,Please stop.,Amy,0
+2402,10,19,Just get out.,Amy,0
+2403,10,20,But you look so good together.,Others,0
+2404,10,21,"No, seriously get out.",Amy,0
+2405,10,22,Perfect.,Others,0
+2406,10,23,Just like that.,Others,0
+2407,10,24,Like that? - Yes.,Amy,1
+2408,10,25,And how about a little of this? - Great.,Amy,1
+2409,10,26,Wait.,Amy,0
+2410,10,27,Get my better side.,Amy,0
+2411,10,28,Wow.,PJ,0
+2412,10,29,"Mom, you're a natural.",PJ,0
+2413,10,30,"Yeah, the camera loves you.",Gabe,0
+2414,10,31,You two are so grounded.,Amy,0
+2415,11,0,"Then the police politely asked us to leave, At which point Uncle Mel invited them to kiss something That had been on the jumbo screen.",Teddy,1
+2416,11,1,"Oh, good.",Bob,0
+2417,11,2,All right.,Bob,0
+2418,11,3,Now you know why I wanted you to stay away from your Uncle Mel.,Bob,0
+2419,11,4,"The guy's a maniac, especially when it comes to baseball.",Bob,0
+2420,11,5,"Yeah, that would've been useful information.",Teddy,0
+2421,11,6,You know what? Just go to bed.,Bob,0
+2422,11,7,I really don't want to talk about this anymore.,Bob,0
+2423,11,8,"Well, there is one more thing I should tell you about Uncle Mel.",Teddy,0
+2424,11,9,Yeah? What's that? - He's in the living room.,Teddy,1
+2425,11,10,What?! - You have to talk to him.,Teddy,0
+2426,11,11,"No, I don't.",Bob,0
+2427,11,12,I don't.,Bob,0
+2428,11,13,I've got nothing to say to him.,Bob,0
+2429,11,14,"What is this all about, anyway? Why won't anybody tell me? Because it's ancient history.",Teddy,0
+2430,11,15,All right? It's done.,Bob,0
+2431,11,16,It's forgotten about.,Bob,0
+2432,11,17,I've moved on.,Bob,0
+2433,11,18,Now get that old fart out of my house! Be right back.,Bob,0
+2434,11,19,So dad says welcome.,Teddy,1
+2435,11,20,"He doesn't want to talk to me, does he? Well, I don't want to talk to him either! And you can tell him I said that.",Others,0
+2436,11,21,I'll be right back.,Teddy,0
+2437,11,22,Uncle Mel says he loves you.,Teddy,0
+2438,11,23,"Really? Uncle Mel said that? Yeah, he said something like that.",Teddy,0
+2439,11,24,It's so long since I've been in the living room.,Teddy,0
+2440,11,25,"Well, when is he gonna leave the living room? Okay, Uncle Mel wants to sort this thing out.",Teddy,0
+2441,11,26,Maybe you should start.,Teddy,0
+2442,11,27,I think he should start.,Bob,0
+2443,11,28,I'll be right back.,Teddy,0
+2444,11,29,Dad says he loves you.,Teddy,0
+2445,11,30,Hogwash! And he thinks it would help If you told me what this feud was about.,Teddy,0
+2446,11,31,"When your father was 10 years old, I was his baseball coach.",Others,0
+2447,11,32,Oh.,Teddy,0
+2448,11,33,Now I get it.,Teddy,0
+2449,11,34,"What's that supposed to mean? Well, you get a little bit too excited about baseball.",Teddy,0
+2450,11,35,"I share my opinions! Anyway, I gave him some constructive criticism You said I swung like a girl! I was sugar-coating it! You swung like a baby girl! Hey, we're talking.",Others,1
+2451,11,36,This is a start.,Teddy,0
+2452,11,37,You humiliated me in front of the entire team.,Bob,0
+2453,11,38,I was trying to make you better.,Others,0
+2454,11,39,"Well, you didn't yell at any of the other kids.",Bob,0
+2455,11,40,"Because I didn't care about any of the other kids, fathead! Whoa.",Others,0
+2456,11,41,Did you hear that? Before the fathead part.,Teddy,0
+2457,11,42,He said he cared about you.,Teddy,0
+2458,11,43,I was trying to make you tough And I guess Sometimes I got a little carried away.,Others,0
+2459,11,44,I'm sorry.,Others,0
+2460,11,45,We have an apology.,Teddy,0
+2461,11,46,"Hey, dad.",Teddy,0
+2462,11,47,"Well, maybe sometimes I was a little oversensitive And I'm sorry.",Bob,0
+2463,11,48,And a return apology.,Teddy,0
+2464,11,49,Now you know what we do in this family after we fight? I'm hoping eat.,Teddy,0
+2465,11,50,We hug.,Teddy,0
+2466,11,51,Hugging's for girls.,Others,0
+2467,11,52,Baby girls.,Bob,0
+2468,11,53,That's I gotta tinkle.,Others,0
+2469,11,54,Be back in 20 minutes.,Others,0
+2470,11,55,Right over there.,Others,0
+2471,11,56,Come here.,Others,0
+2472,11,57,"You did good, kid.",Bob,0
+2473,11,58,Thank you.,Bob,0
+2474,11,59,"Yeah, well, you guys are always saying - How important family is.",Teddy,0
+2475,11,60,Yes.,Bob,0
+2476,11,61,"Yes, it is.",Bob,0
+2477,11,62,He just walked into the'? - I'm afraid so.,Bob,0
+2478,11,63,"Hey, Mel, - That's not a bathroom.",Bob,0
+2479,12,0,"It is now! Well, Charlie, here I am waiting for you and mom, 'cause mom said I have to see this, whatever this is.",Teddy,0
+2480,12,1,Here we come.,Teddy,0
+2481,12,2,"Look at you two! Why are you dressed like that? Well, we had a casting.",Teddy,0
+2482,12,3,"In the professional modeling business, That's what an audition is called A casting.",Amy,0
+2483,12,4,"So you're a professional model now? Oh, don't act surprised, Teddy.",Teddy,0
+2484,12,5,I think we all knew this day was coming.,Amy,1
+2485,12,6,She's a model now.,Teddy,0
+2486,12,7,"If I knew raising parents was gonna be this hard, Never would've done it.",Teddy,1
+2487,12,8,"But soon enough it'll be your turn So good luck, Charlie.",Teddy,0
+2488,13,0,P.J.,PJ,0
+2489,13,1,"Duncan, here to see my parents.",PJ,0
+2490,13,2,"Hey, mom! I'll be right with you, P.J.",PJ,0
+2491,13,3,I'm in the middle of class.,Amy,0
+2492,13,4,We're really gonna push it.,Amy,0
+2493,13,5,We're gonna touch our toes.,Amy,0
+2494,13,6,And touch your toes.,Amy,0
+2495,13,7,Or your knees.,Amy,0
+2496,13,8,You know what? Just do the best you can.,Amy,0
+2497,13,9,"Okay, now we're gonna squat.",Amy,0
+2498,13,10,"Oh, take it down! Gotta feel the burn.",Amy,0
+2499,13,11,Here we go.,Amy,0
+2500,13,12,"Oh, no! Bob, I'm locked again.",Amy,1
+2501,13,13,"Bob! 'Swanee River'! Here, mom.",Bob,1
+2502,13,14,I gotcha.,PJ,0
+2503,13,15,"Oh, thank you, P.J.",Amy,0
+2504,13,16,"Oh, sorry I'm late, guys.",Teddy,0
+2505,13,17,That was a long walk in from the parking lot.,Teddy,0
+2506,13,18,That's what happens when you don't do the squats.,Amy,1

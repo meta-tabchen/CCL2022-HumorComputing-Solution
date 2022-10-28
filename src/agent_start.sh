@@ -1,0 +1,8 @@
+CUDA_VISIBLE_DEVICES=0 WANDB_API_KEY=d0788dbc0d8746fb16aef22607e99d1d92f8bdb5 nohup wandb agent tabchen/ccl2022/31xks6k8 &
+CUDA_VISIBLE_DEVICES=1 WANDB_API_KEY=d0788dbc0d8746fb16aef22607e99d1d92f8bdb5 nohup wandb agent tabchen/ccl2022/31xks6k8 &
+CUDA_VISIBLE_DEVICES=2 WANDB_API_KEY=d0788dbc0d8746fb16aef22607e99d1d92f8bdb5 nohup wandb agent tabchen/ccl2022/31xks6k8 &
+CUDA_VISIBLE_DEVICES=3 WANDB_API_KEY=d0788dbc0d8746fb16aef22607e99d1d92f8bdb5 nohup wandb agent tabchen/ccl2022/31xks6k8 &
+CUDA_VISIBLE_DEVICES=4 WANDB_API_KEY=d0788dbc0d8746fb16aef22607e99d1d92f8bdb5 nohup wandb agent tabchen/ccl2022/31xks6k8 &
+CUDA_VISIBLE_DEVICES=5 WANDB_API_KEY=d0788dbc0d8746fb16aef22607e99d1d92f8bdb5 nohup wandb agent tabchen/ccl2022/31xks6k8 &
+CUDA_VISIBLE_DEVICES=6 WANDB_API_KEY=d0788dbc0d8746fb16aef22607e99d1d92f8bdb5 nohup wandb agent tabchen/ccl2022/31xks6k8 &
+CUDA_VISIBLE_DEVICES=7 WANDB_API_KEY=d0788dbc0d8746fb16aef22607e99d1d92f8bdb5 nohup wandb agent tabchen/ccl2022/31xks6k8 &

@@ -1,0 +1,297 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+8896,1,0,Uh-oh! Dad's here.,Gabe,0
+8897,1,1,Donuts! Run for your lives! Up top.,Gabe,1
+8898,1,2,It's not funny anymore.,PJ,0
+8899,1,3,Dad's lost a bunch of weight.,PJ,0
+8900,1,4,"Thanks a lot, dad.",Gabe,0
+8901,1,5,You got skinny and k*ll all my best material.,Gabe,1
+8902,1,6,"Actually, I've lost so much weight, I gotta start buying my clothes in a regular store now.",Bob,0
+8903,1,7,No more 'Benny's Huge and Bald'? 'Lenny's Big and Tall'.,PJ,1
+8904,1,8,But I love Lenny's.,Gabe,0
+8905,1,9,It's the only store with steel-reinforced dressing rooms.,Gabe,1
+8906,1,10,The only store where the freight entrance is also the main entrance.,Gabe,1
+8907,1,11,"( Laughing ) Okay, wait wait.",PJ,0
+8908,1,12,"Okay, I got one.",PJ,0
+8909,1,13,It's the only store where the large sizes are big and the small ones Aren't.,PJ,1
+8910,1,14,"Yeah, I guess I don't got one.",PJ,0
+8911,1,15,All right.,Bob,0
+8912,1,16,I'm off to the Mall.,Bob,0
+8913,1,17,Wow.,Bob,0
+8914,1,18,Shopping without shame.,Bob,0
+8915,1,19,This is gonna be different.,Bob,1
+8916,1,20,"Hey, dad.",Gabe,0
+8917,1,21,Just don't get a hairpiece.,Gabe,0
+8918,1,22,"I mean, you gotta leave me something.",Gabe,1
+8919,1,23,NULL,PJ;Gabe;Bob,1
+8920,1,24,Okay.,PJ,0
+8934,2,38,( Teddy shrieks ) Great news! Remember that play I wrote? - 'The dancing Princess'? - Yeah.,Teddy,0
+8935,2,39,My theater group is doing the production and Ivy's directing.,Teddy,0
+8936,2,40,And I'm starring? - No.,Amy,1
+8937,2,41,Oh.,Amy,0
+8938,2,42,"Then what's the great news? Well, you're not in this one, mom, but guess who is.",Amy,1
+8939,2,43,Charlie! I'm gonna be a Princess.,Charlie,1
+8940,2,44,Good for you.,Amy,0
+8941,2,45,Hope show business doesn't break your heart as it did mine.,Amy,1
+8942,2,46,"Hey, Charlie.",Amy,0
+8943,2,47,Why is that bear still on the floor? I asked you to pick that up an hour ago.,Amy,0
+8944,2,48,"Hey, Princess.",Amy,0
+8945,2,49,I'm not gonna ask you again.,Amy,0
+8946,2,50,Pick up the bear now.,Amy,0
+8947,2,51,No.,Charlie,1
+8948,2,52,She's been like this all day.,Amy,0
+8949,2,53,Mom.,Teddy,0
+8950,2,54,"If I may Charlie, sweetie.",Teddy,0
+8951,2,55,"Could you pick up that bear for your big sister, please? Okay.",Teddy,1
+8952,2,56,"If you need her to do anything else, just let me know.",Teddy,1
+8953,2,57,( Scoffs ) She's three years old.,Amy,0
+8954,2,58,You got lucky.,Amy,0
+8955,2,59,No no.,Teddy,0
+8956,2,60,It's not luck.,Teddy,0
+8957,2,61,Charlie and I have a special sister bond.,Teddy,0
+8958,2,62,I guess you could call me 'The Charlie Whisperer'.,Teddy,1
+8959,2,63,( Weak chuckle ) 'The Charlie Whisperer'.,Amy,0
+8960,2,64,Okay.,Amy,0
+8961,2,65,NULL,Teddy;Amy;Charlie,1
+8962,3,66,"What you working on? Oh, it's for English.",PJ,0
+8963,3,67,I have to write a report about an old person.,Gabe,0
+8964,3,68,'My neighbor Bert By Gabe Duncan'.,PJ,0
+8965,3,69,"'Bert Doogan Husband, Father Astronaut'? Whoa! I didn't know grumpy old Bert was an Astronaut.",PJ,1
+8966,3,70,Neither does grumpy old Bert.,Gabe,1
+8967,3,71,I made the whole thing up.,Gabe,0
+8968,3,72,It was either that or actually talking to the old dude.,Gabe,0
+8969,3,73,"'Whenever I mow Bert's lawn, he tells me stories about his adventures in space'.",PJ,0
+8970,3,74,"'There was this one time where his rocket sprung a leak and he fixed it, with toothpaste and moon rocks'.",PJ,1
+8971,3,75,"( Chuckling ) Come on, dude! No one's gonna believe that.",PJ,0
+8972,3,76,NULL,PJ;Gabe,1
+8973,4,77,"Oh! Oh, there's my favorite playwright.",Ivy,0
+8974,4,78,There's my favorite Director! - Ah! - Hey! This is so exciting.,Teddy,0
+8975,4,79,I didn't even know you wanted to direct.,Teddy,0
+8976,4,80,"Are you kidding? I talk loud, I like to boss people around I'm a natural.",Ivy,1
+8977,4,81,Now let's talk casting.,Ivy,0
+8978,4,82,Yes! Okay.,Teddy,0
+8979,4,83,"Well, uh, at least we know who's gonna play the young Princess - Charlie.",Teddy,0
+8980,4,84,Whoa.,Ivy,0
+8981,4,85,Let's not get ahead of ourselves.,Ivy,0
+8982,4,86,Charlie's got to audition like everybody else.,Ivy,1
+8983,4,87,"Okay, I get it.",Teddy,0
+8984,4,88,You want me to bring Charlie in for an 'Audition'.,Teddy,1
+8985,4,89,"Yes, I 'Do'.",Ivy,0
+8986,4,90,"Ivy, look.",Teddy,0
+8987,4,91,It's just one line and I wrote it for Charlie.,Teddy,0
+8988,4,92,"And if she can say it, she gets the part.",Ivy,0
+8989,4,93,( Cellphone ringing ) Hello.,Ivy,0
+8990,4,94,Mrs.,Ivy,0
+8991,4,95,"Duncan, please stop calling me.",Ivy,0
+8992,4,96,NULL,Ivy;Teddy,1
+8993,5,97,"Hey, guys.",Bob,1
+8994,5,98,"What was that? Uh Bob, honey? Could you come out here please? Whatcha wearing? What, this? Got it at the Mall.",Amy,1
+8995,5,99,"Yeah, some regular store.",Bob,0
+8996,5,100,Whatever.,Bob,0
+8997,5,101,"Oh, the place was called 'Cloz', with a 'Z'.",Bob,1
+8998,5,102,Cloz? I shop there.,PJ,1
+8999,5,103,At least I used to.,PJ,1
+9000,5,104,"Ooh, question about this 'Cloz' with a 'Z' Um, do they have mirrors or lights? All right, all right.",Amy,1
+9001,5,105,"All right, fine.",Bob,0
+9002,5,106,I know what you're thinking.,Bob,0
+9003,5,107,"Hey, at first, I wasn't sure about this new look either.",Bob,0
+9004,5,108,But you know what? Everybody kept complimenting me.,Bob,0
+9005,5,109,"Really? Yeah, they said I was 'making it work'.",Bob,1
+9006,5,110,'Rockin' that outfit'.,Bob,1
+9007,5,111,"Oh, yeah 'k*ll' those jeans'.",Bob,1
+9008,5,112,NULL,PJ;Bob;Amy,1
+9009,6,113,And those are the kind of uplifting stories my neighbor Bert tells me whenever my brother P.,Gabe,0
+9010,6,114,J.,Gabe,1
+9011,6,115,Mows his lawn.,Gabe,1
+9012,6,116,"Gabe, that was wonderful.",Others,0
+9013,6,117,Thank you.,Others,0
+9014,6,118,"No, thank you for giving me the assignment.",Gabe,1
+9015,6,119,"You know, Bert sounds like an incredible man.",Others,0
+9016,6,120,Do you think he could come in and speak to the class? Um you know I don't think that's a good idea.,Gabe,0
+9017,6,121,He's not moving around very well anymore.,Gabe,0
+9018,6,122,Astronauting is very hard on the knees.,Gabe,1
+9019,6,123,"Well, if you bring him in, I'll give you extra credit.",Others,0
+9020,6,124,And it could bring your grade up to an 'A'.,Others,0
+9021,6,125,Huh.,Gabe,0
+9022,6,126,An 'A' in English.,Gabe,0
+9023,6,127,NULL,Gabe;Others,1
+9024,7,128,Next! Okay.,Teddy,0
+9025,7,129,"For the role of the young Princess, presenting Charlie Duncan.",Teddy,0
+9026,7,130,"Hi, Charlie.",Ivy,0
+9027,7,131,"Okay, Charlie, say the line.",Teddy,0
+9028,7,132,"Charlie, hey.",Teddy,0
+9029,7,133,"Charlie, remember, your line is 'Your majesty, I was born to dance'.",Teddy,0
+9030,7,134,Okay? Now you say it.,Teddy,0
+9031,7,135,I turned my ears off.,Charlie,1
+9032,7,136,"Here, just can you give us a minute? Okay.",Teddy,0
+9033,7,137,"Who's next? Hi, I'm Tammy.",Ivy,0
+9034,7,138,"Hi, Tammy.",Ivy,0
+9035,7,139,Whenever you're ready.,Ivy,0
+9036,7,140,"( Inhales and exhales ) Your majesty, I was born to dance.",Others,0
+9037,7,141,"Tammy, that was very good.",Ivy,0
+9038,7,142,Wow.,Ivy,0
+9039,7,143,What did you think? A little show-offy for my taste.,Teddy,1
+9040,7,144,"Oh, come on! She's fantastic.",Ivy,0
+9041,7,145,"Yeah, I don't know.",Teddy,0
+9042,7,146,NULL,Teddy;Ivy;Charlie,1
+9043,8,147,Okay.,Teddy,0
+9044,8,148,We have got two great candidates for the role of the young Princess.,Teddy,0
+9045,8,149,Let's just compare them objectively.,Teddy,0
+9046,8,150,Charlie versus Hammy.,Teddy,1
+9047,8,151,Tammy.,Ivy,0
+9048,8,152,"Oh, it's too late.",Teddy,0
+9049,8,153,I already wrote 'Hammy'.,Teddy,0
+9050,8,154,Okay! First category Cuteness.,Teddy,0
+9051,8,155,"Well, Charlie gets a 10.",Teddy,1
+9052,8,156,No no question there.,Teddy,0
+9053,8,157,"And, uh, Tammy Let's be generous and give her a five.",Teddy,1
+9054,8,158,A five? Is that too high? I'll make it a four.,Teddy,1
+9055,8,159,"Okay, next category personality.",Teddy,0
+9056,8,160,Tammy has a nice smile.,Ivy,0
+9057,8,161,With dead shark eyes.,Teddy,1
+9058,8,162,I'll make it another four.,Teddy,0
+9059,8,163,Charlie gets a 10.,Teddy,1
+9060,8,164,How about the ability to say lines? Oh.,Ivy,0
+9061,8,165,Yeah.,Teddy,0
+9062,8,166,"There is some, uh There is some debate there.",Teddy,0
+9063,8,167,You know what? Let's just give them each a five.,Teddy,1
+9064,8,168,"And there you have it! Charlie is the clear-cut winner! Oh, Teddy! Come on! But the numbers don't lie.",Teddy,1
+9065,8,169,I didn't just make them up.,Teddy,0
+9066,8,170,"Yes, you did! Ivy, I will get her to say the line.",Ivy,0
+9067,8,171,I'm The Charlie Whisperer.,Teddy,1
+9068,8,172,All right.,Ivy,0
+9069,8,173,She's got the part.,Ivy,0
+9070,8,174,I don't know how I'm gonna explain this to Tammy.,Ivy,0
+9071,8,175,Don't worry about Tammy.,Teddy,0
+9072,8,176,She's gonna get tons of parts.,Teddy,0
+9073,8,177,NULL,Teddy;Ivy,1
+9074,9,178,"Ooh, cookies.",PJ,0
+9075,9,179,"Hey, they're not for you.",Gabe,1
+9076,9,180,They're for Bert.,Gabe,0
+9077,9,181,"Bert's coming over? Yeah, and can you stick around? You have a way with old people.",Gabe,1
+9078,9,182,"Usually, it creeps me out, but now I need you.",Gabe,1
+9079,9,183,( Doorbell rings ) Hey! Bert! Come on in.,Gabe,1
+9080,9,184,I've been living across the street from you people for 20 years and I've never been invited over.,Others,1
+9081,9,185,We're shy.,Gabe,0
+9082,9,186,"Shy? I hear that mother of yours singing and dancing all the time! - Women, huh, Bert? - Hey, tell me about it.",Others,1
+9083,9,187,"Cookie? Yeah, sure.",Others,0
+9084,9,188,That is a nice cardigan.,PJ,0
+9085,9,189,They don't make them like that anymore.,PJ,1
+9086,9,190,You got that right.,Others,0
+9087,9,191,"( Chuckles ) Now you, I like.",Others,1
+9088,9,192,"Anyhoo, Bert.",Gabe,0
+9089,9,193,I was wondering if you could come to my class and talk about your amazing career.,Gabe,0
+9090,9,194,Amazing? I was a Mailman.,Others,1
+9091,9,195,Good stuff.,Gabe,0
+9092,9,196,Good stuff.,Gabe,0
+9093,9,197,But let me just suggest one small A little tiny tweak.,Gabe,0
+9094,9,198,"Instead of Mailman, let's use a different word.",Gabe,0
+9095,9,199,Letter carrier? I was thinking Astronaut.,Gabe,1
+9096,9,200,You want me to lie? What's wrong with being a Mailman? Nothing.,Others,0
+9097,9,201,"It's just that the kids these days, they're not as easily entertained.",PJ,0
+9098,9,202,"What with the video games, the gizmos and the gadgets.",PJ,0
+9099,9,203,"We're losing our country, Bert.",PJ,1
+9100,9,204,That's what I always say when I'm talking to my radio.,Others,1
+9101,9,205,So so you'll do it? No! I'm not gonna lie about my job.,Gabe,0
+9102,9,206,"What will you lie about? Your vacations? And could one of them possibly have been to Jupiter? Are you off your nut? - Who raised you anyway? - ( Door opens ) Hey, Bert.",Gabe,1
+9103,9,209,NULL,Others;Gabe;PJ,1
+9104,10,210,"Charlie, it's just one line.",Teddy,0
+9105,10,211,Say it with me.,Teddy,0
+9106,10,212,"'Your majesty, I was born to dance'.",Teddy,1
+9107,10,213,"Charlie, come on, please.",Teddy,0
+9108,10,214,"Hey, girls.",Amy,0
+9109,10,215,What's going on? I can't get Charlie to say her line.,Teddy,0
+9110,10,216,"Why don't you just do it with your mind? If you're done mocking me, I could really use your help here.",Amy,1
+9111,10,217,"Oh, sweetheart.",Amy,0
+9112,10,218,I'll never be done mocking you.,Amy,1
+9113,10,219,"Okay, relax.",Amy,0
+9114,10,220,I have an idea.,Amy,0
+9115,10,221,"Okay, Charlie.",Amy,0
+9116,10,222,We're gonna read a fun new book.,Amy,0
+9117,10,223,"It's called 'your majesty, I was born to dance'.",Amy,1
+9118,10,224,Ohh! That sounds like a great title.,Teddy,0
+9119,10,225,"You wanna say that? Yeah, do you wanna say it like the Princess in the book? That's a dog.",Amy,1
+9120,10,226,"Well, it's a doggy Princess with an invisible tiara.",Amy,0
+9121,10,227,I want another book.,Charlie,1
+9122,10,228,"Come on, Charlie.",Amy,0
+9123,10,229,You can say the line.,Amy,0
+9124,10,230,"'Your majesty, I was born to dance'.",Amy,0
+9125,10,231,"'Your majesty, I was born to dance'.",Charlie,0
+9126,10,232,NULL,Amy;Charlie;Teddy,1
+9127,11,233,"Well, Bert.",Others,0
+9128,11,234,Thank you so much for joining us.,Others,0
+9129,11,235,"Why don't you tell us a little bit about yourself? ( Mumbling ) Could Bert take off his helmet? Uh, no.",Others,0
+9130,11,236,Next question.,Gabe,0
+9131,11,237,"So we have a speaker who can't actually speak? Okay, kids.",Others,0
+9132,11,238,"Let's all line up and we can all touch Bert's helmet, and then he'll be on his way.",Others,0
+9133,11,239,I'll go first.,Others,0
+9134,11,240,"( Makes hissing noise ) Gabe, who is this? It's Bert, my neighbor.",Gabe,0
+9135,11,241,Bert looks surprisingly young.,Others,0
+9136,11,242,"Oh, thank you, dear.",PJ,0
+9137,11,243,That's sweet of you to say.,PJ,0
+9138,11,244,"Gabe, I want the truth.",Others,0
+9139,11,245,( Sighs ) Okay.,Gabe,0
+9140,11,246,"The truth is that On his last mission, Bert went through a wormhole sending him back in time.",Gabe,1
+9141,11,247,"Gabe Duncan, I should have known better.",Others,0
+9142,11,248,"You know, you really should have.",Gabe,1
+9143,11,249,"Well, I should get going.",PJ,0
+9144,11,250,NULL,PJ;Gabe;Others,1
+9145,12,251,Hey! There's my baby boy.,Bob,0
+9146,12,252,"Um, Bob, hon', you - You missing something? - Wha oh! This? Aw, I just decided to update the work threads.",Amy,1
+9147,12,253,"Well, sweetie.",Amy,0
+9148,12,254,You're an exterminator.,Amy,0
+9149,12,255,"Isn't the point of your uniform to protect you from things that sting and bite? Hey, these cannons are my protection.",Amy,1
+9150,12,256,Oh.,Amy,0
+9151,12,257,Daddy's gone crazy.,Amy,1
+9152,12,258,NULL,Amy;Bob,1
+9153,13,259,Hey.,Ivy,0
+9154,13,260,Where have you been? ( Sighs ) - And where's Charlie? - She's at home.,Ivy,0
+9155,13,261,What?! - She refused to come.,Teddy,0
+9156,13,262,"And then when I asked her nicely, she turned off her ears and she ran away from me.",Teddy,0
+9157,13,263,"How could you do this to me? Look, it's not completely my fault.",Teddy,0
+9158,13,264,"Okay? A good Director would have chosen Tammy! Teddy, the The young Princess goes on in two minutes.",Teddy,0
+9159,13,265,What are we gonna do? ( Sighs ) I'll take care of it.,Teddy,0
+9160,13,266,"( High-pitched ) Your majesty, I was born to dance! ( Cheers and applause ) Hey.",Teddy;Ivy,1
+9161,14,267,"What's going on? Vern, what are you doing here? I'm here because I love you, man.",Bob,1
+9162,14,268,Uh-oh.,Amy,0
+9163,14,269,"Bob, honey.",Amy,0
+9164,14,270,Come here.,Amy,0
+9165,14,271,Have a seat next to me.,Amy,0
+9166,14,272,"Now, sweetie, we have some things we'd like to say, so please just hear us out.",Amy,0
+9167,14,273,Teddy? You start.,Amy,0
+9168,14,274,"( Sighs ) Dad, I miss the old you.",Teddy,0
+9169,14,275,"You know, the normal guy whose clothes aren't tighter than mine.",Teddy,1
+9170,14,276,Okay.,Amy,0
+9171,14,277,P.J.,Amy,0
+9172,14,278,Dad I want us to shop at different stores.,PJ,1
+9173,14,279,I don't want us to have the same pants.,PJ,1
+9174,14,280,"For the record, I love your new look! It's a comedic gold mine.",Gabe,1
+9175,14,281,"For instance - Uh, uh, thank you, Gabe.",Amy,1
+9176,14,282,"Vern? Would you like to share? Look at me, boss.",Amy,0
+9177,14,283,I had to expose my flesh to the enemy just so you could show off your g*n.,Others,1
+9178,14,284,"What's going on, Bob? Are you having some sort of a mid-life crisis? No! ( Groans ) I ( Groans ) All right.",Amy,0
+9179,14,285,"A couple of months ago I'm in the park with Toby and, uh ( Sighs ) Somebody thought I was his grandfather.",Bob,0
+9180,14,286,"So you went through all of this because of some off-handed comment from a stranger? Yeah! But it guys, it inspired me to lose weight, get in shape.",Bob,1
+9181,14,287,And your new body is great.,Amy,0
+9182,14,288,What you've chosen to put on your new body Not so great.,Amy,1
+9183,14,289,Dad.,Teddy,0
+9184,14,290,Will you accept our help and return those clothes today? There's a car waiting outside to take you to an age-appropriate store.,PJ,1
+9185,14,291,"All right, fine.",Bob,0
+9186,14,292,I'll go.,Bob,0
+9187,14,293,NULL,Bob;PJ;Teddy;Gabe;Amy,1
+9188,15,294,"Dad returned all the clothes, so there's one less teenager in the house.",Teddy,0
+9189,15,295,"And in other news Bert: Hey! Keep it down in there! Gabe got in trouble at school, so now he has to interview our neighbor Bert for real.",Others,1
+9190,15,296,Now where was I? The first-class stamp cost 20 cents.,Others,0
+9191,15,297,And the zip plus-four code was established.,Others,0
+9192,15,298,( Mouthing ) - Now the Z.P.4.,Others,1
+9193,15,299,"Code, was originally supposed to be just a Z.P.3.",Others,0
+9194,15,300,NULL,Others;Teddy,1
+9195,15,301,It looks like Gabe's gonna be there a while.,Teddy,0
+9196,15,302,"Wish him good luck, Charlie.",Teddy,0
+9197,16,303,"All right, Vern.",Bob,0
+9198,16,304,"You wanna look good in that uniform, we gotta get you into shape.",Bob,1
+9199,16,305,All right.,Bob,0
+9200,16,306,"Now before we begin, we need to stretch out.",Bob,1
+9201,16,307,"You are limber! All right, let's try some sit-ups.",Bob,0
+9202,16,308,Now watch my technique.,Bob,1
+9203,16,309,"All right, your turn.",Others,0
+9204,16,310,NULL,Others;Bob;Teedy,1

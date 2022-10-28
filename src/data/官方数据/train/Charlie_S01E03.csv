@@ -1,0 +1,344 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+728,1,0,"Hi, Charlie.",Teddy,0
+729,1,1,It's your big sister Teddy with my video diary.,Teddy,0
+730,1,2,"So today, I want to talk to you about best friends.",Teddy,0
+731,1,3,You bragging about me again? Huh.,Ivy,1
+732,1,4,"Yeah, this is Ivy.",Teddy,0
+733,1,5,She's my BFF.,Teddy,0
+734,1,6,"I'm also her hero, the wind beneath her wings, the hip in her hop, the peanut to her butter.",Ivy,0
+735,1,7,I am - The mouth that wouldn't shut.,Teddy,1
+736,1,8,Let's see how we're looking.,Ivy,0
+737,1,9,Perfect! - I'd date us.,Ivy,0
+738,1,10,I'd marry us.,Teddy,0
+739,1,11,So what's the big news? - You are not gonna believe what I did for you.,Ivy,0
+740,1,12,I saw the cutest guy working at the mall food court And pause for dramatic effect Tomorrow I'm going to talk to him.,Ivy,0
+741,1,13,How is this something you're doing for me? Maybe he has a friend.,Teddy,0
+742,1,14,The cute ones always have a friend.,Ivy,0
+743,1,15,"I mean, I have you, right? Hi, girls.",Ivy,0
+744,1,16,What you doing? Nothin'.,Amy,0
+745,1,17,"How's it going, Ivy? - Real good.",Amy,0
+746,1,18,Ignore her.,Teddy,0
+747,1,19,She'll go away.,Teddy,0
+748,1,20,You girls are always on those phones.,Amy,0
+749,1,21,Who are you texting now? - Nobody.,Amy,0
+750,1,22,Clueless! - I wish I could do that.,Amy,0
+751,1,23,"Hey, then you and I could text each other.",Amy,0
+752,1,24,"Wouldn't that be fun? Oh my gosh, mom, I'd love that! - I don't think I can text from this phone.",Amy,0
+753,1,25,"Oh, well! Sure you can, miss d.",Teddy,0
+754,1,26,What's your number? Not ignoring.,Ivy,0
+755,1,27,What is that noise? I just sent you a text.,Amy,0
+756,1,28,Just hit that button to read it.,Ivy,0
+757,1,29,"Well, look at that.",Amy,0
+758,1,30,"Oh, that's funny, Ivy.",Amy,0
+759,1,31,Then your response is 'L.,Ivy,0
+760,1,32,O.,Ivy,0
+761,1,33,L.,Ivy,0
+762,1,34,' 'Laugh out loud.,Ivy,0
+763,1,35,"' No no, mom.",Teddy,0
+764,1,36,"You don't do it, you type it.",Teddy,0
+765,1,37,"Or if you want to get a little saucy, You can wink.",Ivy,0
+766,1,38,Not there.,Ivy,0
+767,1,39,There.,Ivy,0
+768,1,40,Just a semicolon and parentheses.,Ivy,0
+769,1,41,"Oh, that does look like a wink.",Amy,0
+770,1,42,I can't believe I'm finally a texter.,Amy,1
+771,1,43,Let's see if it works from the kitchen! - 'W.,Amy,1
+772,1,44,H.,Ivy,0
+773,1,45,Y.,Ivy,0
+774,1,46,D.,Ivy,0
+775,1,47,"'? - What have you done? Yeah, this is way more fun since you've learned how to clap.",Teddy,0
+776,2,0,"Don't ignore me! When I tell you to do something, I expect you to do it! Get off my back, woman! You want me off your back? I can arrange that.",Dabney,0
+777,2,1,"Charlie, those are our neighbors, the Dabneys.",PJ,0
+778,2,2,They've been married a long time.,PJ,1
+779,2,3,"Hey, P.",Gabe,0
+780,2,4,J.,Gabe,0
+781,2,5,", I just kicked the football Into the Dabneys' backyard.",Gabe,0
+782,2,6,Will you go get it? No way! They're going at it again.,PJ,0
+783,2,7,"Well, what about the football? - Who cares? It's gone.",PJ,0
+784,2,8,Kiss it goodbye.,PJ,1
+785,2,9,"Well, I'm glad to hear you say that Because it was your football.",Gabe,1
+786,3,0,Ha! I warned you! That's what you get for being a bad husband! And now you're dead! Is somebody out here? Who's out here? - Where's the football? - Forget the football! Mrs.,Dabney,0
+787,4,0,Dabney just m*rder Mr.,PJ,1
+788,4,1,Dabney! What?! I heard her talking to his corpse.,PJ,1
+789,4,2,It was chilling.,PJ,1
+790,4,3,"Just so I'm clear, You didn't get the football? - I'm serious, Gabe.",Gabe,0
+791,4,4,Come on! Mrs.,Gabe,0
+792,4,5,"Dabney may be a mean, vicious, cruel, Horrible, nasty old witch, But she'd never do something like that.",Gabe,1
+793,4,6,You don't believe me? - No.,PJ,0
+794,4,7,Fine.,PJ,0
+795,4,8,"Fine, I'll prove it.",PJ,0
+796,4,9,"Come here, Gabe.",PJ,0
+797,4,10,Hello? Is Mr.,Dabney,0
+798,4,11,Dabney home? He can't come to the phone.,Dabney,0
+799,4,12,Interesting.,PJ,1
+800,4,13,Who is this? Uh I'm some sort of salesman.,PJ,1
+801,4,14,"Gabe, is that you? Why would you assume my name is Gabe? Because I have caller ID.",Dabney,1
+802,4,15,"Oh! Then yeah, it's Gabe.",PJ,1
+803,4,16,"Hey! Whoo! She's cool under pressure, I'll give her that.",PJ,1
+804,4,17,P.,Gabe,0
+805,4,18,J.,Gabe,0
+806,4,19,", she's not a m*rder.",Gabe,0
+807,4,20,"I heard what I heard, Gabe.",PJ,0
+808,4,21,Why don't you believe me? Because you're you and you get things wrong.,Gabe,1
+809,4,22,"What are you saying, that I'm dumb? Well, no.",PJ,0
+810,4,23,You're just not very - Thinky.,Gabe,1
+811,4,24,"Thinky? Gabe, why would you say something like that? 'Cause mom said I can't call you dumb.",Gabe,1
+812,5,0,It is so pathetic.,Teddy,0
+813,5,1,My mom's in the kitchen texting away.,Teddy,0
+814,5,2,"Gosh, I'd hate to be on the other end of that conversation.",Teddy,1
+815,5,3,Who are you texting? - Your mom.,Teddy,1
+816,5,4,I am so sorry.,Teddy,0
+817,5,5,"Look, I promise I'll get her out of your hair.",Teddy,0
+818,5,6,"No, it's okay.",Ivy,0
+819,5,7,Your mom's cool.,Ivy,0
+820,5,8,My mom is what? And she's really funny.,Ivy,0
+821,5,9,"My mom is what? Wait, that's her again.",Teddy,1
+822,5,10,What are you talking about with my mom? - Nothing.,Teddy,0
+823,5,11,"Nothing?! That's what say to her! Hold on, I have to 'L.",Teddy,1
+824,5,12,O.,Ivy,0
+825,5,13,L.,Ivy,0
+826,5,14,' Her.,Ivy,0
+827,5,15,"Okay, well 'L.",Teddy,0
+828,5,16,O.,Teddy,0
+829,5,17,L.,Teddy,0
+830,5,18,' Has officially lost all meaning.,Teddy,1
+831,5,19,I'm sorry.,Ivy,0
+832,5,20,"Is this a problem for you? No, I just think it's a little bit inappropriate.",Teddy,0
+833,5,21,Inappropriate? Now you sound like my mother.,Ivy,1
+834,5,22,"Well, how would you know what your mother sounds like? You've been spending so much time with mine! What are you getting so whacked about? You didn't want to text her.",Teddy,1
+835,5,23,"Well yeah, that's because she's my mom, not my friend.",Teddy,0
+836,5,24,Wouldn't you be weirded out if I was texting your mom? - Yes Because she doesn't have a cell phone.,Ivy,1
+837,5,25,"Look, t, if you're not cool with this, I'll just stop.",Ivy,0
+838,5,26,"No no, I don't care.",Teddy,0
+839,5,27,"I mean, it's a free country.",Teddy,0
+840,5,28,"Go crazy text my mom, I.",Teddy,0
+841,5,29,M.,Teddy,0
+842,5,30,"My dad, video-Chat my aunt helen.",Teddy,1
+843,5,31,"Oh! Your aunt helen? Your mom says she is da b*mb diggitty! My mom really said 'da b*mb diggitty'? Well, I y have added that part.",Ivy,1
+844,6,0,P.,Gabe,0
+845,6,1,J.,Gabe,0
+846,6,2,You've got to stop watching these mysteries.,Gabe,0
+847,6,3,Not until I figure out how to catch Mrs.,PJ,0
+848,6,4,Dabney.,PJ,0
+849,6,5,These old movies are gonna help me do that.,PJ,1
+850,6,6,That's like saying cartoons will teach you How to run through walls.,Gabe,1
+851,6,7,Learned that the hard way.,PJ,1
+852,6,8,"Mom! Can you get that?! Sure, I'll get the door.",Gabe,0
+853,6,9,I am a lot closer to it.,Amy,1
+854,6,10,"Hello, Mrs.",Amy,0
+855,6,11,Dabney.,Amy,0
+856,6,12,Hello.,Dabney,0
+857,6,13,Come on in.,Amy,0
+858,6,14,Heads up! k*ll in the house.,PJ,1
+859,6,15,"What have they done this time? For once, nothing that I know of.",Dabney,0
+860,6,16,It's nice to see you too.,Gabe,1
+861,6,17,"I'd like to speak with your husband, please.",Dabney,0
+862,6,18,I'll let him know you're here.,Amy,0
+863,6,19,I'm a texter now.,Amy,1
+864,6,20,I'm texting.,Amy,1
+865,6,21,Really speeds things up.,Amy,1
+866,6,22,Somebody lose a ball today? Possibly.,PJ,0
+867,6,23,"Did you lose anything today, Mrs.",PJ,1
+868,6,24,"Dabney? Honey, what does this mean: 'somebody's at the doof.",Bob,1
+869,6,25,' O.,Amy,1
+870,6,26,M.,Amy,1
+871,6,27,G.,Amy,1
+872,6,28,! I meant 'door'! T.,Amy,1
+873,6,29,T.,Amy,1
+874,6,30,Y.,Amy,1
+875,6,31,L.,Amy,1
+876,6,32,"What can I do for you, Mrs.",Bob,0
+877,6,33,"Dabney? - You're an exterminator, righ - Pest control specialist.",Dabney,1
+878,6,34,Maybe you can help me with a problem I'm having.,Dabney,0
+879,6,35,"How do I get the smell of death out of my house? Will you turn that tv down? - So youhink something died in your house? - Oh, I know something's dead.",Bob,0
+880,6,36,"Well, first thing you're gonna have to do Is locate and dispose of the carcass.",Bob,0
+881,6,37,I suppose you could get Mr.,Bob,0
+882,6,38,Dabney to do that.,Bob,0
+883,6,39,"Oh, Mr.",Dabney,0
+884,6,40,Dabney won't be doing anything Around the house for a while A long while.,Dabney,0
+885,6,41,He's gone.,Dabney,0
+886,6,42,"You know what, would you just turn it off? What's wrong with your boys today? I just got here.",Bob,1
+887,6,43,"Um, all right, old trick of the trade Get yourself some maple syrup, put it on the stove, Let it simmer that should get rid of the smell.",Bob,0
+888,6,44,Thank you.,Dabney,0
+889,6,45,That very useful information.,Dabney,0
+890,6,46,"Bye, boys.",Dabney,0
+891,6,47,'I.,Bob,0
+892,6,48,T.,Bob,0
+893,6,49,B.,Bob,0
+894,6,50,O.,Bob,0
+895,6,51,O.,Bob,0
+896,6,52,T.,Bob,0
+897,6,53,P.,Bob,0
+898,6,54,' What does that stand for? In the bathroom out of toilet paper! T.,Amy,1
+899,6,55,M.,Bob,0
+900,6,56,I.,Bob,0
+901,6,57,"! I can't believe it, but you were right! Mrs.",Gabe,0
+902,6,58,Dabney did it.,Gabe,0
+903,6,59,"Wow! This is what it feels like to be right, huh? I like it! Too bad somebody had to die, but - What are we gonna do now? - I have to tell mom and dad! They're never gonna believe you.",Dabney,1
+904,6,60,I didn't believe you and I'm 10.,Gabe,1
+905,6,61,"Well, then we need proof.",Dabney,0
+906,6,62,"And I have to warn you, Gabe, until we get that proof, Our lives may be in danger.",Dabney,0
+907,6,63,I thought we turned that off.,Gabe,0
+908,7,0,What'd you get for number nine? Switzerland.,Teddy,0
+909,7,1,"Well, that's odd since we're doing math.",Teddy,1
+910,7,2,Hi.,Teddy,0
+911,7,3,Hi.,Others,0
+912,7,4,"Mom, what are you doing here? You weren't supposed to pick me up until 5:00.",Others,0
+913,7,5,"Teddy left a message and said to come by early Something about 'chilling'? Yeah, that's right.",Others,1
+914,7,6,Thought your mom and I could chill for a little while.,Teddy,0
+915,7,7,"Really? This is what you're doing? Yeah well, this is what we're doing, So if you will excuse us, - We'd like a little privacy please.",Teddy,1
+916,7,8,Sure.,Ivy,0
+917,7,9,Fine.,Ivy,0
+918,7,10,I'll be in the kitchen with your mom.,Ivy,1
+919,7,11,Come on over.,Teddy,0
+920,7,12,"Sit down next to me, girlfriend.",Teddy,1
+921,7,13,"What's this all about? Is Ivy in trouble? Oh, no! Is she back on the chocolate? No no no, Ivy's fine.",Others,1
+922,7,14,I just wanted to spend some time With one of the cool moms.,Teddy,0
+923,7,15,You.,Teddy,0
+924,7,16,Okay.,Others,0
+925,7,17,I love your outfit.,Teddy,0
+926,7,18,Where'd you get it? My closet.,Others,1
+927,7,19,You are so funny.,Teddy,0
+928,7,20,"I bet you get that a lot, right? - No.",Others,0
+929,7,21,No? Are we done chilling? Yes.,Others,0
+930,7,22,"Yes, we are because it is time to Par-Tay.",Teddy,0
+931,7,23,"Let's get this jam started! Yeah! Come on, Miss W! Let your freak flag fly! That's kind of loud.",Teddy,1
+932,7,24,"Could you lower that, please? Yeah.",Others,0
+933,7,25,A little bit more.,Others,0
+934,7,26,A little bit more.,Others,0
+935,7,27,Perfect.,Others,0
+936,7,28,"Hey, want to do something fun? I like making these video diars for my baby sister.",Teddy,0
+937,7,29,"So how about we say hi? Hi, Charlie.",Teddy,0
+938,7,30,It's Teddy here With my new friend Mrs.,Teddy,0
+939,7,31,Wentz.,Teddy,0
+940,7,32,Hello.,Others,0
+941,7,33,Let's see how we look.,Teddy,0
+942,7,34,"Oh, I'd date us.",Teddy,0
+943,7,35,Wouldn't you? I'm married.,Others,1
+944,7,36,"Okay, that's enough of that.",Teddy,0
+945,7,37,"No, you know what? We've been doing a lot of my fun stuff.",Teddy,0
+946,7,38,Tell me tell me about you.,Teddy,0
+947,7,39,What do you like to do for fun? I like to knit.,Teddy,0
+948,7,40,That is so cool because anything else? - I like to read.,Teddy,0
+949,7,41,"Oh, yeah? Me too.",Teddy,0
+950,7,42,What kind of stuff do you like to read? - Knitting magazines.,Teddy,1
+951,7,43,That's awesome.,Teddy,0
+952,7,44,"I mean, weave so much in common You know, once I start reading knitting magazines, Which you're pulling out of your bag.",Teddy,1
+953,8,0,"Okay, she's gone.",PJ,0
+954,8,1,Here's how this is gonna go dodown.,PJ,0
+955,8,2,"I'm gonna jump over the fence, you hand Charlie to me.",PJ,0
+956,8,3,And then - Or I could just walk through the gate Like this.,Gabe,1
+957,8,4,"You did know there was a gate, right? Yes.",Gabe,1
+958,8,5,Would I be riding on top of it if I didn't? - Now what? - Now it's time to be In operation 'catch a k*ll' While babysitting.,PJ,1
+959,8,6,"So, what are we looking for? Evidence, clues, a w*apon.",Gabe,0
+960,8,7,Mr.,PJ,0
+961,8,8,Dabney's rotting corpse would be nice.,PJ,1
+962,8,9,"Oh my gosh, that's horrible! - What? What do you see? - That paint color It's so wrong for that room! - I watch a lot of design shows.",Gabe,1
+963,8,10,Focus! - Look.,PJ,0
+964,8,11,Something's moving.,PJ,0
+965,8,12,"Where? By the couch, right right there.",PJ,0
+966,8,13,"It's a baby! - It's Charlie! No, it's not.",Gabe,0
+967,8,14,"Charlie's right over Inside the m*rder house! Okay, try to stay with me now Because we're going to get a little wild.",PJ,1
+968,9,0,"Instead of knit one, purl two, We kick it up to knit one, purl three! Is that even legal? I don't know, But I just like living dangerously! Okay, I'm gonna go get something to drink.",Others,1
+969,9,1,"Do you want anything? - Oh, not now.",Teddy,0
+970,9,2,I'm in the zone! What you doing in here? Giving up.,Others,1
+971,9,3,"Did she suck the life out of you? Yeah, pretty much.",Ivy,1
+972,9,4,Now you see why I'm always at your house.,Ivy,0
+973,9,5,"Yeah, I'm so sorry.",Teddy,0
+974,9,6,I was being selfish with my mom.,Teddy,0
+975,9,7,"And even though I think it's a little bit weird, You can xt her as much as you want.",Teddy,0
+976,9,8,I think I got a better idea.,Ivy,0
+977,9,9,"And then, get this, If you type in a semicolon parentheses, - You get a - Winky face! I have got to get a cell phone.",Amy,1
+978,9,10,I like it.,Ivy,0
+979,9,11,You put our moms together And they leave us alone.,Teddy,0
+980,9,12,You are brilliant.,Teddy,0
+981,9,13,"See, this is why we're B.",Ivy,0
+982,9,14,F.,Ivy,0
+983,9,15,F.,Ivy,0
+984,9,16,S.,Ivy,0
+985,9,17,I'm brilliant and you recognize it.,Ivy,1
+986,9,18,Now if I type 'R.,Others,0
+987,9,19,O.,Others,0
+988,9,20,T.,Others,0
+989,9,21,F.,Others,0
+990,9,22,"' Do I actually have to roll on the floor? I thought the same thing at first, But no.",Others,1
+991,10,0,This'll get her out.,PJ,0
+992,10,1,Charlie loves things that rattle.,PJ,0
+993,10,2,"Okay, girl.",PJ,0
+994,10,3,"Charlie, come on.",PJ,0
+995,10,4,Get the keys.,PJ,0
+996,10,5,"Get the keys! Aw, man! I dropped the keys.",PJ,0
+997,10,6,Fantastic! Now we can't get into our house either.,Gabe,0
+998,10,7,I don't see Charlie.,PJ,0
+999,10,8,"Where'd she go? - Oh, there she is.",PJ,0
+1000,10,9,"Wait, what is she putting on her head, A dishtowel? Mrs.",Gabe,0
+1001,10,10,"Dabney's underpants! Man! Come on, we gotta get her out of there.",PJ,1
+1002,10,11,"Yeah, come on! What are you doing in my yard? We're here to help you with your groceries.",Dabney,1
+1003,10,12,You want to be helpful? I like to try new things.,Gabe,1
+1004,10,13,"Here, let me give you a hand with that.",PJ,0
+1005,10,14,I can handle the grocies.,Dabney,0
+1006,10,15,"But as long as you're here, I could use yourelp with something inside.",Dabney,0
+1007,10,16,Inside? Perfect.,PJ,0
+1008,10,17,Let me just put my groceries down.,Dabney,0
+1009,10,18,Take your time.,Gabe,0
+1010,10,19,Yeah.,PJ,0
+1011,10,20,Yeah.,PJ,0
+1012,10,21,Where's Charlie? - Look behind the curtains! - Okay.,PJ,0
+1013,10,22,"Nothing! - There she is! Oh, I've got you.",Gabe,0
+1014,10,23,I don't want it! Where did that baby come from? Charlie? I've been holding her the whole time.,PJ,0
+1015,10,24,"You have? - That's sad, Mrs.",Gabe,0
+1016,10,25,Dabney.,Gabe,0
+1017,10,26,They say the eyes are the first things to go.,Gabe,1
+1018,10,27,We gotta go.,PJ,0
+1019,10,28,Not so fast.,Dabney,0
+1020,10,29,Put the baby down.,Dabney,0
+1021,10,30,I need you to carry something out for me.,Dabney,0
+1022,10,31,I want you to take this trunk out to my car.,Dabney,0
+1023,10,32,It's too heavy for me.,Dabney,0
+1024,10,33,Why? What's in it? - Something I should've Gotten rid of a long time ago.,Dabney,0
+1025,10,34,Where are you taking it? - To the dump.,Dabney,0
+1026,10,35,"That's where you take trash, isn't it? Trash?! Mr.",Dabney,0
+1027,10,36,"Dabney wasn't trash, he was a person! - What are you talking about? - You know exactly what I'm talking about.",PJ,0
+1028,10,37,You bumped off your husband and stuffed him into that trunk.,PJ,0
+1029,10,38,"Is that what you think?! - That's what we know! What is she oh, watch it! She's k*ll! You want to see what's in here? Take a look.",Dabney,0
+1030,10,39,It's Mr.,Gabe,0
+1031,10,40,Dabney! And he's already decomposed! That's not Mr.,PJ,1
+1032,10,41,Dabney.,Dabney,0
+1033,10,42,That's a skeleton he used in his classroom.,Dabney,0
+1034,10,43,He used to be a science teacher.,Dabney,0
+1035,10,44,But I heard you screaming at him.,PJ,0
+1036,10,45,"You called him a bad husband and then you said, 'And now you're dead!' Oh! You must have heard me talking back To someone on my soaps.",PJ,0
+1037,10,46,Soaps? Soap operas on tv Like the one they should name after you two 'The young and the clueless.,Dabney,1
+1038,10,47,"' Well, if Mr.",PJ,0
+1039,10,48,"Dabney isn't dead, then where is he? At his mother's probably wishing he was dead.",Dabney,1
+1040,10,49,"Well, then how do you explain the smell of death - You asked my dad about? - Dead possum in my dryer vent.",PJ,0
+1041,10,50,"Well, then how do you explain That's pretty much it, I guess.",PJ,1
+1042,10,51,Just one more question Do you have any cookies? Get out.,Gabe,0
+1043,10,52,"What are my underpants doing in the fireplace? Gotta go! Here she comes! Coolest mom in the world! Okay, what's all this? Oh, just showing Charlie how much I love you.",Dabney,1
+1044,11,0,"Oh, I love you too, sweetie.",Amy,0
+1045,11,1,"And I love you too, Charlie.",Amy,0
+1046,11,2,"Oh, so mom, I've been thinking Maybe you and I should start texting.",Teddy,0
+1047,11,3,"I mean, you are a pretty cool mom, right? Oh, sorry, honey.",Amy,1
+1048,11,4,Those days are over.,Amy,0
+1049,11,5,Text thumbs.,Amy,0
+1050,11,6,Text thumbs? That's our mom From cool to embarrassing just like that.,Teddy,1
+1051,11,7,All right.,Teddy,0
+1052,11,8,"Good luck, Charlie.",Teddy,0
+1053,12,0,"Hey, guys.",Bob,0
+1054,12,1,Better make your friend a sandwich.,Bob,0
+1055,12,2,He's looking a little thin.,Bob,0
+1056,12,3,Where'd you guys get that thing? Mrs.,Amy,0
+1057,12,4,Dabney was throwing it out.,PJ,0
+1058,12,5,"Yeah, it belonged to Mr.",Gabe,0
+1059,12,6,Dabney.,Gabe,0
+1060,12,7,He was a science teacher.,Gabe,0
+1061,12,8,Mr.,Bob,0
+1062,12,9,Dabney wasn't a science teacher.,Bob,0
+1063,12,10,He was a music teacher.,Bob,0
+1064,12,11,What?! - That means - This is Mr.,PJ,0
+1065,12,12,Dabney wasn't a music teacher.,Amy,0
+1066,12,13,You're thinking of of Mr.,Amy,0
+1067,12,14,Dixon across the street.,Amy,0
+1068,12,15,"Oh, that's right.",Bob,0
+1069,12,16,Mr. Dabney was a science teacher.,Bob,0
+1070,12,17,"The boys seem a little jumpy to you? Ah, I just got here.",Bob,1

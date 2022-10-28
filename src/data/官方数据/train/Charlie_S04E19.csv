@@ -1,0 +1,634 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+18255,1,0,These pancakes taste funny.  ,Charlie,0
+18256,1,1,What do you mean?,PJ,0
+18257,1,2,They're good.  ,Charlie,0
+18258,1,3,Hm?  ,PJ,0
+18259,1,4,Hey.,Bob,0
+18260,1,5,Oh!  ,Gabe,0
+18261,1,6,Mom made good pancakes!  ,Gabe,0
+18262,1,7,Is up down? Is black,Gabe,0
+18263,1,8,white? Is Dad smart?  ,Gabe,1
+18264,1,9,How do you go from,Bob,0
+18265,1,10,'Mom made good pancakes'  ,Bob,0
+18266,1,11,to making fun of me?  ,Bob,0
+18267,1,12,Fourteen years of practice.   ,Gabe,1
+18268,1,13,"Mom, what happened?   ",PJ,0
+18269,1,14,"Well, I got tired of you guys",Amy,0
+18270,1,15,making fun of my pancakes.   ,Amy,0
+18271,1,16,"So I got up early,",Amy,0
+18272,1,17,made them from scratch.   ,Amy,0
+18273,1,18,"And now, I expect",Amy,0
+18274,1,19,the jokes to stop.   ,Amy,0
+18275,1,20,"All right, guys, see you later.   ",Teddy,0
+18276,1,21,I'm heading over to Ivy's,Teddy,0
+18277,1,22,to help her pack for college.   ,Teddy,0
+18278,1,23,"Oh, that's nice.   ",Amy,0
+18279,1,24,Why don't you have some,Amy,0
+18280,1,25,breakfast before you go?   ,Amy,0
+18281,1,26,Mom made delicious pancakes.   ,PJ,0
+18282,1,27,"No, seriously.   ",PJ,0
+18283,1,28,These are amazing.   ,Teddy,0
+18284,1,29,So you learn how to cook just,Teddy,1
+18285,1,30,as I'm heading off to college?   ,Teddy,1
+18286,1,31,"Okay, Teddy, we agreed, we're",Amy,0
+18287,1,32,not making any more of those jokes.   ,Amy,0
+18288,1,33,"Oh, we didn't agree on anything.   ",Gabe,0
+18289,1,34,We're taking the jokes,Gabe,0
+18290,1,35,one meal at a time.   ,Gabe,0
+18291,1,36,"PJ, could you help me in",Amy,0
+18292,1,37,the living room for a sec?   ,Amy,0
+18293,1,38,Sure.   ,PJ,0
+18294,1,39,Thanks for making the pancakes.,Amy,0
+18295,1,40,Mm-hm.   ,PJ,0
+18296,2,0,Come in.   ,Others,0
+18297,2,1,"Hi, Mr. And Mrs. Wentz.   ",Teddy,0
+18298,2,2,Welcome to our happy home.   ,Others,0
+18299,2,3,What's wrong?   ,Teddy,0
+18300,2,4,Our baby girl's,Others,0
+18301,2,5,going off to college.   ,Others,0
+18302,2,6,"Yeah, we're all heartbroken.   ",Others,0
+18303,2,7,"Hey, hey, hey!   ",Ivy,0
+18304,2,8,"Well, one heart looks intact.   ",Teddy,0
+18305,2,9,"Ivy, I can't believe you'll",Others,0
+18306,2,10,soon be     miles away.   ,Others,0
+18307,2,11,"Mm,    .   ",Ivy,0
+18308,2,12,Which is a long,Ivy,0
+18309,2,13,way to go for a visit.   ,Ivy,0
+18310,2,14,But only two hours by plane.,Others,0
+18311,2,15,"Yeah, but Mom gets airsick.   ",Ivy,0
+18312,2,16,"Ivy, cheer down.   ",Teddy,0
+18313,2,17,"All right, I'm gonna go get",Ivy,0
+18314,2,18,more boxes out of the garage.   ,Ivy,0
+18315,2,19,"You know, my parents are",Teddy,0
+18316,2,20,sad I'm going off to college too.   ,Teddy,0
+18317,2,21,But it's not the same.   ,Others,0
+18318,2,22,You've got so many kids,Others,0
+18319,2,23,"at home, when one leaves,   ",Others,0
+18320,2,24,it barely makes a dent.   ,Others,0
+18321,2,25,I just don't know what,Others,0
+18322,2,26,I'm going to do without her.   ,Others,0
+18323,2,27,"Well, you'll have more",Teddy,0
+18324,2,28,time to follow the weather!   ,Teddy,0
+18325,2,29,"Oh, Teddy, how can I enjoy the weather",Others,0
+18326,2,30,when there's a dark cloud over my heart?   ,Others,0
+18327,2,31,"Oh, Harry, even in",Others,1
+18328,2,32,"distress, you're poetic.   ",Others,1
+18329,2,33,"Come on, guys, where's",Teddy,0
+18330,2,34,that ol' Wentz fire?   ,Teddy,0
+18331,2,35,"Hey, I know.   ",Teddy,0
+18332,2,36,How about a couple verses of,Teddy,0
+18333,2,37,"Row, Row, Row Your Boat'?   ",Teddy,0
+18334,2,38,That always lifts your spirits.   ,Others,0
+18335,2,39,"Well, it's worth a try.   ",Others,0
+18336,2,40,Okay.   ,Others,0
+18337,2,41,"<em>? Row, row, row your boat ?</em>   ",Others,0
+18338,2,42,<em>? Gently down the stream... ?</em>   ,Others,0
+18339,2,43,It's not as jaunty,Teddy,0
+18340,2,44,as I remembered it.   ,Teddy,0
+18341,2,45,"Uh, guys, look,   ",Teddy,0
+18342,2,46,"I know that it's hard, but",Teddy,0
+18343,2,47,what choice do you have?   ,Teddy,0
+18344,2,48,"I mean, what are you going to",Teddy,0
+18345,2,49,"do, move to Arizona with her?   ",Teddy,0
+18346,2,50,I guess you're right.   ,Others,0
+18347,2,51,"Now just try to cheer up,",Others,0
+18348,2,52,"you know, for Ivy's sake.   ",Others,0
+18349,2,53,"Believe me, she is a lot",Others,0
+18350,2,54,more upset than she seems.   ,Others,0
+18351,2,55,Great news!   ,Ivy,0
+18352,2,56,"I just checked with the airline,   ",Ivy,0
+18353,2,57,and I can fly standby tonight!   ,Ivy,0
+18354,2,58,Whoo!   ,Ivy,0
+18355,3,0,"Charlie, honey, you",Amy,0
+18356,3,1,ready for your playdate?   ,Amy,0
+18357,3,2,Yay!   ,Charlie,0
+18358,3,3,Who's coming over?   ,Bob,0
+18359,3,4,Taylor. I invited,Amy,0
+18360,3,5,her parents too.   ,Amy,0
+18361,3,6,So we're all having a playdate?   ,Bob,0
+18362,3,7,"Bob, honey, this one is",Amy,0
+18363,3,8,actually going to be fun.   ,Amy,0
+18364,3,9,"I met the mom,",Amy,0
+18365,3,10,"Susan, she's really nice.   ",Amy,0
+18366,3,11,"Oh, I met her.   ",Bob,0
+18367,3,12,I thought her name was Cheryl.   ,Bob,0
+18368,3,13,"No, it's Susan.",Amy,0
+18369,3,14,Are you sure?   ,Bob,0
+18370,3,15,Am I sure that I'm,Amy,0
+18371,3,16,right and you're wrong?   ,Amy,0
+18372,3,17,Always.   ,Amy,0
+18373,3,18,"Okay, that must be them.   ",Amy,0
+18374,3,19,<em>Hi!</em>    ,Amy,0
+18375,3,20,Taylor!    ,Charlie,0
+18376,3,21,"Hi, Susan!    ",Amy,0
+18377,3,22,Hi!    ,Others,0
+18378,3,23,"Amy, this is Taylor's",Others,0
+18379,3,24,"other mom, Cheryl.    ",Others,0
+18380,3,25,"Oh, hi.",Amy,0
+18381,3,26,Hi.    ,Others,0
+18382,3,27,This is my husband Bob.,Amy,0
+18383,3,28,"Hey, nice to meet you.    ",Bob,0
+18384,3,29,Come on in. Come on in.    ,Bob,0
+18385,3,30,Taylor has two moms.    ,Bob,0
+18386,3,31,"Wow, nothing gets past you, Bob.    ",Amy,0
+18387,4,0,I'll tell you why you don't,Gabe,0
+18388,4,1,"have a girlfriend, Jake.    ",Gabe,0
+18389,4,2,It's because you,Gabe,0
+18390,4,3,"say things like,    ",Gabe,0
+18391,4,4,'Look how silky and,Gabe,0
+18392,4,5,manageable my hair is.'    ,Gabe,0
+18393,4,6,That's weird.    ,Gabe,0
+18394,4,7,A banana peel just fell on me.    ,Gabe,0
+18395,4,8,"No, we don't have a monkey.    ",Gabe,1
+18396,4,9,"All right, I'll call you later.    ",Gabe,0
+18397,4,10,Hello?    ,Gabe,0
+18398,4,11,Is someone in the tree house?    ,Gabe,0
+18399,4,12,"Whoever you are,    ",Gabe,0
+18400,4,13,I have a plastic bat!    ,Gabe,0
+18401,4,14,"Ahh, I shouldn't",Gabe,0
+18402,4,15,have said plastic.    ,Gabe,0
+18403,4,16,PJ?    ,Gabe,0
+18404,4,17,Hey!    ,PJ,0
+18405,4,18,How'd you know it was me?    ,PJ,0
+18406,4,19,Who else would break into our tree,Gabe,1
+18407,4,20,house and put up a Gurgles poster?    ,Gabe,1
+18408,4,21,The fan club has,PJ,0
+18409,4,22,"over   ,    members.    ",PJ,0
+18410,4,23,If you factor in international...,PJ,0
+18411,4,24,Don't need to know that.    ,Gabe,0
+18412,4,25,What are you doing here?    ,Gabe,0
+18413,4,26,I'm living here.    ,PJ,0
+18414,4,27,"What, why?",Gabe,0
+18415,4,28,Because...    ,PJ,0
+18416,4,29,"Emmett and I couldn't pay our rent,",PJ,0
+18417,4,30,so we got kicked out of our apartment.    ,PJ,0
+18418,4,31,Man.,Gabe,0
+18419,4,32,This is just temporary.    ,PJ,0
+18420,4,33,Okay? Please don't,PJ,0
+18421,4,34,tell Mom and Dad.    ,PJ,0
+18422,4,35,"Well, normally",Gabe,0
+18423,4,36,"I'd blackmail you,    ",Gabe,0
+18424,4,37,but what I'm hearing,Gabe,0
+18425,4,38,"is you're out of money,    ",Gabe,0
+18426,4,39,so I'm at a loss.    ,Gabe,0
+18427,4,40,Sorry to put you,PJ,0
+18428,4,41,in that position.    ,PJ,0
+18429,4,42,"Well, since you're living here,    ",Gabe,0
+18430,4,43,why don't you fix this,Gabe,0
+18431,4,44,place up a little bit?    ,Gabe,0
+18432,4,45,"Mm, I don't know, I'd hate",PJ,0
+18433,4,46,to steal focus from the poster.    ,PJ,1
+18434,4,47,"Oh, come on, there's a",Gabe,0
+18435,4,48,house down there full of stuff.    ,Gabe,0
+18436,4,49,"A couple of chairs,",Gabe,0
+18437,4,50,"a throw pillow,    ",Gabe,0
+18438,4,51,we'll really make this,Gabe,0
+18439,4,52,place feel like home.    ,Gabe,0
+18440,4,53,You're a good brother.    ,PJ,0
+18441,4,54,I just want to see you get,Gabe,0
+18442,4,55,back on your feet again.    ,Gabe,0
+18443,4,56,And then I'll blackmail you.    ,Gabe,1
+18444,4,57,"Oh, right.    ",PJ,0
+18445,5,0,"So, Bob, what do you do?    ",Others,0
+18446,5,1,I'm an exterminator.    ,Bob,0
+18447,5,2,"Yeah, that usually",Bob,0
+18448,5,3,ends the conversation.    ,Bob,0
+18449,5,4,What do you two do?,Bob,0
+18450,5,5,I'm a lawyer.    ,Others,0
+18451,5,6,"Yeah, that's k*ll its",Others,1
+18452,5,7,"share of conversations, too.    ",Others,1
+18453,5,8,I work from home so,Others,0
+18454,5,9,I can be with Taylor.    ,Others,0
+18455,5,10,I'm a graphic designer.,Others,0
+18456,5,11,Graphic design!    ,Bob,0
+18457,5,12,I love that stuff.    ,Bob,0
+18458,5,13,"Yeah, the designs",Bob,0
+18459,5,14,"can be very, um...    ",Bob,0
+18460,5,15,graphic.    ,Bob,1
+18461,5,16,"Okay, the girls are",Amy,0
+18462,5,17,"upstairs, having a blast.    ",Amy,0
+18463,5,18,"Bob, you want to help me in the kitchen?",Amy,0
+18464,5,19,"Yeah, sure thing.    ",Bob,0
+18465,6,0,They seem nice.,Bob,0
+18466,6,1,"I know, right?    ",Amy,0
+18467,6,2,Great couple.,Amy,0
+18468,6,3,Um...    ,Bob,0
+18469,6,4,Just one question.,Bob,0
+18470,6,5,Hm?    ,Amy,0
+18471,6,6,"Usually, on these playdates,    ",Bob,0
+18472,6,7,I go downstairs with the,Bob,0
+18473,6,8,dad to watch the game.    ,Bob,0
+18474,6,9,"So who, who am I going to",Bob,0
+18475,6,10,watch the game with now?    ,Bob,0
+18476,6,11,I don't want to make,Bob,0
+18477,6,12,any assumptions.    ,Bob,0
+18478,6,13,"Well, do you want me to ask them?",Amy,0
+18479,6,14,"No, no, no. You...    ",Bob,0
+18480,6,15,You know what?,Bob,0
+18481,6,16,I'll figure it out.    ,Bob,0
+18482,6,17,I can be pretty smooth.    ,Bob,1
+18483,6,18,This isn't going to,Amy,1
+18484,6,19,be pretty or smooth.    ,Amy,1
+18485,7,0,"Okay, here we go.    ",Amy,0
+18486,7,1,"Uh, so I was thinking",Bob,0
+18487,7,2,about heading downstairs    ,Bob,0
+18488,7,3,and watching the Rockies,Bob,0
+18489,7,4,"game, if anyone's interested.    ",Bob,0
+18490,7,5,"Okay if you are,",Bob,0
+18491,7,6,okay if you're not.    ,Bob,0
+18492,7,7,"Well, I'm not a",Others,0
+18493,7,8,"huge baseball fan,    ",Others,0
+18494,7,9,but I'll watch it with you.    ,Others,0
+18495,7,10,Fantastic.    ,Bob,0
+18496,7,11,Susan's gonna watch the game!    ,Bob,0
+18497,7,12,I'm gonna watch the game.    ,Bob,0
+18498,7,13,No assumptions were made,Bob,0
+18499,7,14,and it all went very smoothly.    ,Bob,0
+18500,7,15,"Susan, shall we?    ",Bob,0
+18501,7,16,Okay.    ,Others,0
+18502,7,17,His first time with two moms?,Others,0
+18503,7,18,Uh-huh.    ,Amy,0
+18504,8,0,"Boy, things sure have",Teddy,0
+18505,8,1,changed down here.    ,Teddy,0
+18506,8,2,"Oh, yeah. We're in",Others,0
+18507,8,3,a good mood now.    ,Others,0
+18508,8,4,And no language says,Others,0
+18509,8,5,happy like German.    ,Others,0
+18510,8,6,So why the big turnaround?    ,Ivy,0
+18511,8,7,We have some exciting news.    ,Others,0
+18512,8,8,We decided that if our,Others,0
+18513,8,9,"little girl is going to Arizona,    ",Others,0
+18514,8,10,we're going with her.    ,Others,0
+18515,8,11,What?    ,Ivy,0
+18516,8,12,And it was all Teddy's idea.    ,Others,0
+18517,8,13,What?    ,Ivy,0
+18518,9,0,So then we realized there's,Others,0
+18519,9,1,"nothing holding us here,    ",Others,0
+18520,9,2,so why not sell the,Others,0
+18521,9,3,"house, pack up the RV,    ",Others,0
+18522,9,4,and move to Arizona,Others,0
+18523,9,5,to be with our little girl?    ,Others,0
+18524,9,6,Mm-hm.    ,Others,0
+18525,9,7,And we never would've,Others,0
+18526,9,8,"thought of it if Teddy hadn't said,    ",Others,0
+18527,9,9,'Why don't you just,Others,0
+18528,9,10,move to Arizona?'    ,Others,0
+18529,9,11,"C'mon, honey, it's",Others,0
+18530,9,12,our turn to get boxes.    ,Others,0
+18531,9,13,Whoo-hoo!    ,Others,0
+18532,9,14,What did you do?    ,Ivy,0
+18533,9,15,Not what I was trying,Teddy,0
+18534,9,16,"to do, I'll tell you that.    ",Teddy,0
+18535,9,17,"T, do you know why I",Ivy,0
+18536,9,18,worked so hard in high school?    ,Ivy,0
+18537,9,19,So I could realize my dream.    ,Ivy,0
+18538,9,20,To go to college?,Teddy,0
+18539,9,21,Without my parents!    ,Ivy,0
+18540,9,22,"Ivy, relax,    ",Teddy,0
+18541,9,23,I'm sure once they think this,Teddy,0
+18542,9,24,"through, they'll come to their senses.    ",Teddy,0
+18543,9,25,"Hey, Ivy, when",Others,0
+18544,9,26,"we get down there,    ",Others,0
+18545,9,27,we can move the RV,Others,0
+18546,9,28,"right next to your dorm,    ",Others,0
+18547,9,29,that way you can have,Others,0
+18548,9,30,breakfast with us every morning.    ,Others,0
+18549,9,31,Or we can all get a,Others,0
+18550,9,32,meal plan together.    ,Others,0
+18551,9,33,Doesn't that sound fun?    ,Others,1
+18552,9,34,"I don't know, T, does it?    ",Ivy,0
+18553,10,0,I love your house.,Others,0
+18554,10,1,"Oh, thank you.    ",Amy,0
+18555,10,2,I'm so glad we could,Amy,0
+18556,10,3,"get together, because...    ",Amy,0
+18557,10,4,You've been wanting,Others,0
+18558,10,5,to get to know us better?    ,Others,0
+18559,10,6,'Cause we feel the same way.    ,Others,0
+18560,10,7,That's so sweet. I actually,Amy,0
+18561,10,8,wasn't going to say that.    ,Amy,0
+18562,10,9,"But, um, I'm very glad",Amy,0
+18563,10,10,to get to know you too.    ,Amy,0
+18564,10,11,"So, um, where do",Amy,0
+18565,10,12,you and Susan...    ,Amy,0
+18566,10,13,"Come from. Well, I...    ",Others,0
+18567,10,14,"I actually grew up in Florida,",Others,0
+18568,10,15,but Susan is from Colorado.    ,Others,0
+18569,10,16,"Okay, I was going to say live,    ",Amy,0
+18570,10,17,but that's good information.    ,Amy,0
+18571,10,18,Yeah.    ,Amy,0
+18572,10,19,How long have you and Susan...,Amy,0
+18573,10,20,Had a boat?    ,Others,0
+18574,10,21,"Well, I grew up waterskiing,",Others,0
+18575,10,22,and then I got Susan into it.    ,Others,0
+18576,10,23,So I'd say it's been,Others,0
+18577,10,24,about eight years.    ,Others,0
+18578,10,25,Okay.    ,Amy,0
+18579,10,26,"Okay, um, actually...    ",Amy,0
+18580,10,27,"I was going to ask, um, how long",Amy,0
+18581,10,28,have you and Susan been together?    ,Amy,0
+18582,10,29,"Oh! Well, let's see, um, we",Others,0
+18583,10,30,"adopted Taylor four years ago,    ",Others,0
+18584,10,31,so we've been,Others,0
+18585,10,32,together ten years now.    ,Others,0
+18586,10,33,"Oh, that's wonderful.    ",Amy,0
+18587,10,34,Hi.,Amy,0
+18588,10,35,"Oh, hi, Mom.    ",Gabe,0
+18589,10,36,"Hey, guys. Cheryl, I",Amy,0
+18590,10,37,want you to meet my sons    ,Amy,0
+18591,10,38,Gabe and...,Amy,0
+18592,10,39,Fred!    ,Others,0
+18593,10,40,No!    ,Amy,0
+18594,10,41,"No, no, it's PJ.",Amy,0
+18595,10,42,Really?    ,Others,0
+18596,10,43,"Yes, really!    ",Amy,0
+18597,10,44,He looks like a Fred.,Others,0
+18598,10,45,That's so funny.    ,PJ,0
+18599,10,46,I've always felt,PJ,1
+18600,10,47,more like a Fred.    ,PJ,1
+18601,10,48,"Hey, Gabe, will you call",PJ,0
+18602,10,49,me Fred from now on?    ,PJ,1
+18603,10,50,No.,Gabe,0
+18604,10,51,Oh.    ,PJ,0
+18605,10,52,What are you two,Amy,0
+18606,10,53,doing with that stuff?    ,Amy,0
+18607,10,54,"Oh, uh, they're broken,    ",Gabe,0
+18608,10,55,so we're taking,Gabe,0
+18609,10,56,them to the fix-it shop.    ,Gabe,0
+18610,10,57,The one near my apartment.,PJ,0
+18611,10,58,Mm.    ,PJ,0
+18612,10,59,Where I still live.,PJ,0
+18613,10,60,Yep.    ,PJ,0
+18614,10,61,See ya!,PJ,0
+18615,10,62,Yeah.    ,Gabe,0
+18616,10,63,PJ takes after...,Amy,0
+18617,10,64,His father.    ,Others,0
+18618,10,65,"Wow, you got that one right.    ",Amy,0
+18619,11,0,"Hey, I really appreciate you",PJ,0
+18620,11,1,"helping me fix this place up, man.    ",PJ,0
+18621,11,2,"Ah, no problem.",Gabe,0
+18622,11,3,"Like I always say,    ",Gabe,0
+18623,11,4,'If you can't do something,Gabe,0
+18624,11,5,"behind Mom and Dad's back,    ",Gabe,1
+18625,11,6,why do it at all?'    ,Gabe,1
+18626,11,7,"You know, there's only",PJ,0
+18627,11,8,"one problem with this place,    ",PJ,0
+18628,11,9,I can't get Wi-Fi,PJ,0
+18629,11,10,from the house.    ,PJ,0
+18630,11,11,"Oh, try Mrs. Dabney's.",Gabe,0
+18631,11,12,The password is 'kaboodle'.    ,Gabe,0
+18632,11,13,"Oh, no. She must",PJ,0
+18633,11,14,have changed it.    ,PJ,0
+18634,11,15,Try 'Gabe-Duncan-is-evil.'    ,Gabe,0
+18635,11,16,Nope.    ,PJ,0
+18636,11,17,Did you use an,PJ,0
+18637,11,18,exclamation point?    ,Gabe,0
+18638,11,19,We're in.    ,PJ,0
+18639,12,0,"Hey, guys.",Teddy,0
+18640,12,1,"There she is,    ",Others,0
+18641,12,2,our inspiration!    ,Others,0
+18642,12,3,"Yeah, um, about that,    ",Teddy,0
+18643,12,4,can we talk for a second?    ,Teddy,0
+18644,12,5,"Sure, what's on your mind?    ",Others,0
+18645,12,6,Um...    ,Teddy,0
+18646,12,7,I think Ivy should go,Teddy,0
+18647,12,8,to college by herself.    ,Teddy,0
+18648,12,9,Without you.    ,Teddy,0
+18649,12,10,It's a part of growing up.    ,Others,0
+18650,12,11,"But if you felt this way,    ",Others,0
+18651,12,12,why did you try to talk,Others,0
+18652,12,13,us into going with her?    ,Others,0
+18653,12,14,Mm-hm.    ,Others,0
+18654,12,15,We never would have,Others,0
+18655,12,16,come up with that on our own.    ,Others,0
+18656,12,17,"Okay, yes, that one's on me.    ",Teddy,0
+18657,12,18,I have some crazy ideas.    ,Teddy,0
+18658,12,19,Sometimes I get a,Teddy,0
+18659,12,20,little carried away.    ,Teddy,0
+18660,12,21,"In that sense, you're",Others,0
+18661,12,22,a little like your mother.    ,Others,0
+18662,12,23,"Look, I know that you're",Teddy,0
+18663,12,24,"going to miss her a lot,    ",Teddy,0
+18664,12,25,but Ivy's ready,Teddy,0
+18665,12,26,to be on her own.    ,Teddy,0
+18666,12,27,What about us?    ,Others,0
+18667,12,28,We're not ready,Others,0
+18668,12,29,to be on our own.    ,Others,1
+18669,12,30,Maybe you don't have to be.    ,Teddy,0
+18670,12,31,Ivy!    ,Teddy,0
+18671,12,32,I got you a little,Ivy,0
+18672,12,33,going-away present.    ,Ivy,0
+18673,12,34,"Oh, my goodness! A doggy!    ",Others,0
+18674,12,35,"Oh, look at the little guy!    ",Others,0
+18675,12,36,"Harry, can you believe it?    ",Others,0
+18676,12,37,Just as our baby is going,Others,0
+18677,12,38,"away, we get a new baby.    ",Others,0
+18678,12,39,"Ooh, let's call him 'Baby'!",Others,0
+18679,12,40,Mm-hm!    ,Others,0
+18680,12,41,"Well, I think someone    ",Teddy,0
+18681,12,42,owes somebody a thank you.    ,Teddy,0
+18682,12,43,You want me to thank you for,Ivy,0
+18683,12,44,solving a problem that you created?    ,Ivy,1
+18684,12,45,It was a pretty bad problem.    ,Teddy,0
+18685,12,46,Thank you.,Ivy,0
+18686,12,47,You're welcome.    ,Teddy,0
+18687,12,48,"Hey, where's Baby gonna sleep?    ",Others,0
+18688,12,49,On Ivy's bed.,Others,0
+18689,12,50,Mm!    ,Others,0
+18690,12,51,"Uh, guys, I'm still",Ivy,0
+18691,12,52,gonna be here tonight.    ,Ivy,0
+18692,12,53,You can sleep on the couch.    ,Others,1
+18693,13,0,Midges are like tiny flies.    ,Bob,0
+18694,13,1,"And after they hatch, they",Bob,0
+18695,13,2,swarm in this enormous cloud.    ,Bob,0
+18696,13,3,Uh-huh. How did we,Others,0
+18697,13,4,get on midges again?    ,Others,0
+18698,13,5,"Oh, we were watching the game.    ",Bob,0
+18699,13,6,"And then, I was telling you about",Bob,0
+18700,13,7,"that playoff game a few years back,    ",Bob,0
+18701,13,8,remember that?    ,Bob,0
+18702,13,9,When all the midges swarmed?,Bob,0
+18703,13,10,"Right, right.    ",Others,0
+18704,13,11,WE WERE WATCHING THE GAME.    ,Others,0
+18705,13,12,Hi there.    ,Amy,0
+18706,13,13,Just wanted to check and,Amy,0
+18707,13,14,see how you guys were doing.    ,Amy,0
+18708,13,15,Doing great.,Bob,0
+18709,13,16,How's the game?    ,Others,0
+18710,13,17,Don't know.    ,Others,0
+18711,13,18,We've been so busy talking,Others,1
+18712,13,19,about midges and stinkbugs.    ,Others,1
+18713,13,20,"Bob, honey, can I see you in",Amy,0
+18714,13,21,the other room for just a sec?    ,Amy,0
+18715,13,22,Excuse me.    ,Amy,0
+18716,13,23,I want to trade moms.    ,Amy,0
+18717,13,24,What do you mean?,Bob,0
+18718,13,25,I don't like mine.    ,Amy,0
+18719,13,26,She's a sentence finisher.,Amy,0
+18720,13,27,"Ooh, that can be real...    ",Bob,0
+18721,13,28,"Really, really",Amy,0
+18722,13,29,"annoying. Yeah, I know.    ",Amy,0
+18723,13,30,But I like my mom. She,Bob,0
+18724,13,31,loves my bug stories.    ,Bob,0
+18725,13,32,She's a great listener...,Bob,0
+18726,13,33,She's a great listener?    ,Amy,0
+18727,13,34,I want that one!    ,Amy,0
+18728,13,35,I am not trading.,Others,0
+18729,13,36,I like the mom.    ,Others,0
+18730,13,37,But the dad won't stop,Others,0
+18731,13,38,"talking, about bugs.    ",Others,0
+18732,13,39,The mom and I were,Others,0
+18733,13,40,hitting on all cylinders.    ,Others,0
+18734,13,41,We're even finishing,Others,0
+18735,13,42,each other's sentences.    ,Others,0
+18736,13,43,You finish everyone's sentences!    ,Others,1
+18737,13,44,"If you won't trade, I'm gonna",Amy,0
+18738,13,45,play the headache card.    ,Amy,0
+18739,13,46,"Oh, come on.    ",Bob,0
+18740,13,47,That's the lamest,Bob,0
+18741,13,48,trick in the world.    ,Bob,0
+18742,13,49,I don't care. I've had it. I,Amy,0
+18743,13,50,want to finish a sentence!    ,Amy,1
+18744,13,51,"Hi, guys.    ",Amy,0
+18745,13,52,"Amy, Bob, we are so sorry.    ",Others,0
+18746,13,53,We have to go.    ,Others,0
+18747,13,54,I have a pounding headache.    ,Others,0
+18748,13,55,"Oh, no, can I get you something?    ",Bob,0
+18749,13,56,"No, mm-mm, no. I",Others,0
+18750,13,57,just need to lie down...    ,Others,0
+18751,13,58,at home.    ,Others,0
+18752,13,59,So we'll just get Taylor and go.    ,Others,0
+18753,13,60,But we will set up,Others,0
+18754,13,61,another playdate soon.    ,Others,0
+18755,13,62,Yes!    ,Amy,0
+18756,13,63,"Well, let me walk you out.    ",Bob,0
+18757,13,64,"No, no, no need.    ",Others,0
+18758,13,65,Bye now.,Others,0
+18759,13,66,Feel better.    ,Bob,0
+18760,13,67,"Yeah, feel better.    ",Amy,0
+18761,13,68,How do you like that? She,Amy,0
+18762,13,69,played the headache card on you.    ,Amy,0
+18763,13,70,"No, she did not!    ",Bob,0
+18764,13,71,"Yes, she did!",Amy,0
+18765,13,72,"No, no, I was very interesting.    ",Bob,0
+18766,13,73,"That, that was a real headache.    ",Bob,1
+18767,13,74,"Right, that was a real headache.    ",Amy,0
+18768,13,75,"Bob, honey, let's face it,    ",Amy,0
+18769,13,76,"whether it's a mom and a dad,    ",Amy,0
+18770,13,77,"or two moms or two dads,    ",Amy,0
+18771,13,78,nobody likes your bug stories.    ,Amy,1
+18772,14,0,What?    ,Gabe,0
+18773,14,1,What happened?,PJ,0
+18774,14,2,Maybe we overloaded the circuit.    ,Gabe,0
+18775,14,3,I'll go check.    ,Gabe,0
+18776,14,4,Oh! Think I found the problem.    ,Gabe,1
+18777,14,5,"So, what's going on here?    ",Bob,0
+18778,14,6,"Before we tell you,",PJ,0
+18779,14,7,promise you won't tell Mom?    ,PJ,0
+18780,14,8,Won't tell Mom what?    ,Amy,0
+18781,14,9,"Well, I guess we",PJ,0
+18782,14,10,should just come clean.    ,PJ,0
+18783,14,11,"Whoa, whoa, whoa. Already?    ",Gabe,0
+18784,14,12,Traditionally we,Gabe,0
+18785,14,13,try a couple lies first.    ,Gabe,1
+18786,14,14,Emmett and I got kicked,PJ,0
+18787,14,15,out of our apartment.    ,PJ,0
+18788,14,16,Oh!,Bob,0
+18789,14,17,What?    ,Amy,0
+18790,14,18,Turns out not paying,PJ,0
+18791,14,19,the rent is a deal-breaker.    ,PJ,0
+18792,14,20,"Honey, why didn't you tell us?    ",Amy,0
+18793,14,21,We would have let,Amy,0
+18794,14,22,you move back home.    ,Amy,0
+18795,14,23,I was too embarrassed to ask.    ,PJ,0
+18796,14,24,You guys are already putting,PJ,0
+18797,14,25,me through cooking school.    ,PJ,0
+18798,14,26,You do enough for me already.    ,PJ,0
+18799,14,27,"No, we don't.",Amy,0
+18800,14,28,"Yeah, that's true.    ",Bob,0
+18801,14,29,"PJ, you're following your dream.    ",Amy,0
+18802,14,30,And if you need help along,Amy,0
+18803,14,31,"the way, we're here for you.    ",Amy,0
+18804,14,32,Thanks.    ,PJ,0
+18805,14,33,"And I promise, once I",PJ,0
+18806,14,34,"graduate cooking school,    ",PJ,0
+18807,14,35,I'll get a job and move out.    ,PJ,0
+18808,14,36,"Son, take as long as",Bob,0
+18809,14,37,you two-months need.    ,Bob,0
+18810,14,38,What's going on up here?    ,Teddy,0
+18811,14,39,It's a progressive party and,Gabe,0
+18812,14,40,we're starting in the tree house.    ,Gabe,0
+18813,14,41,Are those my throw pillows?    ,Teddy,0
+18814,14,42,"Yeah, they really",PJ,0
+18815,14,43,tied the room together.    ,PJ,0
+18816,14,44,When was the last time we,Gabe,0
+18817,14,45,were all in the tree house?    ,Gabe,0
+18818,14,46,Right before it fell down.    ,Amy,0
+18819,14,47,Why does that sound familiar?    ,Amy,0
+18820,14,48,Is everyone okay?    ,Amy,0
+18821,14,49,Yeah.,Gabe,0
+18822,14,50,Yeah.    ,Teddy,0
+18823,14,51,Wait a minute!    ,PJ,0
+18824,14,52,Nobody move!    ,PJ,0
+18825,14,53,Where is the Gurgles poster?    ,PJ,1
+18826,15,0,"Okay, Ivy, have a",Amy,0
+18827,15,1,great first semester.    ,Amy,0
+18828,15,2,And we'll see you,Amy,0
+18829,15,3,"at Christmas, right?    ",Amy,0
+18830,15,4,You guys are like,Ivy,0
+18831,15,5,my second family.    ,Ivy,0
+18832,15,6,And if that dog has,Ivy,0
+18833,15,7,"really taken over my room,    ",Ivy,1
+18834,15,8,you might be my first family.    ,Ivy,1
+18835,15,9,Get over here.    ,Amy,0
+18836,15,10,Now get out of,Amy,0
+18837,15,11,here before I lose it.    ,Amy,0
+18838,15,12,Okay.,Ivy,0
+18839,15,13,<em>- Bye.</em>    ,Ivy,0
+18840,16,0,"Well, I guess this is it.    ",Ivy,0
+18841,16,1,Thanks for being my best friend.    ,Teddy,0
+18842,16,2,And thank you.    ,Ivy,0
+18843,16,3,Thank you for being mine.    ,Ivy,0
+18844,16,4,"I love you, T.",Ivy,0
+18845,16,5,I love you too.    ,Teddy,0
+18846,17,0,"Well, Charlie,    ",Teddy,0
+18847,17,1,there's a lot of changes,Teddy,0
+18848,17,2,going on around here.    ,Teddy,0
+18849,17,3,Ivy's gone. The,Teddy,0
+18850,17,4,tree house is gone...    ,Teddy,0
+18851,17,5,again.    ,Teddy,0
+18852,17,6,I'll be leaving for Yale soon,Teddy,0
+18853,17,7,and PJ's moving back in.    ,Teddy,0
+18854,17,8,"Yeah, I thought we'd get the number",Bob,0
+18855,17,9,"of kids in the house down to three,    ",Bob,0
+18856,17,10,but I guess we're,Bob,0
+18857,17,11,holding at four!    ,Bob,0
+18858,17,12,"Dad, I told you once I",PJ,0
+18859,17,13,"graduate cooking school,    ",PJ,0
+18860,17,14,I'm gonna get a job,PJ,0
+18861,17,15,and I'll be out of here.    ,PJ,0
+18862,17,16,And thanks for letting,Others,0
+18863,17,17,"me stay here, Mr. Duncan.    ",Others,0
+18864,17,18,"Hey, what... what's",Bob,0
+18865,17,19,Emmett doing here?    ,Bob,0
+18866,17,20,Just because we don't have an apartment,PJ,1
+18867,17,21,doesn't mean we're not roommates.    ,PJ,1
+18868,17,22,Wait!    ,Bob,0
+18869,17,23,The Wentzes get a,Bob,0
+18870,17,24,puppy and I get Emmett?    ,Bob,0
+18871,17,25,Better wish Dad some,Teddy,0
+18872,17,26,"good luck, Charlie.    ",Teddy,0
+18873,18,0,"No, no, no.    ",Bob,0
+18874,18,1,"No, no, no!    ",Bob,0
+18875,18,2,And I don't want you using that,Bob,0
+18876,18,3,take and that's why I'm stopping now.    ,Bob,0
+18877,19,0,"Boy, something's been",Ivy,0
+18878,19,1,going on down here.    ,Ivy,0
+18879,19,2,"Oh, yes!",Others,0
+18880,19,3,What is my line?    ,Teddy,1
+18881,20,0,Great news!    ,Ivy,0
+18882,20,1,I just checked...    ,Ivy,0
+18883,21,0,"I don't care if it's true,",Gabe,0
+18884,21,1,you can't say it out loud!    ,Gabe,0
+18885,21,2,That's weird.    ,Gabe,0
+18886,21,3,Uh-oh.    ,Others,0
+18887,21,4,Uh-oh.,Others,0

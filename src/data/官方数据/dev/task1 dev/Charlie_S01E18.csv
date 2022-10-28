@@ -1,0 +1,342 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+897,1,0,Ah.,Emmett,0
+898,1,1,Ha ha! Extra point.,Emmett,0
+899,1,2,Put some over there.,Emmett,0
+900,1,3,Store some over there.,Emmett,0
+901,1,4,"Hey hey hey, you know what? - What? Flag on the play.",PJ,0
+902,1,5,Flag on the play.,PJ,0
+903,1,6,Excessive celebration.,PJ,1
+904,1,7,There's no penalties in paper football.,Emmett,0
+905,1,8,There should be 'cause that was really annoying.,PJ,0
+906,1,9,"Wait, hold on.",Emmett,1
+907,1,10,Which point was annoying? This right here? You didn't like that? What if I slow it down for you? - You like that? - No.,Emmett,0
+908,1,11,"You don't like that? - No, still annoying.",Emmett,0
+909,1,12,Speed it up.,Emmett,0
+910,1,13,Speed it up! What are you guys doing? - We're playing paper football.,Teddy,0
+911,1,14,"Oh, paper football.",Teddy,0
+912,1,15,Excellent topic.,Teddy,0
+913,1,16,Okay.,Teddy,0
+914,1,17,Paper football is an american tradition.,Teddy,0
+915,1,18,Allowing boys to entertain themselves with nothing more.,Teddy,0
+916,1,19,Than a piece of paper and a flat surface.,Teddy,0
+917,1,20,"What? On the other hand, Paper football requires no athletic ability and no thinking, Therefore making it a complete waste of time And paper.",Teddy,1
+918,1,21,"Wait, what are you doing? - I'm on the debate team.",Emmett,0
+919,1,22,"I have to prepared to argue any topic, no matter how stupid.",Teddy,1
+920,2,0,Totally forgot.,PJ,0
+921,2,1,Why didn't you remind me? I did remind you.,PJ,0
+922,2,2,"I put a note on your pillow, I texted you and Mom, you did everything you could.",Amy,1
+923,2,3,No one's blaming you here.,PJ,0
+924,2,4,"P.J., honey, you are When are you gonna stop being afraid of the dentist? When he stops coming at me with those pointy tools.",Amy,1
+925,2,5,"Besides, my tooth is feeling a lot better.",PJ,0
+926,2,6,"Oh, really? - Yeah.",Amy,0
+927,2,7,"Okay, hang on one sec.",Amy,0
+928,2,8,"Yeah, bite it.",Amy,1
+929,2,9,Sure.,PJ,0
+930,2,10,"Mmm! Mmm, delicious.",PJ,1
+931,2,11,Now If you'll excuse me.,PJ,0
+932,3,0,Ow! You want me to wear a grass skirt.,Others,0
+933,3,1,"In front of the whole class? Jo, you need to put on the entire costume.",Gabe,1
+934,3,2,"Gabe, let me explain something to you: You're an idiot.",Others,0
+935,3,3,"You're an idiot, idiot! - Idiot! - Idiot! - Idiot! - Whoa! Ho! What is going on in here? Jo and I have to do this stupid project together on one of the states.",Gabe,0
+936,3,4,We got hawaii.,Gabe,0
+937,3,5,The most boring of all the states.,Others,0
+938,3,6,I know.,Gabe,0
+939,3,7,Why couldn't we have gotten one of the cool states.,Gabe,0
+940,3,8,Like nebraska? I had a great idea for that one.,Gabe,0
+941,3,9,Let me guess: Dress up like a corn-stalk? No.,Others,1
+942,3,10,"All right, look, it may not be as glamorous as nebraska, But you know what? Hawaii's a pretty cool state.",Bob,0
+943,3,11,Name one cool thing about it.,Gabe,0
+944,3,12,"Well, it's the only state made up entirely of islands.",Bob,0
+945,3,13,Okay.,Bob,0
+946,3,14,It has lots of unique flora and fauna.,Bob,0
+947,3,15,"Dad, we can't just fill up our report with a bunch of facts.",Gabe,0
+948,3,16,"All right, you know what? Hawaii's got an active volcano.",Bob,0
+949,3,17,"Hey, we could build a volcano.",Others,0
+950,3,18,I like things that explode.,Others,0
+951,3,19,I don't know.,Gabe,0
+952,3,20,Sounds like a lot of work.,Gabe,0
+953,3,21,"Okay, well, I do have another idea.",Others,0
+954,3,22,Volcano it is.,Gabe,1
+955,4,0,"P.J., you know what I was just thinking about? Remember when we used to have a mommy-and-p.J.",Amy,0
+956,4,1,Day? We should do that again.,Amy,0
+957,4,2,We haven't done that since I was seven.,PJ,1
+958,4,3,How about tomorrow? We'll do whatever you want.,Amy,0
+959,4,4,You know what'd be fun? Not having a p.J.,PJ,0
+960,4,5,And-mommy day.,PJ,0
+961,4,6,That makes mommy sad.,Amy,0
+962,4,7,"Mom, I'll hang out with you if you want.",Teddy,0
+963,4,8,We can have a mommy-and-teddy day.,Teddy,0
+964,4,9,"Yeah, mommy doesn't want that.",Amy,1
+965,4,10,"Okay, ah! Tomorrow after school, We are having a p.J.",Amy,0
+966,4,11,And-mommy day.,Amy,0
+967,4,12,And you are gonna love it.,Amy,0
+968,4,13,"Mom, you can make me go, but you can't make me love it.",PJ,0
+969,4,14,"Okay, I'll love it.",PJ,1
+970,4,15,"I thought mommy-and-teddy day would be fun, But apparently not.",Teddy,0
+971,4,16,"Honey, it's actually p.J.",Amy,0
+972,4,17,And-dentist day.,Amy,0
+973,4,18,"Oh, sneaky.",Teddy,0
+974,4,19,The only way for me to get him there is for me to trick him.,Amy,0
+975,4,20,So what's this 'take gabe to laser tag'? Haircut.,Teddy,0
+976,4,21,"What's this? I was cleaning out my desk drawer, Came across this gift certificate to a day spa.",Bob,0
+977,4,22,"I think I forgot to give it to you, like, on valentine's day.",Bob,0
+978,4,23,Or something.,Bob,1
+979,4,24,I don't know.,Bob,1
+980,4,25,"Dad, was there anything for me in the magic drawer? Uh, yes A flyer to your fourth-grade production of 'the sound of music.",Teddy,1
+981,4,26,' I look forward to attending.,Bob,0
+982,4,27,"Bob honey, this gift certificate expires tomorrow.",Amy,0
+983,4,28,"Well, let's go tomorrow.",Bob,0
+984,4,29,I can't.,Amy,0
+985,4,30,I have to take p.J.,Amy,0
+986,4,31,To the dentist.,Amy,1
+987,4,32,"Mom, go.",Teddy,0
+988,4,33,I'll get p.J.,Teddy,0
+989,4,34,To the dentist.,Teddy,0
+990,4,35,How you gonna do that? I'll figure something out.,Amy,0
+991,4,36,"I don't know if you've noticed, but I'm smarter than him.",Teddy,1
+992,4,37,"What about charlie and gabe? Yeah, they're smarter than him too.",Teddy,1
+993,5,0,"Volcano's looking great, dad.",Gabe,0
+994,5,1,Do you think it's big enough? Good point.,Others,0
+995,5,2,"Little bigger, dad.",Gabe,0
+996,5,3,This is just the frame.,Bob,0
+997,5,4,It's gonna be a whole lot bigger.,Bob,0
+998,5,5,After it's been papier-mached.,Bob,0
+999,5,6,You don't have to tell us.,Gabe,1
+1000,5,7,Just do it.,Gabe,0
+1001,5,8,"Gabe, this is my house.",Bob,0
+1002,5,9,I don't take orders from you or anybody else.,Bob,0
+1003,5,10,"Bob, time to go to the spa.",Amy,0
+1004,5,11,"Coming, honey.",Bob,0
+1005,5,12,"Okay, kids, let's listen up.",Bob,0
+1006,5,13,Now the volcano is going to erupt when you press this button.,Bob,0
+1007,5,14,"If you wanted it to erupt again, You'd have to take the whole thing apart.",Bob,0
+1008,5,15,Therefore and I cannot stress this strongly enough Do not press the button.,Bob,0
+1009,5,16,What'd he just say? Something about a button.,Others,1
+1010,6,0,This is bob.,Bob,0
+1011,6,1,Yeah.,Bob,0
+1012,6,2,"No, I got it.",Bob,0
+1013,6,3,I got it.,Bob,0
+1014,6,4,Okay.,Bob,0
+1015,6,5,"Yeah, we'll see you there in about 20 minutes.",Bob,0
+1016,6,6,"Sorry, honey, it's an extermination call.",Bob,0
+1017,6,7,We gotta make one little stop before we get to the spa.,Bob,0
+1018,6,8,"Really? Honey, it's a 313 code yellow.",Bob,0
+1019,6,9,What's that? - Possum.,Bob,0
+1020,6,10,"Wouldn't it be faster to just say 'possum'? Well, sure, you want to take all the magic out of it.",Amy,0
+1021,7,0,What's this stuff called again? - Newspaper.,Others,0
+1022,7,1,It's how people in the olden days got their news.,Gabe,1
+1023,8,0,"Uh, gabe, jo, listen up.",Teddy,0
+1024,8,1,So p.J.,Teddy,0
+1025,8,2,"And I have to leave, but I'll be back in like 15 minutes.",Teddy,0
+1026,8,3,That means you're gonna be alone with charlie.,Teddy,0
+1027,8,4,Now she's taking a nap upstairs.,Teddy,0
+1028,8,5,She probably won't bother you.,Teddy,0
+1029,8,6,"But if you have any problems with charlie, just give me a call on my cell.",Teddy,0
+1030,8,7,What'd she say? Something about charlie.,Gabe,1
+1031,8,8,"Ow, p.J.! Oh! Ow, p.J.! What? What's wrong? I think I broke my tooth.",Teddy,1
+1032,8,9,Let me see.,PJ,0
+1033,8,10,Ew! It's a bloody mess in there.,PJ,0
+1034,8,11,And there's seeds.,PJ,1
+1035,8,12,"Yeah, well, can you take me to the dentist? Ha, so awesome.",Teddy,0
+1036,8,13,"What? That I broke my tooth? No, that I got out of mommy-and-p.J.",Teddy,0
+1037,8,14,Day.,PJ,0
+1038,9,0,This is so cool.,Amy,0
+1039,9,1,I've never seen you in action doing your bug-catching 'thang.,Amy,0
+1040,9,2," Okay, look, the 'thang' that we're catching.",Bob,0
+1041,9,3,"Is not a bug, it's a possum.",Bob,0
+1042,9,4,Mm-hmm.,Amy,0
+1043,9,5,Which rhymes with awesome.,Amy,0
+1044,9,6,Bam! Ow! Will you cut that out? I'm on duty.,Bob,0
+1045,9,7,Thank you.,Bob,0
+1046,9,8,Okay.,Bob,0
+1047,9,9,"All right, here we go.",Bob,0
+1048,9,10,I think we've got a problem.,Bob,0
+1049,9,11,"Oh well, guess I'll have to see you do your 'thang' some other time.",Amy,0
+1050,9,12,Come on.,Amy,0
+1051,9,13,Let's go get massages.,Amy,1
+1052,9,14,"Um, or Pop! Nah nah nah nah nah! Oh no.",Bob,0
+1053,9,15,Please? I would do this for you.,Bob,0
+1054,9,16,"Well, this is officially our second-worst date ever.",Amy,0
+1055,9,17,What was the worst? Hot tubbing with your grandparents.,Amy,1
+1056,9,18,"No, you're right.",Bob,0
+1057,9,19,That was a bad idea.,Bob,1
+1058,10,0,Ow ow.,PJ,0
+1059,10,1,"Oh, excuse me, excuse me.",PJ,0
+1060,10,2,"Uh, my sister needs to see the dentist.",PJ,0
+1061,10,3,Her mouth is all bloody.,PJ,0
+1062,10,4,It's really bad.,PJ,0
+1063,10,5,There's seeds.,PJ,0
+1064,10,6,Last name? Duncan.,Others,0
+1065,10,7,Oh okay.,Others,0
+1066,10,8,"Yeah, we have you right here.",Others,0
+1067,10,9,P.J.,Others,0
+1068,10,10,"Duncan, 3:00.",Others,0
+1069,10,11,What? But that-that can't be right.,PJ,0
+1070,10,12,"No, that is right.",Emmett,1
+1071,10,13,"Hello, p.J.",Emmett,1
+1072,10,14,Emmett? What are you doing here? I asked him to come.,PJ,0
+1073,10,15,Why aren't you holding your mouth anymore? Because I'm not seeing the dentist today.,PJ,0
+1074,10,16,You are.,PJ,1
+1075,10,17,"P.J., it's time.",Others,0
+1076,10,18,No! Ow! - I can't do this.,PJ,0
+1077,10,19,"No! Yes, you can.",Teddy,0
+1078,10,20,"Okay? You have a problem, But we're gonna help you through it.",Teddy,0
+1079,10,21,"We all want what's best for you, man.",Emmett,0
+1080,10,22,"Look, what if I promise to start flossing? Okay, we've heard those promises before.",PJ,0
+1081,10,23,"Come on, man, be strong.",Emmett,0
+1082,10,24,You're right.,PJ,0
+1083,10,25,It's just a little tooth.,PJ,0
+1084,10,26,It's just a little tooth.,PJ,0
+1085,10,27,Thattaboy.,Others,0
+1086,10,28,"No no no! - Get him, get him! P.J., let go! Let go, let go.",PJ,1
+1087,10,29,Our first hug.,Emmett,0
+1088,10,30,"Oh, not now! Don't make me brush you! Oh no.",Emmett,1
+1089,10,31,Where are my Glasses? Oh! Now my tooth is really broken.,Emmett,1
+1090,10,32,"Oh! P.J., let's go.",Others,1
+1091,10,33,"I said, 'let's get a fish t*nk.",Others,0
+1092,10,34," He said, 'no, the big toothbrush will be fun.",Others,1
+1093,11,0," Charlie, go to sleep, please.",Gabe,0
+1094,11,1,Just stop.,Gabe,0
+1095,11,2,"Gabe, unless that kid can paint, get her out of here.",Others,1
+1096,11,3,"Teddy, when are you getting home? I don't care about your stupid tooth.",Gabe,0
+1097,11,4,You can't leave me alone with charlie.,Gabe,0
+1098,11,5,"Wait, teddy! Oh.",Gabe,0
+1099,11,6,"You're not alone, gabe.",Others,0
+1100,11,7,"I'm not gonna help you, but you're not alone.",Others,1
+1101,11,8,What's that smell? It's coming from the business end of that kid.,Others,0
+1102,11,9,You gotta change it.,Others,0
+1103,11,10,I don't know how to change a diaper.,Gabe,0
+1104,11,11,It's just like taking apart a burrito.,Others,1
+1105,11,12,And then putting it back together.,Others,1
+1106,11,13,I think I've eaten my last burrito.,Gabe,1
+1107,12,0,You look adorable.,Bob,1
+1108,12,1,Shut up.,Amy,1
+1109,12,2,"Okay, honey, look, the possum's in the trap.",Bob,0
+1110,12,3,All you gotta do you just gotta tie the rope to it.,Bob,0
+1111,12,4,And I'll pull it right out.,Bob,0
+1112,12,5,Oh.,Amy,0
+1113,12,6,I love you.,Bob,0
+1114,12,7,Whatever.,Amy,0
+1115,12,8,Oh my gosh.,Amy,0
+1116,12,9,"What do you see, honey? Dirt, cobwebs, bugs.",Amy,0
+1117,12,10,"I don't know how you do this all day, bob.",Amy,0
+1118,12,11,"That's 'cause I know I'm coming home to you, sweetie.",Bob,0
+1119,12,12,"Oh, shut up.",Amy,0
+1120,12,13,"Okay, I see the trap.",Amy,0
+1121,12,14,"Bob, I'm not so sure this is a possum.",Amy,0
+1122,12,15,"What do you mean? - Well, are possums black with a white stripe? What? No, get out.",Amy,0
+1123,12,16,That's not a possum.,Bob,0
+1124,12,17,That's a Skunk.,Bob,1
+1125,13,0,"Ah, charlie, stay still.",Gabe,1
+1126,13,1,Stupid diapers.,Gabe,0
+1127,13,2,Can you please keep it down back there? I'm trying to work here.,Others,0
+1128,13,3,Okay.,Gabe,0
+1129,13,4,"You know, this would be a lot easier if you helped me.",Gabe,0
+1130,13,5,"Yes, it probably would, put we had an agreement.",Others,1
+1131,13,6,I'll handle my thing that explodes and you'll handle yours.,Others,1
+1132,13,7,"Well, we've got a problem.",Gabe,0
+1133,13,8,I'm all out of clean diapers.,Gabe,0
+1134,13,9,"Now what am I gonna do? Okay, charlie, all better now.",Gabe,0
+1135,13,10,Is that a shirt And duct tape? Yes.,Others,1
+1136,13,11,Oh.,Others,0
+1137,13,12,"See, I call it 'the shirt diaper.",Gabe,1
+1138,13,13,' The good thing is that she's protected.,Gabe,0
+1139,13,14,And it's not my shirt.,Gabe,1
+1140,13,15,"Oh, now what? Why can't she just sit still? I bet some more duct tape would make her sit still.",Gabe,1
+1141,14,0,"Hey, I'm gonna need to practice for my debate later.",Teddy,0
+1142,14,1,Could you give me a topic? - Okay.,Teddy,0
+1143,14,2,"How about, why won't you go out with me? No, I need a topic I can argue from both sides.",Emmett,1
+1144,14,3,"Okay, here we go.",Others,0
+1145,14,4,Is this real life? The doctor gave him some anesthesia.,PJ,0
+1146,14,5,"Teddy, come on back.",Others,0
+1147,14,6,Teddy? I have a sister named teddy.,PJ,1
+1148,15,0,"Okay, so you didn't like carrots.",Gabe,1
+1149,15,1,How about some yummy peaches? There you go.,Gabe,0
+1150,15,2,Oh! That's it.,Gabe,0
+1151,15,3,You're in trouble now.,Gabe,1
+1152,15,4,"Jo, get in here! What do you want now? She won't eat.",Gabe,0
+1153,15,5,Not my problem.,Others,0
+1154,15,6,Hey! Don't walk away when I'm talking to you.,Gabe,0
+1155,15,7,I have work to do.,Others,0
+1156,15,8,I don't care.,Gabe,0
+1157,15,9,I'm having a really bad day.,Gabe,0
+1158,15,10,And all I'm asking for is a little respect.,Gabe,1
+1159,15,11,"Oh, so what I do isn't important? Stop putting words into my mouth.",Others,0
+1160,15,12,You know what? That's it.,Others,0
+1161,15,13,I'm outta here.,Others,0
+1162,15,14,You can't leave.,Gabe,0
+1163,15,15,Oh yeah? Watch me.,Others,0
+1164,15,16,"Jo, wait, don't go.",Gabe,0
+1165,15,17,It's the first time I've been left alone with charlie.,Gabe,0
+1166,15,18,I'm blowing it.,Gabe,0
+1167,15,19,I can't do this by myself.,Gabe,0
+1168,15,20,"All right, I'll help you with the baby.",Others,0
+1169,15,21,"But just so you know, every doll I've ever had ended up without its head.",Others,1
+1170,15,22,Would you look at that? You're really good with babies.,Gabe,0
+1171,15,23,"Yeah, I guess I am.",Others,0
+1172,15,24,"If you ever tell anyone, I'll hurt you.",Others,0
+1173,16,0,We're back.,Emmett,0
+1174,16,1,"Oh, here we go, charlie.",Others,0
+1175,16,2,Here you go.,Others,0
+1176,16,3,"Am I in hawaii With grandma? I told you, these are my grandma's glasses.",PJ,0
+1177,16,4,Just because I'm wearing them doesn't make me grandma.,Emmett,1
+1178,16,5,"You're cranky, old lady.",PJ,1
+1179,16,6,"Hey, emmett, where's teddy? Dropped her off at her debate.",Emmett,0
+1180,16,7,"Okay, buddy, how about we have a seat? This thing followed me all the way home.",PJ,1
+1181,16,8,Hey kids.,Bob,0
+1182,16,9,Hey dad.,PJ,0
+1183,16,10,"Why is charlie wearing a shirt diaper? Uh, long story.",Bob,0
+1184,16,11,Where's mom? Longer story.,Bob,1
+1185,17,0,"Hi, everybody.",Amy,0
+1186,17,1,Mommy got stung.,Amy,0
+1187,17,2,It was all daddy's fault.,Amy,0
+1188,17,3,"Uh, honey, can you get that thing behind you? Right back there.",Bob,0
+1189,17,4,Love you.,Bob,1
+1190,17,5,Shut up.,Amy,1
+1191,17,6,"Honey, just scrub yourself real good with that tomato juice for about two hours.",Bob,0
+1192,17,7,It'll get the smell right out I hope.,Bob,0
+1193,17,8,"Kids, don't ever go to the spa with daddy.",Amy,0
+1194,17,9,Hey hey hey.,Bob,0
+1195,17,10,"Hey, baby girl.",Bob,0
+1196,17,11,"I tell you what: Let's get you a real diaper, okay? Oh, that's my ride.",Bob,0
+1197,18,0,I'm starving.,Others,0
+1198,18,1,"Are you hungry? I can't believe I'm gonna say this, - But I had fun.",Others,0
+1199,18,2,Me too.,Gabe,0
+1200,18,3,And we finished a pretty awesome project too.,Gabe,0
+1201,18,4,I know.,Others,0
+1202,18,5,Can't wait to see that volcano erupt.,Others,0
+1203,18,6,I know.,Gabe,0
+1204,18,7,Okay.,PJ,0
+1205,18,8,"No! No! Wait, don't don't don't! Volcano made a boom boom.",Gabe,1
+1206,18,9,And that is why.,Gabe,0
+1207,18,10,For the safety of our students.,PJ,0
+1208,19,0,"And the peace of mind of our parents, I would argue that cell phone use in school.",Others,0
+1209,19,1,"Should not only be allowed, It should be encouraged.",Others,0
+1210,19,2,Thank you.,Others,0
+1211,19,3,"Miss duncan, your rebuttal? Ahem.",Others,0
+1212,19,4,Cellular phone usage.,Teddy,1
+1213,19,5,Is a serious problem.,Teddy,1
+1214,19,6,That presents many challenges for the consumer.,Teddy,1
+1215,19,7,"What? I said, Cellular phone usage is a serious issue I concede.",Teddy,1
+1216,20,0,"Hey, charlie, gabe here.",Gabe,0
+1217,20,1,And I'm doing the video diary tonight.,Gabe,0
+1218,20,2,Because teddy's having some troubles with her words.,Gabe,0
+1219,20,3,Nothing serious.,Teddy,1
+1220,20,4,Yeah.,Gabe,0
+1221,20,5,"Anyway, today was the first day I took care of you.",Gabe,0
+1222,20,6,It went totally perfect.,Gabe,0
+1223,20,7,"What? Okay, there were a few problems.",Gabe,0
+1224,20,8,"But, I mean, you're fine.",Gabe,0
+1225,20,9,So they're probably going to make me take care of you again.,Gabe,1
+1226,20,10,Yeah.,Teddy,0
+1227,20,11,"Good luck, charlie.",Teddy,0
+1228,21,0,"I've got to say, gabe, I wasn't sure about these things, But they are really comfortable.",PJ,0
+1229,21,1,Yeah.,Gabe,0
+1230,22,0,I can't believe how much time I'm going to save by not having to go to the bathroom.,PJ,0
+1231,22,1,"Dude, ha! I'm saving time right now, if you know what I mean.",Gabe,1
+1232,22,2,Nice.,PJ,0
+1233,22,3,"Hey, dad, game's on.",PJ,0
+1234,22,4,Yeah.,Gabe,0
+1235,22,5,"Whoo! Looking good, dad.",Gabe,1
+1236,22,6,"Oh, feelin' good, son.",Bob,0
+1237,22,7,Whoo! Whoo.,Gabe,0

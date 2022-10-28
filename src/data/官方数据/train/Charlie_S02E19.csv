@@ -1,0 +1,375 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+8920,1,0,Previously on Good luck Charlie The Duncans are going to Hawaii! What?! - I'm Teddy.,Bob/Teddy,0
+8921,2,0,"Aloha, Teddy.",Others,0
+8922,2,1,I'm kai.,Others,0
+8923,3,0,We missed you yesterday at the time share presentation.,Others,0
+8924,3,1,"If you don't attend the one today, We'll be forced to charge you for your entire trip.",Others,0
+8925,4,0,What are you doing? Putting a curse on you.,Others,1
+8926,5,0,Swimming and jellyfish.,Amy,1
+8927,5,1,Things keep happening.,Amy,1
+8928,6,0,"Please, God, if you let me live through this, I promise I'll do something good.",Gabe,1
+8929,7,0,"Charlie? Charlie? Charlie? Here, girl.",Teddy,0
+8930,7,1,"Come out, come out wherever you are, Before Teddy starts to cry.",Teddy,0
+8931,7,2,"Hey, honey.",Bob,0
+8932,7,3,"Oh, dad.",Teddy,0
+8933,7,4,"What's up? - Oh, nothing.",Bob/Teddy,0
+8934,7,5,Just a quick plant inspection.,Teddy,1
+8935,7,6,"Yep, ficus.",Teddy,0
+8936,7,7,"Teddy, you okay? I'm fine.",Bob/Teddy,1
+8937,7,8,"So have you seen anyone around the hotel from the family, You know, kid-wise? You've already seen me, So I guess it'd have to be one of the others like P.J.",Teddy,0
+8938,7,9,Or Gabe or Charlie.,Teddy,0
+8939,7,10,"Did you hit your head again? Did you hit yours? What's with all the questions? Hold on, hold on.",Bob/Teddy,1
+8940,8,0,"Here you go, sweetie.",Others,0
+8941,8,1,You need to wear one of these.,Others,0
+8942,8,2,Why? Because we don't want you to get lost.,Others,0
+8943,8,3,Let's go.,Others,0
+8944,8,4,"Okay, come on, let's go this way.",Others,0
+8945,9,0,"? Come on, P.J.",Gabe,0
+8946,9,1,I need your list of fears.,Gabe,0
+8947,9,2,Don't rush me.,PJ,0
+8948,9,3,"That reminds me, Number 27, 'being how do you spell 'rushed'? Gimme that.",PJ,1
+8949,9,4,"'things P.J.'s afraid of clowns, heights, falling,' Spiders, unicorns, 'Trolls, ogres.",Gabe,0
+8950,9,5,"' Okay, how about we start actually exist? T.",Gabe,0
+8951,9,6,Good idea.,PJ,0
+8952,9,7,"Where you gonna find an ogre in Hawaii? Okay, item number one.",PJ,1
+8953,9,8,"You ready? Yeah, I think so.",Gabe/PJ,0
+8954,9,9,"Hiya, P.J.",Gabe,0
+8955,9,10,How you doing? Fine.,Gabe/PJ,1
+8956,9,11,Don't be afraid.,Gabe,1
+8957,9,12,Allow me to introduce myself.,Gabe,0
+8958,9,13,I'm not scary the clown.,Gabe,1
+8959,9,14,You look a little sweaty.,Gabe,0
+8960,9,15,Try my handkerchief.,Gabe,1
+8961,9,16,Yeah.,Gabe,0
+8962,9,17,Make it stop.,PJ,1
+8963,9,18,Make it stop! This is gonna take a while.,PJ/Gabe,1
+8964,10,0,Thank you anyway.,Amy,0
+8965,10,1,"Whoa, honey! What happened? Remember that curse I was telling you about? - That's what happened.",Bob/Amy,1
+8966,10,2,What are you talking about? Come here.,Bob,0
+8967,10,3,I'll tell you what I'm talking about.,Amy,0
+8968,10,4,"Okay, I was on the putting green with Charlie.",Amy,0
+8969,10,5,When I stepped on sacred ground and got cursed.,Amy,0
+8970,10,6,Then I danced on sacred ground.,Amy,0
+8971,10,7,And got the rest of the family cursed.,Amy,1
+8972,10,8,Still not hearing about the giant neck.,Bob,1
+8973,10,9,"Okay, then I decided to go for a relaxing swim.",Amy,0
+8974,10,10,With jellyfish.,Amy,0
+8975,10,11,"To cover the welts, I put on a lei, Only to discover that I'm allergic to the plumeria flower.",Amy,1
+8976,10,12,That's how I got a giant neck.,Amy,1
+8977,10,13,Wait a minute.,Bob,0
+8978,10,14,Wait a minute.,Bob,0
+8979,10,15,"All of this is because of a curse? Yes, all of it.",Bob/Amy,0
+8980,10,16,"Me getting stuck in the elevator, Teddy getting knocked out, The boys almost crashing in a helicopter accident.",Amy,1
+8981,10,17,You buying that shirt.,Amy,0
+8982,10,18,What? You don't like this? I lost the receipt.,Bob,0
+8983,10,19,I can't take it back.,Bob,0
+8984,10,20,"The curse! Honey, come on.",Bob/Amy,1
+8985,10,21,There is no such thing as a curse.,Bob,0
+8986,10,22,Everything that has happened is just a coincidence.,Bob,0
+8987,10,23,"All right, you know what you need? A size 43 turtleneck? Honey, what you need is a nice relaxing day.",Bob/Amy,1
+8988,10,24,At the spa.,Bob,0
+8989,10,25,Go pamper yourself.,Bob,0
+8990,10,26,Get a massage.,Bob,0
+8991,10,27,Get a steam.,Bob,0
+8992,10,28,Just get all this curse stuff put out of your head.,Bob,0
+8993,10,29,"Okay, maybe you're right.",Amy,0
+8994,10,30,I'm overreacting.,Amy,0
+8995,10,31,Of course you are.,Bob,1
+8996,10,32,"Bob, honey, be honest with me.",Amy,0
+8997,10,33,How bad do I look? Every time I look at you.,Amy/Bob,0
+8998,10,34,All I see is my beautiful wife.,Bob,0
+8999,10,35,Aw.,Amy,0
+9000,10,36,That's nice.,Amy,1
+9001,11,0,"Okay, I saw this on tv.",Gabe,0
+9002,11,1,"If you can walk across these coals, you won't be afraid of anything.",Gabe,0
+9003,11,2,I don't know.,PJ,0
+9004,11,3,"Come on, you can do it.",Gabe,0
+9005,11,4,It's all about mind control.,Gabe,0
+9006,11,5,Now take a moment to empty your mind completely.,Gabe,1
+9007,11,6,Done.,PJ,1
+9008,11,7,Already? - Let me check.,Gabe/PJ,0
+9009,11,8,"Yeah, done.",PJ,1
+9010,11,9,"Okay, come on.",Gabe,0
+9011,11,10,Take a deep breath and focus.,Gabe,0
+9012,11,11,I'm just gonna go find the guy Whoo! I did it.,Gabe/PJ,1
+9013,11,12,P.,Gabe,0
+9014,11,13,J.,Gabe,0
+9015,11,14,", the coals weren't lit.",Gabe,1
+9016,11,15,"Lit? Like fire lit? Yeah, you're supposed to walk across hot coals.",PJ/Gabe,1
+9017,11,16,But that would hurt.,PJ,0
+9018,11,17,And you know I suffer from s.,PJ,0
+9019,11,18,F.,PJ,0
+9020,11,19,S.,PJ,0
+9021,11,20,S.,Gabe,0
+9022,11,21,F.,Gabe,0
+9023,11,22,S.,Gabe,0
+9024,11,23,? - Sensitive foot syndrome.,PJ,1
+9025,11,24,"It's real, Gabe.",PJ,0
+9026,12,0,"Why do you think I never played hopscotch? Excuse me, ma'am, have you seen Oh! Mom? What happened? Full body massage.",PJ/Amy/Teddy,1
+9027,12,1,Turns out the massage oil had plumeria in it.,Amy,1
+9028,12,2,Doctor says I'm gonna be fine.,Amy,1
+9029,12,3,"Is it bad? No no, you've never looked more - What? - That's it.",Amy/Teddy,1
+9030,12,4,Just more.,Teddy,1
+9031,12,5,"Listen, mom, there's something that I need to tell you.",Teddy,0
+9032,12,6,It's about Charlie.,Teddy,0
+9033,12,7,Yeah? She's Doing the hula.,Teddy,0
+9034,12,8,"Oh, that's adorable.",Amy,0
+9035,12,9,That's the greatest thing I've ever seen.,Teddy,0
+9036,12,10,"Hi, Charlie.",Others,0
+9037,13,0,Welcome to the opportunity of a lifetime.,Others,0
+9038,13,1,A chance to own a timeshare of paradise.,Others,0
+9039,13,2,"Before we begin, Mr.",Others,0
+9040,13,3,"Duncan, Quick question.",Others,0
+9041,13,4,I lost the receipt.,Bob,1
+9042,13,5,I can't take it back.,Bob,1
+9043,13,6,It's not about your shirt.,Others,0
+9044,13,7,Is Mrs.,Others,0
+9045,13,8,"Duncan on her way? Man, I hope not.",Others/Bob,0
+9046,13,9,"If both spouses aren't at the presentation, We're going to have to charge you for your entire trip.",Others,1
+9047,13,10,"Okay, then I will be right back with my lovely wife.",Bob,0
+9048,13,11,Or somebody else.,Bob,1
+9049,14,0,Quick favor.,Bob,1
+9050,14,1,I need you to pretend to be mom.,Bob,1
+9051,14,2,"Dad, really bad time to get super weird.",Teddy,1
+9052,14,3,I just found out that my wife has.,Bob,0
+9053,14,4,To be at the timeshare presentation.,Bob,0
+9054,14,5,"Obviously, I can't take mom.",Bob,0
+9055,14,6,Please.,Bob,0
+9056,14,7,This is an emergency.,Bob,1
+9057,14,8,"All right, fine, just give me a minute.",Teddy,0
+9058,14,9,Hey.,Others,0
+9059,14,10,Oh.,Teddy,0
+9060,14,11,"Ready for our date? Actually, I have one more slight delay.",Others,0
+9061,14,12,I have to help my dad with something.,Teddy,0
+9062,14,13,"Teddy, I'm starting to think you don't wanna hang out with me.",Others,0
+9063,14,14,No no no.,Teddy,0
+9064,14,15,"No, I totally do.",Teddy,0
+9065,14,16,It's not gonna take long.,Teddy,0
+9066,14,17,I'll just meet you on the beach in an hour? - I'll be there.,Teddy/Others,0
+9067,14,18,Great.,Teddy,0
+9068,14,19,Really gotta go.,Bob,0
+9069,14,20,Don't rush me.,Teddy,1
+9070,14,21,I'm coming.,Teddy,1
+9071,14,22,"Wow, you are gonna be great as your mom.",Bob,1
+9072,15,0,"Hey, what are we doing up here? You're gonna overcome your fear of heights.",PJ/Gabe,0
+9073,15,1,By jumping off this cliff into the water below.,Gabe,0
+9074,15,2,Whoa! Are you crazy? People do it all the time.,PJ/Gabe,1
+9075,15,3,"Yeah, but those people are professionals.",PJ,1
+9076,15,4,There's nothing to be afraid of.,Gabe,1
+9077,15,5,"He's right, P.",PJ,0
+9078,15,6,J.,PJ,0
+9079,15,7,It's gonna be okay.,PJ,1
+9080,15,8,Just jump.,PJ,0
+9081,15,9,Stop! Are you crazy? Do you wanna get yourself k*ll? P.,PJ,1
+9082,15,10,J.,PJ,0
+9083,15,11,", empty your mind.",Gabe,0
+9084,15,12,Quiet.,PJ,1
+9085,15,13,I think he can hear us.,PJ,0
+9086,15,14,"Come on, you can do it.",Gabe,0
+9087,15,15,"I don't think so, Gabe.",PJ,0
+9088,15,16,Maybe I should start with something smaller? P.,PJ,0
+9089,15,17,J.,Gabe,0
+9090,15,18,P.,Gabe,0
+9091,15,19,J.,Gabe,0
+9092,15,20,Yeah.,PJ,0
+9093,15,21,What are you doing here? You're supposed to be down there.,Gabe/PJ,0
+9094,15,22,"Luckily there was a little ledge, see? And some steps, see? So you jumped four feet? And what a rush! Yeah! Before we begin, let's get to know each other a little.",Gabe/PJ,1
+9095,16,0,Why don't we start with the Duncans? - Of course.,Others,0
+9096,16,1,Why don't you stand up and introduce yourselves? - Bob.,Others,0
+9097,16,2,Ted Amy.,Teddy,0
+9098,16,3,Tedamy.,Teddy,0
+9099,16,4,Tedamy? That's an interesting name.,Others,1
+9100,16,5,"Yeah, well, my parents were really messed up.",Teddy,1
+9101,16,6,"So, Bob and tedamy, How'd this happen? Uh He was my exterminator.",Others/Teddy,0
+9102,16,7,And he came over to my apartment.,Teddy,0
+9103,16,8,With that giant t*nk of poison on his back.,Teddy,0
+9104,16,9,And I just knew that bobby-boo was the one for me.,Teddy,1
+9105,16,10,"Just so you know, I don't wear the t*nk on my back.",Bob,0
+9106,16,11,No one cares about the details.,Teddy,0
+9107,16,12,I care.,Bob,0
+9108,16,13,"Do we have to do this here? Let's meet someone else, shall we? You guys.",Teddy/Others,1
+9109,17,0,"Man, it feels good to conquer your fears.",PJ,0
+9110,17,1,P.,Gabe,0
+9111,17,2,J.,Gabe,0
+9112,17,3,", you didn't conquer anything.",Gabe,0
+9113,17,4,"You ran from a clown, Walked across slightly warm coals.",Gabe,0
+9114,17,5,And jumped down four feet onto a ledge.,Gabe,0
+9115,17,6,Which I did not know would be there.,PJ,1
+9116,17,7,P.,Gabe,0
+9117,17,8,J.,Gabe,0
+9118,17,9,", I made a promise that I would do something good.",Gabe,0
+9119,17,10,And do you know who I made that promise to? The guy upstairs.,Gabe,0
+9120,17,11,"Bill from Seattle? He seems like a nice guy, but what does he care about More upstairs.",PJ,0
+9121,17,12,"I promised God, P.",Gabe,0
+9122,17,13,J.,Gabe,0
+9123,17,14,We gotta keep trying.,Gabe,0
+9124,17,15,Fine.,PJ,0
+9125,17,16,"Well, I have a fear of bedspreads.",PJ,0
+9126,17,17,"Oh, look, I overcame it.",PJ,1
+9127,17,18,"Actually, that's a quilt.",Gabe,0
+9128,17,19,"Ooh, this is a quilt? Fine.",PJ,1
+9129,17,20,"If you won't do it for yourself, Or me, do it for Charlie.",Gabe,0
+9130,17,21,She looks up to you.,Gabe,0
+9131,17,22,She does? Did you see that? Fine.,PJ/Gabe,1
+9132,17,23,I'll give it one more sh*t.,PJ,0
+9133,17,24,Turns out there's plumeria in the shampoo.,Amy,1
+9134,17,25,"Be honest, is it bad? No no, you look fine, mom.",Amy/PJ,1
+9135,17,26,"Oh, that's good.",Amy,1
+9136,18,0,"Remember, it's not about spending money.",Others,0
+9137,18,1,It's about spending your vacation in paradise.,Others,0
+9138,18,2,I really need to use the restroom.,Bob,1
+9139,18,3,We have a break coming up in 90 minutes.,Others,1
+9140,18,4,I'm gonna make this simple.,Bob,0
+9141,18,5,I am going to pee now.,Bob,1
+9142,18,6,Is it going to be in a: That plant? B: That trashcan? Or c: The bathroom in the hallway? Please go with c.,Bob/Teddy,1
+9143,18,7,Fine.,Others,0
+9144,18,8,You may leave.,Others,0
+9145,18,9,Now let's talk about payment plans.,Others,0
+9146,18,10,Excuse me.,Teddy,0
+9147,18,11,"Yes, tedamy.",Others,1
+9148,18,12,How much longer are we gonna be here? Only five and a half more hours.,Teddy/Others,0
+9149,18,13,But I have a date with a really cute boy.,Teddy,1
+9150,18,14,I thought you were married.,Others,1
+9151,18,15,"Well, I'm married, not dead.",Teddy,1
+9152,18,16,"Is there any way that I can leave sooner? Sure, sign that paper.",Teddy/Others,0
+9153,18,17,And you are free to go right now.,Others,0
+9154,18,18,Great.,Others,0
+9155,18,19,Okay.,Teddy,0
+9156,18,20,Aloha.,Teddy,1
+9157,18,21,"All right, the ball is now officially rolling.",Others,0
+9158,18,22,All I did was go to the bathroom.,Bob,1
+9159,18,23,We have sold our first timeshare unit.,Others,0
+9160,18,24,"Congratulations, Bob and tedamy Duncan.",Others,0
+9161,18,25,Should have picked the plant.,Bob,1
+9162,19,0,What did you say this was called again? Parasailing.,PJ,0
+9163,19,1,You're gonna go up in the air.,Gabe,0
+9164,19,2,And get a gentle peaceful - Up in the air? You didn't say anything about up in the air.,Gabe/PJ,1
+9165,19,3,What did you think the parachute was for? Parachute? I thought this was a very colorful cape.,Gabe/PJ,1
+9166,19,4,How do I get out of this thing? Fine fine fine fine.,PJ/Gabe,0
+9167,19,5,"If you don't wanna do it, just signal the guy on the boat like this.",Gabe,0
+9168,19,6,"Hey, boat guy! Hey, boat guy! That was the go signal, wasn't it? Yep, you might wanna start running.",PJ/Gabe,1
+9169,20,0,I'm kind of glad we weren't able to get together until now.,Teddy,0
+9170,20,1,Because this could not be more perfect.,Teddy,0
+9171,20,2,I know.,Others,0
+9172,20,3,It's beautiful.,Others,0
+9173,20,4,"Kai, this is my brother P.J.P.J., kai.",Teddy,1
+9174,21,0,"Teddy, what did you do? I had a date on the one spot on the beach.",Bob/Teddy,1
+9175,21,1,Where idiots fall out of the sky.,Teddy,1
+9176,21,2,I'm talking about the timeshare.,Bob,1
+9177,21,3,We now own this room.,Bob,1
+9178,21,4,All I did was sign a piece of paper.,Teddy,0
+9179,21,5,"Which bought us a timeshare, Which we can't afford.",Bob,1
+9180,21,6,You are the worst wife I've ever had.,Bob,1
+9181,21,7,"Well, I'm sorry.",Teddy,0
+9182,21,8,Why don't you make P.,Teddy,0
+9183,21,9,J.,Teddy,0
+9184,21,10,Your wife? Because I'm sure he'd do a much better job.,Teddy,0
+9185,21,11,"Quiet down, people.",Amy,0
+9186,21,12,Quiet! Why are you wearing a mop? Because my hair's coming out in clumps.,Teddy/Amy,1
+9187,21,13,Wanna see? No no.,Amy/Teddy,1
+9188,21,14,Mop's good.,Teddy,0
+9189,21,15,Mop it up.,Teddy,1
+9190,21,16,"Hey, kids, there's something that I have to tell you.",Amy,0
+9191,21,17,"I know this is gonna sound really crazy, but here goes.",Amy,0
+9192,21,18,We've been cursed.,Amy,1
+9193,21,19,Cursed? - Yes.,Bob/Amy,0
+9194,21,20,"By mano, a grumpy hawaiian man.",Amy,0
+9195,21,21,Who does not like it when you do the robot on sacred ground.,Amy,1
+9196,21,22,A curse? Come on.,Teddy,0
+9197,21,23,Think about it.,Amy,0
+9198,21,24,Everything bad.,Amy,0
+9199,21,25,Started happening after I got us cursed.,Amy,0
+9200,21,26,Like the helicopter.,PJ,0
+9201,21,27,And mom's fatness.,Gabe,0
+9202,21,28,Me getting knocked out.,Teddy,0
+9203,21,29,And mom's baldness.,Gabe,0
+9204,21,30,The timeshare.,Teddy,0
+9205,21,31,And mom's grotesqueness.,Gabe,0
+9206,21,32,"Okay, got it.",Amy,1
+9207,21,33,Wait a second.,Amy,0
+9208,21,34,Back up.,Amy,0
+9209,21,35,"What's this about a timeshare? Go on and tell her, bobby-boo.",Amy/Teddy,1
+9210,21,36,"She bought it, not me.",Bob,0
+9211,21,37,"You bought a timeshare? Okay, the only reason we were at that stupid thing.",Amy/Teddy,0
+9212,21,38,Was so dad wouldn't have to pay for the room.,Teddy,0
+9213,21,39,"Whoa, but let's not forget about the curse.",Bob,1
+9214,21,40,"Okay, you not telling me about a timeshare has nothing to do with a curse.",Amy,0
+9215,21,41,"Or does it? So that's it? We're cursed forever? No, we are not.",Bob/PJ/Amy,1
+9216,21,42,"I got us into this mess, and now I'm gonna get us out of it.",Amy,0
+9217,21,43,I'm gonna find mano and have him reverse the curse.,Amy,1
+9218,21,44,What? I'll tell mano to reverse the curse.,Amy,1
+9219,21,45,Looks like you're going to the doctor again.,Teddy,0
+9220,21,46,Plumeria tea.,Teddy,1
+9221,21,47,"Oh, nuts.",Amy,1
+9222,22,0,"Hey, excuse me.",Gabe,0
+9223,22,1,Are you mano? I am mano.,Gabe/Others,0
+9224,22,2,"Yeah, listen, you put this curse on my family.",Gabe,0
+9225,22,3,And I was just wondering if you could reverse it.,Gabe,0
+9226,22,4,Curse.,Others,0
+9227,22,5,There is no curse.,Others,0
+9228,22,6,There isn't? I just say that to keep the guests out of the plants.,Gabe/Others,1
+9229,22,7,I'm the gardener.,Others,0
+9230,22,8,But what about all the bad stuff that's happened to us? Just got lucky I guess.,Gabe/Others,1
+9231,22,9,My family thinks the curse is real.,Gabe,0
+9232,22,10,Tell them it's not.,Others,0
+9233,22,11,I could do that.,Gabe,0
+9234,22,12,Or we could have a little fun.,Gabe,1
+9235,22,13,You say that with an evil look in your eye.,Others,0
+9236,22,14,That gives me pleasure.,Others,0
+9237,22,15,The curse removal ceremony now begins.,Others,0
+9238,22,16,We are so lucky he does this.,PJ,0
+9239,22,17,You have no idea.,Gabe,1
+9240,22,18,"First, the family except for the youngest male, Must circle the mother hopping.",Others,0
+9241,22,19,And chanting 'big and gross.,Others,0
+9242,22,20,Big and gross.,Others,0
+9243,22,21,She's the one that's cursed the most.,Others,1
+9244,22,22,' What should I do? That's the best part.,Amy/Others,1
+9245,22,23,You do the robot.,Others,0
+9246,22,24,I do a good robot.,Amy,1
+9247,22,25,"big and gross, big and gross ? she's the one that's cursed the most ? big and gross, big and gross ? she's the one that's cursed the most ?.",Others/Bob/PJ/Teddy,0
+9248,22,26,"Looking good, guys.",Gabe,1
+9249,22,27,Making memories here.,Gabe,1
+9250,22,28,she's the one that's cursed the most ?.,Others/Bob/PJ/Teddy,0
+9251,22,29,How come Gabe doesn't have to do this? I don't know.,PJ/Bob,0
+9252,22,30,Seems awfully chummy with that mano guy.,Bob,0
+9253,22,31,"Guys, I think they're just messing with us.",Teddy,0
+9254,22,32,Mr.,Others,0
+9255,22,33,"Duncan, there you are.",Others,0
+9256,22,34,We had a little accident with your timeshare contract.,Others,0
+9257,22,35,And a tiki torch.,Others,0
+9258,22,36,"So if you don't mind, we need to get your wife's signature again.",Others,0
+9259,22,37,It's working.,Bob,1
+9260,22,38,"Keep going! big and gross, big and gross ? she's the one that's cursed the most.",Bob/PJ/Teddy,1
+9261,23,0,"All right, all right, all right.",Bob,0
+9262,23,1,I wanna make a toast.,Bob,0
+9263,23,2,I wanna make a toast.,Bob,0
+9264,23,3,"To the love of my life, My very beautiful wife Amy.",Bob,0
+9265,23,4,Happy anniversary.,Bob,0
+9266,23,5,Thank you for making me the luckiest man on earth.,Bob,0
+9267,23,6,I love you.,Bob,0
+9268,23,7,I love you too.,Amy,0
+9269,23,8,Cheers.,Amy,0
+9270,23,9,Cheers.,Bob,0
+9271,23,10,"Aw, isn't that sweet? Mom and dad finally got to have their romantic moment in Hawaii.",Teddy,0
+9272,23,11,"As for me, not so much, But that's okay because family vacations.",Teddy,0
+9273,23,12,Are about spending time with family.,Teddy,0
+9274,23,13,"Teddy, wanna go for a walk? Here, wrap this up.",Others/Teddy,1
+9275,23,14,"What am I supposed goodbye, Charlie.",Gabe,0
+9276,23,15,"Good luck, Charlie.",Bob,1
+9277,23,16,Whatever.,Gabe,0
+9278,24,0,"Hi, I'm P.",PJ,0
+9279,24,1,J.,PJ,0
+9280,24,2,Duncan.,PJ,0
+9281,24,3,"Tonight, we've had a lot of fun with the subject of s.",PJ,0
+9282,24,4,F.,PJ,0
+9283,24,5,S Sensitive foot syndrome.,PJ,1
+9284,24,6,But sensitive foot syndrome is a serious problem.,PJ,0
+9285,24,7,That affects almost a dozen people across the globe.,PJ,1
+9286,24,8,"Come, walk with me.",PJ,1
+9287,24,9,It is a particularly sensitive day.,PJ,1
+9288,24,10,Now you see what me and almost eleven other guys have to go through.,PJ,1
+9289,24,11,Hey.,Gabe,0
+9290,24,12,What're you doing? I'm inform people about S.F.S.P.,Gabe/PJ,0
+9291,24,13,J there's no such thing.,Gabe,0
+9292,24,14,It does exist.,Gabe,0
+9293,24,15,Really? We're gonna live!,PJ,1

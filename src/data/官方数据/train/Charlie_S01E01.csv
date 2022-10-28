@@ -1,0 +1,418 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+0,1,0,"Hi, Charlie, there you are.",Teddy,0
+1,1,1,Nine months old and look how cute you are.,Teddy,0
+2,1,2,And look how cute I am.,Teddy,0
+3,1,3,"It's your big sister Teddy here, And I'm making this video diary To help you survive our Special family.",Teddy,0
+4,1,4,"Oh, hey.",Teddy,0
+5,1,5,Looks like dad taught you how to eat bananas.,Teddy,0
+6,1,6,"Oh, and there's mom, Looking lovelier than ever this morning.",Teddy,0
+7,1,7,Not in the mood.,Amy,0
+8,1,8,Okay.,Amy,0
+9,1,9,I think you've had enough bananas.,Amy,0
+10,1,10,So we're switching to sweet peas!,Amy,0
+11,1,11,You're gonna love them.,Amy,0
+12,1,12,"Look, mommy thinks they're so yummy.",Amy,0
+13,1,13,Very smart.,Teddy,0
+14,1,14,"Always make mommy try it first, okay?",Teddy,0
+15,1,15,"Oh, and there's your older brother PJ Doing today's homework at the last minute as usual.",Teddy,0
+16,1,16,It's not today's homework.,PJ,0
+17,1,17,This is yesterday's homework.,PJ,1
+18,1,18,There's a chance you two will be in high school together.,Teddy,0
+19,1,19,"Oh, and there's dad preparing for another day's work.",Teddy,0
+20,1,20,He k*ll bugs for a living.,Teddy,0
+21,1,21,"Honey, come on.",Bob,0
+22,1,22,we've been through this.,Bob,0
+23,1,23,I don't k*ll bugs.,Bob,0
+24,1,24,I'm a pest control specialist.,Bob,1
+25,1,25,Either way So now you've met the whole family.,Teddy,0
+26,1,26,Forgetting somebody?,Gabe,0
+27,1,27,Gabe!,Teddy,0
+28,1,28,no no no.,Teddy,0
+29,1,29,I didn't forget about you.,Teddy,0
+30,1,30,I was just saving the best for last.,Teddy,0
+31,1,31,"Gharlie, that was your younger older brother Gabe.",Teddy,0
+32,1,32,You want to say something to Charlie?,Teddy,0
+33,1,33,You ruined my life.,Gabe,0
+34,1,34,"Okay, so it's taking Gabe a little bit longer To get used to you.",Teddy,0
+35,1,35,You were kind of a surprise.,Teddy,0
+36,1,36,I thought surprises were supposed to be good.,Gabe,1
+37,1,37,And cut.,Teddy,0
+38,1,38,"Okay, gang, listen up.",Amy,0
+39,1,39,"I'm going back to work tonight at the hospital For the first time since Charlie was born, So I want everyone to stay at home",Amy,0
+40,1,40,and help dad with the baby.,Amy,0
+41,1,41,"Wait no, mom.",Teddy,0
+42,1,42,I'm not gonna be here tonight.,Teddy,0
+43,1,43,I have a study date at the library.,Teddy,0
+44,1,44,Don't you mean 'studly' date With Spencer?,PJ,0
+45,1,45,"Oh, save it for your pillow.",Teddy,0
+46,1,46,"I'm sorry, Teddy, but you're just gonna have to reschedule.",Amy,0
+47,1,47,"But, dad ",Teddy,0
+48,1,48,Bob!,Amy,0
+49,1,49,"Uh, dad's not available right now.",Bob,1
+50,1,50,"Mom, don't take this the wrong way, But why did you guys have to have another baby?",Teddy,0
+51,1,51,"Well, because three kids was just too easy.",Amy,1
+52,1,52,Three's for quitters.,Amy,0
+53,1,53,"And Teddy, you know better than to schedule a study date with a boy I've never met.",Bob,0
+54,1,54,Come on.,Bob,0
+55,1,55,"as dad, it's my responsibility to know every detail of my kids' lives.",Bob,0
+56,1,56,Oh yeah?,Bob,0
+57,1,57,What school do I go to?,Gabe,0
+58,1,58,Um the one named after that president.,Bob,0
+59,1,59,"Hey, you know what?",Bob,0
+60,1,60,I've got to drive you kids to school.,Bob,0
+61,1,61,Let's go.,Teddy,0
+62,1,62,"Wait, I haven't had breakfast yet.",Gabe,0
+63,1,63,"Come on, let's go.",Bob,0
+64,1,64,Most important meal of the day - Never got it.,Gabe,0
+65,1,65,Let's go!,Bob,0
+66,1,66,I've gotta get you to Roosevelt?,Bob,0
+67,1,67,Lincoln.,Gabe,0
+68,1,68,Got it.,Bob,0
+69,2,0,"Okay, honey, here's Charlie's schedule.",Amy,0
+70,2,1,"It tells you when to feed her, When to change her and when to put her down.",Amy,0
+71,2,2,"Sweetheart, would you relax?",Bob,0
+72,2,3,Big daddy's got this all under control.,Bob,0
+73,2,4,"Okay, just because that's on your barbecue apron Doesn't make it true.",Amy,0
+74,2,5,"Now if charlie gets fussy, her rubber ducky will calm her down.",Amy,0
+75,2,6,They're all over the place.,Amy,0
+76,2,7,Please be careful ,Amy,0
+77,2,8,They're all over the place.,Amy,0
+78,2,9,Honey You seem to forget I was fully involved in the raising of three kids.,Bob,0
+79,2,10,"Oh, yeah?",Gabe,0
+80,2,11,When's my birthday?,Gabe,0
+81,2,12,July 12th.,Bob,0
+82,2,13,November 23rd.,Gabe,0
+83,2,14,Got it.,Bob,0
+84,2,15,"Good luck, Charlie.",Amy,0
+85,2,16,Mwah!,Charlie,0
+86,2,17,Bye.,Amy,0
+87,2,18,Bye.,Bob,0
+88,2,19,"Hey, dad?",Gabe,0
+89,2,20,Yeah?,Bob,0
+90,2,21,I have a homework question.,Gabe,0
+91,2,22,"Okay, fire away.",Bob,0
+92,2,23,Can the average human lick his own armpit?,Gabe,0
+93,2,24,Yeah.,Bob,0
+94,2,25,Thanks.,Gabe,0
+95,2,26,"So what was that, like a science question?",Bob,0
+96,2,27,Nope.,Gabe,0
+97,2,28,I'll get it.,Teddy,0
+98,2,29,I'll get it.,Teddy,0
+99,2,30,I'll get it.,Teddy,0
+100,2,31,Nobody else get it!,Teddy,0
+101,2,32,Hi.,Teddy,0
+102,2,33,Hi.,Spencer,0
+103,2,34,Hi!,Bob,0
+104,2,35,I'm Teddy's dad.,Bob,0
+105,2,36,"Nice to meet you, sir.",Spencer,0
+106,2,37,"Uh, Spencer and I are studying ",Teddy,0
+107,2,38,for our biology test tomorrow.,Teddy,0
+108,2,39,"Are you, now?",Bob,0
+109,2,40,Yes.,Teddy,0
+110,2,41,"yes, we are, so can everyone please leave?",Teddy,0
+111,2,42,Not you.,Teddy,0
+112,2,43,Teddy.,Bob,0
+113,2,44,Yeah?,Teddy,0
+114,2,45,I thought your mom said no study date.,Bob,0
+115,2,46,"Yeah, at the library.",Teddy,0
+116,2,47,"Oh, right.",Bob,0
+117,2,48,"Okay, so then you've talked to her about this?",Bob,0
+118,2,49,Of course I did.,Teddy,0
+119,2,50,"I mean, I'm I'm pretty sure I did.",Teddy,0
+120,2,51,It's just I talk to so many different people about so many different things.,Teddy,0
+121,2,52,Why is there a giant bug in your house?,Spencer,0
+122,2,53,"That, my friend, is the jerusalem cricket, Better known to the layman as the potato bug.",Bob,0
+123,2,54,I'm an exterminator.,Bob,0
+124,2,55,Here we go.,Teddy,0
+125,2,56,"Hey, have you seen my ad on local cable 'Bob's bugs be gone'?",Bob,0
+126,2,57,"Yeah, how do we make Bob be gone?",Teddy,1
+127,2,58,Okay.,Bob,0
+128,2,59,you've got homework to do.,Bob,0
+129,2,60,I've got a diaper to change.,Bob,0
+130,2,61,Hers not mine.,Bob,0
+131,2,62,I ain't that old!,Bob,0
+132,2,63,I'm gonna be upstairs.,Bob,0
+133,2,64,Gabe out.,Teddy,0
+134,2,65,"Okay, fine.",Gabe,0
+135,2,66,But when's that hot guy getting here?,Gabe,0
+136,2,67,Out!,Teddy,0
+137,2,68,Kids.,Teddy,0
+138,2,69,Yeah.,Spencer,0
+139,2,70,"Oh man, I left my book at school.",Spencer,0
+140,2,71,"Oh, that's okay, we can just share mine.",Teddy,0
+141,2,72,Is that okay?,Teddy,0
+142,2,73,Perfect.,Spencer,0
+143,2,74,"Good, Cause I'm all about the learnin'.",Teddy,0
+144,2,75,Let me just grab a pencil.,Spencer,0
+145,2,76,"Oh yeah, I might have one.",Teddy,0
+146,2,77,I think I left my pencils at school.,Teddy,0
+147,2,78,Me too.,Spencer,0
+148,2,79,Ladies and gentlemen!,PJ,0
+149,2,80,PJ and the Vibe!,PJ,0
+150,2,81,"Wow, sounds like you live right next door to that weird PJ kid.",Spencer,0
+151,2,82,Hmm.,Teddy,0
+152,2,83,"Yeah, he's not next door.",Teddy,0
+153,2,84,He's downstairs And he's my brother.,Teddy,1
+154,2,85,Oh!,Spencer,0
+155,2,86,"oh, I'm I'm sorry.",Spencer,0
+156,2,87,"Yeah, me too.",Teddy,0
+157,3,0,Wait wait wait!,PJ,0
+158,3,1,stop stop!,PJ,0
+159,3,2,"Emmett, you were supposed to open with the b*at.",PJ,0
+160,3,3,"Dude, I'm percussion, Let me 'percush'!",Emmett,0
+161,3,4,"For crying out loud, guys!",Teddy,0
+162,3,5,What's up?,Emmett,0
+163,3,6,Can you please turn it down?,Teddy,0
+164,3,7,We're trying to study.,Teddy,0
+165,3,8,"No can do, sis.",PJ,0
+166,3,9,There's only one level in rock 'n' roll.,PJ,0
+167,3,10,And that is loud!,PJ,0
+168,3,11,Whoa whoa.,Emmett,0
+169,3,12,I think we can accommodate your little sister.,Emmett,0
+170,3,13,"Excuse me, But the band is called PJ and the vibe.",PJ,0
+171,3,14,"So what, the Vibe doesn't get a say?",Emmett,0
+172,3,15,I I'm the vibe.,Emmett,0
+173,3,16,"Yeah, I got that.",Teddy,0
+174,3,17,"Oh, so you got my vibe, huh?",Emmett,0
+175,3,18,I'm gonna be over here.,Emmett,0
+176,3,19,Turn it down now.,Teddy,0
+177,3,20,You will not censor my art.,PJ,0
+178,3,21,I will not be silent!,PJ,0
+179,3,22,hey!,PJ,0
+180,3,23,"If I have come down here again, this gets plugged into somewhere else Okay?",Teddy,0
+181,3,24,"Yo, who's she up there studying with anyway?",Emmett,0
+182,3,25,Is there a second fine lady in the house?,Emmett,0
+183,3,26,Some guy she's totally into.,PJ,0
+184,3,27,I can't believe she's cheating on me.,Emmett,0
+185,3,28,She's not cheating on you.,PJ,0
+186,3,29,She barely knows you exist.,PJ,0
+187,3,30,"No, see, our relationship is just developing slowly.",Emmett,0
+188,3,31,"No, there is no relationship.",PJ,0
+189,3,32,"Yes, there is.",Emmett,0
+190,3,33,"No, it's all in your head!",PJ,0
+191,3,34,"no, it's not, 'cause even my mum know about it Now then, where were we?",Emmett,1
+192,4,0,"You know, actually, I think you were a little bit closer.",Teddy,0
+193,4,1,All right cellular respiration.,Teddy,0
+194,4,2,Do you mind?,Spencer,0
+195,4,3,not at all.,Teddy,0
+196,4,4,While we're at it ,Teddy,0
+197,4,5,What are you doing?,Gabe,0
+198,4,6,Oh!,Teddy,0
+199,4,7,gabe!,Teddy,0
+200,4,8,What do you want?,Teddy,0
+201,4,9,Dinner!,Gabe,0
+202,4,10,Nobody's fed me all day!,Gabe,0
+203,4,11,"And I am still part of this family, right?",Gabe,0
+204,4,12,There's a half-eaten sandwich in the fridge Knock yourself out.,Teddy,0
+205,4,13,All right.,Teddy,0
+206,4,14,Now my brothers are all taken care of.,Teddy,0
+207,4,15,Good.,Teddy,0
+208,4,16,And there will be no more interruptions.,Teddy,0
+209,4,17,Teddy!,Bob,0
+210,4,18,"Oh, god!",Teddy,0
+211,4,19,What do you want?,Teddy,0
+212,4,20,I need you to watch the baby for a sec.,Bob,0
+213,4,21,No!,Teddy,0
+214,4,22,No!,Spencer,0
+215,4,23,Nobody tells mom!,Bob,0
+216,4,24,"Come here, Charlie.",Teddy,0
+217,4,25,"Oh, yes.",Teddy,0
+218,4,26,Charlie's fine.,Teddy,0
+219,4,27,Ooh!,Bob,0
+220,4,28,But I'm not.,Bob,0
+221,4,29,"Uh, Teddy, Tell PJ to fire up the bug truck, I think I gotta go to the hospital.",Bob,0
+222,4,30,"Oh, and Teddy, you're gonna have to watch the baby.",Bob,0
+223,4,31,No!,Teddy,0
+224,4,32,Okay.,Teddy,0
+225,5,0,"Relax, be the hospital in 10 mintues Okay, just please please hurry.",PJ,0
+226,5,1,"Oh, wow!",Bob,0
+227,5,2,My butt is on fire!,Bob,0
+228,5,3,That is so weird!,PJ,0
+229,5,4,"Last week, Emmett and I wrote a song With that exact same title.",PJ,0
+230,5,5,"That's great, son.",Bob,0
+231,5,6,just please don't sing -,Bob,0
+232,5,7,My butt is on fire!?,PJ,0
+233,5,8,Stop it.,Bob,0
+234,5,9,It's the size of a tire!,PJ,0
+235,5,10,Stop it!,Bob,0
+236,5,11,Punch buggy!,PJ,0
+237,5,12,Ow!,Bob,0
+238,5,13,What are you doing?!,Bob,0
+239,5,14,"Could you drive, please?!",Bob,0
+240,5,15,"Hey, you want to play license plate game?",PJ,0
+241,5,16,No!,Bob,0
+242,5,17,Michigan.,PJ,0
+243,6,0,Maybe I should go.,Spencer,0
+244,6,1,no!,Teddy,0
+245,6,2,"Um, she's almost done with bottle And then she'll go right to sleep.",Teddy,0
+246,6,3,Then we can studly I mean study.,Teddy,0
+247,6,4,"Now, uh, where were we?",Teddy,0
+248,6,5,Okay.,Spencer,0
+249,6,6,Yeah.,Teddy,0
+250,6,7,What is cellular respiration?,Spencer,0
+251,6,8,"That's when glucose and other compounds oxidize to produce chemical energy, - water and carbon dioxide.",Teddy,0
+252,6,9,Mm-hmm.,Charlie,0
+253,6,10,Also known as poop.,Teddy,0
+254,7,0,"Oh, boy.",Bob,0
+255,7,1,"Hang in there, dad.",PJ,0
+256,7,2,Wow!,Bob,0
+257,7,3,Butt fire spreading.,Bob,0
+258,7,4,Where's the doctor?,Bob,0
+259,7,5,I'll go see.,PJ,0
+260,7,6,"Okay, wait wait wait.",Bob,0
+261,7,7,Wait.,Bob,0
+262,7,8,Wait.,Bob,0
+263,7,9,Wait.,Bob,0
+264,7,10,Wait.,Bob,0
+265,7,11,wait.,Bob,0
+266,7,12,"We don't want mom to know we're here, right?",Bob,0
+267,7,13,So please be careful.,Bob,0
+268,7,14,Just try and blend in.,Bob,0
+269,7,15,"Dad, come on.",PJ,0
+270,7,16,It's hard for this to blend in.,PJ,0
+271,7,17,Just figure something out.,Bob,0
+272,7,18,'figure something out.,PJ,0
+273,7,19,' 'figure something out.,PJ,0
+274,7,20,' Mom!,PJ,0
+275,7,21,You're the doctor?,Others,0
+276,7,22,Yes.,PJ,0
+277,7,23,I am.,PJ,0
+278,7,24,I am doctor Shh Chandrasooleewan.,PJ,0
+279,7,25,Are you Indian?,Others,0
+280,7,26,We prefer to be called Native American.,PJ,1
+281,7,27,Are you sure you're a real doctor?,Others,0
+282,7,28,You look kinda young.,Others,0
+283,7,29,You sound like my wife.,PJ,0
+284,7,30,"Okay, uh What seems to be the problem?",PJ,0
+285,7,31,I have a fish hook in my lip!,Others,0
+286,7,32,How'd this happen?,PJ,0
+287,7,33,My dad is not a very good fisherman.,Others,1
+288,7,34,"Hey, mine's not a very good walking-down-the-stairs man.",PJ,1
+289,7,35,So I'm guessing you're a 97-pounder.,PJ,0
+290,8,0,"Hush, little baby Go beddy-bye Teddy wants to kiss a really cute guy.",Teddy,0
+291,8,1,How's it going?,Spencer,0
+292,8,2,"Well, we're getting there.",Teddy,0
+293,8,3,Well well well.,Emmett,0
+294,8,4,What have we here?,Emmett,0
+295,8,5,"Emmett, why are you still here?",Teddy,0
+296,8,6,"Well, I was looking for the kitchen, But I seem to have stumbled upon the ballroom.",Emmett,0
+297,8,7,hello?,Teddy,0
+298,8,8,"Teddy, it's Mrs Dabney from next door.",Dabney,0
+299,8,9,"No, I have not seen your cat.",Teddy,0
+300,8,10,I'm calling about your brother; He's eating me out of house and home Gabe!,Dabney,0
+301,8,11,Step away from the pie!,Dabney,0
+302,8,12,"Okay, I'll be right there.",Teddy,0
+303,8,13,All right.,Teddy,0
+304,8,14,"spencer, I'll be back in like two minutes.",Teddy,0
+305,8,15,Don't go anywhere.,Teddy,0
+306,8,16,"emmett, go somewhere.",Teddy,0
+307,8,17,So what do you think you're doing with my girlfriend?,Emmett,0
+308,8,18,"She's not your girlfriend Okay, maybe me and you need to step outside So you can walk me to my bike.",Spencer,1
+309,9,0,You here to give me my sponge bath?,Others,0
+310,9,1,PJ?,Amy,0
+311,9,2,"Hey, mom.",PJ,0
+312,9,3,What are you doing here?,Amy,0
+313,9,4,I'll tell you what I'm not doing here Giving sponge baths to big hairy guys.,PJ,0
+314,9,5,"So, mom, what's what's the happs?",PJ,0
+315,9,6,"What's Hey, honey!",Bob,0
+316,9,7,Bob!,Amy,0
+317,9,8,"Nice work, son.",Bob,0
+318,9,9,"Okay, what's going on here?",Amy,0
+319,9,10,Dad fell down the stairs and broke his butt.,PJ,0
+320,9,11,"You weren't holding the baby, were you?",Amy,0
+321,9,12,"Um, yes Then no, then yes again.",Bob,1
+322,9,13,"Bob, you promised me you weren't gonna drop this one!",Amy,1
+323,9,14,"Honey, look, it was just a little accident.",Bob,0
+324,9,15,"Oh, and by the way, for the record an amazing catch!",Bob,0
+325,9,16,I knew this was a huge mistake.,Amy,0
+326,9,17,I never should've gone back to work.,Amy,0
+327,9,18,"Sweetheart, this is all gonna be okay.",Bob,0
+328,9,19,No.,Amy,0
+329,9,20,"no, it's not.",Amy,0
+330,9,21,It's too hard.,Amy,0
+331,9,22,I can't do this.,Amy,0
+332,9,23,"I mean, what made me think I could go back to work full time and take care of four kids?",Amy,0
+333,9,24,I'm a terrible mother.,Amy,0
+334,9,25,"No no, you're not.",Bob,0
+335,9,26,"Look, if anything, I'm a horrible father.",Bob,0
+336,9,27,I know!,Amy,1
+337,9,28,Would you guys chill?,PJ,0
+338,9,29,You're great parents.,PJ,0
+339,9,30,"Teddy, gabe and me turned out pretty good.",PJ,0
+340,9,31,"Yeah, come on.",Bob,0
+341,9,32,We've got to be doing something right.,Bob,0
+342,9,33,"I mean, hey, look at this our son's a doctor.",Bob,0
+343,9,34,I'm serious.,Amy,0
+344,9,35,"With both of us working, Poor little Charlie doesn't stand a chance.",Amy,0
+345,9,36,"Come on, no one's going solo on this.",PJ,0
+346,9,37,All us kids are gonna help out.,PJ,0
+347,9,38,"And if charlie gets a little messed up along the way, We can all share the blame.",PJ,0
+348,9,39,Dr Chandrasooleewan to the operating room.,PJ,0
+349,9,40,It never ends!,PJ,0
+350,10,0,Gabe!,Dabney,0
+351,10,1,"Sorry about that, Mrs Dabney, but you probably shouldn't let him in.",Teddy,0
+352,10,2,I didn't let him in.,Dabney,0
+353,10,3,He crawled through the cat door.,Dabney,1
+354,10,4,"Gabe, is there something you want to say to Mrs Dabney?",Teddy,0
+355,10,5,Yeah.,Gabe,0
+356,10,6,What are you fixing tomorrow night?,Gabe,0
+357,10,7,The cat door.,Dabney,0
+358,10,8,Gonna make sure it's locked.,Dabney,0
+359,10,9,Okay.,Teddy,0
+360,10,10,I think we're done here.,Teddy,0
+361,10,11,Good night.,Teddy,0
+362,10,12,It is now.,Dabney,0
+363,10,13,"All right, let's go.",Teddy,0
+364,10,14,What are you doing?,Teddy,0
+365,10,15,"Oh, so now you're suddenly - interested in me?",Gabe,0
+366,10,16,"gabe, you're my little brother.",Teddy,0
+367,10,17,I've never been interested in you.,Teddy,0
+368,10,18,I'm kidding.,Teddy,0
+369,10,19,What's going on?,Teddy,0
+370,10,20,"Ever since the baby arrived, Everyone's been ignoring me.",Gabe,0
+371,10,21,I feel like I'm invisible.,Gabe,0
+372,10,22,I'm just the loser middle kid Like you.,Gabe,0
+373,10,23,Just because I'm a middle kid doesn't make me a loser.,Teddy,0
+374,10,24,Then what does make you a loser?,Gabe,0
+375,10,25,I am not a loser.,Teddy,0
+376,10,26,Okay?,Teddy,0
+377,10,27,And I was a baby once.,Teddy,0
+378,10,28,And then you came along.,Teddy,0
+379,10,29,And I was not happy about it.,Teddy,0
+380,10,30,"But then you peed on PJ and I thought, 'Hey, give the kid a sh*t.' Look, someday you're gonna feel the same way a bout Charlie that I feel about you.",Teddy,0
+381,10,31,"Well, how do you feel about me?",Gabe,0
+382,10,32,"Let's put it this way The hottest guy in school is at our house right now, And I'm here with you.",Teddy,0
+383,10,33,Look how cute she is.,Teddy,0
+384,10,34,I am warming up to her already!,Gabe,0
+385,11,0,"Okay, Charlie's asleep, Gabe's playing a video game And we are finally alone.",Teddy,0
+386,11,1,"Hey, everybody!",Bob,0
+387,11,2,I have a bruised coccyx.,Bob,0
+388,11,3,"Oh, come on!",Bob,0
+389,11,4,That's a funny word.,Bob,0
+390,11,5,Coccyx!,Bob,0
+391,11,6,The doctor gave him pain medication.,PJ,0
+392,11,7,Was that me?,Bob,0
+393,11,8,Sorry.,Bob,0
+394,11,9,I'm a little numb down there.,Bob,0
+395,11,10,"Uh, actually, that's my ride.",Spencer,0
+396,11,11,Of course it is.,Teddy,0
+397,11,12,"It's good to meet you, son.",Bob,0
+398,11,13,"Oh, good night, sweetheart.",Bob,0
+399,11,14,"Good night, sir.",Spencer,0
+400,11,15,Good night.,Spencer,0
+401,11,16,Good night.,Teddy,0
+402,11,17,Coccyx!,Bob,0
+403,12,0,So that's how dad got my first kiss And how you flew for the first time.,Teddy,0
+404,12,1,"But the good news is Nah, there is no good news.",Teddy,1
+405,12,2,I take that back!,Teddy,0
+406,12,3,It's a text from spencer!,Teddy,0
+407,12,4,He wants to hang out with me tomorrow night At his house!,Teddy,0
+408,12,5,Oh!,Teddy,0
+409,12,6,I've gotta go wash your puke out of my jacket.,Teddy,0
+410,12,7,"Oh, and, uh, one more thing When you're my age and you meet a cute boy, Do not, under any circumstances, ever ever bring him home.",Teddy,0
+411,12,8,"Cause if you do, well Good luck, Charlie.",Teddy,0
+412,13,0,"Oh, that's wonderful.",Others,0
+413,13,1,Thank you so much for doing this.,Others,0
+414,13,2,"Hey, if I can't be there for my patients, What kind of pretend doctor am I?",PJ,0
+415,13,3,"So, uh, do you ever think about shaving Like, everywhere?",PJ,0
+416,13,4,I did last week.,Others,1

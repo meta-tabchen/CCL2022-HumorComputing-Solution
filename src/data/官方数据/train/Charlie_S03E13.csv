@@ -1,0 +1,341 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+14062,1,0,"Okay, everybody.",Amy,0
+14063,1,1,Listen up.,Amy,0
+14064,1,2,Big announcement.,Amy,0
+14065,1,3,Maternity leave is over and I'm headed back to work at the hospital.,Amy,0
+14066,1,4,"Can you take Toby with you? Honey, I think we've been over this.",Charlie,1
+14067,1,5,"Is that a yes? All right, you two are gonna take care of the little ones on Saturday.",Charlie,1
+14068,1,6,"Teddy, you get Toby.",Amy,0
+14069,1,7,"Aw, why can't I have Toby? Remember what happened the last time I put you in charge of a baby? Man, you lose one kid.",PJ,0
+14070,1,8,You get labeled for life.,PJ,0
+14071,1,9,You and Gabe can take care of Charlie.,Amy,0
+14072,1,10,What about Dad? Or don't you trust old butterfingers? Man.,Gabe,0
+14073,1,11,You drop two babies I just remembered I have the student UN on Saturday.,Teddy,0
+14074,1,12,It's at noon.,Teddy,0
+14075,1,13,"Oh, that's not a problem.",Bob,0
+14076,1,14,I only work half a day.,Bob,0
+14077,1,15,"You know what? I'll meet you at the high school, we'll do a Toby hand off.",Bob,0
+14078,1,16,"Great, then we're all set.",Amy,0
+14079,1,17,"Wow, mom.",Gabe,0
+14080,1,18,"Now that you're going back to work I guess this is our last Amy Duncan home cooked breakfast, huh? I'm afraid so, honey.",Gabe,0
+14081,1,19,( Silently ) I know what you're all doing.,Amy,0
+14082,2,0,There he is.,Teddy,0
+14083,2,1,Mr.Victor Deleseur.,Teddy,0
+14084,2,2,Two-time winner of the South High student U.N.,Teddy,0
+14085,2,3,Three-time.,Others,0
+14086,2,4,"Hello, Teddy.",Others,0
+14087,2,5,"Why'd you want to see me? Well, I was saddened to hear that you and Victoria broke up.",Teddy,0
+14088,2,6,She said I wasn't romantic enough.,Others,0
+14089,2,7,Which is totally untrue.,Others,0
+14090,2,8,I did an algorithm which proved my romanticism is above average.,Others,1
+14091,2,9,"Anyway, um Since you and Victoria are no longer together I Uh, stop.",Teddy,0
+14092,2,10,"Before you get your hopes up, I'm not ready to start another relationship.",Others,0
+14093,2,11,It's too soon.,Others,0
+14094,2,12,"Really? Okay, um Give me a moment to regroup Done.",Teddy,0
+14095,2,13,"Anyways, um I was wondering if you actually wanted to be my partner for the student U.N.",Teddy,0
+14096,2,14,"Ah, so you'd like to win the award you lose every year.",Others,0
+14097,2,15,"Well, that's not all of it.",Teddy,0
+14098,2,16,"Because the award will look good on your college applications, and help you get into a better school.",Others,0
+14099,2,17,Yeah.,Teddy,0
+14100,2,18,That's all of it.,Teddy,0
+14101,3,0,Amy: Attention everyone.,Others,0
+14102,3,1,"I'm back! Yeah! - ( Applause ) - ( Laughs ) Thank you, thank you, thank you.",Amy,0
+14103,3,2,You guys can go pick up that corpse now.,Amy,0
+14104,3,3,Oh! Karen.,Amy,0
+14105,3,4,"Hello, Duncan.",Others,0
+14106,3,5,Hi.,Amy,0
+14107,3,6,I thought you gave up nursing after you got married.,Amy,0
+14108,3,7,"Yeah, well, I'm not married any more.",Others,0
+14109,3,8,"He said I was loud and bossy, I think he has commitment issues.",Others,0
+14110,3,9,"Well, it's, uh Nice to see you again.",Others,0
+14111,3,10,"Is it, Duncan? Is it? Because I remember what happened the last time we were in this room together.",Others,0
+14112,3,11,Do you? I believe I resigned due to a temporary misunderstanding.,Amy,0
+14113,3,12,"You popped one of these saline bags and squirted it in my face! Tomato, to-mah-to.",Amy,0
+14114,3,13,"I'm keeping my eye on you, Duncan.",Others,0
+14115,3,14,I've had a lot of problems with nurses returning from maternity leave.,Others,0
+14116,3,15,You're not gonna be all like 'wah wah wah I miss my baby.,Others,0
+14117,3,16,' Are you? Of course not.,Amy,0
+14118,3,17,Good.,Others,0
+14119,3,18,I'm gonna be all 'wah wah wah I can't believe I have to work with you again.,Amy,1
+14120,4,0,"' ( Chuckles ) Now, here is our presentation.",Teddy,0
+14121,4,1,"And since we're Italy, I decided to draw a nice little map of our nation on the cover.",Teddy,0
+14122,4,2,"Oh, good.",Others,0
+14123,4,3,That's Italy.,Others,0
+14124,4,4,I was afraid you were drawing some boots that you wanted.,Others,1
+14125,4,5,"Look, I don't draw boots.",Teddy,0
+14126,4,6,I'm not that shallow.,Teddy,0
+14127,4,7,Okay.,Others,0
+14128,4,8,All right.,Teddy,0
+14129,4,9,Let's go.,Teddy,0
+14130,4,10,Why are you taking the baby? Don't worry.,Others,0
+14131,4,11,My Dad's gonna meet me at school and we're gonna do a hand off.,Teddy,0
+14132,4,12,Like in football.,Teddy,0
+14133,4,13,"Anyway, it'll be fine.",Teddy,0
+14134,4,14,"Toby's such a sweet little boy, we won't even know he's there.",Teddy,0
+14135,4,15,( Crying ) Hush little baby don't say a word.,Teddy,0
+14136,4,16,Why are you singing? The child is obviously in distress.,Others,0
+14137,4,17,Papa's gonna buy you a mockingbird.,Teddy,0
+14138,4,18,( Cooing ) - See? - ( Chuckles ) Amazing.,Others,0
+14139,4,19,Lullabies were forbidden in my house.,Others,0
+14140,4,20,My mother would only allow me to listen to 18th century Italian operas.,Others,0
+14141,4,21,"Oh, so that's why you turned out to be The way that you are.",Teddy,1
+14142,5,0,'You've been arrested by a Sheriff Kitty.,PJ,0
+14143,5,1,Go to the dog pound.,PJ,0
+14144,5,2,' I don't get it.,PJ,0
+14145,5,3,The game's called 'puppy town'.,PJ,0
+14146,5,4,But the Sheriff's a cat? Okay.,PJ,0
+14147,5,5,Ah.,PJ,0
+14148,5,6,"You win again, Charlie.",PJ,0
+14149,5,7,The 10th straight time.,PJ,0
+14150,5,8,Play again? - No no no no no no.,Charlie,0
+14151,5,9,No more 'puppy town.,PJ,0
+14152,5,10,' I'm all I'm all puppied out.,PJ,0
+14153,5,11,Let's do something else.,PJ,0
+14154,5,12,Want to read a book? Okay.,PJ,0
+14155,5,13,'Return to puppy town.,PJ,0
+14156,5,14,' ( Cellphone ringing ) My phone's upstairs.,PJ,0
+14157,5,15,Hang on.,PJ,0
+14158,5,16,Gabe? It's your turn to watch Charlie.,PJ,0
+14159,5,17,Gabe: Just a minute! What'd you say? Eh.,Gabe,0
+14160,6,0,"Charlie? Did you run away? Because if you did, I don't blame you.",Dabney,1
+14161,6,1,"Want to play? Oh, 'puppy town,' huh? I used to play with my son Rodney.",Dabney,0
+14162,6,2,"I have to warn you, I'm pretty good.",Dabney,0
+14163,6,3,Me too.,Charlie,0
+14164,6,4,"Okay, hotshot.",Dabney,0
+14165,7,0,"And this is my baby, Toby.",Amy,0
+14166,7,1,"Isn't he adorable? Oh, you know what would be adorable? Doing your job! You don't see me going around showing everyone pictures of my plant.",Others,0
+14167,7,2,A plant.,Amy,0
+14168,7,3,How wise of you to get something that can't run away.,Amy,1
+14169,7,4,"Note to self: Take picture of plant, make people look at it.",Others,0
+14170,8,0,"Okay, I'm just going to check your bl*od pressure, Mr.Franklin.",Amy,0
+14171,8,1,You can call me Toby.,Others,0
+14172,8,2,"Oh, Toby.",Amy,0
+14173,8,3,That's my baby's name.,Amy,0
+14174,8,4,"Well, what do you know about that.",Others,0
+14175,8,5,"Today's my first day back at work, and I just miss him so much.",Amy,0
+14176,8,6,"Oh, Toby.",Others,0
+14177,8,7,You're hurting me.,Others,0
+14178,8,8,"Oh, no, sweetie.",Amy,0
+14179,8,9,I would never hurt you.,Amy,0
+14180,8,10,Mama loves you.,Amy,0
+14181,8,11,"Hey, I can't feel my arm.",Others,0
+14182,8,12,What? ( Exhales ) I'm sorry.,Amy,0
+14183,8,13,"I'm sorry, Mr.",Amy,0
+14184,8,14,Franklin.,Amy,0
+14185,8,15,I'm just having a little trouble focusing today.,Amy,0
+14186,8,16,"That's okay, dear.",Others,0
+14187,8,17,"You work in a hospital, no need to focus on your job.",Others,1
+14188,8,18,Thank you for understanding.,Amy,0
+14189,9,0,What you reading? 'Return to puppy town.,PJ,0
+14190,9,1,"' You know, I can't get past Sheriff Kitty.",Gabe,0
+14191,9,2,"I mean, why would dogs obey a cat? Thank you.",Gabe,0
+14192,9,3,Okay.,Gabe,0
+14193,9,4,"So, where's Charlie? ( Chuckles ) That's funny.",Gabe,0
+14194,9,5,I'll do it.,PJ,0
+14195,9,6,"'So, where's Charlie?' ( Chuckles ) I thought she was with you.",PJ,0
+14196,9,7,'I thought she was with you.,Gabe,0
+14197,9,8,"' ( Laughs ) Dude, why are you laughing? Because you're pretending you don't know where Charlie is.",Gabe,0
+14198,9,9,I don't know where Charlie is! What? - This is suddenly not funny.,PJ,0
+14199,9,10,You think? We got to find her.,Gabe,0
+14200,9,11,"Uh, Charlie? - Charlie? - Charlie? Hey, guys.",Gabe,0
+14201,9,12,"Hey, Dad.",PJ,0
+14202,9,13,What are you doing? Uh Playing hide-and-go-seek with Charlie.,Gabe,0
+14203,9,14,Yeah.,PJ,0
+14204,9,15,She's very good.,PJ,0
+14205,9,16,You want to help us look? - She could be anywhere in the house.,Bob,0
+14206,9,17,Or outside.,Gabe,1
+14207,9,18,The rules were kind of vague.,Gabe,0
+14208,9,19,Yeah.,PJ,0
+14209,9,20,"Oh, hey.",Bob,0
+14210,9,21,Here's an idea.,Bob,0
+14211,9,22,Why don't you guys go next door and look in Mrs.Dabney's house.,Bob,0
+14212,9,23,"Do you want to know why I think you should go over and look there? Because you're not very good at this game? No, because Mrs.",Bob,0
+14213,9,24,Dabney called me an hour ago to tell me that Charlie had gone over there.,Bob,1
+14214,9,25,All by herself.,Bob,0
+14215,9,26,Oh.,PJ,0
+14216,9,27,"So A little moment of panic, but a happy ending, huh, Dad? Go get her.",PJ,1
+14217,9,28,"Oh, and when you guys come back we're having a little talk.",Bob,0
+14218,9,29,"( Door closes ) Sheriff Kitty? Well, that doesn't make any sense.",Bob,0
+14219,10,0,Victor.,Others,0
+14220,10,1,Victoria.,Others,0
+14221,10,2,This is who you're partnered with? Victoria: Teddy Duncan? She's academically inferior.,Others,0
+14222,10,3,"She's not inferior, she's marginal.",Others,1
+14223,10,4,"Sitting right here, guys.",Teddy,0
+14224,10,5,"Now, if you'll excuse me, I'm going to lead Norway to victory.",Others,0
+14225,10,6,Of course she would be Norway.,Others,0
+14226,10,7,"Cold, isolated, yet irresistible.",Others,0
+14227,10,8,"( Cellphone ringing ) Dad, where are you? What? Oh, man.",Teddy,0
+14228,10,9,Okay.,Teddy,0
+14229,10,10,"Yeah, okay.",Teddy,0
+14230,10,11,Just get here as fast as you can.,Teddy,0
+14231,10,12,"Okay, bye.",Teddy,0
+14232,10,13,Bad news.,Teddy,0
+14233,10,14,"Um, my Dad is running late, so we're kind of stuck with the baby for a little while.",Teddy,0
+14234,10,15,What? We can't give our presentation with a baby.,Others,0
+14235,10,16,"Okay, relax.",Teddy,0
+14236,10,17,No one will even know he's here.,Teddy,0
+14237,10,18,"Yeah, unless they have a sense of smell.",Others,0
+14238,10,19,"Man, Toby.",Teddy,0
+14239,10,20,"Again? All right, let me change you.",Teddy,0
+14240,10,21,"Really? Right here? This is highly inappro Victor, are you okay? Victor: Fine.",Others,0
+14241,10,22,Just gonna stay down here for a minute.,Others,0
+14242,10,23,Probably not a good idea.,Teddy,0
+14243,11,0,"Welcome to the 14th annual, South High student united nations competition.",Others,0
+14244,11,1,As I always say at this juncture Game on.,Others,0
+14245,11,2,"Yes, the chair recognizes the delegate from Norway.",Others,0
+14246,11,3,"Thank you, Mr.",Others,0
+14247,11,4,Chairman.,Others,0
+14248,11,5,I would like to protest the fact that the Italian delegation appears to consist of three people.,Others,0
+14249,11,6,The maximum allowed is two.,Others,0
+14250,11,7,"Italy, care to rebut? Um, the third person is a baby.",Others,0
+14251,11,8,A baby is a human being.,Others,0
+14252,11,9,( Chuckles ) Italy has admitted to breaking the rules and should be dismissed from the proceedings.,Others,0
+14253,11,10,"Isn't she magnificent? Mr.Chairman, Italy is involved in some family care issues, Italy's father promised to be here, but as we can see he has failed to cross the border.",Teddy,0
+14254,11,11,The chair understands Having dealt with Italy's parents before.,Others,1
+14255,12,0,Double sixes? You win again.,Dabney,0
+14256,12,1,( Doorbell rings ) Set 'em up.,Dabney,0
+14257,12,2,This isn't over.,Dabney,0
+14258,12,3,"Well, it only took you 73 minutes to realize your little sister was missing.",Dabney,1
+14259,12,4,In our defense You got anything? - Nope.,PJ,0
+14260,12,5,Oh.,PJ,0
+14261,12,6,"Charlie, there you are.",PJ,0
+14262,12,7,"Oh, playing 'puppy town,' huh? - How you doing? - It's about even.",PJ,0
+14263,12,8,"No, it's not.",Charlie,0
+14264,12,9,I let her win.,Dabney,0
+14265,12,10,She said bad words.,Charlie,1
+14266,12,11,( Gasps ) Just take her and get out.,Dabney,0
+14267,13,0,Pa: Dr.Elliot to ICU.,Others,0
+14268,13,1,Dr.Elliot to ICU.,Others,0
+14269,13,2,"Charlie's voice over pa: Mommy, I see you.",Charlie,0
+14270,13,3,"Mommy, I see you.",Charlie,0
+14271,13,4,"Charlie? Charlie, is that you? Who are you talking to? Um, no one.",Amy,0
+14272,13,5,Dr.Napier's looking for you.,Others,0
+14273,13,6,"Oh, and tomorrow, you're working a double.",Others,0
+14274,13,7,"Good for you, Karen.",Others,0
+14275,13,8,Way to take the reins.,Others,0
+14276,13,9,Dr.,Amy,0
+14277,13,10,"Napier, you wanted to see me? Yes, I want you to come home, mommy.",Amy,0
+14278,13,11,"Uh, excuse me? I miss you, mommy.",Amy,0
+14279,13,12,You do? Can I have a hug? Of course you can.,Amy,0
+14280,13,13,Ohh.,Others,0
+14281,14,0,"What are you doing, Duncan? And that is why Norway believes that the most important problem facing the world today is debt.",Others,0
+14282,14,1,Thank you.,Others,0
+14283,14,2,We will now hear from the Italian delegation.,Others,0
+14284,14,3,"Thank you, Mr.",Others,0
+14285,14,4,Chairman.,Others,0
+14286,14,5,Italy believes the most important issue facing the world today is the environment.,Others,0
+14287,14,6,( Crying ) Just keep going.,Toby,0
+14288,14,7,As I was saying ( Crying continues ) Do something.,Others,0
+14289,14,8,Make him be quiet.,Others,0
+14290,14,9,Only singing will do that.,Teddy,0
+14291,14,10,"What are we supposed to do, sing the presentation? Italy, we're waiting.",Others,0
+14292,14,11,"Yeah, that's a great idea.",Others,0
+14293,14,12,Just sing it.,Teddy,0
+14294,14,13,But I - Sing.,Others,0
+14295,14,14,The snow caps are melting.,Others,0
+14296,14,15,From all the pollution.,Teddy,0
+14297,14,16,"Our alps, they need helping.",Others,0
+14298,14,17,There is a solution.,Teddy,0
+14299,14,18,"We will go, we will go, we will go.",Others,0
+14300,14,19,To hand our resolution in.,Teddy,0
+14301,14,20,"So You will know, you will know, you will know.",Others,0
+14302,14,21,"It's a fight, we truly can win.",Teddy,0
+14303,15,0,"( Applause ) All right, I just put Charlie down for her nap, so let's talk.",Bob,0
+14304,15,1,"How could you two be so irresponsible? Dad, before we get into that, we made you a little something.",Bob,0
+14305,15,2,"Oh, sweet Mama, is that a chicken Bob-pie? Mm-hmm.",Bob,0
+14306,15,3,"Stuffed with cheddar cheese, mini hot dogs, and onion rings.",PJ,0
+14307,15,4,And love.,Gabe,0
+14308,15,5,No.,Bob,0
+14309,15,6,No.,Bob,0
+14310,15,7,"Look, guys, bribery is not gonna work.",Bob,0
+14311,15,8,I'm very disappointed in you two.,Bob,0
+14312,15,9,"Now, I can't do everything around here.",Bob,0
+14313,15,10,"I was supposed to be over at the high school to pick up Toby, but now I gotta deal with this.",Bob,0
+14314,15,11,"We're sorry, Dad.",PJ,0
+14315,15,12,I just can't believe you would let Charlie walk right out that door.,Bob,0
+14316,15,13,"Dad, we won't let it happen again.",Gabe,0
+14317,15,14,Good.,Bob,0
+14318,15,15,"Now if we're done, I believe there was a pie mentioned.",Bob,1
+14319,16,0,And now the exciting moment that we've all been waiting for The winner of the 14th annual South High student U.N.,Others,0
+14320,16,1,"competition is Oh, my goodness.",Others,0
+14321,16,2,Italy.,Others,0
+14322,16,3,Yes! We won! Victor? I didn't know you could sing like that.,Teddy,0
+14323,16,4,It was so romantic.,Others,0
+14324,16,5,"Does this mean you want me back? - Is 64 the square root of - Both: 4,096? Oh, darling.",Others,0
+14325,16,6,"Congratulations, Italy.",Others,0
+14326,16,7,"Wow, um You know, I'd like to thank the little people.",Teddy,0
+14327,16,8,"And by little people, I mean Toby.",Teddy,1
+14328,16,9,"( Chuckles ) Love you, bro.",Teddy,1
+14329,17,0,"Hey, guys.",Amy,0
+14330,17,1,"Hey, mom.",PJ,0
+14331,17,2,"What are you doing home from work so early? Oh, I had a terrible day.",PJ,0
+14332,17,3,I kept having these crazy hallucinations about Toby and Charlie.,Amy,0
+14333,17,4,"In fact, they're still going on.",Amy,0
+14334,17,5,I thought I just saw Charlie in Mrs.,Amy,0
+14335,17,6,Dabney's window.,Amy,0
+14336,17,7,"Well, that's crazy.",Bob,0
+14337,17,8,( Doorbell rings ) Mommy! Does anyone else see her? She got out again.,Amy,1
+14338,17,9,Some operation you're running here.,Dabney,1
+14339,17,10,But They lost her first! - What?! - He ate three pies.,Bob,0
+14340,17,11,Yeah! - Because you made them for me.,Bob,0
+14341,17,12,"( Overlapping arguing ) Quiet everybody! Pie boy, in the kitchen now! And you two watch your sister.",Amy,0
+14342,17,13,"Honey honey honey, okay, look.",Bob,0
+14343,17,14,I can explain.,Bob,0
+14344,17,15,I know it looks bad.,Bob,0
+14345,17,16,"Bob, I missed the kids so much today.",Amy,0
+14346,17,17,Going back to work is so much harder than I thought.,Amy,0
+14347,17,18,"Honey, it's just the first day.",Bob,0
+14348,17,19,It's gonna get better.,Bob,0
+14349,17,20,I don't know.,Amy,0
+14350,17,21,"Bob, we have two little ones now, and they both need me so much.",Amy,0
+14351,17,22,"I just Look, I know we need the money, but if there's a way I could stay home Okay, all right all right, look, if this is what's best for the family.",Bob,0
+14352,17,23,Then we'll We'll find a way.,Bob,0
+14353,17,24,"Oh, Bob.",Amy,0
+14354,17,25,Okay.,Amy,0
+14355,17,26,Guess I'd better go back to the hospital and quit.,Amy,0
+14356,17,27,Can't you do that over the phone? - It's Karen.,Bob,0
+14357,17,28,I should do it in person.,Amy,1
+14358,18,0,"Hello, Karen.",Amy,0
+14359,18,1,Is that for a patient? - Nope.,Others,0
+14360,18,2,You quitting? - Yup.,Amy,0
+14361,18,3,Do I have time to put on my goggles? I recently bought goggles because I had a feeling.,Others,0
+14362,18,4,Nope.,Amy,0
+14363,18,5,"Whoa! Oh! Oh no! Ohh Good for you, Amy.",Amy,0
+14364,18,6,Good for you.,Amy,0
+14365,19,0,"Well, Charlie, it looks like mom's gonna be staying at home for a while.",Teddy,0
+14366,19,1,"And since we got new childproof locks, we are hoping you will be too.",Teddy,0
+14367,19,2,"No, but seriously, it's gonna be really great to have mom at home.",Teddy,0
+14368,19,3,"For you, and for Toby, and yeah, well, for all of us.",Teddy,0
+14369,19,4,( Coughing ) Breakfast is ready.,Amy,1
+14370,19,5,( Coughing ) - ( Smoke alarm beeping ) Better give it a minute.,Amy,1
+14371,19,6,You're gonna be with her for three meals a day.,Teddy,0
+14372,19,7,"( Chuckles ) Good luck, Charlie.",Teddy,0
+14373,20,0,"(Doorbell rings ) Hello, Mrs.",Others,0
+14374,20,1,Duncan.,Others,0
+14375,20,2,I've something I must say.,Others,0
+14376,20,3,"Then let's hear it, Victor.",Amy,0
+14377,20,4,I don't have all day.,Amy,0
+14378,20,5,Since I'm back with Victoria.,Others,0
+14379,20,6,Teddy and I..,Others,0
+14380,20,7,Are no more-ia.,Others,0
+14381,20,8,I think you're mistaken.,Amy,0
+14382,20,9,Teddy's already taken.,Amy,0
+14383,20,10,Hey.,Bob,0
+14384,20,11,What's going on? Honey don't you know? We're singing as..,Bob,0
+14385,20,12,We go.,Amy,0
+14386,20,13,But I can't sing.,Bob,0
+14387,20,14,You must.,Amy,0
+14388,20,15,You must.,Others,0
+14389,20,16,You must.,Amy,0
+14390,20,17,You must.,Others,0
+14391,20,18,Both: You must sing with us.,Amy,0
+14392,20,19,( Meekly ) Mary had a little lamb.,Bob,0
+14393,20,20,Little lamb.,Bob,0
+14394,20,21,Forget it.,Amy,0
+14395,20,22,Forget it.,Amy,0
+14396,20,23,"Yeah, that was terrible.",Others,0
+14397,20,24,( Door opens ) Somebody threw a ball through my window.,Dabney,0
+14398,20,25,Who's gonna fix..,Dabney,0
+14399,20,26,No no no no.,Amy,0
+14400,20,27,We're not doing that any more.,Amy,0
+14401,20,28,Why do I even try with you people? Padding line 1.,Dabney,0

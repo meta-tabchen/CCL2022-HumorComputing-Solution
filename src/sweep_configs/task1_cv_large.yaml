@@ -1,0 +1,23 @@
+program: aml_shell.py
+name: task1_cv_large
+method: bayes
+metric:
+    goal: maximize
+    name: AUC_Value_dev
+parameters:
+  up_num:
+    values: [1,2,4,6,10]
+  down_num:
+    values: [1,2,4,6,10]
+  model_name:
+    values: ["en_deberta_large","en_deberta_v3_large"]
+  lr:
+    values: [1e-5,2e-5,1e-6,5e-6]
+  kf_i:
+    values: [0]
+  output_dir:
+    values: ['model/task1/cv5']
+  batch_size:
+    values: [32]
+  max_len:
+    values: [256]

@@ -1,0 +1,355 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+17259,1,0,"Good morning, everybody.",Teddy,0
+17260,1,1,"Oh, Teddy, there you are.",Amy,0
+17261,1,2,"Look, I am slammed today, so I need you to watch the kids after school.",Amy,0
+17262,1,3,"Oh, mom, I can't.",Teddy,0
+17263,1,4,I have to go to the Mall.,Teddy,0
+17264,1,5,"Ah, ah, ah, ah just stop right there.",Amy,0
+17265,1,6,"For once, can't we just skip this little dance we always do? What dance? You know, the dance where I ask you to watch the kids and you say no.",Amy,0
+17266,1,7,Then I ask the boys and they say they're not responsible or not smart.,Amy,0
+17267,1,8,Then I ask your dad and he pretends not to be listening.,Amy,0
+17268,1,9,And then we're back to you.,Amy,0
+17269,1,10,I really need new shoes.,Teddy,0
+17270,1,11,Boys? ,Amy,0
+17271,1,12,I'm not responsible.,Gabe,0
+17272,1,13,Me not smart.,PJ,0
+17273,1,14,"Bob? I'm sorry, what? And we're back to you.",Amy,0
+17274,1,15,"Fine, I'll go to the Mall and then I'll just come home afterwards.",Teddy,0
+17275,1,16,"What do we at this point in the dance? Oh, you leave, call Ivy, and complain about mom.",Gabe,0
+17276,1,17,You stay and complain about Teddy.,Gabe,0
+17277,1,18,Sounds good.,Teddy,0
+17278,1,19,Works for me.,Amy,0
+17279,1,20,"Ivy, you will not believe what just happened.",Teddy,0
+17280,1,21,New shoes.,Amy,0
+17281,1,22,Can you believe that girl?,Amy,0
+17282,2,0,"Hey, good news, dad.",PJ,0
+17283,2,1,This really cute girl in my cooking class is kind of into me.,PJ,0
+17284,2,2,Really? Yeah.,Bob,0
+17285,2,3,There's definitely been some sparks.,PJ,0
+17286,2,4,And I'm not just talking about the trouble I had with my flambe.,PJ,1
+17287,2,5,"Good for you, PJ.",Bob,0
+17288,2,6,"Yeah, she's coming over tomorrow, and we're gonna cook If you know what I mean.",PJ,0
+17289,2,7,"Ooh, going to get a little romantic, huh? No, we're gonna make chicken.",Bob,0
+17290,2,8,"And when we're done, it'll be time for dessert If you know what I mean.",PJ,0
+17291,2,9,I'm just gonna say I know what you mean.,Bob,0
+17292,2,10,"Anyway, when she comes over, can you not be here? Why can't you just take her to your place? ",PJ,0
+17293,2,11,"No, no, no, no see, the plan is; Make sure she's into me, then show her the apartment.",PJ,0
+17294,2,12,"If she's still in after that, then she meets Emmett.",PJ,0
+17295,2,13,"If she's still in after that Well, that's never happened.",PJ,0
+17296,2,14,What are you doing? Why are you reading? You know you'd rather be watching TV.,Gabe,0
+17297,2,15,Can I Ooh.,Bob,0
+17298,2,16,"Hey, Jake, big problem.",Gabe,0
+17299,2,17,Something's come back to bite us in the butt.,Gabe,0
+17300,3,0,"Hey, Ivy.",Teddy,0
+17301,3,1,I got the shoes.,Teddy,0
+17302,3,2,They're gorgeous.,Teddy,0
+17303,3,3,"Well, yeah, of course they're uncomfortable, I said they're gorgeous.",Teddy,0
+17304,3,4,Unbelievable.,Teddy,0
+17305,3,5,"My mom said she had such a busy day, and now she's at the food court.",Teddy,0
+17306,3,6,Hold I'll call you back.,Teddy,0
+17307,3,7,"Well, fancy seeing you here.",Teddy,0
+17308,3,8,Pardon me? - What's with this ridiculous hat? Aunt Jamie? ,Teddy,0
+17309,3,9,Teddy? ,Others,0
+17310,3,10,Hi.,Teddy,0
+17311,3,11,Hi.,Others,0
+17312,3,12,"Oh, I'm so sorry.",Teddy,0
+17313,3,13,I thought you were my mom.,Teddy,0
+17314,3,14,"Yeah, I get that a lot.",Others,1
+17315,3,15,"So what are you doing in town? - Oh, I'm here on business.",Others,0
+17316,3,16,"Why didn't you call us? Well, Teddy, you know your mother and I aren't exactly on speaking terms.",Others,0
+17317,3,17,Oh.,Teddy,0
+17318,3,18,"How's the rest of the family? Oh, uh, good.",Others,0
+17319,3,19,"Yeah, Toby is getting so cute.",Teddy,0
+17320,3,20,Aw.,Others,0
+17321,3,21,"Who's Toby? Oh, uh, I guess you didn't know.",Teddy,0
+17322,3,22,Mom and dad had another one after Charlie.,Teddy,0
+17323,3,23,Oh.,Others,0
+17324,3,24,Who's Charlie? Does the name Gabe ring a bell? Yes.,Teddy,0
+17325,3,25,Yes.,Others,0
+17326,3,26,That's why I thought they would have stopped.,Others,0
+17327,3,27,"So you're really not gonna tell my mom that you're in town? No! No, no, no, no, no.",Teddy,0
+17328,3,28,"Please, please, please don't say you saw me.",Others,0
+17329,3,29,I just don't want to cause a fuss.,Others,0
+17330,3,30,"Wow, it's hard to believe you're my mom's younger sister.",Teddy,0
+17331,3,31,You guys are so different.,Teddy,0
+17332,3,32,"Jamie, your order is ready.",Others,0
+17333,3,33,Jamie.,Others,0
+17334,3,34,"Oh, I hate it when they do that.",Others,0
+17335,3,35,It draws attention to me.,Others,0
+17336,3,36,So different.,Teddy,0
+17337,4,0,"So what's the big problem, dude? This ad for Hank's market.",Others,0
+17338,4,1,Look.,Gabe,0
+17339,4,2,"Creamed corn, 99 cents? They call that a sale? I'm talking about the baby.",Others,0
+17340,4,3,"Don't you remember what we did last month? Oh, monster truck rally.",Gabe,0
+17341,5,0,"Hey, we've got to go to that.",Gabe,0
+17342,5,1,Oh! - Tickets are 30 bucks each.,Others,0
+17343,5,2,Where are we gonna get that kind of money? Maybe he can help us.,Others,0
+17344,5,3,"That baby's got 60 bucks? Dude, you are blowing my mind.",Others,0
+17345,5,4,The only thing that surprises me about that comment is that you got the math right.,Gabe,1
+17346,5,5,"Anyway, this one time when me and my brother needed some money, we did something kind of Interesting.",Gabe,0
+17347,6,0,"Great news, mom.",Gabe,0
+17348,6,1,I like Charlie now.,Gabe,0
+17349,6,2,"Well, finally.",Amy,0
+17350,6,3,"What happened? We were in the park, and this photographer thought that Charlie was like the cutest baby ever.",PJ,0
+17351,6,4,He offered to pay her 100 bucks to use her as a model.,Pj,0
+17352,6,5,Forget it.,Amy,0
+17353,6,6,I'm not exploiting my baby.,Amy,0
+17354,6,7,I knew we should have done it my way.,Gabe,0
+17355,6,8,"What was your way? We don't tell mom we're doing the photo sh**t, and we go ahead and do it anyway and split the money.",Gabe,0
+17356,6,9,"Boy, that's confusing.",Others,0
+17357,6,10,We were remembering something.,Others,0
+17358,6,11,Then we remembered something else.,Others,0
+17359,6,12,"If my mom and dad find out about this ad, I'll be in big trouble.",Gabe,0
+17360,6,13,They change those ads all the time.,Others,0
+17361,6,14,Tomorrow it'll be some other baby.,Others,0
+17362,6,15,You know what You're probably right.,Gabe,0
+17363,6,16,Your voice used to be really high.,Others,0
+17364,7,0,"I know, right? Good news, everyone.",Others,0
+17365,7,1,I've just learned that your classmate Vanessa is recovering nicely From the oven-mitt incident.,Others,0
+17366,7,2,"Or should I say, the lack-of-oven-mitt incident? The lesson here is that oven mitts should always be worn when grasping hot surfaces.",Others,0
+17367,7,3,And never used as puppets.,Others,0
+17368,7,4,"Right, potty? He's on to us.",Others,0
+17369,7,5,Put me down.,PJ,0
+17370,7,6,Remember The assignment this week is chicken divan with a side dish of your choice.,Others,0
+17371,7,7,You will partner up to cook those.,Others,0
+17372,7,8,"Yes, Chef.",Others,0
+17373,7,9,"Winnie, what am I gonna do? Vanessa was my cooking partner.",PJ,0
+17374,7,10,I don't have a partner either since Ricardo dumped me.,Others,0
+17375,7,11,Hey! Maybe we could team up.,Others,0
+17376,7,12,It'll be divan.,Others,0
+17377,7,13,I don't get it.,PJ,0
+17378,7,14,Neither did Ricardo.,Others,0
+17379,7,15,"So what do you say? Okay, sure.",Others,0
+17380,7,16,Let's work together.,PJ,0
+17381,7,17,You didn't say that very enthusiastically.,Others,0
+17382,7,18,"Oh, I'm sorry.",PJ,0
+17383,7,19,I guess we're still in shock over what happened to Vanessa.,PJ,0
+17384,7,20,Oh.,Others,0
+17385,7,21,"Right, Mitty? Right, Chef.",PJ,0
+17386,7,22,I make him call me Chef.,Pj,0
+17387,7,23,Okay.,Others,0
+17388,8,0,"Hey, Teddy.",Amy,0
+17389,8,1,What you doing? ,Amy,0
+17390,8,2,"Hey, mom.",Teddy,0
+17391,8,3,"Oh, I'm just looking at old photographs.",Teddy,0
+17392,8,4,"Is this you? Oh, no, that's Aunt Jamie.",Amy,0
+17393,8,5,I'm the prettier one over here.,Amy,1
+17394,8,6,"Hey, whatever happened between you and her anyway? Well, if you must know, we had a falling-out.",Teddy,0
+17395,8,7,"What did you do? I I mean, what happened? Well, she was supposed to be the Maid of Honor at my wedding, but she didn't show up.",Amy,0
+17396,8,8,"Why the sudden interest in Jamie? Well, I ran into her at the Mall, and she kind of didn't want you to know.",Teddy,0
+17397,8,9,Typical.,Amy,0
+17398,8,10,"Yeah, typical.",Amy,0
+17399,8,11,She doesn't like me.,Amy,0
+17400,8,12,"Do you know why? Well, it could be oh! You weren't really looking for an answer.",Teddy,0
+17401,8,13,She's always been jealous of me because I'm the one who got married.,Amy,0
+17402,8,14,I'm the one with the happy family.,Amy,0
+17403,8,15,"Amy! I can't find my underpants! They're all dirty! Either do the laundry or wear your bathing suit! What was I saying? Oh, yeah.",Amy,0
+17404,8,16,She's jealous.,Amy,0
+17405,8,17,"You know, mom, as long as she's in town Maybe you should make peace with Aunt Jamie.",Teddy,0
+17406,8,18,Why should I? Because you're sisters.,Teddy,0
+17407,8,19,And? And you have so much and she has so little.,Teddy,0
+17408,8,20,And? And you can prove you're still the prettier one.,Teddy,0
+17409,8,21,Set it up.,Amy,0
+17410,9,0,No ads with Toby's picture in today's paper.,Gabe,0
+17411,9,1,I guess we're good.,,0
+17412,9,2,"Wait, dude, check this out.",Others,0
+17413,9,3,"If today was my birthday, I'd be warm, generous, and have an amazing ability to entertain people.",Others,0
+17414,9,4,Definitely not your birthday.,Gabe,0
+17415,9,5,Hey.,Bob,0
+17416,9,6,"You guys want to give me a hand with the groceries? Oh, no.",Bob,0
+17417,9,7,"Oh, no.",Gabe,0
+17418,9,8,Toby's on the bag.,Gabe,0
+17419,9,9,Secrets from the past are coming back to haunt us.,Others,0
+17420,9,10,I got to go talk to the photographer and shut this thing down.,Gabe,0
+17421,9,11,And you're coming with me.,Gabe,0
+17422,9,12,"Aw, man.",Others,0
+17423,9,13,"Happy Birthday to me, huh? It's not your birthday.",Others,0
+17424,9,14,"Hey! Wow, thanks a lot, guys.",Bob,0
+17425,9,15,Ah! Looks just like Toby.,Bob,0
+17426,10,0,Here she comes.,Amy,0
+17427,10,1,Thank you.,Others,0
+17428,10,2,Amy.,Others,0
+17429,10,3,Jamie.,Amy,0
+17430,10,4,So far so good.,Teddy,0
+17431,10,5,"Right, mom? Jamie, I'm I'm I'm glad you agreed to meet me.",Amy,0
+17432,10,6,Of course.,Others,0
+17433,10,7,Of course.,Others,0
+17434,10,8,It gives me the opportunity to do this.,Others,0
+17435,10,9,Wh I cannot believe you just did that.,Amy,0
+17436,10,10,Uh-huh.,Others,0
+17437,10,11,I went there.,Others,0
+17438,10,12,I buttered you.,Others,0
+17439,10,13,Why are you mad at me? You're the one who didn't show up at my wedding.,Amy,0
+17440,10,14,Because of what you did to me in high school.,Others,0
+17441,10,15,What did I do to you in high school? You stole Bob Diddlebock from me! It always comes back to Bob Diddlebock.,Teddy,0
+17442,10,16,Bob Diddlebock came over to pick me up for a date.,Others,0
+17443,10,17,"And when I went upstairs to get dressed, those two were talking and somebody was flirting.",Others,0
+17444,10,18,"By the time I came out, both of them were gone.",Others,0
+17445,10,19,So it's my fault you're a slow dresser? It was the '80s.,Amy,0
+17446,10,20,I was looking for my leg warmers.,Others,0
+17447,10,21,"Then to make matters worse, she dumps him for Bob Duncan.",Others,0
+17448,10,22,Which means you could have gone back to Bob Diddlebock.,Amy,0
+17449,10,23,"Oh, like Diddles is gonna date me after you.",Others,0
+17450,10,24,"Diddles? Oh, I'm out of here.",Others,0
+17451,10,25,See? Still jealous.,Amy,0
+17452,10,26,"What's your soup today? Hi, I'm Winnie.",Teddy,0
+17453,11,0,I go to cooking school with PJ.,Others,0
+17454,11,1,"Oh, hey, I'm Bob.",Bob,0
+17455,11,2,How are you? Come on in.,Bob,0
+17456,11,3,"Uh, PJ ran to the store.",Bob,0
+17457,11,4,He should be right back.,Bob,0
+17458,11,5,Have a seat.,Bob,0
+17459,11,6,Okay.,Bob,0
+17460,11,7,So You're the girl PJ's been talking about.,Bob,0
+17461,11,8,"He's been talking about me? What was he saying? Was it hurtful? No, on the contrary.",Others,0
+17462,11,9,He was actually kind of excited that you were coming over.,Bob,0
+17463,11,10,"Excited? No, that is not the feedback I usually get.",Others,1
+17464,11,11,I hope I'm not talking out of school when I say that my son is really looking forward to cooking with you.,Bob,0
+17465,11,12,"You know, he even mentioned dessert.",Bob,0
+17466,11,13,I'm getting the feeling that he likes me.,Others,0
+17467,11,14,Are you saying that he likes me? Seems that way to me.,Others,0
+17468,11,15,This is amazing.,Others,0
+17469,11,16,"First, I get into cooking school, and then I get a boyfriend? It's finally happened.",Others,0
+17470,11,17,I am in the zone! I can't handle the zone.,Others,0
+17471,11,18,The zone is freaking me out.,Others,0
+17472,11,19,Huh.,Bob,0
+17473,11,20,"Hey, dad.",PJ,0
+17474,11,21,Isn't Winnie here yet? ,PJ,0
+17475,11,22,She was.,Bob,0
+17476,11,23,She was.,Bob,0
+17477,11,24,And then she wasn't.,Bob,0
+17478,11,25,What happened? I couldn't tell you.,PJ,0
+17479,11,26,"I mean, we were sitting here talking.",Bob,0
+17480,11,27,She seemed nice.,Bob,0
+17481,11,28,She seemed very excited that you liked her.,Bob,0
+17482,11,29,"No, no, dad.",PJ,0
+17483,11,30,"No, no, no.",PJ,0
+17484,11,31,You got the wrong girl.,PJ,0
+17485,11,32,I don't like Winnie.,PJ,0
+17486,11,33,I like Vanessa.,PJ,0
+17487,11,34,Oh.,Bob,0
+17488,12,0,"Mommy, will I always be friends with Teddy? Well, of course you will.",Charlie,0
+17489,12,1,Why wouldn't you be? Because you don't like your sister.,Charlie,0
+17490,12,2,Teddy.,Amy,0
+17491,12,3,"Yes, mom? Really? Okay, to be fair, there's a lot of really good stuff that she forgot to say.",Teddy,0
+17492,12,4,It wasn't that good.,Charlie,0
+17493,12,5,"Well, that's a matter of opinion.",Teddy,0
+17494,12,6,"Look the point is, mom, sisters should get along.",Teddy,0
+17495,12,7,Families are supposed to love each other.,Teddy,0
+17496,12,8,"Isn't that what you always tell us? Using my own words against me, well played.",Amy,1
+17497,12,9,So? So Call up Aunt Jamie.,Amy,0
+17498,12,10,Invite her over.,Amy,0
+17499,12,11,Let's just end this thing once and for all.,Amy,0
+17500,12,12,Family is forever.,Charlie,0
+17501,12,13,"Oh, sure, now you say it.",Teddy,0
+17502,13,0,You again? ,Gabe,0
+17503,13,1,"Hey, we need to talk.",Gabe,0
+17504,13,2,I'm a little busy here.,Others,0
+17505,13,3,It's important.,Gabe,0
+17506,13,4,I could be in big trouble.,Gabe,0
+17507,13,5,"Fine! At least you didn't bring your annoying, redheaded Hello.",Others,0
+17508,13,6,That revolving door was confusing.,Others,0
+17509,13,7,What do you guys want? Hey you got to stop using these pictures.,Gabe,0
+17510,13,8,"No, I don't.",Others,0
+17511,13,9,You signed a legal release.,Others,0
+17512,13,10,I can do whatever I want with those pictures.,Others,0
+17513,13,11,"If you won't do it for us, do it for him.",Gabe,0
+17514,13,12,Look at that sad little face.,Gabe,0
+17515,13,13,I said 'sad'.,Gas,0
+17516,13,14,Work with me.,Gabe,0
+17517,13,15,All right.,Others,0
+17518,13,16,"Normally, I wouldn't do this, but today's my birthday and I'm feeling warm and generous.",Others,0
+17519,13,17,"Also, you're an amazing entertainer.",Others,1
+17520,13,18,I'll get Hank's market to pull all the ads with your brother.,Others,0
+17521,13,19,But there is something I need from you.,Others,0
+17522,14,0,"Good, good.",Others,0
+17523,14,1,Hold it up a little bit more.,Others,0
+17524,14,2,Good.,Others,0
+17525,14,3,"Now you're proud Yeah, but you're not cocky.",Others,0
+17526,14,4,"What is this for again? Dutch Delights, a new line of pastries.",Others,0
+17527,14,5,"Okay, now you, love the pastry a little bit more.",Others,0
+17528,14,6,And you Love the pastry a little less.,Others,0
+17529,14,7,"Do we get to keep these outfits? Hi, Winnie.",Others,0
+17530,15,0,"Oh, hi, PJ.",Others,0
+17531,15,1,Hi.,PJ,0
+17532,15,2,"Listen, I need to talk to you.",PJ,0
+17533,15,3,I need to talk to you too.,Others,0
+17534,15,4,"Oh sorry I ran out yesterday, but your dad told me how you feel.",Others,0
+17535,15,5,"Yeah, right.",PJ,0
+17536,15,6,"Listen, the thing is I Don't speak.",PJ,0
+17537,15,7,What's that? ,Others,0
+17538,15,8,"I said Have you been chopping garlic? Oh, yeah, sorry, um PJ I like you.",Others,0
+17539,15,9,"And you like me, but there can't be an 'us' right now.",Others,0
+17540,15,10,There can't? ,PJ,0
+17541,15,11,No.,Others,0
+17542,15,12,I have another love.,Others,0
+17543,15,13,And his name is food preparation.,Others,1
+17544,15,14,Is he like foreign or - No! I'm talking about my career.,PJ,1
+17545,15,15,"Oh, oh.",PJ,0
+17546,15,16,That's more important to me right now.,Others,0
+17547,15,17,Do you think you can pretend that there's nothing between us? Uh-huh.,Others,0
+17548,15,18,Wow.,Others,0
+17549,15,19,You are so brave.,Others,0
+17550,15,20,"Good news, Chef.",Others,0
+17551,15,21,"You know that That personal problem I was telling you about? Well, we've decided to remain friends.",Others,0
+17552,15,22,I wasn't listening then And I'm not listening now.,Others,0
+17553,16,0,"Thank you for coming over, Aunt Jamie.",Teddy,0
+17554,16,1,My mom has something she'd like to say.,Teddy,0
+17555,16,2,Jamie.,Amy,0
+17556,16,3,I know it couldn't have been easy growing up in the shadows of Amy Blankenhooper.,Amy,0
+17557,16,4,And we're off the tracks already.,Teddy,0
+17558,16,5,Okay.,Amy,0
+17559,16,6,"I admit that, in high school, I was somewhat self-obsessed.",Amy,0
+17560,16,7,High school? ,Teddy,0
+17561,16,8,"Somewhat? Look, what I'm trying to say is I shouldn't have stolen Bob Diddlebock.",Amy,0
+17562,16,9,And I'm sorry.,Amy,0
+17563,16,10,I'm sorry too.,Others,0
+17564,16,11,"I I should have come to your wedding, no matter what.",Others,0
+17565,16,12,Two apologies in the bank.,Teddy,0
+17566,16,13,Now all we're missing is a hug.,Teddy,0
+17567,16,14,Come here.,Amy,0
+17568,16,15,I'm so glad we're friends again.,Amy,0
+17569,16,16,Now I have a surprise for you.,Amy,0
+17570,16,17,I knew it was going too well.,Teddy,0
+17571,16,18,"No, no, no.",Amy,0
+17572,16,19,It's a good surprise.,Amy,0
+17573,16,20,Go look outside.,Amy,0
+17574,16,21,It's Bob Diddlebock! I found him online.,Others,0
+17575,16,22,He was so excited when I told him that you were still single.,Amy,0
+17576,16,23,He's more handsome now than ever.,Others,0
+17577,16,24,He is? Maybe I should just pop out and say hi.,Amy,1
+17578,16,25,I don't think so.,Others,0
+17579,16,26,"So that's the famous Bob Diddlebock, huh? Yeah, he started his own company.",Teddy,0
+17580,16,27,He's worth millions now.,Amy,0
+17581,16,28,"Honey! My bathing suit's dirty! What do I wear now? Not a good time, dad.",Bob,0
+17582,17,0,"Well, Charlie, the great Blankenhooper sister feud is now a thing of the past.",Teddy,0
+17583,17,1,And Aunt Jamie had a great time on her date with Bob Diddlebock.,Teddy,0
+17584,17,2,They went on his private jet.,Teddy,0
+17585,17,3,Don't tell mom.,Teddy,0
+17586,17,4,Excuse me.,Bob,0
+17587,17,5,We're trying to watch a game here.,Bob,0
+17588,17,6,Sorry.,Teddy,0
+17589,17,7,Today's aerial coverage brought to you by the Dutch Delights blimp.,Others,0
+17590,17,8,"What? Hey, check out that blimp.",Bob,0
+17591,17,9,"You know, that look That looks like you and Jake in little Dutch Boy outfits.",Bob,0
+17592,17,10,"Come on, dad.",Gabe,0
+17593,17,11,That's ridiculous.,Gabe,0
+17594,17,12,Get your eyes checked.,Gabe,0
+17595,17,13,"Dude, turn it on channel 4.",Others,0
+17596,17,14,We are famous.,Others,0
+17597,17,15,"I'm not sure what's going on here but, somebody's gonna need some good luck, Charlie.",Teddy,0
+17598,18,0,"Hey, nice job today, Mitty.",PJ,0
+17599,18,1,"Oh, I couldn't have done it without you.",PJ,0
+17600,18,2,That's true.,PJ,0
+17601,18,3,We make a perfect team.,PJ,0
+17602,18,4,"What about me? Oh, hey.",PJ,0
+17603,18,5,What are you doing here? Who's this? I'm Glovey.,PJ,0
+17604,18,6,I cook with him at home.,PJ,0
+17605,18,7,You said you never cook at home.,PJ,0
+17606,18,8,Did I say that? I don't remember saying that.,PJ,0
+17607,18,9,"Well, now that I'm here, you can leave.",PJ,0
+17608,18,10,I'm not going anywhere.,PJ,0
+17609,18,11,"He's mine! No, he's mine.",PJ,0
+17610,18,12,"Guys, guys.",PJ,0
+17611,18,13,I can't take all this fighting.,PJ,0
+17612,18,14,Okay? I'm out of here.,PJ,0

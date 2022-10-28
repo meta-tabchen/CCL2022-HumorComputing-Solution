@@ -1,0 +1,390 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+15784,1,0,The Duncans are back.,Amy,0
+15785,1,1,"Mom, are you gonna keep doing that? You did that on the street, in the driveway Last night in front of the mirror.",Teddy,1
+15786,1,2,That's because the Duncans are back.,Amy,1
+15787,1,3,"Hey, look, Toby.",Bob,0
+15788,1,4,Our old house just like new.,Bob,1
+15789,1,5,Toby's not gonna stay in the hotel? - No.,Charlie,0
+15790,1,6,"Can we talk about it? Hey, guys.",Charlie,1
+15791,1,7,What's wrong with Mrs.,PJ,0
+15792,1,8,Dabney? She's on her porch sobbing.,PJ,0
+15793,1,9,I don't know she started doing that the second we drove up.,Gabe,0
+15794,1,10,Mystery solved.,PJ,1
+15795,1,11,Where's the couch? ,Charlie,0
+15796,1,12,"Oh, Sweetie, don't you remember? It was broken by the bed that fell through the ceiling, that was eaten by termites, that daddy brought into the house.",Amy,0
+15797,1,13,"Um, the house that daddy's job pays for.",Bob,0
+15798,1,14,So long as we're dotting the 'I's.,Bob,1
+15799,1,15,Anyway I already found us a new one.,Amy,0
+15800,1,16,All you have to do is go down to the store tomorrow and pay for it.,Amy,0
+15801,1,17,With the money from your job.,Amy,0
+15802,1,18,A job that brought termites into our home and destroyed it.,Amy,1
+15803,1,19,"As long as you're dotting the 'I's, I'm gonna cross the 'T's.",Amy,1
+15804,2,0,"So how's Boston? - Oh, it's really great.",Teddy,0
+15805,2,1,"You know, I finally made it to a baseball game.",Spencer,0
+15806,2,2,"Oh, at funway park? It's Fenway.",Teddy,1
+15807,2,3,"You know, the truth is I really don't know much about sports.",Teddy,0
+15808,2,4,I know.,Spencer,0
+15809,2,5,I was your boyfriend.,Spencer,0
+15810,2,6,We spent all of our time together.,Spencer,1
+15811,2,7,"Oh, I thought you looked familiar.",Teddy,1
+15812,2,8,Okay.,Teddy,0
+15813,2,9,I guess Toby's done with his breakfast.,Teddy,0
+15814,2,10,Time for a mom hand off.,Teddy,0
+15815,2,11,I'll be right back.,Teddy,0
+15816,2,12,Come here.,Teddy,0
+15817,2,13,"Hey, Mr.",Spencer,0
+15818,2,14,Duncan.,Spencer,0
+15819,2,15,Spencer.,Bob,0
+15820,2,16,Hey.,Bob,0
+15821,2,17,Did you happen to see me? ,Bob,0
+15822,2,18,"Scratching your butt? Yes, Sir.",Spencer,1
+15823,2,19,I did.,Spencer,1
+15824,2,20,Always seem to catch me at an embarrassing moment.,Bob,0
+15825,2,21,Or maybe you just scratch your butt a lot.,Bob,1
+15826,2,22,"Hey, dad.",Teddy,0
+15827,2,23,"Oh hey! Honey, you know what would be a great place to video chat? ",Bob,0
+15828,2,24,Not the kitchen.,Bob,1
+15829,2,25,Okay.,Teddy,0
+15830,2,26,"Now, where were we? So listen, there's something I've been meaning to tell you.",Spencer,0
+15831,2,27,"Yeah, of course.",Teddy,0
+15832,2,28,You can tell me anything.,Teddy,0
+15833,2,29,We're friends.,Teddy,0
+15834,2,30,I have a date tonight.,Spencer,0
+15835,2,31,Oh.,Teddy,0
+15836,2,32,"Well, that's great.",Teddy,0
+15837,2,33,"I mean, we knew this would happen at some point.",Teddy,0
+15838,2,34,And you're okay? ,Spencer,0
+15839,2,35,Yeah.,Teddy,0
+15840,2,36,Of course.,Teddy,0
+15841,2,37,Tell me about her.,Teddy,0
+15842,2,38,She's smart.,Spencer,0
+15843,2,39,And beautiful.,Spencer,0
+15844,2,40,"Okay, that's enough.",Teddy,0
+15845,2,41,I'm good.,Teddy,1
+15846,3,0,Wow.,PJ,0
+15847,3,1,First day of cooking school.,PJ,0
+15848,3,2,How exciting is this? ,PJ,0
+15849,3,3,I'm PJ.,PJ,0
+15850,3,4,I'm Winnie.,Others,0
+15851,3,5,"But back in school, people always called me Losey.",Others,1
+15852,3,6,People can be so mean.,PJ,0
+15853,3,7,That is kind of clever though.,PJ,1
+15854,3,8,My brother took this class.,Others,0
+15855,3,9,"He said the teacher always chooses one guy to pick on, and I just know that guy's gonna be me.",Others,0
+15856,3,10,"Back in school, people always called me Losey.",Others,0
+15857,3,11,We covered that.,PJ,1
+15858,3,12,"Good morning, students.",Others,0
+15859,3,13,And welcome to the Wainwright Academy of Culinary and Kitchen Operations.,Others,0
+15860,3,14,Better known as 'WACKO'.,Others,1
+15861,3,15,My name is Chef Byron Wainwright.,Others,0
+15862,3,16,"But from now on, you should only call me Chef.",Others,0
+15863,3,17,"As in 'yes, Chef'.",Others,0
+15864,3,18,"'No, Chef'.",Others,0
+15865,3,19,"And 'you're quite brilliant, Chef'.",Others,1
+15866,3,20,"Now, everyone, take out your knives.",Others,0
+15867,3,21,Hello.,Others,0
+15868,3,22,Hi.,PJ,0
+15869,3,23,What is your name? I'm PJ.,Others,0
+15870,3,24,Does that stand for pathetic jerk? No.,Others,1
+15871,3,25,It stands for Potty John.,PJ,1
+15872,3,26,Potty John? That is actually your name? ,Others,0
+15873,3,27,"Yes, Chef.",PJ,0
+15874,3,28,And you shared that out loud? ,Others,0
+15875,3,29,"Yes, Chef.",PJ,0
+15876,3,30,"Was that a good idea? No, Chef.",Others,1
+15877,3,31,I think you're the guy.,Others,0
+15878,3,32,Thanks.,Others,1
+15879,4,0,Yeah.,Bob,0
+15880,4,1,"This is the one your mom wants, right, Gabe? ",Bob,0
+15881,4,2,Gabe? ,Bob,0
+15882,4,3,"Hey, dad.",Gabe,0
+15883,4,4,Come over here.,Gabe,0
+15884,4,5,Check this out.,Gabe,0
+15885,4,6,Oh! Triple recliner.,Bob,0
+15886,4,7,It's called 'The Relaxinator 3000'.,Gabe,0
+15887,4,8,It's got built-in surround sound.,Gabe,0
+15888,4,9,What? - And a mini fridge! ,Gabe,1
+15889,4,10,Are you kidding me? No more getting up and going all the way into the kitchen? ,Bob,0
+15890,4,11,When did we arrive at the future? ,Bob,1
+15891,4,12,Oh.,Gabe,0
+15892,4,13,This couch is so great.,Gabe,0
+15893,4,14,"Hey, let's get this one instead.",Gabe,0
+15894,4,15,No.,Bob,0
+15895,4,16,We are getting the couch your mom wants.,Bob,0
+15896,4,17,Push that button.,Gabe,0
+15897,4,18, It's massaging me.,Bob,0
+15898,4,19,Yeah.,Gabe,0
+15899,4,20,"Oh, we gotta make this work.",Bob,1
+15900,5,0,I don't know.,Teddy,0
+15901,5,1,I guess Maybe I just wasn't ready for Spencer to start dating.,Teddy,0
+15902,5,2,This is why I never stay friends with any of my ex-boyfriends.,Ivy,0
+15903,5,3,I'm more of a love-'em-and-leave-'em type.,Ivy,1
+15904,5,4,Yeah.,Teddy,0
+15905,5,5,"Well, that's easy for you to say.",Teddy,0
+15906,5,6,You dated Emmett.,Teddy,1
+15907,5,7,I'm not talking about Emmett.,Ivy,0
+15908,5,8,I'm talking about Raymond.,Ivy,0
+15909,5,9,Didn't Raymond break up with you? When did we start talking about me? Maybe you should start dating too.,Ivy,1
+15910,5,10,There's got to be somebody you have your eye on.,Ivy,0
+15911,5,11,"Well, actually There is one special fella on the old Teddy Duncan boy-dar.",Teddy,1
+15912,5,12,"Ease into it, girl.",Ivy,0
+15913,5,13,His name is Zack.,Teddy,0
+15914,5,14,He works at the Mall.,Teddy,0
+15915,5,15,"Is he cute? - Is he cute? Oh, he is way cute.",Teddy,0
+15916,5,16,He puts the 'U' in cute.,Teddy,1
+15917,5,17,I'm talking cute-alicious.,Teddy,1
+15918,5,18,"Yeah, ease way into it, girl.",Ivy,0
+15919,6,0,Let's see how your tomato sauce is coming.,Others,0
+15920,6,1,"Hope you enjoy it, Chef.",PJ,0
+15921,6,2,Rancid.,Others,0
+15922,6,3,Putrid.,Others,0
+15923,6,4,Inedible.,Others,0
+15924,6,5,Whoa.,PJ,0
+15925,6,6,Good thing I only know one of those words.,PJ,1
+15926,6,7,Class dismissed.,Others,0
+15927,6,8,"You're coming back tomorrow, right? Chef, can I talk to you? Yes, Potty? I just want to tell you a little bit about myself, PJ Which is what most people really enjoy calling me.",PJ,1
+15928,6,9,"Oh, good.",Others,0
+15929,6,10,The PJ story.,Others,0
+15930,6,11,I've been dying to find out more.,Others,1
+15931,6,12,"Well, I've always been really good at cooking, and my parents are paying a lot of money for me to be here.",PJ,0
+15932,6,13,"What I'm saying is, I don't want to be the guy.",PJ,0
+15933,6,14,The guy? I've heard you always choose one guy to pick on.,PJ,0
+15934,6,15,I don't want to be him.,PJ,0
+15935,6,16,I didn't realize that I pick a guy.,Others,0
+15936,6,17,"But now that I think about it, I guess I do.",Others,0
+15937,6,18,My goodness.,Others,0
+15938,6,19,I've been doing it all these years.,Others,0
+15939,6,20,You've really held a mirror up to me.,Others,0
+15940,6,21,I need to make a change.,Others,0
+15941,6,22,Next year.,Others,1
+15942,6,23,"Till then, you're the guy.",Others,1
+15943,6,24,"You know, Sir, Winnie is not ",PJ,0
+15944,6,25,Get out! All right.,Others,0
+15945,7,0,Hon'! The couch is here.,Bob,0
+15946,7,1,Woo! This is so exciting.,Amy,0
+15947,7,2,Let me see.,Amy,0
+15948,7,3,What is that? That's what I'd like to know.,Bob,0
+15949,7,4,"Guys, you spend all afternoon going downtown to buy a tasteful couch, and then we end up with this monstrosity? It's a disappointment.",Bob,1
+15950,7,5,That's what it is.,Gabe,1
+15951,7,6,It'll be a few days until we can get the right couch delivered.,Others,0
+15952,7,7,"Oh! Well, you may as well leave this one so we got somewhere to sit.",Bob,0
+15953,7,8,b*at the floor.,Gabe,0
+15954,7,9,Barely.,Gabe,1
+15955,7,10,Oh.,Amy,0
+15956,7,11,"Oh, I can't even look at it.",Amy,1
+15957,7,12,Nicely done.,Bob,0
+15958,7,13,Thanks.,Bob,0
+15959,7,14,"Well, plug it in! Let's start relaxinating! Okay.",Bob,1
+15960,7,15,"Oh, there we go.",Gabe,0
+15961,8,0,"Oh, my first date post-Spencer.",Teddy,0
+15962,8,1,This is so exciting.,Teddy,0
+15963,8,2,I know.,Ivy,0
+15964,8,3,So how did you get Zack to go out with you? ,Ivy,0
+15965,8,4,I gave him the look.,Teddy,0
+15966,8,5,What's the look? It's Nice.,Ivy,0
+15967,8,6,I'll have to try that.,Ivy,0
+15968,8,7,"What, you don't have a look? I have a laugh.",Teddy,0
+15969,8,8,Stop.,Ivy,0
+15970,8,9,"Oh, that's good.",Teddy,0
+15971,8,10,I'm saying.,Ivy,1
+15972,8,11,That's him.,Teddy,0
+15973,8,12,"You know, I have to say it feels good to be moving on.",Teddy,0
+15974,8,13,Yep.,Ivy,0
+15975,8,14,"Bye-bye, Spencer.",Ivy,0
+15976,8,15,Both: Hi.,Others,0
+15977,8,16,"And welcome back, Spencer.",Ivy,1
+15978,8,17,"Zack, this is Ivy.",Teddy,0
+15979,8,18,"Ivy, Zack.",Teddy,0
+15980,8,19,Nice to meet you.,Others,0
+15981,8,20,You too.,Ivy,0
+15982,8,21,"In fact, I feel like I already know you.",Ivy,1
+15983,8,22,"That is so sweet, Ivy.",Teddy,0
+15984,8,23,"Is it? Well, I got to go.",Ivy,1
+15985,8,24,"But first, can I have a special good-bye with you in the kitchen? ",Ivy,0
+15986,8,25,"Well, why can't we just ",Teddy,0
+15987,8,26,"In the kitchen, T? It's not special unless it's in the kitchen.",Ivy,1
+15988,8,27,Okay.,Teddy,0
+15989,9,0,What is going on? Zack looks exactly like Spencer.,Ivy,0
+15990,9,1,What? No he doesn't.,Teddy,0
+15991,9,2,Are you kidding me? They could be twins.,Ivy,1
+15992,9,3,"Well, I don't see it.",Teddy,0
+15993,9,4,"You know what this means, don't you? Mm-hmm.",Ivy,0
+15994,9,5,You're not over Spencer.,Ivy,0
+15995,9,6,That is ridiculous.,Teddy,0
+15996,9,7,I am so over Spencer.,Teddy,0
+15997,9,8,Fine.,Ivy,0
+15998,9,9,Pretend it isn't weird.,Ivy,0
+15999,9,10,Even though it is.,Ivy,1
+16000,9,11,This is the worst special good-bye that we've ever had.,Teddy,0
+16001,10,0,Say good-bye to Ivy.,Teddy,0
+16002,10,1,"Good-bye, Ivy.",Others,0
+16003,10,2,"Bye, Zack.",Ivy,0
+16004,10,3,"Have fun, you two.",Ivy,1
+16005,10,4,"So, what do you want to do? Grab some pizza, catch a movie? You know what might be fun? Makeovers.",Others,0
+16006,10,5,Makeovers.,Others,0
+16007,10,6,"Why? Well I just think that it would be super neat, if we look completely different than we do right now.",Teddy,0
+16008,10,7,Let's start with you.,Teddy,1
+16009,11,0,Hey.,Bob,0
+16010,11,1,There's my favorite cooking student.,Bob,0
+16011,11,2,How's school going? ,Bob,0
+16012,11,3,It's pretty good.,PJ,0
+16013,11,4,Really? Yeah.,Bob,0
+16014,11,5,It's not bad.,PJ,0
+16015,11,6,Because you know you're crying? ,Bob,1
+16016,11,7,Mm-hmm.,PJ,0
+16017,11,8,"Yeah, onions.",PJ,0
+16018,11,9,That cooking school's terrible.,PJ,0
+16019,11,10,"Whoa whoa, what? It's a complete disaster, dad.",PJ,0
+16020,11,11,I'm gonna drop out.,PJ,0
+16021,11,12,"PJ, come on.",Bob,0
+16022,11,13,You can't quit cooking school.,Bob,0
+16023,11,14,You're following your dream.,Bob,0
+16024,11,15,"Well, my dream has turned into a nightmare.",PJ,1
+16025,11,16,"If you quit, is the money we paid refundable? No.",Bob,0
+16026,11,17,"Well, ",Bob,0
+16027,11,18,Then that really is bad news.,Bob,1
+16028,11,19,"What are we gonna do? Um, I think we need to step away from the onions.",Bob,1
+16029,11,20,Okay.,Bob,0
+16030,11,21,Wow.,Bob,0
+16031,11,22,Look.,Bob,0
+16032,11,23,"Sometimes things aren't gonna be easy, but that doesn't mean you can just give up.",Bob,0
+16033,11,24,Why not? ,PJ,0
+16034,11,25,Because you're good at cooking.,Bob,0
+16035,11,26,You're really good.,Bob,0
+16036,11,27,I can't tell you what to do.,Bob,0
+16037,11,28,But ( Chuckles ),Bob,0
+16038,11,29,"I think so long as you believe in yourself, you're gonna do great.",Bob,0
+16039,11,30,I'll give it one more day.,PJ,0
+16040,11,31,"Oh, yes! There we go.",Bob,0
+16041,11,32,"Are you happy because this is what I should be doing, or because you won't lose your tuition money? Coming! Wow.",PJ,1
+16042,12,0,You look great.,Teddy,0
+16043,12,1,I do? Oh.,Others,1
+16044,12,2,Oh yeah.,Teddy,0
+16045,12,3,Completely different.,Teddy,0
+16046,12,4,"And I must say, you're rocking my cowboy boots.",Teddy,1
+16047,12,5,It's amazing they fit.,Teddy,0
+16048,12,6,"Yeah, they really don't.",Others,1
+16049,12,7,"Look I like you and everything, but This is all kind of weird.",Others,0
+16050,12,8,"What's going on? What do you mean? I may be a blonde now, but I still know something isn't right here.",Others,1
+16051,12,9,"All right, Zack.",Teddy,0
+16052,12,10,Here's the thing.,Teddy,0
+16053,12,11,"So, you happen to look a lot like my ex-boyfriend, which would bring up the whole disturbing question, is that the only reason I'm attracted to you? Which is why I wanted to change your look to prove that that wasn't the case.",Teddy,0
+16054,12,12,And Now that I've done that and you look completely different ,Teddy,0
+16055,12,13,Well ,Teddy,0
+16056,12,14,You're not interested anymore? Not so much.,Others,1
+16057,12,15,Maybe you shouldn't be dating yet.,Others,0
+16058,12,16,Maybe I shouldn't.,Teddy,1
+16059,12,17,"This will wash out, right? Yeah.",Others,0
+16060,12,18,I really shouldn't be dating yet.,Teddy,1
+16061,13,0,"Hey, look at you.",Bob,0
+16062,13,1,Glad to see you taking on some responsibility.,Bob,0
+16063,13,2,"Oh, please.",Gabe,0
+16064,13,3,The only reason I'm doing this is because mom hasn't left the couch in five hours.,Gabe,1
+16065,13,4,Your mom likes the couch now? Likes it? Go see for yourself.,Bob,0
+16066,14,0,"Honey? What you doing? Oh, loving the new couch, Bob.",Amy,0
+16067,14,1,"Oh, I was so wrong about the other one.",Amy,0
+16068,14,2," It's heaven, isn't it, Charlie? ",Amy,0
+16069,14,3,Loving it.,Charlie,1
+16070,14,4,"Well, I'm glad you like it.",Bob,0
+16071,14,5,But there's stuff around here that needs to be done.,Bob,0
+16072,14,6,"Oh, then do it.",Amy,1
+16073,14,7,"Honey, what about dinner? Oh.",Bob,0
+16074,14,8,Dinner sounds great.,Amy,0
+16075,14,9,"What do you think, Charlie? I can eat.",Amy,1
+16076,15,0,Hey hey hey.,Bob,0
+16077,15,1,We gotta do something.,Bob,0
+16078,15,2,We created a monster.,Bob,0
+16079,15,3,I know.,Gabe,0
+16080,15,4,It's not fair.,Gabe,0
+16081,15,5,They're just sitting there doing nothing.,Gabe,1
+16082,15,6,"Dad, that was gonna be our thing.",Gabe,1
+16083,15,7,We should have just bought the couch your mom told us to buy.,Bob,0
+16084,15,8,This is what I get for thinking for myself.,Bob,0
+16085,15,9,You didn't think for yourself.,Gabe,0
+16086,15,10,"Dad, I told you what to do.",Gabe,0
+16087,15,11,"Hey, I am still your father.",Bob,0
+16088,15,12,And I am the one who should be coming up with the plans here.,Bob,0
+16089,15,13,And I'm open to any input you two might have.,Bob,1
+16090,16,0,I will now sample your Gazpachos.,Others,0
+16091,16,1,Bland.,Others,0
+16092,16,2,Boring.,Others,0
+16093,16,3,"Winnie, if you ever open a Restaurant, you should call it 'Losey's'.",Others,0
+16094,16,4,And there it is.,Others,1
+16095,16,5,Ah.,Others,0
+16096,16,6,Gazpacho a la Potty.,Others,0
+16097,16,7,"Taste buds, prepare to die.",Others,1
+16098,16,8,That's odd.,Others,0
+16099,16,9,Confirming my initial impression.,Others,0
+16100,16,10,This is not completely horrible.,Others,0
+16101,16,11,Yes! Not completely horrible! I believed in myself and it paid off! ,PJ,1
+16102,16,12,"Woo-hoo! Dial it down, Potty.",Others,0
+16103,16,13,It's just some vegetables in a blender.,Others,1
+16104,16,14,This is the best day of my life.,PJ,0
+16105,16,15,Are you crying? ,Others,0
+16106,16,16,Are there onions around? ,PJ,0
+16107,16,17,No.,Others,0
+16108,16,18,Then I guess I am.,PJ,1
+16109,17,0,"So, I have a funny story to tell you.",Teddy,0
+16110,17,1,It's about this guy I dated.,Teddy,0
+16111,17,2,"Oh, you're dating.",Spencer,0
+16112,17,3,"Well, I mean it was just one date.",Teddy,0
+16113,17,4,So what happened? ,Spencer,0
+16114,17,5,Here's the funny part.,Teddy,0
+16115,17,6,"I realized that the only reason I wanted to date him, was because ",Teddy,0
+16116,17,7,"Oh, hang on.",Spencer,0
+16117,17,8,Hey.,Spencer,0
+16118,17,9,"Oh, come in.",Spencer,0
+16119,17,10,This is great.,Spencer,0
+16120,17,11,"As long as you're here, there's someone I want you to meet.",Spencer,0
+16121,17,12,This is Gigi.,Spencer,0
+16122,17,13,The girl I'm dating.,Spencer,0
+16123,17,14,How you doing? Nice to meet you.,Others,0
+16124,17,15,"So Teddy, what did you want to tell me? Um You know what, you guys go have fun.",Teddy,0
+16125,17,16,It can wait.,Teddy,0
+16126,17,17,And so can I.,Teddy,0
+16127,18,0,It's so fun to go - Hey.,Amy,0
+16128,18,1,"Hey, guys.",Amy,0
+16129,18,2,What happened? Where's my couch? This is your couch.,Amy,0
+16130,18,3,"Yeah, the one you wanted in the first place.",Gabe,0
+16131,18,4,But I like the other couch now.,Amy,1
+16132,18,5,This one's good too.,Bob,0
+16133,18,6,"Come on, come on.",Bob,0
+16134,18,7,Sit down.,Bob,0
+16135,18,8,Try it out.,Bob,0
+16136,18,9,Try it out.,Bob,0
+16137,18,10,There we go.,Bob,0
+16138,18,11,There we go.,Bob,0
+16139,18,12,Yeah.,Bob,0
+16140,18,13,No no no.,Bob,0
+16141,18,14,No no no no no.,Bob,0
+16142,18,15,There's no buttons.,Bob,0
+16143,18,16,This is for the TV.,Bob,0
+16144,18,17,Where's the cooler? There is no cooler either.,Amy,0
+16145,18,18,"If you want something to drink, you have to go into the kitchen.",Gabe,0
+16146,18,19,"You remember the kitchen, right? That's where the dinner comes from.",Bob,1
+16147,18,20,"All right, dad.",Gabe,0
+16148,18,21,Let's give her a minute.,Gabe,0
+16149,18,22,And that is how mommy got the couch she wanted all along.,Amy,1
+16150,18,23,"You're good, mommy.",Charlie,0
+16151,18,24,I know.,Amy,0
+16152,18,25,And scary.,Charlie,1
+16153,18,26,Thank you.,Amy,1
+16154,19,0,"Hey, Charlie.",Teddy,0
+16155,19,1,So pretty exciting first week back in the Duncan house.,Teddy,0
+16156,19,2,"We got a new couch, PJ almost quit another school.",Teddy,0
+16157,19,3,And I went on a date with a guy who looked a lot like Spencer.,Teddy,0
+16158,19,4,He used to.,Teddy,0
+16159,19,5,"Now he's blonde, and angry.",Teddy,1
+16160,19,6,And he walks with a limp.,Teddy,1
+16161,19,7,What dad! I'm doing the video diary.,Teddy,0
+16162,19,8,Oh! I gotta get this looked at.,Bob,1
+16163,19,9,"If he's still doing that when you're my age, I should probably wish you both good luck, Charlie.",Teddy,1
+16164,19,10,Don't touch the food now! ,Teddy,1
+16165,20,0,"If you like a guy and the laugh doesn't work, then what do you do? I go with the bigger laugh, girl.",Teddy,0
+16166,20,1,"Woo! Yeah, that's good.",Teddy,0
+16167,20,2,So what if your look doesn't work? What do you do? Then I do the walk.,Ivy,0
+16168,20,3,I like it.,Ivy,0
+16169,20,4,I like it.,Ivy,0
+16170,20,5,I also have a special call.,Ivy,0
+16171,20,6,Check it out ,Ivy,0
+16172,20,7,"Well if their not into that, they might be into this ",Teddy,0

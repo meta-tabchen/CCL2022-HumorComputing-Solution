@@ -1,0 +1,298 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+12373,1,0,"Okay, so that's the tight end, and the guy next to him is called the split end.",Emmett,0
+12374,1,1,"Split end? What do they call him after he shampoos and conditions? Yeah, let's not watch football.",Teddy,0
+12375,1,2,"Hey, we should talk about prom.",Teddy,0
+12376,1,3,"So I was thinking, if you show up by 6:00, then we can do some pictures.",Teddy,0
+12377,1,4,"Then if we left by 6:30 - Teddy, hold on.",Teddy,1
+12378,1,5,I haven't even asked you yet.,Emmett,0
+12379,1,6,"Well, I just assumed.",Teddy,0
+12380,1,7,"I mean, we're boyfriend and girlfriend.",Teddy,0
+12381,1,8,"Yeah, I know, but I still think I should ask you.",Emmett,1
+12382,1,9,It's kind of how it's done.,Emmett,1
+12383,1,10,"Fine, go ahead, ask me.",Teddy,1
+12384,1,11,"Teddy, would you like to go to the prom with me? - No.",Emmett,0
+12385,1,12,Wait.,Emmett,1
+12386,1,13,"What? Well, first you make a whole big deal out of the invitation, then you just blurt it out? Where's the romance, the heart? Maybe I should start over.",Teddy,0
+12387,1,14,"Yeah, I think that would be best.",Teddy,0
+12388,1,15,"Teddy, would you like to go to the - No, no, no, no.",Emmett,0
+12389,1,16,Go outside.,Teddy,1
+12390,1,17,Start over there.,Teddy,1
+12391,1,18,"Go on, go on.",Teddy,0
+12392,1,19,"If we're gonna do this, do it right.",Teddy,0
+12393,1,20,I'll get it.,Teddy,0
+12394,1,21,"Teddy Duncan, would you do me the honor of allowing me to escort you to the prom? Oh, you're tearing up.",Emmett,0
+12395,1,22,"Oh, my gosh.",Teddy,1
+12396,1,23,"Of course I'll go with you, baby.",Teddy,0
+12397,1,24,"Got stuck by a thorn, didn't you? - Uh-huh.",Teddy,1
+12398,1,25,"What are you guys doing? I'm looking through my yearbook, trying to find a prom date.",Teddy,0
+12399,1,26,"Yeah, and I'm watching him so I can see what mistakes to avoid when I'm in High School.",PJ,0
+12400,1,27,"P.J., prom's this Saturday.",Teddy,0
+12401,1,28,You might wanna hurry up.,Teddy,0
+12402,1,29,"Oh, it's okay.",Gabe,0
+12403,1,30,I've seen his report card.,Gabe,0
+12404,1,31,He'll probably have two more senior proms.,PJ,0
+12405,1,32,"Hey, what do you know about Cynthia markowski? She was in the gifted program and graduated early.",Teddy,0
+12406,1,33,Stupid smart people.,PJ,1
+12407,1,34,"Hey, what about Robin Rogers? - She's pretty cute.",PJ,0
+12408,1,35,That's a guy.,Teddy,1
+12409,1,36,Who was your date last year? I went with a group.,PJ,1
+12410,1,37,So now we're calling Emmett a group? There's gotta be somebody out there for me.,PJ,0
+12411,1,38,I just Hope I find her in time.,PJ,1
+12412,1,39,Hi.,PJ,0
+12413,1,40,Hi.,other,0
+12414,1,41,Here's your pizza.,other,0
+12415,1,42,Thanks.,PJ,0
+12416,1,43,"With any luck, P.J.",Teddy,0
+12417,1,44,May have just found his prom date.,Teddy,0
+12418,1,45,"Can I ask you something? Sure, anything.",PJ,0
+12419,1,46,"Do you guys have any wacky bread? Yeah, it's gonna take a little more than luck.",Gabe,0
+12420,1,47,Get over there.,Gabe,1
+12421,1,48,"Well, things look good.",other,0
+12422,1,49,"The baby's doing great, but I'm a little concerned about the weight gain.",other,0
+12423,1,50,I really haven't gained that much.,Amy,1
+12424,1,51,"No, I mean him.",other,1
+12425,1,52,Just kidding.,other,1
+12426,1,53,"We like to have fun here, right, marcia? So would you like a DVD of your ultrasound? - Yes.",other,0
+12427,1,54,No.,Amy,0
+12428,1,55,I thought we agreed we wanted to wait to find out if it's a boy or a girl.,Amy,0
+12429,1,56,We want to be surprised.,Amy,0
+12430,1,57,I don't like surprises.,Bob,0
+12431,1,58,I want to know.,Bob,0
+12432,1,59,And the person carrying the baby thinks it's better not to know.,Amy,0
+12433,1,60,We'd like to be surprised.,Bob,1
+12434,1,61,"Put this in the Duncan file, please.",other,0
+12435,1,62,That's okay.,Bob,0
+12436,1,63,We don't need to know.,Bob,1
+12437,1,64,"As long as our baby boy is healthy, right, doc? Mm.",Bob,0
+12438,1,65,"I mean, the main thing is that our baby girl is doing great, right, doc? Bob, honey, the man's not an idiot.",Bob,0
+12439,1,66,He has a medical degree.,other,0
+12440,1,67,"Right, doc? Thanks.",other,0
+12441,1,68,That was a really fun first date.,other,0
+12442,1,69,"Taylor, in my experience, you can never go wrong with mini golf.",PJ,0
+12443,1,70,"P.J., I know we just met, but can I ask you something? Okay, but nothing too hard, 'cause this date's going really well.",other,0
+12444,1,71,"My senior prom is this Saturday, and I was wondering if you would like to go with me.",other,0
+12445,1,72,Uh-oh.,PJ,1
+12446,1,73,"Too hard? No, no, no, no, no.",other,0
+12447,1,74,It's just my senior prom is also this Saturday.,PJ,0
+12448,1,75,"I was really excited about it, and I was gonna ask you.",PJ,0
+12449,1,76,Oh.,other,0
+12450,1,77,"But you asked me first, so yes.",PJ,0
+12451,1,78,"Oh, and just so you know, I would have said yes.",other,0
+12452,1,79,Yes! - Then it's a date? - Absolutely.,Teddy,0
+12453,1,80,"Wait, whose prom are we going to? Mine, I think.",other,0
+12454,1,81,"Yeah, yeah.",PJ,1
+12455,1,82,Yeah.,other,0
+12456,1,83,"And after the baby's born, mommy and daddy will bring it home from the hospital.",Teddy,0
+12457,1,84,"But when do they take it back? Charlie, they don't take the babies back.",Charlie,0
+12458,1,85,I know.,Teddy,0
+12459,1,86,I tried with Gabe.,Teddy,0
+12460,1,87,"Teddy, there you are.",Amy,0
+12461,1,88,"Hey, listen, I was wondering if you've picked out a prom dress yet.",Amy,0
+12462,1,89,"No, I really need to go shopping.",Teddy,0
+12463,1,90,Or not.,Amy,0
+12464,1,91,"Mom, I need to buy a dress.",Teddy,1
+12465,1,92,I can't just wear something from my closet.,Teddy,0
+12466,1,93,Maybe nyour closet.,Amy,0
+12467,1,94,I don't like where this is going.,Teddy,1
+12468,1,95,"Let me tell you a story that seemed tragic at the time, but is now finally gonna have a happy ending.",Amy,0
+12469,1,96,I really don't like where this is going.,Teddy,0
+12470,1,97,"The year was 1988, and a young and beautiful Amy blankenhooper was on her way to the prom with her third choice Bob Duncan.",Amy,0
+12471,1,98,"But alas, all would not turn out as Amy had planned.",Amy,0
+12472,1,99,"Knowing this story would go on for a while, Teddy sat down.",Teddy,0
+12473,1,100,"Bob diddlebock, Amy's first choice, took his date out for steak.",Amy,0
+12474,1,101,Bob Duncan had a coupon for the shrimp Bucket.,Amy,1
+12475,1,102,"Anyway, it was an all-you-can-eat night, and Amy tried to keep up with Bob, which was her second mistake.",Amy,1
+12476,1,103,A mistake that her beautiful prom dress would pay for dearly.,Amy,0
+12477,1,104,"So what are you saying Did you puke on your prom dress? Well, in 1988, we called it 'hurling.",Teddy,0
+12478,1,105,' Now this sad little story is finally gonna have a happy ending.,Amy,1
+12479,1,106,"Teddy, don't you see? I saved that prom dress all these years so that you could wear it to your prom.",Amy,0
+12480,1,107,I'll go get it.,Amy,0
+12481,1,108,"Mom, you really don't have to Ba-bam! Teddy, when this dress goes to the prom, it'll almost be like I finally get to go to the prom.",Amy,0
+12482,1,109,I wish it were you.,Teddy,0
+12483,1,110,"And, Charlie, maybe you can wear this to your prom, too.",Amy,0
+12484,1,111,"No, thank you, mommy.",Charlie,0
+12485,1,112,Okay.,Gabe,0
+12486,1,113,"Whatcha doing, dad? Oh, just thinking about the new baby.",Gabe,0
+12487,1,114,"Yeah, I like to do my thinking upstairs, just in case someone wants to come down here, play some video games or something.",Gabe,0
+12488,1,115,"You know, all I want to know is if it's gonna be a boy or a girl.",Bob,1
+12489,1,116,But your mother wants to be surprised.,Bob,1
+12490,1,117,"Why don't you find out and then not tell mom? You have a brain of your own, right? Of course I do.",Gabe,0
+12491,1,118,It's just that your mother's brain doesn't like it when my brain goes off on its own.,Bob,0
+12492,1,119,"Dad, you can't just do whatever mom tells you to do.",Gabe,0
+12493,1,120,You have to stand up for yourself.,Gabe,0
+12494,1,121,"You know, you have to call the doctor and you have to demand to know.",Gabe,0
+12495,1,122,You know what? You're right.,Bob,0
+12496,1,123,"Right? - I mean, I am the baby's father.",Bob,1
+12497,1,124,"Yes, you are.",Gabe,1
+12498,1,125,"Yes, I do have some rights.",Bob,1
+12499,1,126,Hello.,Bob,0
+12500,1,127,"Marcia, Bob Duncan.",Bob,0
+12501,1,128,I don't wanna bother the doctor.,Bob,0
+12502,1,129,"I was just could you For me, could you just take a little look-see in our file and just tell me if we're gonna have a boy or a girl? Uh-huh.",Bob,0
+12503,1,130,Uh-huh.,Bob,0
+12504,1,131,"Okay, sure.",Bob,0
+12505,1,132,"All right, what did she say? Would I please hold while she calls your mother? Well, face it, dad.",Bob,0
+12506,1,133,Your brain's no match for mom's.,Gabe,0
+12507,1,134,"But lucky for you, I have a plan.",Gabe,1
+12508,1,135,"Is it an evil plan? No, no, no.",Gabe,1
+12509,1,136,It's a plan that helps the poor.,Gabe,1
+12510,1,137,"Of course, it's an evil plan.",Gabe,1
+12511,1,138,I don't know.,Bob,0
+12512,1,139,"Oh, come on.",Gabe,0
+12513,1,140,You know you want to do it.,Gabe,0
+12514,1,141,Isn't that why you came to me in the first place? Yeah.,Gabe,0
+12515,1,142,Wow! You look great.,PJ,0
+12516,1,143,So do you.,other,0
+12517,1,144,Come on in.,other,0
+12518,1,145,Okay.,PJ,0
+12519,1,146,Here we are.,other,1
+12520,1,147,What is this? - It's the prom.,PJ,1
+12521,1,148,"Your prom is here in your house? Yeah, I'm homeschooled.",PJ,0
+12522,1,149,Huh.,PJ,0
+12523,1,150,"So this is the whole prom? Just you and me and some old lady? Oh, that's my grandma.",PJ,0
+12524,1,151,She's also the dj.,other,0
+12525,1,152,Why's she wearing a sombrero? Because the theme of the prom is 'south of the border.,PJ,0
+12526,1,153,"' Oh, okay, that makes sense.",PJ,1
+12527,1,154,"For a second there, I thought it was weird.",PJ,1
+12528,1,155,"Hola, kids! Let the fiesta begin.",other,0
+12529,1,156,"Ole! P.J., this is my mom.",other,0
+12530,1,157,Hi.,other,0
+12531,1,158,Hi.,PJ,0
+12532,1,159,And my biology teacher and my history teacher - and my math teacher.,other,0
+12533,1,160,"All right, picture time.",other,0
+12534,1,161,Now smile.,other,0
+12535,1,162,It's for the yearbook.,other,0
+12536,1,163,I know this is a little unusual.,PJ,0
+12537,1,164,I guess I should have told you I was homeschooled.,PJ,0
+12538,1,165,Might have been good information to have.,other,0
+12539,1,166,"Oh, excuse me.",other,1
+12540,1,167,"Well, at least it's not getting any weirder.",PJ,1
+12541,1,168,"Hi yee! So what do you think? I, uh Uh No, relax, I've got a different dress hidden in the bushes.",other,1
+12542,1,169,"Well, then why are you wearing that one? Teddy, you almost look as beautiful in that dress as I did.",Amy,0
+12543,1,170,Never mind.,Spencer,0
+12544,1,171,"Okay, picture time.",Teddy,0
+12545,1,172,"Okay, back it up.",Amy,0
+12546,1,173,You're crushing the ruffles.,Amy,0
+12547,1,174,Good one.,Amy,0
+12548,1,175,"Okay, over here.",Amy,0
+12549,1,176,Over here.,Amy,0
+12550,1,177,Over here.,Amy,1
+12551,1,178,"Chin down, Spencer.",Amy,1
+12552,1,179,"Okay, mom, come on, we have to go.",Teddy,1
+12553,1,180,"Okay, have fun.",Amy,0
+12554,1,181,"Oh, wait! Wait.",Amy,0
+12555,1,182,I almost forgot.,Teddy,0
+12556,1,183,I have a surprise.,Teddy,0
+12557,1,184,"The matching hat! Oh! Oh, now my head can be as lucky as the rest of me.",Amy,0
+12558,1,185,"Hey, excuse me, are you Dr.",Gabe,0
+12559,1,186,Karp? - Yes.,other,0
+12560,1,187,"Hi, I'm Gabe Duncan.",Gabe,0
+12561,1,188,Oh! - Nice to meet you.,Gabe,0
+12562,1,189,And this is Charlie.,Gabe,0
+12563,1,190,"You know, we're here because she's having a hard time with the new baby thing.",Gabe,0
+12564,1,191,"Hey, Charlie, here's the man who can make you happy again.",Gabe,1
+12565,1,192,Talk to him.,Gabe,1
+12566,1,193,"Will I have a little sister or little brother? Awww, did you hear that? She said, 'a wittle sisto or wittle brudder.",Charlie,0
+12567,1,194,' Who can say no to that? I could.,Gabe,0
+12568,1,195,"What kind of doctor would I be if I told you without your parents' permission? A doctor who's got a little extra walking around money, if you know what I'm saying.",other,0
+12569,1,196,It's not gonna happen.,other,0
+12570,1,197,I'll be in the exam room.,other,0
+12571,1,198,"Gabe, get the DVD.",other,0
+12572,1,199,It's in the file.,other,0
+12573,1,200,Okay.,Gabe,0
+12574,1,201,Hey.,Gabe,1
+12575,1,202,"Hey, Charlie, if you go find the doctor, I'll give you some candy, okay? - Okay.",Gabe,1
+12576,1,203,"Okay, come on.",Gabe,1
+12577,1,204,Find him.,Gabe,0
+12578,1,205,"Oh, no! My 'wittle sisto' has run into the exam room! She can't go in there.",Gabe,0
+12579,1,206,"'Daley, Davis.",Gabe,0
+12580,1,207,"' Oh, 'duncan.",Gabe,0
+12581,1,208,' Got it.,Gabe,0
+12582,1,209,"Dad, come on.",Gabe,0
+12583,1,210,"Oh, there you are, you little dickens.",Gabe,0
+12584,1,211,Where's my candy? Candy.,Charlie,0
+12585,1,212,"For running away? Oh, I don't think so.",Gabe,1
+12586,1,213,Come on.,Teddy,1
+12587,1,214,So how do I look? Amazing.,Teddy,1
+12588,1,215,You look incredible.,Spencer,0
+12589,1,216,What are we waiting for? Let's get in there and let people see me.,Teddy,0
+12590,1,217,"Huh? Oh, who's texting me? Oh, it's P.J.",Teddy,0
+12591,1,218,"Well, here's my prom night.",PJ,0
+12592,1,219,Turns out taylor is homeschooled.,PJ,0
+12593,1,220,So what was supposed to be the greatest night of my life is now the strangest.,PJ,0
+12594,1,221,But I guess I shouldn't complain.,PJ,0
+12595,1,222,I was voted prom King.,PJ,0
+12596,1,223,Poor P.J.,Teddy,1
+12597,1,224,It's his senior prom and he's miserable.,Teddy,1
+12598,1,225,"Yeah, that's a shame.",Spencer,0
+12599,1,226,"Okay, let's go in.",Spencer,0
+12600,1,227,"Dr.karp, have you seen the Duncan DVD? - I can't find it.",other,0
+12601,1,228,"Amy Duncan? No, Angela Duncan.",other,1
+12602,1,229,The one who's having triplets.,other,0
+12603,1,230,"Awww, man, I'm never getting my own room.",Gabe,0
+12604,1,231,"Hey, look out, everyone.",other,0
+12605,1,232,"This prom's officially been crashed! - Yeah, all right! - Yeah, uh-huh! What are you guys doing here? We got your text and your prom looked so unique - Right.",Teddy,0
+12606,1,233,That we just had to come.,Teddy,0
+12607,1,234,"Yeah, what a relief to be away from all those noisy people, laughing and having fun.",Spencer,0
+12608,1,235,This is so much better.,Spencer,1
+12609,1,236,"Teddy, you gave up your prom for me? Oh, please.",PJ,1
+12610,1,237,Going to prom at regular school is so last year.,Teddy,1
+12611,1,238,Thank you.,Teddy,1
+12612,1,239,"Hello, P.J., are we in the right place? What's mom doing here? Did you send that text to everybody? Yeah, it was an accident.",Amy,0
+12613,1,240,Grandma was getting kinda handsy during the slow dance.,PJ,0
+12614,1,241,She can't see me in this dress.,Teddy,0
+12615,1,242,Is there another way out of here? - There's a door around the back.,Teddy,1
+12616,1,243,"Okay, I'm gonna go change.",Teddy,0
+12617,1,244,Cover for me.,Teddy,0
+12618,1,245,"Wait - hi, everyone.",Amy,0
+12619,1,246,"Hey, hey! Mom, dad, what are you guys doing here? Well, we couldn't go to our prom, so we thought, why not go to yours? Aww, you guys are the best.",PJ,0
+12620,1,247,"Hey, there.",Spencer,0
+12621,1,248,"Hey, Spencer, - what are you doing here? Where's Teddy? - I don't know.",Amy,1
+12622,1,249,"She'll be back in, like, three minutes.",Spencer,0
+12623,1,250,"Yeah, speaking of three, honey, we really need to talk.",Bob,0
+12624,1,251,I'm back! I'm back.,Teddy,1
+12625,1,252,Hi.,Teddy,0
+12626,1,253,"Why is your dress on backwards? Okay, all right, mom, the truth is the reason why I didn't wanna wear this dress is because I I just don't like it.",Teddy,0
+12627,1,254,What's not to like? On on me.,Amy,0
+12628,1,255,"See, the problem with such a beautiful dress is that it only works on you.",Teddy,0
+12629,1,256,"No one can do justice to this dress like you, mom.",Teddy,0
+12630,1,257,"Teddy, Teddy, Teddy, Teddy.",Amy,0
+12631,1,258,"Honey, if you are suggesting that I put that dress and this hat on because we are at a prom at this very moment, well, the answer would be a resounding okay.",Amy,0
+12632,1,259,Let's go change.,Amy,0
+12633,1,260,Okay.,Teddy,1
+12634,1,261,"You don't mind being here? As long as I'm with you, I don't care where we are.",Spencer,1
+12635,1,262,"Hey, take a seat, grandma.",other,0
+12636,1,263,It's not gonna happen.,other,1
+12637,1,264,"I Hope I get to see you again, but I don't know, I'm off to college soon.",Teddy,0
+12638,1,265,Where you going? - The rec room.,Spencer,0
+12639,1,266,"Honey, this probably isn't what you were expecting to hear at your prom, but you remember the ultrasound - we decided not to look at? - Yes.",Bob,0
+12640,1,267,I looked.,Bob,0
+12641,1,268,"What?! Oh, Bob.",Amy,0
+12642,1,269,"Don't tell me, okay? I don't want to know what we're having.",Bob,0
+12643,1,270,"Well, can I at least tell you how many we're having? - What? Honey, we're having triplets.",Bob,0
+12644,1,271,"Oh, come on, why wouldn't the doctor tell me? I don't know, but I saw them.",Amy,0
+12645,1,272,"One, two, three.",Bob,0
+12646,1,273,You mean Seven kids.,Amy,1
+12647,1,274,Wow.,Amy,1
+12648,1,275,I think I'm gonna hurl.,Amy,0
+12649,1,276,Oh! Wow! Look at that.,Bob,0
+12650,1,277,She hit the exact same spot.,Bob,0
+12651,1,278,"Okay, honey, let's get you to the nurse.",other,0
+12652,1,279,"Well, chare, they say you never forget your prom, but I'm gonna try real hard.",Teddy,0
+12653,1,280,"P.J., where you going all dressed up? Taylor's graduation.",Teddy,1
+12654,1,281,"Back in, like, 20.",PJ,1
+12655,1,282,"Turns out, good news, mom's not really having triplets.",Teddy,0
+12656,1,283,"Oh, and I took mom's prom dress to the dry cleaners, where it got destroyed.",Teddy,0
+12657,1,284,Cost me 10 bucks extra.,Teddy,0
+12658,1,285,You'll thank me for it later.,Teddy,0
+12659,1,286,"What did you just say? Wish me good luck, Charlie.",Amy,0
+12660,1,287,"Hey, Dr.",Gabe,0
+12661,1,288,"karp, well, my grandmother has a very important question to ask you.",Gabe,0
+12662,1,289,"Hey, grandma.",Gabe,0
+12663,1,290,"Well, hello! You're grandma Duncan? Oh, why don't you just call me Gladys? Anywho, I am dying to know if my new grandchild is a boy or a girl.",Bob,0
+12664,1,291,I was wondering the same thing about you.,other,0
+12665,1,292,Dr.karp.,Bob,0
+12666,1,293,"Mom? - Oh hello, son.",Bob,0
+12667,1,294,"So she's really is your Yeah, pretty freaky, isn't it? Well, doctor, out with it.",Gabe,0
+12668,1,295,"All right, all right, I'll tell you.",other,0
+12669,1,296,The new baby is going to be a,other,0

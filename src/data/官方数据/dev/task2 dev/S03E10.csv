@@ -1,0 +1,376 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+6087,1,0,"Morning, Mom.",Teddy,0
+6088,1,1,Eh.,Amy,0
+6089,1,2,Tough night? ,Teddy,1
+6090,1,3,I had to get up three times with the baby and your Father was absolutely no help.,Amy,0
+6091,1,4,Sure I was.,Bob,0
+6092,1,5,Flicking me in the forehead and saying 'baby's crying' is not helpful.,Amy,1
+6093,1,6,"Honey, if I flicked you in the forehead and didn't say anything, that'd just be mean.",Bob,0
+6094,1,7,"Hey, after breakfast can somebody watch Toby while I grab a quick shower? ",Amy,0
+6095,1,8," Oh, I can't.",Bob,0
+6096,1,9,I have a maggot-infested rats' nest that needs my attention.,Bob,1
+6097,1,10,Bye.,Bob,0
+6098,1,11,"Sorry, Mom.",Teddy,0
+6099,1,12,"I'd love to, but I'm going to the mall with Ivy.",Teddy,0
+6100,1,13,We're gonna shop and look for jobs.,Teddy,0
+6101,1,14,NULL,Teddy;Bob;Amy,1
+6102,1,15,See you.,Teddy,0
+6103,1,16,And I'm taking Charlie to the park.,PJ,0
+6104,1,17,"Oh, maybe you can take Toby with you.",Amy,0
+6105,1,18,"No thank you, Mama.",Charlie,0
+6106,1,19,Hmm.,PJ,0
+6107,1,20,Bye.,PJ,0
+6108,1,21,Bye.,Amy,0
+6109,1,22,Gabe? ,Amy,0
+6110,1,23,"No thank you, Mama.",Gabe,0
+6111,2,24,"Okay, Charlie.",PJ,0
+6112,2,25,Here we go.,PJ,0
+6113,2,26,Have fun.,PJ,0
+6114,2,27,Not too fast.,PJ,0
+6115,2,28,Not too fast.,PJ,0
+6116,2,29,She's already the fastest kid in the park.,PJ,0
+6117,2,30,"If you want to see fast, you should see my nephew Mason ride his trike.",Emmett,0
+6118,2,31,You know what his friends call him?,Emmett,0
+6119,2,32,What?,PJ,0
+6120,2,33,Nothing.,Emmett,0
+6121,2,34,"He's so fast, he doesn't have time to make friends.",Emmett,1
+6122,2,35,"Yeah, well, Charlie's so fast, that..",PJ,0
+6123,2,36,"That she makes friends, but then she goes so far, by the time she comes back they've changed and moved on.",PJ,0
+6124,2,37,And..,PJ,0
+6125,2,38,NULL,PJ;Emmett,1
+6126,2,39,"The point is, Mason's faster.",Emmett,0
+6127,2,40,No.,PJ,0
+6128,2,41,Charlie's faster.,PJ,0
+6129,2,42,You know what this reminds me of? The conversation that we had before the baby race.,Emmett,0
+6130,2,43,Oh.,PJ,0
+6131,2,44,The baby race.,PJ,0
+6132,3,45,"Come on, Charlie, you can do it.",PJ,0
+6133,3,46,"Coming down the home stretch, it's still Mason in the lead! ",Gabe,0
+6134,3,47," Come on, Charlie.It's now or never! ",PJ,0
+6135,3,48,And the winner is Charlie!,Gabe,0
+6136,4,49,"Okay.Charlie may be faster on her feet, but on wheels? Mason's the man.",Emmett,0
+6137,4,50,Guess there's only one way to find out.,PJ,0
+6138,4,51,Are you saying what I think you're saying? Baby race two.,PJ,0
+6139,4,52,NULL,PJ;Emmett,1
+6140,5,53,"Hey, Dad.",Ivy,0
+6141,5,54,"Hi, Mr.Wentz.",Teddy,0
+6142,5,55,We're going to the mall to shop and look for jobs..,Ivy,0
+6143,5,56,But mostly shop.,Ivy,1
+6144,5,57,Wallet's over there.,Others,0
+6145,5,58,How much can I take? ,Ivy,0
+6146,5,59,Doesn't matter.,Others,0
+6147,5,60,Nothing matters.,Others,1
+6148,5,61,"Ivy, why is your Dad so depressed? ",Teddy,0
+6149,5,62,I don't know.,Ivy,0
+6150,5,63,I think it might be something about his job.,Ivy,0
+6151,5,64,What does he do? ,Teddy,0
+6152,5,65,I don't know.,Ivy,1
+6153,5,66,"Ivy, you're not going to the mall without cleaning your room, are you?",Others,0
+6154,5,67," Oh, Harry, honey.",Others,0
+6155,5,68,I don't know why you're so down.,Others,0
+6156,5,69,Show Teddy the award you got last night.,Others,0
+6157,5,70,That's The Silver Plungie.,Others,0
+6158,5,71,It's in recognition of Harry's 25 years in the plumbing supply business.,Others,0
+6159,5,72,"Oh, congratulations, Mr.Wentz.",Teddy,0
+6160,5,73,That is quite an honor.,Teddy,0
+6161,5,74,"Well, I think so.",Others,0
+6162,5,75,It even has an inscription.,Others,0
+6163,5,76,"See? It says, 'to Harry Wentz, for 25 years of duty'.",Others,1
+6164,5,77,"Well, that's unfortunate.",Teddy,1
+6165,5,78,"Oh, I'm gonna go find a place for it.",Others,0
+6166,5,79,Is this all I have to show..,Others,0
+6167,5,80,For 25 years of my life? A plunger that they spray-painted silver.,Others,0
+6168,5,81,"It's glittery, too.",Teddy,0
+6169,5,82,I used to have dreams.,Others,0
+6170,5,83,Big dreams.,Others,0
+6171,5,84,I wanted to be..,Others,0
+6172,5,85,A weatherman.,Others,1
+6173,5,86,I wanted to open a restaurant.,Others,0
+6174,5,87,But..,Others,0
+6175,5,88,I'm too old for any of that now.,Others,0
+6176,5,89,"Mr.Wentz, you are never too old to pursue your dreams.",Teddy,0
+6177,5,90,"Oh, Teddy, I don't know.",Others,0
+6178,5,91,Have you seen that commercial for the new fitness centers? ,Teddy,0
+6179,5,92,The one with the talking gophers? ,Others,0
+6180,5,93,Right.,Teddy,0
+6181,5,94,The skinny gopher says to the fat gopher..,Teddy,0
+6182,5,95,"'If you want to lose that weight, you gotta get off your butt and 'gopher' it'.",Teddy,1
+6183,5,96,"Sure, it's a terrific commercial.",Others,0
+6184,5,97,But what's your point? ,Others,1
+6185,5,98,"That's what you gotta do, Mr.Wentz.",Teddy,0
+6186,5,99,You gotta follow your dreams and 'gopher' it! ,Teddy,0
+6187,5,100, 'Gopher' it.,Others,1
+6188,5,101,NULL,Teddy;Ivy,1
+6189,6,102,Why are you dressed like that? ,Amy,0
+6190,6,103,Why are you dressed like that?,Gabe,1
+6191,6,104,Because I haven't had a chance to do the laundry.,Amy,0
+6192,6,105,"Believe it or not, this is your shirt, your Dad's sweats, and you don't even want to know whose underwear I have on.",Amy,1
+6193,6,106,They're PJ's.,Gabe,0
+6194,6,107,You don't know that.,Amy,0
+6195,6,108,I can see Batman's head on the waistband.,Gabe,1
+6196,6,109,What is that smell? ,Amy,0
+6197,6,110,That's my new body spray.,Gabe,0
+6198,6,111,Check it out.,Gabe,0
+6199,6,112,'Duude'.,Amy,1
+6200,6,113,With two 'U's.,Amy,1
+6201,6,114,Body spray for cool dudes ages 12 to 13.,Amy,1
+6202,6,115,What's all this about? ,Amy,0
+6203,6,116,Nothing.,Gabe,0
+6204,6,117,"Oh, and by the way, for the next couple of days, I'm gonna be working on a project with a kid from summer school.",Gabe,0
+6205,6,118,"Oh, I see.",Amy,0
+6206,6,119,Is this kid a boy kid or a girl kid? ,Amy,0
+6207,6,120,I don't remember.,Gabe,1
+6208,6,121,When I'm at school I'm all about the work.,Gabe,0
+6209,6,122,Aw.,Amy,0
+6210,6,123,My little baby has a crush.,Amy,1
+6211,6,124,"Honey, can I give you some advice? ",Amy,0
+6212,6,125,I'm 13 now.,Gabe,0
+6213,6,126,I don't need any help from my Mommy.,Gabe,0
+6214,6,127,That's a direct quote from the 'Duude' commercial.,Gabe,1
+6215,6,128,Get out! ,Gabe,1
+6216,6,129,Okay.,Amy,0
+6217,6,130,NULL,Amy;Gabe,1
+6218,6,131," Hi, Gabe.",Others,0
+6219,6,132,"Hi, Jade.",Gabe,0
+6220,7,133,I like hanging out at your house.,Teddy,0
+6221,7,134,It's always so nice and peaceful.,Teddy,0
+6222,7,135,"You did what?! Without even asking me? Harry, you come back here!",Others,0
+6223,7,136," Girls, I have some exciting news.",Others,0
+6224,7,137,"Your Father quit his job, took our life savings, and bought a restaurant.",Others,0
+6225,7,138,I combined both my passions and created the world's first weather-themed eatery.,Others,0
+6226,7,139,Hurricane Harry's Weather Cafe.,Others,1
+6227,7,140,And I owe it all to Teddy.,Others,0
+6228,7,141,What did I do? ,Others,0
+6229,7,142,You did this.,Others,1
+6230,7,143,And we're all gonna work there.,Others,0
+6231,7,144,Me? What did I do? ,Others,0
+6232,7,145,"Well, you wanted jobs? Now you got them.",Others,1
+6233,7,146,"That's okay, Mr.Wentz..",Teddy,0
+6234,7,147,"Oh, no, no, no, no, Teddy.",Others,0
+6235,7,148,"You are going to be a part of this, too.",Others,0
+6236,7,149,"Because of you, this family is taking a ride on the crazy train.",Others,1
+6237,7,150,All aboard.,Others,1
+6238,7,151,NULL,Teddy,1
+6239,8,152,Hmm.,PJ,0
+6240,8,153,Ah.,PJ,0
+6241,8,154,Okay.,PJ,0
+6242,8,155,"Charlie, I've made some adjustments.",PJ,0
+6243,8,156,Your trike is now much more aerodynamic.,PJ,0
+6244,8,157,Where's my bell?,Charlie,0
+6245,8,158,"Oh, you don't need a bell, you'll be in front the whole time.",PJ,0
+6246,8,159,Right? Yes.,PJ,0
+6247,8,160,"Well, well, well.",Emmett,0
+6248,8,161,You here to back out? ,PJ,0
+6249,8,162,"No, I'm here to show you a preview of what you're gonna see tomorrow after the race.",Emmett,0
+6250,8,163,My victory dance.,Emmett,0
+6251,8,164,Uh! You like that? ,Emmett,0
+6252,8,165,Oh yeah?,PJ,0
+6253,8,166,Yeah.,Emmett,0
+6254,8,167,"Well, I got a victory dance, too.",PJ,0
+6255,8,168,Where's it at? ,Emmett,0
+6256,8,169,Goes a little something like this.,PJ,0
+6257,8,170,"That's okay, you like this? ",Emmett,0
+6258,8,171,"Oh, yes.",PJ,0
+6259,9,172,"All right, everybody, we open in five minutes.",Others,0
+6260,9,173,Where's Mother nature? ,Others,1
+6261,9,174,Here I am.,Others,0
+6262,9,175,"Oh, Mary Lou, you look stunning.",Others,0
+6263,9,176,"Oh, you know what? I thought this would be silly, but I must say..",Others,0
+6264,9,177,I do make it work.,Others,1
+6265,9,178,NULL,Others,1
+6266,9,179,Here we are.,Others,0
+6267,10,180,So..,Gabe,0
+6268,10,181,"Kind of a bummer having to go to summer school, right?",Gabe,0
+6269,10,182,I like summer school.,Others,0
+6270,10,183,Me too.,Gabe,0
+6271,10,184,"When I said bummer, I meant bummer! ",Gabe,0
+6272,10,185,You can't change the meaning of a word by just saying it differently.,Others,0
+6273,10,186,Bummer.,Gabe,0
+6274,10,187,Um..,Gabe,0
+6275,10,188,I'll be right back.,Gabe,0
+6276,11,189,Hey.,Amy,0
+6277,11,190,"How's it going out there, tiger? ",Amy,0
+6278,11,191,Terrible.,Gabe,0
+6279,11,192,I keep saying the wrong thing.,Gabe,0
+6280,11,193,Well.,Amy,0
+6281,11,194,I know how you can win her over without saying a single word.,Amy,0
+6282,11,195,The baby? How is he gonna help me? ,Gabe,0
+6283,11,196,Once she sees how great you are with Toby..,Amy,0
+6284,11,197,She is guaranteed to melt.,Amy,0
+6285,11,198,Now..,Amy,0
+6286,11,199,Hold him close.,Amy,0
+6287,11,200,Cradle the head.,Amy,0
+6288,11,201,I hope you're better with girls than my older brother.,Gabe,0
+6289,12,202,"Jade, I don't think you've met my baby brother.",Gabe,0
+6290,12,203,This is Toby.,Gabe,0
+6291,12,204,"Oh my gosh, he's so cute.",Others,0
+6292,12,205,And you're so good with him.,Others,0
+6293,12,206,The trick is to cradle the head.,Gabe,0
+6294,13,207,"Here, have some more rain.",Teddy,1
+6295,13,208,That's what we call water.,Teddy,0
+6296,13,209,Isn't that fun? ,Teddy,0
+6297,13,210,"Martin, party of four, your table is ready.",Others,0
+6298,13,211,This is Hurricane Harry with a special bulletin.,Others,0
+6299,13,212,The forecast for the next few minutes is entertaining.,Others,0
+6300,13,213,"Ladies and gentlemen, the musical stylings of..",Others,0
+6301,13,214,Wentz's Weather Girls.,Others,0
+6302,13,215,Hit it.,Teddy,0
+6303,13,216,"Hurricane Harry's is the spot doo-dah, doo-dah.",Teddy,0
+6304,13,217,We serve our dishes cold and hot all the doo-dah day.,Ivy,0
+6305,13,218,And night! ,Teddy,0
+6306,13,219,Wentz's Weather Girls.,Others,0
+6307,13,220,And they'll be back to do it again every hour on the hour.,Others,0
+6308,13,221,NULL,Ivy;Teddy,1
+6309,14,222,Think we're dry enough to go in yet? ,Ivy,0
+6310,14,223,Nope.,Teddy,0
+6311,14,224,Still squishing.,Teddy,1
+6312,14,225,Hey.,Ivy,0
+6313,14,226,What hit us during that last storm? Was that sleet? ,Ivy,1
+6314,14,227,No.,Teddy,0
+6315,14,228,Kid threw a bowl of nachos into the fan.,Teddy,0
+6316,14,229,We gotta quit this job.,Ivy,0
+6317,14,230,We can't.,Teddy,0
+6318,14,231,Your Mom would k*ll me and your Dad would be crushed.,Teddy,0
+6319,14,232,"Well, if he adds an earthquake tomorrow, we might actually be crushed.",Ivy,1
+6320,14,233,"Wait, we can't quit.",Teddy,0
+6321,14,234,But we could get fired.,Teddy,0
+6322,14,235,Yeah.,Teddy,0
+6323,14,236,NULL,Ivy;Teddy,1
+6324,15,237,"Hey, do you mind if we take a break for a second? ",Gabe,0
+6325,15,238,Why?,Others,0
+6326,15,239,There's just this thing I do for my baby brother.,Gabe,0
+6327,15,240,I share life lessons and give him advice.,Gabe,0
+6328,15,241,I call it a video diary.,Gabe,1
+6329,15,242,That is the sweetest thing ever.,Others,0
+6330,15,243,I get that a lot.,Gabe,1
+6331,15,244,"Hey, char..",Gabe,0
+6332,15,245,Toby.,Gabe,0
+6333,15,246,It's your big brother Gabe here with another one of my signature video diaries.,Gabe,0
+6334,15,247,"Anyway, last night after I tucked you in and kissed you on your head, I sang you to sleep with a song.",Gabe,0
+6335,15,248,"Oh, can you sing it now? Please? ",Others,0
+6336,15,249,"Hush, little Toby go to sleep.",Gabe,0
+6337,15,250,You're already asleep so stay asleep.,Gabe,0
+6338,15,251,La-la-la la-la-la la-la-la.,Gabe,0
+6339,15,252,Sleep.,Gabe,0
+6340,15,253,"Sleepy sleep, sleepy sleep sleep, sleep, sleep.",Gabe,0
+6341,15,254,Aw.,Others,0
+6342,15,255,"Well, that's all for now, so, I'll just say..",Gabe,0
+6343,15,256,Good..,Gabe,0
+6344,15,257,"Fortune, Toby.",Gabe,0
+6345,15,258,NULL,Gabe,1
+6346,16,259,"Now, remember, Charlie.",PJ,0
+6347,16,260,Winning isn't everything.,PJ,0
+6348,16,261,It's the only thing.,Charlie,1
+6349,16,262,Yes.,PJ,0
+6350,16,263,Yes.,PJ,0
+6351,16,264,"Okay, you know that shame you felt for the last two years? It ends today.",Emmett,0
+6352,16,265,Or it could get worse depending on how this goes.,Emmett,0
+6353,16,266,Okay.,PJ,0
+6354,16,267,The race is to that lamppost and back.,PJ,0
+6355,16,268,First trike to cross the finish line wins.,PJ,0
+6356,16,269,Wins what?,Bob,0
+6357,16,270,"Hey, Dad.",PJ,0
+6358,16,271,What is going on?,Bob,0
+6359,16,272,Nothing.,PJ,0
+6360,16,273,We're just hanging out at the park.,PJ,0
+6361,16,274,Then why have the kids got numbers on them? ,Bob,0
+6362,16,275,Because we're teaching them their ones and twos.,PJ,0
+6363,16,276,How many times have we been over this? You cannot race children like horses.,Bob,0
+6364,16,277,NULL,Emmett;Bob;PJ,1
+6365,16,278, You can't race them at all.,Bob,0
+6366,16,279,"All right, kids, come on.",Bob,0
+6367,16,280,"Hey, who wants to go to the playground? Huh? Okay, come on.",Bob,0
+6368,16,281,Man! I was all fired up for a race today.,PJ,0
+6369,16,282,"Yeah, me too.",Emmett,0
+6370,16,283,NULL,PJ;Emmett;Bob,0
+6371,17,284,Where's Toby? ,Gabe,0
+6372,17,285,Dad took him to the park.,Amy,0
+6373,17,286,"What? No, no, Jade's about to leave and I need to make a move.",Gabe,0
+6374,17,287,So make your move.,Amy,1
+6375,17,288,I don't have a move.,Gabe,1
+6376,17,289,I need Toby..,Gabe,0
+6377,17,290,She likes it when I do nice things for him.,Gabe,0
+6378,17,291,"Gabe, I'm leaving.",Others,0
+6379,17,292,Wait! Hey.,Gabe,0
+6380,17,293,So..,Gabe,0
+6381,17,294,Um..,Gabe,0
+6382,17,295,Uh..,Gabe,0
+6383,17,296,I was just wondering if..,Gabe,0
+6384,17,297,You wanted to go to a movie with me sometime? ,Gabe,0
+6385,17,298,Oh..,Others,0
+6386,17,299,Um..,Others,0
+6387,17,300,"No, thank you.",Others,0
+6388,17,301,But I thought you were kinda into me? ,Gabe,0
+6389,17,302,"Yeah, as a friend but..",Others,0
+6390,17,303,I could never date you.,Others,0
+6391,17,304,I like bad boys.,Others,0
+6392,17,305,Wha..,Gabe,0
+6393,17,306,But I am a bad boy.,Gabe,0
+6394,17,307,I was just kidding about all that baby stuff.,Gabe,0
+6395,17,308,"Gabe, be proud of who you are.",Others,0
+6396,17,309,"A sweet, sensitive, good boy.",Others,0
+6397,17,310,No.,Gabe,0
+6398,17,311,I'm not.,Gabe,0
+6399,17,312,"I'm a total jerk, ask anyone.",Gabe,0
+6400,17,313,NULL,Amy;Gabe,1
+6401,17,314,This blanket you knit for the baby is..,Amy,0
+6402,17,315,Absolutely precious.,Amy,0
+6403,17,316,"Bye, Gabe.",Others,0
+6404,18,317,Whoa! Woo! Yes! Yes! Watch this! ,PJ,0
+6405,19,318,"Well, that brings us to the top of the hour which means that it's time to give it up again for Wentz's Weather Girls.",Others,0
+6406,19,319,You ready to get fired? ,Teddy,0
+6407,19,320,Hit it.,Ivy,0
+6408,19,321,I guess that was a bad idea.,Ivy,0
+6409,19,322,We've ruined everything.,Ivy,0
+6410,19,323,"If you have to make some tough choices, we understand.",Teddy,0
+6411,19,324,And I'm talking about firing us.,Teddy,0
+6412,19,325,That was..,Others,0
+6413,19,326,Awesome! ,Others,0
+6414,19,327,My weather girls.,Others,0
+6415,19,328,We are going to be together forever.,Others,0
+6416,20,329,"Well, what do you know.",Amy,0
+6417,20,330,My boys.,Amy,0
+6418,20,331,Yeah.,Gabe,0
+6419,20,332,He woke up from his nap so we're just hanging out.,Gabe,0
+6420,20,333,Oh.,Amy,0
+6421,20,334,You know who Toby reminds me of? You.,Amy,0
+6422,20,335,NULL,Gabe;Amy,1
+6423,20,336,No.,Amy,0
+6424,20,337,Because you both have that sparkle in your eyes.,Amy,0
+6425,20,338,And that's another thing girls like..,Amy,0
+6426,20,339,A sparkle.,Amy,0
+6427,20,340,"Thanks, Mom.",Gabe,0
+6428,20,341,"Well, since you're watching Toby, you don't, um, mind if I take a nap, do you? ",Amy,0
+6429,20,342,"Well, I..",Gabe,0
+6430,20,343,"I guess, but if he..",Gabe,0
+6431,20,344,"Mom? Hey, Toby.",Gabe,0
+6432,20,345,Gabe here.,Gabe,0
+6433,20,346,"So, I want to tell you everything that I've learned about girls.",Gabe,0
+6434,20,347,That's it.,Gabe,0
+6435,20,348,"Anyway, if you ever need any advice in the future..",Gabe,0
+6436,20,349,Wait.,Teddy,0
+6437,20,350,What..,Teddy,0
+6438,20,351,What are you doing? ,Teddy,0
+6439,20,352,Making a video diary for Toby.,Gabe,0
+6440,20,353,Wha..,Teddy,0
+6441,20,354,That's kind of my thing.,Teddy,0
+6442,20,355,Not any more.,Gabe,0
+6443,20,356,So..,Gabe,0
+6444,20,357,"The next time I have a crush on a girl, wish me good fortune, Toby.",Gabe,0
+6445,20,358,"Oh, you've got to be kidding me.",Teddy,0
+6446,20,359,Jealous? ,Gabe,0
+6447,20,360,What? No.,Teddy,0
+6448,20,361,Confused.,Teddy,0
+6449,20,362,"What does 'good fortune, Toby' even mean? ",Teddy,0
+6450,20,363,NULL,Gabe;Teddy;Amy,1
+6451,20,364,"Okay, give me my camera.",Teddy,0
+6452,20,365,"Good fortune, Toby.",Gabe,0
+6453,20,366,"Good luck, Charlie.",Teddy,0
+6454,21,367,Woo.,Gabe,0
+6455,21,368,What a ride.,Gabe,0
+6456,21,369,"You know, after a workout like that, I don't want some kind of kiddie bubble bath.",Gabe,0
+6457,21,370,I'm 12 to 13 now.,Gabe,0
+6458,21,371,I want a body spray that works as hard as I do.,Gabe,0
+6459,21,372,That's why I use 'Duude'.,Gabe,0
+6460,21,373,"Duude, when you don't need help from your Mommy any more.",Gabe,0
+6461,21,374,"Duude, from the makers of 'Guy' and 'Bro'.",Others,0

@@ -1,0 +1,262 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+1071,1,0,"Okay, relax.",Teddy,0
+1072,1,1,I didn't get it on video.,Teddy,0
+1073,1,2,"Okay, you're my best friend again.",Ivy,1
+1074,1,3,"Anyways, I wanted to capture your first steps on tape But every time I put the camera on you, All I see is this.",Teddy,1
+1075,1,4,"Wait, wait, wait.",Teddy,0
+1076,1,5,And nothing.,Teddy,0
+1077,1,6,Same thing happened with the poop.,Teddy,0
+1078,2,0,"Girls, girls, come here.",Amy,0
+1079,2,1,Check it out.,Amy,0
+1080,2,2,It's an old video of me.,Amy,0
+1081,2,3,Lots of videotaping in this family.,Ivy,0
+1082,2,4,You guys sure do like yourselves.,Ivy,1
+1083,2,5,It's from my old glory days back at south high.,Amy,0
+1084,2,6,"No way, Mrs.",Ivy,0
+1085,2,7,D.,Ivy,0
+1086,2,8,"You went to our school? No, you're going to my school.",Ivy,0
+1087,2,9,"Whoa whoa, there I am The school mascot.",Amy,0
+1088,2,10,You were that big sheep thing? Not a sheep.,Ivy,0
+1089,2,11,A ram.,Amy,0
+1090,2,12,Rammy the wammy.,Amy,0
+1091,2,13,Here it is My famous wammy wiggle.,Amy,1
+1092,2,14,Listen to the crowd.,Amy,0
+1093,2,15,They love me.,Amy,0
+1094,2,16,"Well, sure.",Ivy,0
+1095,2,17,Everybody loves a dancing sheep.,Ivy,1
+1096,2,18,"Again, It's a ram.",Amy,0
+1097,2,19,It has horns.,Amy,0
+1098,2,20,"It sure looks like a lot of fun, mom.",Teddy,0
+1099,2,21,You really think so? Yeah yeah.,Amy,0
+1100,2,22,Do you think I'd say something like that Just to humor you? I'm so happy to hear that Because they're holding mascot tryouts this week.,Amy,1
+1101,2,23,"But, mom, you've already been wammy.",Teddy,0
+1102,2,24,Why would you try out again? I'm talking about you.,Amy,0
+1103,2,25,Please tell me 'you' is ivy.,Teddy,0
+1104,2,26,"Think about it, Teddy.",Amy,0
+1105,2,27,You would be the first ever second-generation wammy.,Amy,1
+1106,2,28,I've been dreaming about this since you were born.,Amy,0
+1107,2,29,"According to the internet, sheep can have horns.",Ivy,1
+1108,2,30,"Look, I don't want to put any pressure on you.",Amy,0
+1109,2,31,It's your decision.,Amy,0
+1110,2,32,You do not have to do this for me.,Amy,0
+1111,2,33,I don't? - No.,Teddy,0
+1112,2,34,You'll do it for us.,Amy,1
+1113,3,0,Hey.,Bob,0
+1114,3,1,What are you doing? Watching all my old wammy videos with Teddy.,Amy,0
+1115,3,2,Teddy? You're missing all the good parts.,Amy,0
+1116,3,3,What am I saying? They're all good parts.,Amy,1
+1117,3,4,Except for this one.,Amy,0
+1118,3,5,"Remember this, Bob? Oh, how can I forget? The night the north high barbarian took you down.",Bob,0
+1119,3,6,I hated that guy.,Amy,0
+1120,3,7,"Even for a barbarian, he was a jerk.",Amy,1
+1121,3,8,"You remember the time those g*ons from north high Grabbed you, took you on a little joyride? Every wammy's worst nightmare.",Amy,0
+1122,3,9,You know what? I can't even watch it.,Amy,0
+1123,3,10,It's too painful even now.,Amy,0
+1124,3,11,"Oh, wait, this is a good part.",Amy,0
+1125,3,12,"Come here, kids.",Amy,0
+1126,3,13,You're gonna love this.,Amy,0
+1127,3,14,Recognize that guy? Is that P.,Bob,0
+1128,3,15,J.,Gabe,0
+1129,3,16,"? Nope, that's me.",Bob,0
+1130,3,17,You mean that thin guy with a full head of hear is you? Yep.,PJ,0
+1131,3,18,So that means I'm gonna look like you when I get old.,PJ,0
+1132,3,19,"Oh, I stopped looking like that when I was 25.",Bob,0
+1133,3,20,But that's only eight years from now.,PJ,0
+1134,3,21,Enjoy it while you got it.,Bob,1
+1135,3,22,"If I were you, I'd marry young.",Gabe,1
+1136,3,23,What are you doing in here? Not being out there.,Bob,0
+1137,3,24,"What tape is she up to? Volume three, 'wammy behind the mask.",Bob,1
+1138,3,25,"' Dad, she wants me to try out.",Teddy,0
+1139,3,26,"Oh, boy.",Bob,0
+1140,3,27,I knew this day was coming.,Bob,0
+1141,3,28,But I don't want to be a mascot.,Teddy,0
+1142,3,29,I'll be the biggest dork in school.,Teddy,0
+1143,3,30,You gotta help me out here.,Teddy,0
+1144,3,31,"What do you want me to do? - Can't you talk to her? Yeah, okay.",Teddy,0
+1145,3,32,"I'll do that, honey, right after I mention That her favorite pants make her look fat.",Bob,1
+1146,3,33,Who looks fat? - Mother.,Amy,1
+1147,4,0,"Hey, we almost ended at the same time.",PJ,0
+1148,4,1,Only because I dropped one of my sticks.,Emmett,1
+1149,4,2,Did you see Charlie? She was totally rocking out.,PJ,0
+1150,4,3,Is she amazing or what? - She's okay.,PJ,0
+1151,4,4,Okay? What is that supposed to mean? You guys are always going on and on About what a super baby Charlie is.,Emmett,0
+1152,4,5,"Man, I got a nephew Mason.",Emmett,0
+1153,4,6,Now that's a baby.,Emmett,0
+1154,4,7,"What's so great about Mason? Well, for one thing he's a stud at peek-a-boo.",Emmett,0
+1155,4,8,"Come on, Charlie can play peek-a-boo with her eyes closed.",PJ,0
+1156,4,9,That's how you play peek-a-boo.,Emmett,1
+1157,4,10,"What else you got? Well, Mason's an incredibly fast crawler.",Emmett,0
+1158,4,11,Not as fast as Charlie.,PJ,0
+1159,4,12,She's like a cat.,PJ,0
+1160,4,13,"Mason sleeps at night with a rabbit Not a stuffed one, one that he caught.",Emmett,0
+1161,4,14,So you think Mason's faster.,PJ,0
+1162,4,15,I think Charlie's faster.,PJ,0
+1163,4,16,There's only one way to settle this.,PJ,0
+1164,4,17,We challenge you to a baby race.,PJ,0
+1165,4,18,"Oh, it is on.",Emmett,0
+1166,4,19,And you're gonna be sorry Because Mason rhymes with racin'.,Emmett,1
+1167,4,20,We'll take our chances.,PJ,0
+1168,4,21,"In the meantime, you might want to take a good look at this, Because that's all you and Mason are gonna be seeing.",PJ,1
+1169,5,0,I can't believe you're trying out for wammy.,Ivy,0
+1170,5,1,"The whole idea behind this friendship Was for you to make me more popular, Not lessopular.",Ivy,1
+1171,5,2,"Okay, relax.",Teddy,0
+1172,5,3,I said I had to try out.,Teddy,0
+1173,5,4,I didn't say I had to do well.,Teddy,0
+1174,5,5,"All right, people.",Others,0
+1175,5,6,Time for wammy tryouts.,Others,0
+1176,5,7,"First up, Teddy Duncan.",Others,0
+1177,5,8,I'm Teddy.,Teddy,0
+1178,5,9,"Daughter of Amy Duncan, The second finest wammy this school has ever seen.",Others,0
+1179,5,10,Who was the first? - You're looking at her.,Others,1
+1180,5,11,"Let's do this thing! All right, Duncan, let me set the scene for you.",Others,0
+1181,5,12,The team is down by eight.,Others,0
+1182,5,13,You need to get that crowd jazzed up.,Others,0
+1183,5,14,"Now give me what you got! Come on, crowd, jazz up.",Others,1
+1184,5,15,I am not feeling that.,Ivy,0
+1185,5,16,Moving on.,Others,0
+1186,5,17,How's your dancing? You tell me.,Others,0
+1187,5,18,What was that? That was interpretive dancing.,Teddy,0
+1188,5,19,That piece was called 'spring day.,Teddy,0
+1189,5,20,' I can also show you 'global warming' Or 'dogs wow!' Dancing question mark.,Teddy,1
+1190,5,21,"Question mark? That stuck, exclamation point! All right, Duncan, one more thing.",Ivy,1
+1191,5,22,Take that flag there and fire up that crowd.,Others,0
+1192,5,23,There's something wrong with that flag.,Teddy,1
+1193,5,24,"Duncan, that was Absolutely terrible, all of it.",Others,0
+1194,5,25,It's okay.,Teddy,0
+1195,5,26,I know what you're gonna say.,Teddy,0
+1196,5,27,"Congratulations, wammy.",Others,0
+1197,5,28,But I was awful.,Teddy,0
+1198,5,29,"Yeah, but you're the only one who tried out.",Others,1
+1199,5,30,See you at the big game.,Teddy,0
+1200,5,31,I can't believe this.,Teddy,0
+1201,5,32,"Well, in hindsight, I guess we should have noticed That nobody else was here.",Ivy,0
+1202,6,0,"Hey, Gabe, do me a favor.",PJ,0
+1203,6,1,Check the back of my head.,PJ,0
+1204,6,2,"Does it look like I'm going bald? Well, it's tempting to say yes, So yes.",Gabe,1
+1205,6,3,Seriously? No.,Gabe,0
+1206,6,4,Your hair is as full and stupid-looking as ever.,Gabe,0
+1207,6,5,Thank you.,PJ,0
+1208,6,6,You're a good brother.,PJ,0
+1209,6,7,"Is this why you wanted me to come down here? No, it is time To train Charlie for the baby race.",Gabe,0
+1210,6,8,Charlie? I thought the baby race was gonna be You and emmett in diapers.,Gabe,1
+1211,6,9,Now I've lost interest.,Gabe,0
+1212,6,10,"Okay, turbo baby, Let's see what you've got.",PJ,0
+1213,6,11,Looks like I've got a little work to do.,PJ,1
+1214,7,0,There she is.,Amy,0
+1215,7,1,"Hi, mom.",Teddy,0
+1216,7,2,"Hi, wammy.",Teddy,0
+1217,7,3,"Oh, did miss covington call you? No, it's on the school website.",Amy,0
+1218,7,4,"Already? There's not a picture up of me, is there? There is now.",Teddy,0
+1219,7,5,I just sent one in.,Amy,0
+1220,7,6,And I've got a big surprise for you.,Amy,0
+1221,7,7,I kept it at the end of my last season.,Amy,0
+1222,7,8,It's been sitting in the back of the shed For the last Then I can't wait to put it on my head.,Amy,1
+1223,7,9,Come on.,Amy,0
+1224,7,10,"Get it on there, girl.",Amy,0
+1225,7,11,We've got some work to do.,Amy,0
+1226,7,12,"Teddy, you look so beautiful.",Amy,0
+1227,7,13,Smells like armpit in here.,Teddy,1
+1228,7,14,I know.,Amy,0
+1229,7,15,You'll get used to it.,Amy,0
+1230,7,16,"Okay, I'm gonna teach you Some of my signature wammy moves.",Amy,0
+1231,7,17,"You gotta hit it hard, girl.",Amy,0
+1232,7,18,Now you gotta keep in rhythm.,Amy,0
+1233,7,19,And the best way to do that is with the wammy wiggle.,Amy,0
+1234,7,20,"A-five, six, seven, eight! Now we're gonna build on that move.",Amy,0
+1235,7,21,You ready? We're gonna get our steam up.,Amy,0
+1236,7,22,It goes like this.,Amy,0
+1237,7,23,"Whoo, ah-whoo, ah-whoo.",Amy,0
+1238,7,24,"No no, sweetheart.",Amy,0
+1239,7,25,You lost your wiggle.,Amy,0
+1240,7,26,"If you try to get your steam up without the wiggle, You'll just look like a fool out there.",Amy,1
+1241,7,27,Sure wouldn't want that to happen.,Amy,0
+1242,7,28,Next I want you to jump up in the air And you gotta land with your arms forming A big 'W'.,Amy,0
+1243,7,29,That's really cute.,Amy,0
+1244,7,30,"No no no, Teddy.",Amy,0
+1245,7,31,It's all in the elbows.,Amy,0
+1246,7,32,You're not vammy.,Amy,0
+1247,7,33,You're not hammy.,Amy,0
+1248,7,34,"You're wammy! Okay, girl, you do it.",Amy,0
+1249,7,35,Now dig deep and let your fire fly! I can't do this.,Teddy,0
+1250,7,36,Sure you can.,Amy,0
+1251,7,37,You just gotta practice.,Amy,0
+1252,7,38,Wammy wasn't built in a day.,Amy,0
+1253,7,39,"No, I don't want to do this.",Teddy,0
+1254,7,40,What? I don't want to be hammy or vammy or wammy! I quit.,Teddy,0
+1255,8,0,"Hey, what did you do to your mother? I told her I didn' want to be a wammy.",Bob,0
+1256,8,1,I was just being honest with her.,Teddy,0
+1257,8,2,Honest? What are you thinking? How's she taking it? Not well.,Bob,0
+1258,8,3,"She's lying in bed with her wammy head on, Stuffing tissues up her snout.",Bob,1
+1259,8,4,I don't know.,Teddy,0
+1260,8,5,Maybe being wammy was cool when you guys were in school Are you kidding me? It was never cool.,Bob,0
+1261,8,6,Your mom just didn't know that.,Bob,0
+1262,8,7,How could she not know that? Did she spend all four years of high school wearing that giant head? It was her yearbook picture.,Teddy,1
+1263,8,8,"Look, Teddy, if you don't go to that big game There's gonna be no wammy, And that is gonna break your mother's heart.",Bob,0
+1264,8,9,"Dad, I just don't want to look stupid.",Teddy,0
+1265,8,10,"Look, you're gonna let your mom and everybody at school down Because you're afraid of looking stupid? Yes, thank you for understanding.",Bob,1
+1266,8,11,"Honey, I'm not gonna tell you what to do.",Bob,0
+1267,8,12,"But just remember, Sometimes the right decision Can feel like the wrong decision.",Bob,0
+1268,8,13,And the hard decision can be the best decision.,Bob,0
+1269,8,14,"But the good decision Oh, come on, please just be wammy! Hey, wammy.",Bob,0
+1270,9,0,Going somewhere? Ever been to north high? 'cause I was thinking We could all take a little trip.,Others,0
+1271,9,1,It's about to charge.,Others,1
+1272,9,2,"Get it! Oh, this is the greatest prank ever! All right, let's see what nerd is wearing the costume this year.",Others,0
+1273,10,0,"Dude, wammy's old.",Others,0
+1274,10,1,Wammy is not old.,Amy,0
+1275,10,2,Wammy had four kids.,Amy,0
+1276,11,0,I didn't see her.,Ivy,0
+1277,11,1,Your mom's not in there.,Teddy,0
+1278,11,2,I can't believe it.,Teddy,0
+1279,11,3,She's the only reason I'm doing this stupid thing.,Teddy,0
+1280,11,4,"Well, let's get out of here.",Ivy,0
+1281,11,5,"Duncan, the gym's this way.",Others,0
+1282,11,6,Let me look at you.,Others,0
+1283,11,7,Not you wammy.,Others,0
+1284,11,8,Put on the head.,Others,1
+1285,11,9,"Oh, you look so much like your mother.",Others,1
+1286,11,10,"Showtime! I'm right behind you, t.",Others,0
+1287,11,11,Got your back.,Ivy,0
+1288,12,0,"Gentlemen, start your babies.",Gabe,0
+1289,12,1,"Go! And they're off! Oh, look, Mason.",Gabe,0
+1290,12,2,Come to the peaches.,Emmett,0
+1291,12,3,Come to mommy.,PJ,0
+1292,12,4,Come to mommy.,PJ,0
+1293,12,5,Mason got the early lead.,Gabe,0
+1294,12,6,Charlie's bringing up the rear.,Gabe,0
+1295,12,7,Look at my boy go.,Emmett,0
+1296,12,8,He's barely breaking a sweat.,Emmett,0
+1297,12,9,"At the halfway mark it's Mason, followed by Charlie.",Gabe,0
+1298,12,10,"Come on, Charlie.",PJ,0
+1299,12,11,You can do it.,PJ,0
+1300,12,12,Coming down the home stretch.,Gabe,0
+1301,12,13,It's still Mason in the lead.,Gabe,0
+1302,12,14,"Come on, Charlie.",PJ,0
+1303,12,15,It's now or never.,PJ,0
+1304,12,16,"And the winner is Charlie! Oh my gosh! Charlie, you just took your first steps.",PJ,0
+1305,12,17,"Not your best day, Mason.",Gabe,0
+1306,12,18,What went wrong out there? We'll be back when we learn how to walk.,Emmett,1
+1307,13,0,Can you please take me back to the gym? No way.,Amy,0
+1308,13,1,Not till the game's over.,Others,0
+1309,13,2,"Okay, can you take me home then? I don't even care about the game, guys.",Amy,0
+1310,13,3,"North high, south high what's the difference? Only one thing - North high rules! - Yeah! Yeah, baby! Okay, whatever.",Others,0
+1311,13,4,"Look, if we're gonna drive around in circles for hours, - Can I at least use the bathroom? - Can't you hold it? I've had four kids.",Amy,0
+1312,13,5,I pee when I sneeze.,Amy,0
+1313,13,6,Gross.,Others,0
+1314,13,7,Pull over.,Others,0
+1315,13,8,Thank you.,Amy,0
+1316,13,9,You're such a gentleman.,Amy,0
+1317,13,10,South high rules! Safety first.,Amy,0
+1318,13,11,Ram on the lam! Staring at my baldness Ain't gonna stop your baldness.,Amy,1
+1319,14,0,I just can't believe that's gonna happen to me.,PJ,0
+1320,14,1,Would you stop focusing on the negatives? - Think about the positives.,Bob,0
+1321,14,2,Like what? You're gonna have a large baseball cap collection.,PJ,1
+1322,14,3,You're gonna save on shampoo.,Bob,1
+1323,14,4,And with the money you save on shampoo You can buy more baseball caps.,Bob,1
+1324,14,5,Here comes Teddy.,Gabe,0
+1325,14,6,That's my best friend.,Ivy,0
+1326,14,7,Wammy's my best friend.,Ivy,0
+1327,15,0,"Wammy! Wammy! Wammy! Well, Charlie, looks like we both took baby steps today.",Teddy,0
+1328,15,1,You walked for the first time And I did something I didn't want to do and wound up liking it.,Teddy,0
+1329,15,2,"Wammy jammy! Good luck, Charlie.",Amy,0
+1330,15,3,"Come on, P.J.",Teddy,0
+1331,15,4,We're gonna be late for school.,Teddy,0

@@ -1,0 +1,364 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+13699,1,0,"Hey, Dad.",Teddy,0
+13700,1,1,"How was your day? Do you really want to know? Actually, I was just being polite.",Teddy,1
+13701,1,2,"It was horrible! Oh, good.",Bob,0
+13702,1,3,So you're gonna tell me anyway.,Teddy,1
+13703,1,4,"Toby kept me awake all night, so I was a zombie all day.",Bob,0
+13704,1,5,"You know, I was so tired I used termite spray on a nest full of rats.",Bob,1
+13705,1,6,Well..,Teddy,0
+13706,1,7,You'll uh..,Teddy,0
+13707,1,8,"You'll kill them tomorrow, huh, Dad? I never know what to say.",Teddy,1
+13708,1,9,"Oh, no.",Bob,0
+13709,1,10,You know what? I think I'm just gonna lay down right here.,Bob,0
+13710,1,11,Oh yeah.,Bob,0
+13711,1,12,"Toby, come on..",Amy,0
+13712,1,13,Work with me here.,Amy,0
+13713,1,14,Please? Help a mother out.,Amy,0
+13714,1,15,Guess who missed his nap? And guess who took an extra long one? Check it out.,Amy,1
+13715,1,16,I just joined the marching band.,Gabe,0
+13716,1,17,Gabe! Gabe! Gabe! - What? - Take it outside.,Bob,0
+13717,1,18,"No, Mrs.",Gabe,0
+13718,1,19,Dabney just told me to take it inside.,Gabe,0
+13719,1,20,Honey? Honey? Here's some mail for PJ.,Amy,0
+13720,1,21,Maybe you could take it to his apartment tomorrow? - How about if I do it now? - Okay.,Bob,0
+13721,1,22,This is so great.,Amy,0
+13722,1,23,Hang on.,Amy,0
+13723,1,24,I'll get my baton.,Amy,0
+13724,2,0,"Hey, thanks for coming to my volleyball game.",Spencer,0
+13725,2,1,Oh yeah.,Teddy,0
+13726,2,2,My pleasure.,Teddy,0
+13727,2,3,Getting to see all those cute guys running around in tight shirts and shorts.,Teddy,0
+13728,2,4,But mostly you.,Teddy,0
+13729,2,5,I focused on you.,Teddy,0
+13730,2,6,"Well, it was an awesome game.",Spencer,0
+13731,2,7,"I'm telling you, the team's really coming together this year.",Spencer,0
+13732,2,8,"Yeah? Yeah, it must be really fun to be a part of a team.",Teddy,0
+13733,2,9,You know what's kind of sad? This is my last year of high school and I've never played a sport.,Teddy,0
+13734,2,10,Oh well.,Spencer,0
+13735,2,11,You know what? I'll join the girls' volleyball team.,Teddy,0
+13736,2,12,"You're gonna play volleyball? Look, it's not that easy.",Spencer,0
+13737,2,13,"Well, how hard could it be? You do it.",Teddy,0
+13738,2,14,"It's very difficult, all right? I just make it look easy.",Spencer,0
+13739,2,15,Kind of like being your boyfriend.,Spencer,1
+13740,3,0,"Oh oh oh! Oh, yes! All day long! I got it.",PJ,0
+13741,3,1,Hey.,Bob,0
+13742,3,2,"Hey, Dad.",PJ,0
+13743,3,3,Welcome to Casa De PJ and Emmett.,PJ,0
+13744,3,4,"What? Wait, I thought we were calling it 'Emmett and PJ's World O' Fun'? So, what brings you to our place to be named later? I brought you some mail.",PJ,1
+13745,3,5,Hey! You got chairs.,Bob,0
+13746,3,6,"Oh, yeah.",Bob,0
+13747,3,7,Quite the change from Casa De Drums and Screaming Kids.,Bob,1
+13748,3,8,"Oh, let's go with 'World O' Fun, they're already using 'Casa De'.",PJ,1
+13749,3,9,"You know, it's not always this quiet here, Mr.Duncan.",Emmett,0
+13750,3,10,"We're right next door to a fire station, so we get a lot of sirens.",Emmett,0
+13751,3,11,"So, does a siren go off every hour of the night because it's hungry? Does a siren need to be burped and changed? You don't know a lot about sirens, do you? Well, Dad, um, thanks for stopping by.",Bob,1
+13752,3,12,"It, uh..",Bob,0
+13753,3,13,Dad? I think he's asleep.,PJ,0
+13754,3,14,And he's sitting on the remote.,Emmett,0
+13755,3,15,How are we gonna change the channel? - I got an idea.,Emmett,0
+13756,3,16,What's that? Uh..,Emmett,0
+13757,3,17,It worked.,PJ,0
+13758,3,18,Okay.,Emmett,0
+13759,3,19,"Wait, wait, wait, go back.",Emmett,0
+13760,3,20,Oh um.,PJ,0
+13761,3,21,Ah.,PJ,0
+13762,3,22,Perfect.,Emmett,0
+13763,3,23,Okay.,PJ,0
+13764,3,24,Now how are we gonna turn up the volume? - Volume's fine.,Emmett,0
+13765,3,25,Yup.,Emmett,0
+13766,4,0,"Hey, Mom? I need some help with my science project.",Gabe,0
+13767,4,1,"Where's Dad? Uh, hello? Why don't you want my help? Come on, Gabe.",Amy,0
+13768,4,2,I'm great at science.,Amy,0
+13769,4,3,And it sounds like fun.,Amy,0
+13770,4,4,Helping me with a science project sounds fun? I'm covered in spit-up.,Gabe,0
+13771,4,5,"Work with me, here.",Amy,0
+13772,4,6,All right.,Gabe,0
+13773,4,7,I'll give you a shot.,Gabe,0
+13774,4,8,Great.,Amy,0
+13775,4,9,"And just so we're clear, I'm not gonna let you trick me into doing all the work like you do with Dad.",Amy,0
+13776,4,10,"For your information, Dad enjoys being tricked.",Gabe,0
+13777,4,11,It's part of the dance we do.,Gabe,1
+13778,4,12,"All right, what's the project? Building a model rocket to launch at the science fair.",Gabe,0
+13779,4,13,Ooh.,Amy,0
+13780,4,14,Fun.,Amy,0
+13781,4,15,When's it due? - Two days.,Amy,0
+13782,4,16,"Two days?! Why did you wait until the last minute? Well, that's when Dad does his best work.",Gabe,1
+13783,4,17,That's true.,Amy,0
+13784,5,0,"Listen up, everybody.",Other,0
+13785,5,1,I want you to meet the newest member of our team.,Other,0
+13786,5,2,"Hi, everybody.",Teddy,0
+13787,5,3,I'm Teddy.,Teddy,0
+13788,5,4,Wrong.,Other,0
+13789,5,5,"No, I'm pretty sure.",Teddy,0
+13790,5,6,Teddy's too soft.,Other,0
+13791,5,7,It's too nice.,Other,0
+13792,5,8,"From now on, your volleyball name is uh..",Other,0
+13793,5,9,T-Rex! Keep stretching.,Other,0
+13794,5,10,I'm gonna get a fresh whistle.,Other,0
+13795,5,11,Coach likes to give us all fierce dinosaur nicknames that go with the first letter of our name.,Other,0
+13796,5,12,"I'm Vonnie, so I'm 'Velociraptor,' Stephanie's 'stegosaurus,' Taylor's 'pterodactyl'.",Other,0
+13797,5,13,But pterodactyl begins with a 'P'.,Teddy,0
+13798,5,14,Tell it to the coach.,Other,0
+13799,5,15,He loves to be corrected.,Other,0
+13800,5,16,"All right, let's get to work.",Other,0
+13801,5,17,"I'm sorry, I thought you were gonna get that.",Teddy,0
+13802,5,18,Way to go.,Teddy,0
+13803,5,19,Nice sh*t.,Teddy,0
+13804,5,20,That was awesome.,Teddy,0
+13805,5,21,"Oh, are you okay? That was mine, wasn't it? That's it.",Teddy,0
+13806,5,22,Practice is over.,Other,0
+13807,5,23,"Except for you, T-Rex.",Other,0
+13808,5,24,I want to talk to you in private.,Other,0
+13809,5,25,You stink.,Other,0
+13810,5,26,"Coach, I don't think we're in private yet.",Teddy,0
+13811,5,27,And do you know why you stink? No.,Other,0
+13812,5,28,"When I ask a question, I don't want an answer, do you understand me? I don't know what to do.",Other,0
+13813,5,29,You're too nice.,Other,0
+13814,5,30,"Nice people, they get pushed around.",Other,0
+13815,5,31,"And I'm not talking about volleyball, I'm talking about life.",Other,0
+13816,5,32,It's just my first day.,Teddy,0
+13817,5,33,And possibly your last.,Other,0
+13818,5,34,"Now, if you want to stay on my team, you need to come back tomorrow and play with some fire.",Other,0
+13819,5,35,You got it? - Got it.,Other,0
+13820,5,36,"Oh, and one more thing.",Teddy,0
+13821,5,37,Pterodactyl actually starts with a 'P'.,Teddy,0
+13822,5,38,"I know that it's kind of confusing, but it's..",Teddy,0
+13823,6,0,Get out of here! See? Isn't this nice? Working on a project together.,Amy,0
+13824,6,1,Nice? It's great.,Gabe,0
+13825,6,2,It doesn't even feel like homework.,Gabe,0
+13826,6,3,It's more like..,Gabe,0
+13827,6,4,"Home play, or home joy, or..",Gabe,0
+13828,6,5,Too much? Okay.,Gabe,0
+13829,6,6,"Hey, Charlie.",Amy,0
+13830,6,7,What do you want? Oh..,Amy,0
+13831,6,8,"I forgot, I totally promised Charlie I was gonna play with her.",Gabe,0
+13832,6,9,"Charlie, I'm sorry I can't play with you.",Gabe,0
+13833,6,10,"Look, I know you've been feeling neglected ever since Toby came along, but I'm working on a big school project with Mom.",Gabe,0
+13834,6,11,"Oh, you know, go play with her for a few minutes.",Amy,0
+13835,6,12,I'll just get this started.,Amy,0
+13836,6,13,If you say so.,Gabe,0
+13837,6,14,Where's my toy? - Just like we talked about.,Charlie,0
+13838,6,15,Thank you.,Charlie,0
+13839,6,16,"All right, now, let's head down to the basement where you're gonna play 'sit quietly,' while I play 'watch TV'.",Gabe,1
+13840,7,0,And then he said that I stink because I'm too nice.,Teddy,0
+13841,7,1,You know this is all your fault.,Teddy,0
+13842,7,2,How is it my fault? You're the one who wanted to join a team.,Spencer,0
+13843,7,3,"Well, you could have mentioned that the coach was a lunatic.",Teddy,0
+13844,7,4,You know what? I don't need this.,Teddy,0
+13845,7,5,I'm gonna quit.,Teddy,0
+13846,7,6,"Well, I thought you wanted to play a sport.",Spencer,0
+13847,7,7,"Yeah, well there's plenty of other sports out there.",Teddy,0
+13848,7,8,"I'll do the one with the, um..",Teddy,0
+13849,7,9,With the the ball and the stick and the helmet.,Teddy,0
+13850,7,10,"Okay, so that would be either Softball, Field Hockey, or Lacrosse.",Spencer,0
+13851,7,11,Which one's outdoors? - All of them are.,Teddy,0
+13852,7,12,Which one has the cutest uniforms? - None of them do.,Teddy,0
+13853,7,13,Sports is so hard.,Teddy,0
+13854,8,0,Gentlemen.,Bob,0
+13855,8,1,"Hey, Dad.",PJ,0
+13856,8,2,"What are you doing here? - Again? Oh, I, uh..",Emmett,1
+13857,8,3,Brought you a little housewarming gift.,Bob,0
+13858,8,4,Vacuum bags.,Bob,0
+13859,8,5,That will come in handy once we get a vacuum.,Emmett,1
+13860,8,6,"Well, Dad, it was nice of you to..",PJ,0
+13861,8,7,Take off your coat and stay.,PJ,0
+13862,8,8,I also brought..,Bob,0
+13863,8,9,This awesome Japanese monster movie.,Bob,0
+13864,8,10,Your Mom hates it when I watch these at home.,Bob,0
+13865,8,11,Put it in the thing.,Bob,0
+13866,8,12,Um..,PJ,0
+13867,8,13,"You know, actually, Dad, we're kind of busy.",PJ,0
+13868,8,14,That's all right.,Bob,0
+13869,8,15,Don't worry about it.,Bob,0
+13870,8,16,You're not gonna bother me.,Bob,0
+13871,8,17,"Just another peaceful day in Tokyo, huh? Oh, that's gonna change.",Bob,0
+13872,9,0,"Teddy? Why are you getting home from work so late? Well, I had a very stressful day at the library.",Bob,0
+13873,9,1,"One of the patrons was talking, and I was gonna say something, but I didn't want to be mean.",Teddy,0
+13874,9,2,"Then my boss got mad at me, so I hid in the stacks and cried.",Teddy,0
+13875,9,3,"Teddy, you gotta stop letting people walk all over you.",Bob,0
+13876,9,4,Yeah.,Teddy,0
+13877,9,5,What are you standing there for? - Get in the kitchen and make dinner.,Bob,0
+13878,9,6,"Yes, Sir.",Teddy,0
+13879,9,7,Get the door first.,Bob,0
+13880,9,8,Mr.Hammerstone? - Look at you.,Teddy,0
+13881,9,9,"Because you quit the team, people walked all over you the rest of your life.",Other,0
+13882,9,10,I told you so.,Other,0
+13883,9,11,I told you so.,Other,0
+13884,9,12,I told you so.,Other,0
+13885,9,13,Can I use your bathroom? - Sure.,Other,0
+13886,9,14,I told you so.,Other,0
+13887,9,15,That's it.,Teddy,0
+13888,9,16,I am done being nice.,Teddy,0
+13889,9,17,Gumdrops and lollipops..,Teddy,0
+13890,9,18,Aw.,Teddy,0
+13891,10,0,"No! Hey, honey.",Amy,0
+13892,10,1,How'd you sleep? Lousy.,Teddy,0
+13893,10,2,"And if that doesn't sound nice, then too bad.",Teddy,0
+13894,10,3,"Well, someone's in a mood.",Gabe,0
+13895,10,4,"Got a problem with that? Um, Teddy? Sweetheart, um, are you okay? Because you just seem, I don't know, completely different? What? Do you want some of this? Come again? Well, you know whether or not you want it..",Amy,1
+13896,10,5,I'm not going to give it to you.,Teddy,0
+13897,10,6,That's what I thought.,Amy,0
+13898,10,7,"Gabe, honey? I'm gonna say something to you I have never said before.",Amy,0
+13899,10,8,"Right now, you're my favorite.",Amy,0
+13900,10,9,Feels good.,Gabe,0
+13901,10,10,Don't get used to it.,Teddy,0
+13902,11,0,Hey.,PJ,0
+13903,11,1,Dad.,PJ,0
+13904,11,2,How did you get in here? Locksmith let me in.,PJ,0
+13905,11,3,He let you into our apartment without our permission? Locksmiths and exterminators are brothers.,Bob,1
+13906,11,4,"Yeah, we're like cops and firefighters.",Bob,1
+13907,11,5,Just a little less heroic.,Bob,1
+13908,11,6,"Hey, you know what? I got you a present.",Bob,0
+13909,11,7,And you're welcome.,Bob,0
+13910,11,8,A vacuum cleaner.,Emmett,0
+13911,11,9,Yay.,PJ,0
+13912,11,10,"Uh, so..",PJ,0
+13913,11,11,"Dad, um, how much longer are you..",PJ,0
+13914,11,12,Oh.,Bob,0
+13915,11,13,Wait.,Bob,0
+13916,11,14,Pizza's ready.,Bob,0
+13917,11,15,You've gotta get rid of him.,Emmett,0
+13918,11,16,Don't worry.,PJ,0
+13919,11,17,He..,PJ,0
+13920,11,18,He won't stay long.,PJ,0
+13921,11,19,You know what? I was thinking about getting you guys a sofa bed.,Bob,0
+13922,11,20,"You know, so that when I'm here late and you want me to stay over? Now.",Bob,0
+13923,11,21,Got an idea.,PJ,0
+13924,11,22,"So, he likes it here because it's quiet, right? - Right.",PJ,0
+13925,11,23,Watch this.,PJ,0
+13926,11,24,"Hey, Dad? - Yeah? Mind if I take the new vacuum for a little test run? Go ahead.",PJ,0
+13927,11,25,Okay.,PJ,0
+13928,11,26,Just my luck..,PJ,0
+13929,11,27,The 'shush vac'.,PJ,0
+13930,11,28,Um.,PJ,0
+13931,11,29,"Um, PJ? What are you doing? What? PJ? P..",Bob,0
+13932,11,30,PJ.,Bob,0
+13933,11,31,"PJ! Yes, Dad? What are you doing? Well, I just don't feel like I'm cleaning unless I hear that sound.",PJ,1
+13934,11,32,Is..,PJ,0
+13935,11,33,Is that bothering you? No.,Emmett,0
+13936,11,34,Still quieter than home.,Bob,0
+13937,12,0,Ah.,Gabe,0
+13938,12,1,Mom.,Gabe,0
+13939,12,2,"What did you do to my rocket? Well, uh, first, I built it.",Gabe,0
+13940,12,3,And then I made it purty.,Amy,0
+13941,12,4,"Feathers? Why'd you have to add feathers? Oh, that was Charlie's special touch.",Gabe,0
+13942,12,5,We also named it.,Amy,0
+13943,12,6,Say hello..,Amy,0
+13944,12,7,To 'Rainbow Sunshine'.,Amy,0
+13945,12,8,I can't take that to school.,Gabe,0
+13946,12,9,"Well, I guess you could always redecorate it yourself.",Amy,0
+13947,12,10,You mean..,Gabe,0
+13948,12,11,Work on my own project? Has it really come to that? I'm afraid so.,Gabe,0
+13949,12,12,It was a good run.,Gabe,0
+13950,13,0,Duncan.,Other,0
+13951,13,1,I didn't think you'd come back.,Other,0
+13952,13,2,"Did you sleep on what I said? Oh, I slept on it, dreamt it, chewed it up, and spit it out.",Teddy,0
+13953,13,3,"All right, Dinos, listen up.",Other,0
+13954,13,4,We're gonna scrimmage the boys' team today.,Other,0
+13955,13,5,"Yeah! Whatever scrimmage means, bring it! Thought you were quitting.",Teddy,0
+13956,13,6,What? You're trying to get in my head? Or you afraid to lose to a bunch of girls? You trash talk your boyfriend? I'm so gonna do that as soon as I learn how to trash talk..,Teddy,0
+13957,13,7,And get a boyfriend.,Other,1
+13958,13,8,Oh yeah.,Teddy,0
+13959,13,9,"Got lucky, punks.",Teddy,0
+13960,13,10,"Oh, sweetums! Oh.",Teddy,0
+13961,13,11,I think you broke my nose.,Spencer,0
+13962,13,12,"T-Rex, let me get in there.",Other,0
+13963,13,13,"Oh! Oh, my nose! She broke my nose too.",Other,0
+13964,13,14,"Oh, I'm so sorry.",Teddy,0
+13965,13,15,I didn't..,Teddy,0
+13966,13,16,It was an accident.,Teddy,0
+13967,13,17,They were both accidents.,Teddy,0
+13968,13,18,"Sweet mother, I created a monster! No.",Other,0
+13969,13,19,"Guys, come on.",Teddy,0
+13970,13,20,I'm not a monster.,Teddy,0
+13971,13,21,I'm not a monster.,Teddy,0
+13972,13,22,Does anyone know when Field Hockey try-outs are? All right.,Teddy,0
+13973,14,0,All right.,Gabe,0
+13974,14,1,"All right, I'm done! Come on.",Gabe,0
+13975,14,2,Wow.,Amy,0
+13976,14,3,What do you think? You ruined it.,Gabe,0
+13977,14,4,Rainbow Sunshine is now..,Gabe,0
+13978,14,5,'Black Night Doom m*ssile Terror Fireball'.,Gabe,0
+13979,14,6,"All right, let's do a test launch.",Gabe,0
+13980,14,7,"Okay, whoa.",Amy,0
+13981,14,8,"Before you do, I've prepared a few words.",Amy,0
+13982,14,9,Oh boy.,Charlie,0
+13983,14,10,"'From the beginning of time, man looked to the heavens and said..'Stupid birds! How come they get to fly and we don't?'' - I'm pushing the button.",Amy,0
+13984,14,11,"No, no, no! I haven't gotten to my favorite part.",Amy,0
+13985,14,12,"Wait, wait, wait.",Amy,0
+13986,14,13,"Three, two, one..",Gabe,0
+13987,14,14,Blast off.,Gabe,0
+13988,14,15,"Yeah, that's some fireball.",Amy,1
+13989,15,0,Hey.,Bob,0
+13990,15,1,Hey.,Bob,0
+13991,15,2,"What are you doing out here? Uh, we need to talk.",PJ,0
+13992,15,3,"Okay, but can we do it over at your place? Because I'm way more comfortable over there.",Bob,0
+13993,15,4,Actually..,PJ,0
+13994,15,5,"Actually, let's do it here.",PJ,0
+13995,15,6,Okay? Okay.,Bob,0
+13996,15,7,"Wow, this is really hard.",PJ,0
+13997,15,8,I..,PJ,0
+13998,15,9,Don't really know how to do this.,PJ,0
+13999,15,10,"Well, PJ, if it's hard to say, just say it fast.",Bob,0
+14000,15,11,It's like..,Bob,0
+14001,15,12,Like tearing off a bandage.,Bob,0
+14002,15,13,All right.,PJ,0
+14003,15,14,Here goes.,PJ,0
+14004,15,15,Idon'twantyoutohangoutatmyplacesomuch.,PJ,0
+14005,15,16,You might want to tear that a little slower.,Bob,1
+14006,15,17,I..,PJ,0
+14007,15,18,Don't..,PJ,0
+14008,15,19,Little little..,Bob,0
+14009,15,20,Little faster.,Bob,1
+14010,15,21,I don't want you to hang out at my place so much.,PJ,0
+14011,15,22,"Look, I'm sorry, Dad, but I moved out of the house so I could be on my own.",PJ,0
+14012,15,23,Kind of hard to do that when you're always there.,PJ,0
+14013,15,24,I see.,Bob,0
+14014,15,25,You mad at me? No.,Bob,0
+14015,15,26,Okay.,PJ,0
+14016,15,27,No.,Bob,0
+14017,15,28,"No, come on, you're absolutely right.",Bob,0
+14018,15,29,It's your place.,Bob,0
+14019,15,30,You don't want your old man hanging out there all the time.,Bob,0
+14020,15,31,"No, I do not.",PJ,0
+14021,15,32,I mean..,PJ,0
+14022,15,33,I mean..,PJ,0
+14023,15,34,Thanks for understanding.,PJ,0
+14024,15,35,"Oh, I'm gonna miss your place.",Bob,0
+14025,15,36,Because let me tell you something.,Bob,0
+14026,15,37,Around here? It always feels like there's something crazy going on.,Bob,0
+14027,15,38,Oh.,Gabe,0
+14028,15,39,"Mom, I think I found the problem.",Gabe,0
+14029,15,40,Loose wires.,Gabe,0
+14030,15,41,Well dude.,Amy,0
+14031,15,42,Stick 'em together.,Amy,0
+14032,15,43,Was that a rocket? - Yup.,PJ,0
+14033,15,44,"Come over any time, Dad.",PJ,1
+14034,15,45,How about now? - Let's go.,Bob,1
+14035,16,0,"Hey, Charlie.",Teddy,0
+14036,16,1,"So, big news.",Teddy,0
+14037,16,2,Looks like I'm staying on the volleyball team.,Teddy,0
+14038,16,3,"You know, after they make a few minor repairs to the gym.",Teddy,0
+14039,16,4,Speaking of minor repairs.,Teddy,0
+14040,16,5,So this is what happens if you let Mom help you with a school project.,Teddy,0
+14041,16,6,"Okay, it was not my fault.",Amy,0
+14042,16,7,Really? Because Gabe said you uttered the words..,Teddy,0
+14043,16,8,"'Dude, stick 'em together'.",Teddy,0
+14044,16,9,I don't recall exactly what I uttered.,Amy,0
+14045,16,10,Okay.,Teddy,0
+14046,16,11,"Well, consider yourself warned.",Teddy,0
+14047,16,12,If you ever allow Mom to help you with a science project..,Teddy,0
+14048,16,13,"Good luck, Charlie.",Amy,0
+14049,17,0,"Fly, rocket.",Amy,0
+14050,17,1,Fly high.,Amy,0
+14051,17,2,"Hey, hon.",Bob,0
+14052,17,3,"Bob? What are you doing here? Oh, PJ and Emmett kicked me out.",Bob,0
+14053,17,4,So I'm just looking for a little peace and quiet.,Bob,0
+14054,17,5,"Well, you're crowding me.",Amy,0
+14055,17,6,Get lost.,Amy,0
+14056,17,7,"I'm crowding you? In outer space? Oh, would you just leave? Honey, I'm floating.",Bob,0
+14057,17,8,It's not like I can steer the chair.,Bob,0
+14058,17,9,"Oh, well let me help you out.",Amy,0
+14059,17,10,Hey..,Amy,0
+14060,17,11,Whoa whoa whoa! Fly chair.,Amy,0
+14061,17,12,Fly high!,Amy,0

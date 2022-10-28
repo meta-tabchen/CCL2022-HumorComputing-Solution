@@ -1,0 +1,332 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker
+5182,1,0,I know.,Amy
+5183,1,1,"Well, hang in there, honey, okay? Okay, bye-bye.",Amy
+5184,1,2,I thought you were going to shave.,Amy
+5185,1,3,"What, are you kidding? I waited my whole life for mutton chops to come back.",Bob
+5186,1,4,These bad boys aren't going anywhere.,Bob
+5187,1,5,I just got off the phone with Gabe.,Amy
+5188,1,6,Apparently Gabe Junior is quite a challenge.,Amy
+5189,1,7,He even referred to him as 'The Devil Child'.,Amy
+5190,1,8,"What goes around comes around, huh? Woo! Up top.",Bob
+5191,1,9,"Mom, Toby's not talking to me.",Charlie
+5192,1,10,"Toby, talk to Charlie.",Amy
+5193,1,11,No way.,Toby
+5194,1,12,"Toby - Hey, dad, chops are looking good.",Toby
+5195,1,13,"Oh, thanks, pal.",Bob
+5196,1,14,"You know, it took five tries, but I finally got a kid to be nice to me.",Bob
+5197,1,15,Toby's been giving me the silent treatment for two days.,Charlie
+5198,1,16,"What'd you do? - Nothing! Well, okay.",Charlie
+5199,1,17,I told some girl that he liked her.,Charlie
+5200,1,18,"It's funny how, whenever you say 'nothing,' it's always followed by something.",Amy
+5201,1,19,What does that mean? - Nothing.,Charlie
+5202,1,20,"Well, what am I going to do about Toby? You know, I think that Teddy went through something like this with Gabe once.",Amy
+5203,1,21,Do you think she did a video diary about it? I think she did a video diary about everything.,Amy
+5204,1,22,"Hey, Gabe.",Amy
+5205,1,23,Hi.,Amy
+5206,1,24,Gabe Junior.,Amy
+5207,1,25,"You did what? You tied your daddy to a chair? Honey, listen to me very carefully, okay? Do you know how to work a camera phone? Great.",Amy
+5208,2,26,"Computer, bring up Teddy's video diaries.",Charlie
+5209,2,27,Accessing files.,others
+5210,2,28,Cross reference 'silent treatment'.,Charlie
+5211,2,29,"Hey, Charlie.",Teddy
+5212,2,30,"Well, crazy week for the Duncan family.",Teddy
+5213,2,31,"This is going to be a long one, so you might want to get comfortable.",Teddy
+5214,2,32,"Anyway, it all started a few days ago.",Teddy
+5215,3,33,"Oh! Charlie, it's so sweet you're playing with Toby.",Teddy
+5216,3,34,You're a really good big sister.,Teddy
+5217,3,35,"No, I'm not.",Charlie
+5218,3,36,What do you mean? I got in trouble.,Teddy
+5219,3,37,This is my punishment.,Charlie
+5220,3,38,"Well, you're still A sister.",Teddy
+5221,3,39,"Hi, Lauren.",Teddy
+5222,3,40,"Hi, Teddy.",Lauren
+5223,3,41,"Is Gabe here? Uh, no.",Lauren
+5224,3,42,"Do you want me to give him a message? Yeah, could you tell him I need to talk to him? It's about our relationship.",Teddy
+5225,3,43,Oh.,Teddy
+5226,3,44,Okay.,Teddy
+5227,3,45,"Um, I'll have him call you.",Teddy
+5228,3,46,"No, I really need to do this in person.",Lauren
+5229,3,47,All right.,Teddy
+5230,3,48,Thanks.,Lauren
+5231,3,49,Uh oh.,Teddy
+5232,3,50,"What's wrong? Well, usually when a girl says she needs to talk about the relationship, it means she doesn't like the boy anymore.",Teddy
+5233,3,51,We need to talk about our relationship.,Charlie
+5234,4,52,"Meanwhile, there was some trouble brewing in the neighborhood.",Teddy
+5235,4,53,We've got a problem.,others
+5236,4,54,"Well, come on in, Debbie.",Amy
+5237,4,55,I came outside this morning to find that some hooligan had rubbed soap all over my car windows.,others
+5238,4,56,"So I guess what I'm asking is Where was Gabe last night? All right, it wasn't Gabe.",others
+5239,4,57,He's too old for that kind of stuff.,Bob
+5240,4,58,"No, besides, soap was never his thing.",PJ
+5241,4,59,"Eggs, water balloons, toilet paper that's really where he excelled.",PJ
+5242,4,60,"Well, whoever it was, we need to catch him.",others
+5243,4,61,Almost everyone on the block's been hit by the mad soaper.,others
+5244,4,62,You know what we need? We need a neighborhood watch.,Bob
+5245,4,63,"Okay, so why don't we get everybody together tonight? ",Amy
+5246,4,64,We can do it here.,Amy
+5247,4,65,"Ooh, could I cater it? I've got some new ideas for appetizers.",PJ
+5248,4,66,"I could wrap bacon around Ooh, that sounds good.",PJ
+5249,4,67,I'll go spread the word.,others
+5250,4,68,Oh! My car got soaped.,others
+5251,4,69,Where was Abe last night? It's Gabe.,others
+5252,4,70,"So he's got a partner now, huh? ",others
+5253,5,71,Hey.,Teddy
+5254,5,72,Hey.,Gabe
+5255,5,73,"Oh, Gabe, Lauren stopped by.",Teddy
+5256,5,74,She wants you to come over.,Teddy
+5257,5,75,"Oh, okay.",Gabe
+5258,5,76,"Wait, hold on.",Teddy
+5259,5,77,"Um, she said that she wants to talk to you about your relationship.",Teddy
+5260,5,78,"Hmm, okay.",Gabe
+5261,5,79,Hold on.,Teddy
+5262,5,80,Come sit with your sister.,Teddy
+5263,5,81,We need to talk.,Teddy
+5264,5,82,"All right He said, slightly creeped out.",Gabe
+5265,5,83,"Look, do you know what it means when a girl says that she wants to talk to you about the relationship? That she wants to talk about the relationship? No! Girls never say what they mean.",Teddy
+5266,5,84,So - Are you saying what you mean right now? ,Gabe
+5267,5,85,"Gabe just Listen to me, okay? Most of the time when a girl says That she wants to talk about the relationship.",Teddy
+5268,5,86,"It means Well, that she doesn't want it to continue.",Teddy
+5269,5,87,"You mean, she's going to dump me? I kind of think so.",Gabe
+5270,5,88,"Oh, man.",Gabe
+5271,5,89,I thought everything was going great.,Gabe
+5272,5,90,Guys always think that.,Teddy
+5273,5,91,"I can't believe I finally get a girlfriend, and now she's going to dump me.",Gabe
+5274,5,92,"I mean, I could be wrong.",Teddy
+5275,5,93,"No, somebody who's been dumped as many times as you knows the drill.",Gabe
+5276,5,94,I can't believe this.,Gabe
+5277,5,95,"Look, I know it's hard.",Teddy
+5278,5,96,But what does having a girlfriend even mean at your age? All you guys do is go to the movies and play video games.,Teddy
+5279,5,97,"Great, so I'm devastated and my relationship was meaningless.",Gabe
+5280,5,98,Come here.,Teddy
+5281,5,99,I know it hurts.,Teddy
+5282,5,100,Do you want to cry? I didn't until you started hugging me.,Teddy
+5283,6,101,"Welcome, everybody, to the first-ever meeting of the Edgewood Drive neighborhood watch.",Bob
+5284,6,102,Objection! I think it should be called the 'Edgewood Drive neighborhood patrol'.,others
+5285,6,103,Sounds more official.,others
+5286,6,104,Are we going to get T-shirts? And we're off to a great start.,others
+5287,6,105,"Car's all clean, Mr.Doogan.",others
+5288,6,106,"Ah, thanks, Tommy.",others
+5289,6,107,We've got to catch whoever's soaping our cars.,Bob
+5290,6,108,"Yep, but first, we should give 'em a nickname.",others
+5291,6,109,"Oh, I know how about 'the mad soaper'? Wonder where she got that one.",Amy
+5292,6,110,Is that all we're talking about? Because I park in my garage.,Dabney
+5293,6,111,"Okay, but you care about the rest of us, right? You people crack me up.",Bob
+5294,6,112,I'm out of here.,Dabney
+5295,6,113,"Oh uh Before you go, Mrs.Dabney, crab puff? Don't mind if I do.",PJ
+5296,6,114,Oh! Uh I've got cats.,Dabney
+5297,6,115,"Well, hope those kitty cats enjoy the crab at $14 a pound.",PJ
+5298,6,116,I have an idea.,others
+5299,6,117,"Go ahead, Mrs.Dobbs.",Bob
+5300,6,118,I say we break into teams of two and patrol the neighborhood after dark.,others
+5301,6,119,"What do you think, Bert? Well, I think that's a great idea.",others
+5302,6,120,I'd like someone young who can stay up late.,others
+5303,6,121,I'll take him.,others
+5304,6,122,I'm just here catering.,PJ
+5305,6,123,You're either with us or you're against us.,others
+5306,7,124,"Oh! Hi, Gabe.",Lauren
+5307,7,125,"You want to come in? Uh, no.",Lauren
+5308,7,126,I want to do this out here.,Gabe
+5309,7,127,Do what? I'm breaking up with you.,Gabe
+5310,7,128,How does that feel? Bad.,Gabe
+5311,7,129,"Good, that's what I was going for.",Gabe
+5312,7,130,But I thought things were going so well.,Lauren
+5313,7,131,Really? All we do is play video games and go to movies.,Gabe
+5314,7,132,I thought you liked doing that stuff with me.,Lauren
+5315,7,133,"Oh, please.",Gabe
+5316,7,134,"'Hey, wait till you get to level two'.",Gabe
+5317,7,135,I was faking it.,Gabe
+5318,7,136,I can't believe this is happening.,Lauren
+5319,7,137,What are you talking about? You were going to break up with me.,Gabe
+5320,7,138,"Where did you get that idea? You said you wanted to talk about our relationship, I know what that means.",Lauren
+5321,7,139,I wanted to update my status to 'in a relationship'.,Lauren
+5322,7,140,I was just going to ask if you were okay with that.,Lauren
+5323,7,141,But now I don't have to bother.,Lauren
+5324,7,142,"Teddy! You ruined my life! Yeah yeah, what'd I do now? No, not you.",Gabe
+5325,7,143,I meant Teddy.,Gabe
+5326,7,144,Oh! Proceed.,Amy
+5327,7,145,You destroyed my relationship.,Gabe
+5328,7,146,I am never talking to you again.,Gabe
+5329,7,147,Get involved in a Yep.,Amy
+5330,7,148,Was that a good idea? ,Amy
+5331,7,149,Nope.,Teddy
+5332,8,150,"Well, Charlie, I thought I'd given Gabe some good advice.",Teddy
+5333,8,151,"But boy, was I ever wrong.",Teddy
+5334,8,152,Gabe was really mad.,Teddy
+5335,8,153,And he was serious about not talking to me.,Teddy
+5336,9,154,"Hey, Gabe.",Teddy
+5337,9,155,He's not talking to you.,Charlie
+5338,9,156,"Gabe, I've apologized like five times.",Teddy
+5339,9,157,I don't know what else to do.,Teddy
+5340,9,158,"Come on! What do you want me to do? Curl up in a hole and die? He says, 'that's fine'.",Charlie
+5341,9,159,"Man, just say something.",Teddy
+5342,9,160,At least make fun of my outfit.,Teddy
+5343,9,161,Come on.,Teddy
+5344,9,162,I wore this just to get a rise out of you.,Teddy
+5345,9,163,I can't say that.,Charlie
+5346,9,164,"Ah, that's funny.",Charlie
+5347,9,165,What did he say? ,Teddy
+5348,9,166,I forgot.,Charlie
+5349,10,167,"Well, here I am.",others
+5350,10,168,"Oh, hey, Mrs.",others
+5351,10,169,Dobbs.,Bob
+5352,10,170,Welcome to neighborhood watch command central.,Bob
+5353,10,171,You mean your porch? Yeah.,others
+5354,10,172,Okay.,Bob
+5355,10,173,Let's get some eyes on the street.,Bob
+5356,10,174,Wow.,Bob
+5357,10,175,Sure is dark tonight.,Bob
+5358,10,176,Might help if you take the lens caps off.,others
+5359,10,177,Oh! Hey.,Bob
+5360,10,178,"Thanks, partner.",Bob
+5361,10,179,Okay.,Bob
+5362,10,180,Okay.,Bob
+5363,10,181,"Yeah, he's out there.",Bob
+5364,10,182,I can feel it in my bones.,Bob
+5365,10,183,"Watch a lot of cop shows, do you? Hey, you know something, Mrs.Dobbs? You and I have never really had a chance to sit down and get to know each other.",Bob
+5366,10,184,Tell me about yourself.,Bob
+5367,10,185,"Well, I'm a widow.",others
+5368,10,186,I don't like to stay up late.,others
+5369,10,187,And this bench is uncomfortable.,others
+5370,10,188,Good night.,others
+5371,11,189,"It's a nice car, Bert.",PJ
+5372,11,190,I especially like the seat warmers.,PJ
+5373,11,191,Oh.,others
+5374,11,192,Those are on? Good.,others
+5375,11,193,I thought I was having a hot flash.,others
+5376,11,194,Nope.,PJ
+5377,11,195,Your buns are just like mine.,PJ
+5378,11,196,Warm and toasty.,PJ
+5379,11,197,And now let's talk about anything else.,PJ
+5380,11,198,"You know, being out on patrol like this reminds me of my days in the service.",others
+5381,11,199,You were in the Army? ,PJ
+5382,11,200,No! The Postal Service.,others
+5383,11,201,You're listening to KDOZ.,others
+5384,11,202,"KDOZ, mellow music for mellow people.",others
+5385,11,203,We put the Z's in easy listening.,others
+5386,11,204,You mind if I change the station? Only if you can find a better one.,PJ
+5387,11,205,There is no better one.,others
+5388,11,206,Think we should drive around a bit? Seems like a lot of trouble.,PJ
+5389,11,207,You're right.,PJ
+5390,11,208,Let's let the crime come to us.,PJ
+5391,11,209,Mmm.,others
+5392,12,210,"So, Deputy Doug lets you use his patrol car? Deputy Doug doesn't know anything about this.",Amy
+5393,12,211,He's away for the weekend.,others
+5394,12,212,What if he finds out? - Just more money for the swear jar.,others
+5395,12,213,"I gotta say, it's kind of exciting riding around in a police car.",Amy
+5396,12,214,Oh.,Amy
+5397,12,215,Must be fun for you to sit up front for a change.,others
+5398,12,216,What's that supposed to mean? I'm just guessing you've been arrested before.,Amy
+5399,12,217,Because of your attitude.,others
+5400,12,218,"Okay, you know what? That is highly offensive, Debbie.",Amy
+5401,12,219,I have not been arrested.,Amy
+5402,12,220,I was simply asked if I'd like to take a ride downtown.,Amy
+5403,13,221,Hi.,Teddy
+5404,13,222,"Hello, neighbor.",Lvy
+5405,13,223,"Well, you're in a good mood.",Teddy
+5406,13,224,Of course I am.,Lvy
+5407,13,225,Gabe and Lauren are broken up.,Lvy
+5408,13,226,The Devil Child is gone.,Lvy
+5409,13,227,This house is clean.,Lvy
+5410,13,228,"Uh, look.",Teddy
+5411,13,229,"The thing is, Gabe and Lauren broke up because of me.",Teddy
+5412,13,230,Give Mama a hug! Can I talk to Lauren? Lauren? My favorite neighbor wants to see you.,Lvy
+5413,13,231,Oh when the saints go marching in.,Lvy
+5414,13,232,Oh when the saints go marching in.,Lvy
+5415,13,233,"Hey, Lauren.",Teddy
+5416,13,234,Can we talk? Sure.,Teddy
+5417,13,235,Um Listen Gabe breaking up with you was all my fault.,Teddy
+5418,13,236,"I told him that you were gonna dump him, and so to avoid getting hurt, he dumped you first.",Teddy
+5419,13,237,Why would you tell him that? ,Lauren
+5420,13,238,I was helping.,Teddy
+5421,13,239,Was that a good idea? ,Lauren
+5422,13,240,No.,Teddy
+5423,13,241,"And so ever since you broke up, Gabe's been devastated.",Teddy
+5424,13,242,Do you think you could give him another chance? ,Teddy
+5425,13,243,Will you stay out of it? ,Lauren
+5426,13,244,Absolutely.,Teddy
+5427,13,245,Then yes.,Lauren
+5428,13,246,"Oh, when the saints, oh, when the saints.",Lvy
+5429,13,247,"Go marching in, go marching in.",Lvy
+5430,13,248,Oh when the saints go marching in.,Lvy
+5431,13,249,"You know what? Don't tell her until tomorrow, let her have tonight.",Teddy
+5432,13,250,When the saints go marching in.,Lvy
+5433,14,251,Man.,Amy
+5434,14,252,Somebody got soaped.,Amy
+5435,14,253,Whose car is this? Mom? Mrs.,others
+5436,14,254,"Dooley? You're the ones that have been soaping the windows? Hey, Bert, wake up.",PJ
+5437,14,255,We caught them.,PJ
+5438,14,256,You didn't catch anything.,others
+5439,14,257,"You fell asleep in your car, and that hooligan struck again.",others
+5440,14,258,It's MJ's fault.,others
+5441,14,259,He was supposed to stay up.,others
+5442,14,260,"In this thing? Man, I don't know how you stay up when you drive.",PJ
+5443,14,261,Who says I do? - You two should be ashamed of yourselves.,others
+5444,14,262,Completely irresponsible.,others
+5445,14,263,"Hey, check it out.",PJ
+5446,14,264,A police car rolling backward down the street.,PJ
+5447,14,265,Oh! Smoking biscuits! I forgot to set the brake! Hey.,others
+5448,15,266,You guys are back together.,Teddy
+5449,15,267,"Oh, happy ending.",Teddy
+5450,15,268,"Oh, come on.",Teddy
+5451,15,269,"You're still not talking to me? Guys, everything is fixed.",Teddy
+5452,15,270,"Actually, we decided it would be better for our relationship to not talk to you.",Lauren
+5453,15,271,"Besides, you've got bigger problems.",Lauren
+5454,15,272,You! Okay.,Dabney
+5455,16,273,"So, last night's neighborhood watch didn't go so well.",Bob
+5456,16,274,My car got soaped.,others
+5457,16,275,My rose bushes got run over by a police car.,others
+5458,16,276,"Well, that will forever remain a mystery, I guess.",others
+5459,16,277,"Here are your keys, Mr.",others
+5460,16,278,Doogan.,others
+5461,16,279,"Oh, thanks, Tommy.",others
+5462,16,280,You're the only good thing about this whole disaster.,others
+5463,16,281,"See you, everybody.",others
+5464,16,282,"Not so fast, Tommy.",others
+5465,16,283,"Neighbors, I think I just cracked this case.",PJ
+5466,16,284,It's so simple a fool could solve it.,PJ
+5467,16,285,And I did.,PJ
+5468,16,286,Who is the one person who's benefited from all this? The one who gets paid every time the cars get soaped.,PJ
+5469,16,287,That's right.,PJ
+5470,16,288,"The mad soaper is Little Tommy Dixon! Actually, it was me.",PJ
+5471,16,289,That was my next guess.,PJ
+5472,16,290,Mrs.Dobbs? My stakeout partner? Did not see this coming.,Bob
+5473,16,291,I came up with the whole scheme because I wanted to spend time with Bert Doogan.,others
+5474,16,292,I was hoping I could go on patrol with him.,others
+5475,16,293,It would have worked too if it hadn't been for PJ.,others
+5476,16,294,"No no, it's DJ.",others
+5477,16,295,It should have been me napping in the car with Bert.,others
+5478,16,296,"So what do you think, Bert? You and Mrs.",PJ
+5479,16,297,Dobbs? Can you cook? Yes.,others
+5480,16,298,Okay.,others
+5481,16,299,We're together.,others
+5482,16,300,Well.,Bob
+5483,16,301,That's it then.,Bob
+5484,16,302,Crime's been solved.,Bob
+5485,16,303,I guess there's really only one thing left to say.,Bob
+5486,16,304,Neighborhood watch one.,Bob
+5487,16,305,Criminal scum zero.,Bob
+5488,16,306,How long you been sitting on that one? Two days.,Amy
+5489,16,307,_.,
+5490,17,308,"Anyway, Charlie, I'm really glad that Gabe and Lauren are back together.",Teddy
+5491,17,309,But he's still not talking to me.,Teddy
+5492,17,310,Wait a minute.,Teddy
+5493,17,311,"I just remembered, there's one thing that always works on Gabe Duncan.",Teddy
+5494,17,312,Ever since he was a little kid.,Teddy
+5495,17,313,Tickling.,Teddy
+5496,17,314,Tickling.,Charlie
+5497,17,315,"Why didn't I think of that? Oh, Toby? So I guess now that he's 14, tickling game is a bad idea.",Teddy
+5498,17,316,I really have to watch these things to the very end.,Charlie
+5499,17,317,"It's not over until she says Good luck, Charlie.",Charlie
+5500,18,318,Hi.,Charlie
+5501,18,319,Who are you? I'm you in the future.,Charlie
+5502,18,320,I've come back in a time machine.,Charlie
+5503,18,321,Okay.,Charlie
+5504,18,322,"So, what do you think? You're pretty.",Charlie
+5505,18,323,Aren't we? Anything you want to ask me? Did Toby move in with grandma? Still working on it.,Charlie
+5506,18,324,What's Gabe doing? Eight to 10.,Charlie
+5507,18,325,What about mom? What about mom? Does it get any easier? I could lie and give you hope.,Charlie
+5508,18,326,But no.,Charlie
+5509,18,327,So what do you want? Nothing.,Charlie
+5510,18,328,I just wanted to try out my new time machine.,Charlie
+5511,18,329,I'm off to go see some dinosaurs.,Charlie
+5512,18,330,Want to come? Okay.,Charlie

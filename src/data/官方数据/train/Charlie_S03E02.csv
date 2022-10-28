@@ -1,0 +1,416 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+11569,1,0,"Gabe, be totally honest.",Amy,0.0
+11570,1,1,"For a pregnant woman, I'm really smoking, aren't I?",Amy,0.0
+11571,2,0,Ba-bam!,Amy,0.0
+11572,3,0,Yeah.,Gabe,0.0
+11573,3,1,I think silence is my best option here.,Gabe,0.0
+11574,4,0,Okay.,Amy,0.0
+11575,4,1,"Well, I'm off to yoga.",Amy,0.0
+11576,5,0,"Oh hey, before you go This silly old thing.",Gabe,0.0
+11577,6,0,Can I get a quick signature for this thing for school?,Gabe,0.0
+11578,7,0,A school thing?,Amy,0.0
+11579,7,1,Oh.,Amy,0.0
+11580,7,2,I Hope this isn't another note from your principal.,Amy,0.0
+11581,7,3,"Oh, look at that.",Amy,0.0
+11582,7,4,"Yes, that's interesting.",Amy,0.0
+11583,7,5,It's gotten to the point where 'dear Mrs.,Amy,0.0
+11584,7,6,duncan' is a stamp.,Amy,0.0
+11585,7,7,You released a bag of crickets in the library?,Amy,0.0
+11586,7,8,Why?,Amy,0.0
+11587,8,0,Crickets are noisy.,Gabe,0.0
+11588,8,1,The library is quiet.,Gabe,0.0
+11589,8,2,You try things.,Gabe,0.0
+11590,9,0,Let's see.,Amy,0.0
+11591,9,1,"I could try things like grounding you, ",Amy,0.0
+11592,9,2,cutting your allowance ,Amy,0.0
+11593,10,0,"Wow, mom, now that I'm getting a better look at you, you are smoking.",Gabe,0.0
+11594,11,0,You really think so?,Amy,0.0
+11595,12,0,Yeah.,Gabe,0.0
+11596,13,0,"Forget it, mister.",Amy,0.0
+11597,13,1,You've gone too far this time.,Amy,0.0
+11598,13,2,Your father and I will discuss your punishment later.,Amy,0.0
+11599,14,0,"All right, fine, but you still have to sign this.",Gabe,0.0
+11600,15,0,Wish I had a stamp.,Amy,0.0
+11601,16,0,I'm so glad we're back together.,Spencer,0.0
+11602,17,0,I know.,Teddy,0.0
+11603,17,1,Me too.,Teddy,0.0
+11604,17,2,"You know, I feel like when we're happy, ",Teddy,0.0
+11605,17,3,the whole world is happy.,Teddy,0.0
+11606,18,0,Right.,Ivy,0.0
+11607,18,1,Guess again.,Ivy,0.0
+11608,19,0,Oh hey!,Teddy,0.0
+11609,20,0,Wouldn't it be fun cute couple nicknamese.,Teddy,0.0
+11610,20,1,Where we combine our two names?,Teddy,0.0
+11611,21,0,Like brangelina.,Spencer,0.0
+11612,22,0,Yeah yeah yeah.,Teddy,0.0
+11613,23,0,"Right, okay.",Teddy,0.0
+11614,23,1,So Spencer and Teddy.,Teddy,0.0
+11615,23,2,"Oh, we could be 'spendy'!",Teddy,0.0
+11616,24,0,Do you like spendy?,Teddy,0.0
+11617,25,0,I'd like for spendy to hit me over the head with a club.,Ivy,0.0
+11618,26,0,"Well, I gotta go - Basketball practice.",Spencer,0.0
+11619,26,1,All right.,Teddy,0.0
+11620,27,0,"See ya later, spendy.",Teddy,0.0
+11621,27,1,I like it.,Teddy,0.0
+11622,28,0,"Ivy, why are people giving me dirty looks?",Teddy,0.0
+11623,29,0,"Hmm, it could be anything really Your pants, your shirt, the fact that you're a jinx, your hair.",Ivy,0.0
+11624,30,0,Wait.,Teddy,0.0
+11625,30,1,Whoa whoa.,Teddy,0.0
+11626,30,2,"Okay, go go back.",Teddy,0.0
+11627,30,3,I'm a jinx?,Teddy,0.0
+11628,30,4,Why would people think that?,Teddy,0.0
+11629,31,0,"Well, ever since back together, r got.",Ivy,0.0
+11630,31,1,The basketball team hasn't won a game.,Ivy,0.0
+11631,32,0,But that's ridiculous.,Teddy,0.0
+11632,32,1,"Ivy, come on.",Teddy,0.0
+11633,32,2,You don't think.,Teddy,0.0
+11634,32,3,"Weli, don't, o you?",Teddy,0.0
+11635,33,0,"But the basketball team does, the coach does, the janitor rse, I am not a jinx!",Ivy,0.0
+11636,34,0,"If anything, I'm good luck.",Teddy,0.0
+11637,35,0,Sorry.,Teddy,0.0
+11638,36,0,"Hey, looking good, Charlie.",Bob,0.0
+11639,37,0,"I know, daddy.",Charlie,0.0
+11640,38,0,"Yeah, you are your mother's daughter, all right.",Bob,0.0
+11641,39,0,"Oh, I'm next!",PJ,0.0
+11642,39,1,I'll take the race car.,PJ,0.0
+11643,40,0,"Hey, P. J. , P. J. Manager asked me to talk to you.",Bob,0.0
+11644,41,0,About what?,PJ,0.0
+11645,41,1,Come here.,Bob,0.0
+11646,41,2,He seems to think you're a little old to sit in the race car.,Bob,0.0
+11647,42,0,All right.,PJ,0.0
+11648,42,1,"I'll sit on the elephant, but my engine noises won't make any sense.",PJ,0.0
+11649,43,0,Hey.,Bob,0.0
+11650,43,1,You're old enough to vote.,Bob,0.0
+11651,43,2,You're old enough to go to a real barbershop.,Bob,0.0
+11652,44,0,But real barbershops don't give out stickers and lollipops.,PJ,0.0
+11653,45,0,Maybe you can hold off on the voting for a little while.,Bob,0.0
+11654,45,1,"Hey, you know what?",Bob,0.0
+11655,45,2,I'll take you to where I get my hair cut.,Bob,0.0
+11656,45,3,"Uh, no thanks.",PJ,0.0
+11657,45,4,You're 18.,Bob,0.0
+11658,46,0,Time to leave the orange balloon and grow up.,Bob,0.0
+11659,47,0,"Oh, great, rub it in my face.",Bob,0.0
+11660,48,0,Can you believe what Gabe did?,Amy,0.0
+11661,49,0,"No, I can't.",Bob,0.0
+11662,50,0,"I mean, everybody knows when you transport crickets.",Bob,0.0
+11663,50,1,"You don't use a bag, you use a lightly-ventilated box.",Bob,0.0
+11664,51,0,Focus!,Amy,0.0
+11665,51,1,"Bob, we have to punish him.",Amy,0.0
+11666,52,0,"Man, he's been a handful lately.",Bob,0.0
+11667,52,1,I know.,Amy,0.0
+11668,52,2,"Well, at least we don't have it as bad as my friend Pam.",Amy,0.0
+11669,52,3,She's one of the pregnant gals in my yoga class.,Amy,0.0
+11670,52,4,She has a son Gabe's age who's so out of control.,Amy,0.0
+11671,52,5,They're sending him to military school.,Amy,0.0
+11672,53,0,Military school?,Bob,0.0
+11673,54,0,"It's the only way, Bob.",Amy,0.0
+11674,54,1,You can't have.,Amy,0.0
+11675,54,2,A troublemaker like him around with a new baby on the way.,Amy,0.0
+11676,55,0,"Still, I mean, isn't that kinda harsh for a kid Gabe's age?",Bob,0.0
+11677,56,0,"What he needs is discipline, and that's what a school like Graystone academy can give him.",Amy,0.0
+11678,57,0,"Yeah, I guess.",Bob,0.0
+11679,57,1,"Hey, does he know it's happening?",Bob,0.0
+11680,58,0,"No, the trick is not to tell him.",Amy,0.0
+11681,59,0,"Then one day you say, 'hey, buddy, get in the car.",Amy,0.0
+11682,59,1,We're going for ice cream. ' Then off you go to military school.,Amy,0.0
+11683,60,0,Wow.,Bob,0.0
+11684,61,0,"I don't know if I - It's done, Bob.",Amy,0.0
+11685,62,0,And what do you care?,Amy,0.0
+11686,62,1,It's not like him leaving.,Amy,0.0
+11687,62,2,Is gonna affect your life one way or the other.,Amy,0.0
+11688,63,0,"Yeah, that's true.",Bob,0.0
+11689,64,0,"Excuse me, quick question: Do you give out prizes with your haircuts?",PJ,0.0
+11690,65,0,"Yeah, if I Nick you, you get a free bandage.",others,0.0
+11691,66,0,"That's a joke, right?",PJ,0.0
+11692,67,0,Okay.,others,0.0
+11693,67,1,"Wow, I've really got to cut down on the coffee.",others,0.0
+11694,68,0,"You know, I'm actually thinking about letting it grow out anyways.",PJ,0.0
+11695,69,0,Syd!,others,0.0
+11696,70,0,Hi.,others,0.0
+11697,71,0,Hey.,PJ,0.0
+11698,72,0,Have a seat.,others,0.0
+11699,73,0,"Well, since I'm here.",PJ,0.0
+11700,74,0,What's your name?,others,0.0
+11701,75,0,I'm P. J.,PJ,0.0
+11702,76,0,So what kind of cut would you like today?,others,0.0
+11703,77,0,"Uh, well, normally I go for the handsome prince, but today I'm thinking about changing to the sporty rascal.",PJ,0.0
+11704,78,0,"Well, P. J. , I think it's time we gave you more of an adult look.",others,0.0
+11705,79,0,How about we go Shorter on the sides.,others,0.0
+11706,79,1,And then we can layer it on top?,others,0.0
+11707,80,0,Okay.,PJ,0.0
+11708,81,0,Or we could go shorter on top.,others,0.0
+11709,81,1,And then leave it fuller in the back.,others,0.0
+11710,82,0,Whatever takesthe longest.,PJ,0.0
+11711,83,0,"Come on, let's get you shampooed.",others,0.0
+11712,84,0,We're gonna get me shampooed.,others,0.0
+11713,85,0,"Okay, don't sugarcoat it.",Teddy,0.0
+11714,85,1,Does everyone think that I'm a jinx?,Teddy,0.0
+11715,86,0,Yes.,Spencer,0.0
+11716,87,0,"Boy, no sugar there.",Teddy,0.0
+11717,88,0,"Teddy, I'm sorry, all right?",Spencer,0.0
+11718,88,1,"It's one of those, - you know, sports superstition things.",Spencer,0.0
+11719,89,0,But it's so stupid.,Teddy,0.0
+11720,90,0,"Yeah, I know, but everyone believes it.",Spencer,0.0
+11721,91,0,"Well, then we'll just have to convince them that I'm not a jinx.",Teddy,0.0
+11722,92,0,How do we do that?,Spencer,0.0
+11723,93,0,You could play better.,Teddy,0.0
+11724,94,0,That's obviously not gonna happen.,Teddy,0.0
+11725,95,0,I guess you've never heard of a sugarcoat either.,Spencer,0.0
+11726,96,0,I've got it We have to break up.,Teddy,0.0
+11727,97,0,Whoa.,Spencer,0.0
+11728,97,1,Break up?,Spencer,0.0
+11729,98,0,We don't need to break up for real.,Teddy,0.0
+11730,98,1,"We'll fake break up, the team will think the jinx is gone, they'll relax, you guys can win again.",Teddy,0.0
+11731,99,0,That could work.,Spencer,0.0
+11732,99,1,"Okay, so what's our story?",Spencer,0.0
+11733,99,2,Why are we breaking up?,Spencer,0.0
+11734,100,0,I met someone else.,Teddy,0.0
+11735,101,0,"Okay, but who?",Spencer,0.0
+11736,102,0,Serge lefleur.,Teddy,0.0
+11737,103,0,Excuse me?,Spencer,0.0
+11738,104,0,Serge was.,Teddy,0.0
+11739,104,1,My imaginary boyfriend when I was eight.,Teddy,0.0
+11740,104,2,He he had a velvet beret.,Teddy,0.0
+11741,104,3,And rode a unicycle.,Teddy,0.0
+11742,105,0,So your imaginary boyfriend was a mime.,Spencer,0.0
+11743,106,0,"Yeah, a mime who could make a layup.",Teddy,0.0
+11744,107,0,Hey!,Spencer,0.0
+11745,108,0,You won't believe this Mom and dad are sending me to military school.,Gabe,0.0
+11746,108,1,"Oh, this is terrible!",Gabe,0.0
+11747,109,0,"Well, maybe for you, but I just doubled my living space.",PJ,0.0
+11748,110,0,How can you say that?,Gabe,0.0
+11749,111,0,"What, did I get the math wrong?",PJ,0.0
+11750,112,0,"I mean, I know I've been bad, but how can they just send me away?",Gabe,0.0
+11751,113,0,"Well, you gotta hand it to mom and dad When you're adding a new kid, you kinda wanna get rid of an old one.",PJ,0.0
+11752,114,0,What about you?,Gabe,0.0
+11753,114,1,You'll be leaving for college soon.,Gabe,0.0
+11754,115,0,"Gabe, everyone knows I'm not going anywhere.",PJ,0.0
+11755,116,0,"Right, Charlie?",PJ,0.0
+11756,117,0,True dat.,Charlie,0.0
+11757,118,0,Mmm.,PJ,0.0
+11758,119,0,They're sending me to some place called Graystone academy.,Gabe,0.0
+11759,120,0,Graystone academy.,PJ,0.0
+11760,121,0,"Ah, found it.",PJ,0.0
+11761,121,1,'Graystone academy: Breaking boys' spirits since 1873.,PJ,0.0
+11762,122,0,"' Okay, there there has gotta be some way out of this.",Gabe,0.0
+11763,123,0,"Well, I'm not very good at thinking of things.",PJ,0.0
+11764,124,0,"Okay, go on.",Gabe,0.0
+11765,125,0,"No, that's it.",PJ,0.0
+11766,125,1,I'm not very good at thinking of things.,PJ,0.0
+11767,126,0,I've got it.,Gabe,0.0
+11768,126,1,I'll just start behaving better.,Gabe,0.0
+11769,126,2,"If I show mom and dad how good I can be, then they'll never send me away.",Gabe,0.0
+11770,127,0,Your plan requires you to be good.,PJ,0.0
+11771,127,1,You have no experience in that.,PJ,0.0
+11772,128,0,"Well, I'm gonna have to learn.",Gabe,0.0
+11773,128,1,It's either that.,Gabe,0.0
+11774,128,2,Or I'm off to military school.,Gabe,0.0
+11775,129,0,"Bye-bye, Gabe.",Charlie,0.0
+11776,130,0,"Hey, what were you dreaming last night?",Bob,0.0
+11777,130,1,You kept kicking me.,Bob,0.0
+11778,131,0,I dreamt you were snoring.,Amy,0.0
+11779,132,0,"Oh, good morning.",Amy,0.0
+11780,133,0,Table for two?,Gabe,0.0
+11781,134,0,What's all this?,Amy,0.0
+11782,135,0,You made us breakfast?,Bob,0.0
+11783,136,0,"Not just any breakfast, dad.",Gabe,0.0
+11784,136,1,"Three eggs filled with pancakes, bacon and cold pizza.",Gabe,0.0
+11785,137,0,You made me a boblette?,Bob,0.0
+11786,138,0,"And, mom, a healthy breakfast for you Oatmeal and fresh fruits.",Gabe,0.0
+11787,139,0,"Okay, I wanna know what you did right now, mister.",Amy,0.0
+11788,140,0,I didn't do anything.,Gabe,0.0
+11789,140,1,I just realized what great parents I have.,Gabe,0.0
+11790,141,0,This is the best boblette I've ever had.,Bob,0.0
+11791,142,0,"Gabe, seriously, I wanna know Where you got blueberries, 'cause they're not even in season.",Amy,0.0
+11792,143,0,I'll be back later to do the dishes.,Gabe,0.0
+11793,144,0,"Oh and, dad, I made you lunch.",Gabe,0.0
+11794,145,0,I still think he's up to something.,Amy,0.0
+11795,146,0,"Oh, dear lord, he made me a bob-wich.",Bob,0.0
+11796,147,0,"Teddy, we have to talk right now.",Spencer,0.0
+11797,148,0,About what?,Teddy,0.0
+11798,149,0,About you cheating on me.,Spencer,0.0
+11799,149,1,"Well, I don't actu Do we have to do this here, in front of everybody?!",Teddy,0.0
+11800,150,0,You were saying?,Teddy,0.0
+11801,151,0,I heard you're cheating on me.,Spencer,0.0
+11802,152,0,Oh.,Teddy,0.0
+11803,153,0,Someone saw you with With sarge lefloo.,Spencer,0.0
+11804,154,0,You mean serge lefleur?,Teddy,0.0
+11805,154,1,"The handsome, dashing french boy.",Teddy,0.0
+11806,154,2,Who doesn't go to our school?,Teddy,0.0
+11807,155,0,"Yeah, that guy.",Spencer,0.0
+11808,156,0,"Oh, hold on.",Teddy,0.0
+11809,156,1,Oops.,Teddy,0.0
+11810,156,2,"Oh, bonjour, mon petit chou-chou.",Teddy,0.0
+11811,156,3,Ca va?,Teddy,0.0
+11812,156,4,This is awkward.,Teddy,0.0
+11813,156,5,Good break-up.,Teddy,0.0
+11814,156,6,You too.,Spencer,0.0
+11815,157,0,"Hello, again.",PJ,0.0
+11816,158,0,"P. J. , what's up?",others,0.0
+11817,159,0,I noticed this morning that my sideburns are a little uneven.,PJ,0.0
+11818,160,0,They are?,others,0.0
+11819,161,0,Uh-huh.,PJ,0.0
+11820,162,0,"There, now they're even.",others,0.0
+11821,163,0,"Yeah, but this is kinda my natural head position.",PJ,0.0
+11822,163,1,It makes me seem folksy.,PJ,0.0
+11823,164,0,"Okay, have a seat.",others,0.0
+11824,164,1,Done!,others,0.0
+11825,164,2,Now you're folksy and even.,others,0.0
+11826,165,0,Heard the news!,Ivy,0.0
+11827,165,1,Up top!,Ivy,0.0
+11828,166,0,What news?,Teddy,0.0
+11829,167,0,"You dropped him like he's hot, - even though he's not!",Ivy,0.0
+11830,168,0,Oh.,Teddy,0.0
+11831,168,1,"Ivy, we're actually - We're not really - I couldn't believe.",Teddy,0.0
+11832,169,0,You got back with that dog in the first place.,Ivy,0.0
+11833,170,0,Spencer and I are still together.,Teddy,0.0
+11834,171,0,You didn't let me finish.,Ivy,0.0
+11835,172,0,I love dogs.,Teddy,0.0
+11836,172,1,Yeah.,Teddy,0.0
+11837,172,2,"Yeah, see, we staged the break-up.",Teddy,0.0
+11838,172,3,"After they win the game tonight, we'll tell everyone we're still together.",Teddy,0.0
+11839,172,4,And they'll know I was never a jinx.,Teddy,0.0
+11840,173,0,Ah.,Ivy,0.0
+11841,174,0,Heard the news!,Amy,0.0
+11842,174,1,Up top!,Amy,0.0
+11843,175,0,We're still together.,Teddy,0.0
+11844,176,0,You didn't let me finish.,Amy,0.0
+11845,177,0,'Just because.,Bob,0.0
+11846,177,1,"Love, Gabe.",Bob,0.0
+11847,178,0,' He must've done something really really bad.,Amy,0.0
+11848,178,1,Has anyone seen Mrs.,Amy,0.0
+11849,178,2,dabney lately?,Amy,0.0
+11850,179,0,Or maybe we're misreading this.,Bob,0.0
+11851,180,0,What do you mean?,Amy,0.0
+11852,181,0,"Honey, maybe Gabe has finally turned that corner.",Bob,0.0
+11853,181,1,And maybe we should be giving him.,Bob,0.0
+11854,181,2,Some positive reinforcement.,Bob,0.0
+11855,182,0,"Well, I guess if he's trying to be a good kid, we could try to be good parents.",Amy,0.0
+11856,183,0,"New territory for all of us, h?",Bob,0.0
+11857,183,1,"Hey, buddy.",Bob,0.0
+11858,183,2,"Come on, get in the car.",Bob,0.0
+11859,184,0,Get in the car?,Gabe,0.0
+11860,184,1,Why?,Gabe,0.0
+11861,185,0,We're going for ice cream.,Bob,0.0
+11862,186,0,No!,Gabe,0.0
+11863,186,1,No ice cream!,Gabe,0.0
+11864,186,2,You can't make me!,Gabe,0.0
+11865,187,0,Okay.,Amy,0.0
+11866,187,1,"Uh, yogurt?",Amy,0.0
+11867,188,0,I know what's going on here.,Gabe,0.0
+11868,188,1,And I'm not going down like this!,Gabe,0.0
+11869,188,2,Get back!,Gabe,0.0
+11870,188,3,I won't go!,Gabe,0.0
+11871,189,0,"Hey, whoa whoa!",Gabe,0.0
+11872,190,0,"Hey, Gabe!",Bob,0.0
+11873,190,1,What are you doing?,Bob,0.0
+11874,191,0,I don't want to go to military school.,Gabe,0.0
+11875,192,0,Military school?,Bob,0.0
+11876,193,0,Don't deny it!,Gabe,0.0
+11877,193,1,I overheard you two talking in the kitchen.,Gabe,0.0
+11878,194,0,"Oh, you thought You think that you're leaving today.",Amy,0.0
+11879,195,0,Your departure date is still being determined.,Amy,0.0
+11880,195,1,Mm-hmm.,Amy,0.0
+11881,196,0,"It all depends on how you behave, right, Bob?",Amy,0.0
+11882,197,0,Right.,Bob,0.0
+11883,198,0,I don't wanna go to Graystone academy.,Gabe,0.0
+11884,198,1,I want my spirit to be broken at home.,Gabe,0.0
+11885,198,2,By the people I love.,Gabe,0.0
+11886,199,0,"Well, I guess I could call Colonel Klink And tell him that we might reconsider.",Amy,0.0
+11887,200,0,"Oh, thank you.",Gabe,0.0
+11888,200,1,Thank you.,Gabe,0.0
+11889,200,2,You're welcome.,Amy,0.0
+11890,201,0,Now There's a bathroom upstairs that's not gonna clean itself.,Amy,0.0
+11891,202,0,"Okay, I'm on it.",Gabe,0.0
+11892,202,1,I'm on it.,Gabe,0.0
+11893,203,0,Wh-wha-what What's going on?,PJ,0.0
+11894,203,1,Who is this?,PJ,0.0
+11895,204,0,"Umm, my 4:30 appointment.",others,0.0
+11896,204,1,Why don't you head back to the shampoo station and I'll be right there?,others,0.0
+11897,205,0,Sh-shampoo?,PJ,0.0
+11898,205,1,I thought that was our thing.,PJ,0.0
+11899,206,0,"P. J. , you're not my only client.",others,0.0
+11900,207,0,"Oh, so now I'm just a client?",PJ,0.0
+11901,208,0,You've always been just a client.,others,0.0
+11902,209,0,Fine.,PJ,0.0
+11903,209,1,Two can play this game.,PJ,0.0
+11904,210,0,"Jerry, gimme a shave, please.",PJ,0.0
+11905,211,0,"Sure, kid.",others,0.0
+11906,211,1,Have a seat.,others,0.0
+11907,212,0,"Oh hey, t.",Teddy,0.0
+11908,212,1,"Oh hello, Ivy.",Teddy,0.0
+11909,212,2,"Oh, I guess you've probably heard.",Teddy,0.0
+11910,212,3,That Spencer and I broke up.,Teddy,0.0
+11911,212,4,"So my new boyfriend serge was busy, and I decided I'd come and support the team.",Teddy,0.0
+11912,213,0,Why are you talking like that?,Ivy,0.0
+11913,214,0,"Oh, Ivy, this is how I normally talk, especially now that I'm not a jinx.",Teddy,0.0
+11914,215,0,"Yeah, this is gonna be a long game.",Ivy,0.0
+11915,216,0,"If Spencer misses this sh*t, we lose.",Teddy,0.0
+11916,217,0,Oh!,Teddy,0.0
+11917,218,0,Oh yes!,Teddy,0.0
+11918,219,0,Yes yes yes!,Teddy,0.0
+11919,220,0,Whoo-hoo!,Spencer,0.0
+11920,220,1,What are you doing?,Spencer,0.0
+11921,221,0,I'm telling the whole world we're still together!,Teddy,0.0
+11922,221,1,We never broke up!,Teddy,0.0
+11923,221,2,"And since we won, I'm not a jinx!",Teddy,0.0
+11924,221,3,Ha!,Teddy,0.0
+11925,222,0,Teddy.,Spencer,0.0
+11926,223,0,Hmm?,Teddy,0.0
+11927,224,0,The score is tied.,Spencer,0.0
+11928,225,0,Oh.,Teddy,0.0
+11929,226,0,My bad.,Teddy,0.0
+11930,227,0,I have to make this foul sh*t to win.,Spencer,0.0
+11931,228,0,Okay.,Teddy,0.0
+11932,228,1,"Yeah, carry on.",Teddy,0.0
+11933,228,2,Good luck.,Teddy,0.0
+11934,228,3,No pressure.,Teddy,0.0
+11935,229,0,"If he misses this, I would not wanna be you.",Ivy,0.0
+11936,230,0,Yes!,Teddy,0.0
+11937,231,0,Now?,Teddy,0.0
+11938,232,0,Now.,Spencer,0.0
+11939,233,0,Good morning.,Amy,0.0
+11940,233,1,"Oh, good morning.",Gabe,0.0
+11941,234,0,The presentation just keeps getting better and better.,Amy,0.0
+11942,234,1,"Well, what have we got on the menu today?",Bob,0.0
+11943,234,2,I'm hoping for a breakfast bob-urrito.,Bob,0.0
+11944,234,3,All right.,Gabe,0.0
+11945,234,4,Voila.,Gabe,0.0
+11946,235,0,There's nothing here.,Bob,0.0
+11947,235,1,What's going on?,Bob,0.0
+11948,236,0,I'll tell you what's going on.,Gabe,0.0
+11949,237,0,I did a little research on Graystone academy.,Gabe,0.0
+11950,237,1,There is no Colonel klink.,Gabe,0.0
+11951,238,0,That's because he was replaced by Captain kirk.,Amy,0.0
+11952,239,0,"Come on, guys.",Gabe,0.0
+11953,239,1,You were just messing with me.,Gabe,0.0
+11954,239,2,You were never gonna send me to military school.,Gabe,0.0
+11955,240,0,"No, we weren't, but we could.",Bob,0.0
+11956,240,1,"No, you can't.",Bob,0.0
+11957,241,0,"No matter how much trouble I get into, you guys love me too much.",Gabe,0.0
+11958,241,1,I'd love you a little more.,Bob,0.0
+11959,241,2,If you made me a breakfast bob-urrito.,Bob,0.0
+11960,242,0,And a bowl of oatmeal with those yummy blueberries.,Amy,0.0
+11961,243,0,"All right, coming right up.",Gabe,0.0
+11962,243,1,"Oh, but first I'm gonna need you guys to sign this.",Gabe,0.0
+11963,244,0,"Well, Charlie, Gabe's not going to militarschool, and I'm no longer considered a jinx, so everything's looking good here.",Teddy,0.0
+11964,244,1,"Hey, Charlie.",PJ,0.0
+11965,244,2,"Well, almost everything.",Teddy,0.0
+11966,244,3,What happened?,Teddy,0.0
+11967,244,4,"Jerry, my barber, is what happened.",PJ,0.0
+11968,244,5,It looks painful.,Teddy,0.0
+11969,244,6,You should see my legs.,PJ,0.0
+11970,244,7,"And you're related to him, so good luck, Charlie.",Teddy,0.0
+11971,245,0,Where have you been?,Teddy,0.0
+11972,245,1,The game's almost over.,Teddy,0.0
+11973,246,0,I was on a date.,Ivy,0.0
+11974,247,0,"Oh, with who?",Teddy,0.0
+11975,248,0,Serge lefleur.,Ivy,0.0
+11976,249,0,"You know he's imaginary, right?",Teddy,0.0
+11977,250,0,"Uh, don't listen to her, baby.",Ivy,0.0
+11978,250,1,What did I tell you about that unicycle?,Ivy,0.0
+11979,250,2,Take it outside.,Ivy,0.0
+11980,251,0,You got here just in time.,Teddy,0.0
+11981,251,1,"If Spencer makes this sh*t, we win the state championship.",Teddy,0.0
+11982,252,0,Oh!,Spencer,0.0
+11983,1,1,Not in my house.,Charlie,0.0

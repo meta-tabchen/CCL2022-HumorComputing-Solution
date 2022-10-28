@@ -1,0 +1,361 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+14762,1,0,What is this? - Ooh ooh! I know! - Wait.,Bob,0
+14763,1,1,I want Gabe to answer.,Bob,0
+14764,1,2,Aw.,Gabe,0
+14765,1,3,Uh It's a plate.,Gabe,1
+14766,1,4,Wrong.,Bob,0
+14767,1,5,Whoa.,PJ,0
+14768,1,6,That'll teach me to get cocky.,PJ,1
+14769,1,7,"It's a dirty plate, which you were supposed to put in the dishwasher.",Bob,0
+14770,1,8,"Now come on! How easy is that? If it's so easy, why didn't you do it? Now the plate's all the way out here and that one's on you.",Gabe,1
+14771,1,9,"You know what, Mister? You just bought yourself a ticket to a weekend of yard work.",Bob,1
+14772,1,10,Take care of the plate.,Bob,0
+14773,1,11,He's really been on my case lately.,Gabe,0
+14774,1,12,I don't know what to do about it.,Gabe,0
+14775,1,13,Well You could put that plate in the dishwasher.,PJ,0
+14776,1,14,"Yeah, but then he wins.",PJ,1
+14777,1,15,"Brother man, you should do what I did.",PJ,0
+14778,1,16,Get your own apartment.,PJ,0
+14779,1,17,"Dude, I'm 13.",Gabe,1
+14780,1,18,"Well, then we're back to the plate.",PJ,1
+14781,1,19,Oh hey! I got an idea.,Gabe,0
+14782,1,20,"How about I come stay at your place this weekend? Oh, yeah, sure.",Gabe,0
+14783,1,21,Why not? Emmett's out of town.,PJ,0
+14784,1,22,Should be fun.,PJ,0
+14785,1,23,"Hey, can I bring Jake? - Sure.",Gabe,0
+14786,1,24,"All right, this is great.",Gabe,0
+14787,1,25,"Since I'm not here, I don't have to do yard work.",Gabe,0
+14788,1,26,And then guess who wins? ( Sighs ) - I do.,Gabe,1
+14789,1,27,"Yeah yeah No, I know.",PJ,0
+14790,1,28,I was just Got nervous after the whole plate thing.,PJ,1
+14791,2,0,"Spencer, how are you not understanding this? I just I just don't see what the big deal is.",Teddy,0
+14792,2,1,Okay okay.,Teddy,0
+14793,2,2,Let me break this down one more time.,Teddy,0
+14794,2,3,"So, I had just done my big performance in drama class.",Teddy,0
+14795,2,4,"And then, that horrible Ashley walks up to me and she says 'Looks like you're really having fun out there.",Teddy,1
+14796,2,5,' I still don't see why that's so bad.,Spencer,1
+14797,2,6,"She was totally insulting me! But By saying you had fun? Yes, that's what you say when somebody's performance stinks.",Teddy,1
+14798,2,7,Everybody knows that.,Teddy,1
+14799,2,8,"Teddy, it just seems like you're making a big deal out of nothing.",Spencer,0
+14800,2,9,"Oh yeah? Yeah? Well, it seems like you're making nothing out of a big deal! Yeah, that's what I meant to say.",Teddy,1
+14801,2,10,Okay.,Amy,0
+14802,2,11,Who put all of Toby's stuffed animals on the porch? Gabe.,Amy,1
+14803,2,12,Aw.,Amy,0
+14804,2,13,She pinned her first crime on me.,Gabe,1
+14805,2,14,What am I gonna do about this? - About what? Charlie.,Amy,0
+14806,2,15,She still doesn't like Toby.,Amy,0
+14807,2,16,This has been going on for months.,Amy,0
+14808,2,17,I thought she'd be over it by now.,Amy,0
+14809,2,18,"Mom, some things take time.",Gabe,0
+14810,2,19,"I mean, I still don't like Charlie.",Gabe,0
+14811,2,20,Teddy doesn't like me.,Gabe,1
+14812,2,21,PJ doesn't like Teddy.,Gabe,1
+14813,2,22,It's what makes us a family.,Gabe,1
+14814,2,23,"Gabe, I wanted this time to be different.",Amy,0
+14815,2,24,"After all, Toby is gonna be my last baby.",Amy,0
+14816,2,25,Mm-hmm.,Gabe,1
+14817,3,0,( Knocking on door ) PJ: Come on in.,PJ,0
+14818,3,1,Hey.,PJ,0
+14819,3,2,Hey.,Gabe,0
+14820,3,3,So.,Gabe,0
+14821,3,4,"This is where you live, huh? Yep.",Gabe,0
+14822,3,5,"Well, it's still b*at doing yard work.",Gabe,1
+14823,3,6,"Hey, Gabe's brother.",Others,0
+14824,3,7,What's up? - Hey.,PJ,0
+14825,3,8,"What happened to Jake? - He was busy, so I called a couple of other kids and, uh They weren't able to make it either, so Here's Logan.",Gabe,0
+14826,3,9,I'm often the last choice.,Gabe,1
+14827,4,0,"Charlie, I bought you a present.",Amy,0
+14828,4,1,Mm! Isn't it cute? Ohh.,Amy,0
+14829,4,2,Here you go.,Amy,0
+14830,4,3,"Now, the first thing we need to do is name him.",Amy,0
+14831,4,4,"Right, now what's a really good name for a sweet little baby boy? Oh, well, there's Joby Or Kobe, or - Toby.",Amy,1
+14832,4,5,Toby! That's a great idea.,Amy,0
+14833,4,6,( Chuckles ) So now when mommy's taking care of her baby you can take care of your baby.,Amy,1
+14834,4,7,I'm going to pick up my Toby and give him a hug.,Amy,0
+14835,4,8,"Hello, little man.",Amy,0
+14836,4,9,Hello.,Amy,0
+14837,4,10,"Ooh, big hug.",Amy,0
+14838,4,11,Yeah.,Amy,0
+14839,4,12,And you're gonna give your Toby a big hug.,Amy,0
+14840,4,13,Amy: Oh.,Amy,0
+14841,4,14,Mommy sh**t ( Clicks teeth ) She scores.,Amy,1
+14842,5,0,"( Giggling ) ( Doorbell rings ) Hey, Spence.",Bob,0
+14843,5,1,"Flowers, huh? Yeah.",Bob,0
+14844,5,2,I really owe Teddy an apology.,Spencer,0
+14845,5,3,For what? I have no idea.,Bob,1
+14846,5,4,"Luckily for you, I do.",Bob,0
+14847,5,5,You know what? Step into my office.,Bob,0
+14848,5,6,Okay.,Bob,0
+14849,5,7,Look.,Bob,0
+14850,5,8,The reason she got mad at you is that you didn't get upset about nothing.,Bob,1
+14851,5,9,"Yeah, but it was nothing, right? - Well, of course it was nothing.",Spencer,0
+14852,5,10,"Well, I mean you know that.",Bob,0
+14853,5,11,Yeah.,Bob,0
+14854,5,12,I know that.,Bob,0
+14855,5,13,We're talking about the female of the species.,Bob,1
+14856,5,14,Okay? A highly irrational creature.,Bob,0
+14857,5,15,"Fortunately for you, after 20 long years of marriage, I am kind of an expert.",Bob,1
+14858,5,16,Okay.,Bob,0
+14859,5,17,Look.,Bob,0
+14860,5,18,The key Is that you gotta let Teddy think that you care about All this stuff that's not worth caring about.,Bob,1
+14861,5,19,"Look, when they have an issue, like, like - Like Teddy did yesterday - Mm.",Bob,0
+14862,5,20,You just don't react.,Bob,0
+14863,5,21,You overreact.,Bob,1
+14864,5,22,So how do I do that? - I'll show you.,Spencer,0
+14865,5,23,Okay.,Bob,0
+14866,5,24,"You know what, you be Teddy.",Bob,0
+14867,5,25,Okay.,Bob,0
+14868,5,26,I'll be you.,Bob,0
+14869,5,27,All right.,Bob,0
+14870,5,28,Yeah.,Bob,0
+14871,5,29,Get mad about something.,Bob,0
+14872,5,30,Okay.,Spencer,0
+14873,5,31,Um.,Spencer,0
+14874,5,32,A girl at school didn't like my hair.,Spencer,0
+14875,5,33,What?! How could someone not like your hair?! - You have the best hair ever.,Bob,1
+14876,5,34,"Well, hey, calm down.",Spencer,0
+14877,5,35,"No, I can't! You know what? It just It just It just burns me because your hair is so awesome.",Bob,1
+14878,5,36,How do you feel? - Like you really care about my hair.,Bob,1
+14879,5,37,And I couldn't care less.,Bob,1
+14880,5,38,"Oh, Mr.",Spencer,0
+14881,5,39,Duncan.,Spencer,0
+14882,5,40,This is really good stuff.,Spencer,1
+14883,5,41,"Isn't it? Hey, you know the beauty of this is, it works every time.",Bob,0
+14884,5,42,Except the next time.,Amy,1
+14885,6,0,"Okay, here comes a skateboarder.",Gabe,0
+14886,6,1,"All right, wait for it.",Gabe,0
+14887,6,2,Wait for it.,Gabe,0
+14888,6,3,Now.,Gabe,0
+14889,6,4,Oh yes! Oh.,Gabe,0
+14890,6,5,Looking up.,Gabe,0
+14891,6,6,Looking up! Pizza's here.,Gabe,0
+14892,6,7,"Hey, what are you guys doing? - Dropping water balloons.",PJ,1
+14893,6,8,"Come on, it's your turn.",Gabe,0
+14894,6,9,Quick.,Others,0
+14895,6,10,There's two old ladies coming.,Others,0
+14896,6,11,Come on.,Others,0
+14897,6,12,You guys cannot be dropping water balloons.,PJ,0
+14898,6,13,"Well, why not? - Because I live here.",PJ,0
+14899,6,14,And I want to keep living here.,PJ,1
+14900,6,15,And what is with the tent? It's a sleepover.,Gabe,0
+14901,6,16,You can't have a sleepover without a tent.,Gabe,1
+14902,6,17,"All right, well.",Others,0
+14903,6,18,We'll take this.,Others,0
+14904,6,19,"Hey, guys.",PJ,0
+14905,6,20,That pizza's for all of us.,PJ,0
+14906,6,21,"Hey, let's make some prank phone calls.",Gabe,0
+14907,6,22,"Oh, come on.",PJ,0
+14908,6,23,Prank phone calls? You guys are 13 years old.,PJ,0
+14909,6,24,"Are you really ( Cell phone ringing ) Oh, hang on.",PJ,0
+14910,6,25,Hello? No my butt is not on fire.,PJ,0
+14911,6,26,"Who is this? ( Laughing ) Boys, quiet.",PJ,0
+14912,6,27,I'm on the phone.,PJ,1
+14913,7,0,"Teddy, Spencer's here.",Amy,0
+14914,7,1,"Oh, thanks.",Teddy,0
+14915,7,2,"Oh, no no.",Amy,0
+14916,7,3,You didn't let me finish.,Amy,0
+14917,7,4,Spencer's here talking with your father.,Amy,0
+14918,7,5,About what? That's the interesting part.,Amy,0
+14919,7,6,Yeah.,Amy,0
+14920,7,7,I just overheard Dr.,Amy,0
+14921,7,8,Bob Professor of Womanology Explain to Spencer that the best way of handling us gals is to pretend to care about stuff that isn't worth caring about.,Amy,1
+14922,7,9,"Really? Well, if I know Spencer, he said that that was ridiculous.",Teddy,0
+14923,7,10,"Well, you don't know Spencer.",Amy,1
+14924,7,11,"I believe his exact words were 'This is really good stuff, Mr.",Amy,0
+14925,7,12,Duncan.,Amy,0
+14926,7,13,' ( Chuckles ) Huh.,Amy,1
+14927,7,14,"Well, I think I need to have a little chat with my fella.",Teddy,1
+14928,7,15,No no no no.,Amy,0
+14929,7,16,We do not handle these things with communication.,Amy,1
+14930,7,17,"Come on, Teddy.",Amy,0
+14931,7,18,We get revenge.,Amy,0
+14932,7,19,First on Spencer Then on Dr.,Amy,1
+14933,7,20,Bob.,Amy,1
+14934,7,21,"Oh, I see Dr.",Teddy,1
+14935,7,22,Amy's in the house.,Teddy,1
+14936,7,23,Mm-hmm.,Amy,0
+14937,7,24,"And she's about to administer ( Video game explosions ) Oh! Hey, guys? Volume.",Amy,1
+14938,8,0,"Oh, he's right.",Gabe,0
+14939,8,1,Let's crank it up.,Gabe,0
+14940,8,2,No.,PJ,0
+14941,8,3,Turn it down.,PJ,0
+14942,8,4,What? - Down.,PJ,0
+14943,8,5,I can't hear myself think.,PJ,0
+14944,8,6,No one's ever heard you think.,Gabe,1
+14945,8,7,You know what? That is it.,PJ,0
+14946,8,8,I have had enough of you two.,PJ,0
+14947,8,9,No more video games.,PJ,0
+14948,8,10,What? - No more video games.,PJ,0
+14949,8,11,I'm trying to study for a test.,PJ,0
+14950,8,12,"What are we supposed to do? - I don't care, as long as it's quiet.",PJ,0
+14951,8,13,"Man, I thought you said your brother was fun.",Others,0
+14952,8,14,He used to be.,Gabe,0
+14953,8,15,Before he turned into dad.,Gabe,0
+14954,8,16,"What did you just say, Mister? Now you even sound like him.",Gabe,1
+14955,8,17,"You know, I came over here to get away from him, not to be with dad junior.",Gabe,0
+14956,8,18,I am not dad junior.,PJ,0
+14957,8,19,And you just bought yourself a ticket to doing the dishes.,PJ,0
+14958,8,20,We used paper plates.,Gabe,0
+14959,8,21,And I want them spotless.,PJ,0
+14960,9,0,"Mary Lou, I should be a child psychologist.",Amy,0
+14961,9,1,Really.,Amy,0
+14962,9,2,I gave Charlie a Toby doll and she loves it.,Amy,0
+14963,9,3,And pretty soon she'll feel the same way about the real Toby.,Amy,0
+14964,9,4,"I'm telling you, it's brilliant.",Amy,0
+14965,9,5,One day it will simply be known as 'the Duncan method.,Amy,1
+14966,9,6,' Let me call you back.,Amy,0
+14967,9,7,( Phone beeps ) Charlie? Did you mistake the trash can for a magical doll house? No.,Amy,1
+14968,9,8,I'm not two.,Charlie,1
+14969,9,9,"Oh, Charlie.",Amy,0
+14970,9,10,Why don't you love baby Toby? He loves you so much.,Amy,0
+14971,9,11,How do you know? - Because he told me.,Amy,0
+14972,9,12,He can't talk.,Charlie,1
+14973,10,0,"Or can he? What are you looking at? Yes No, I understand that I lost the receipt, but I never wore them, so why can't I take them back? But that's a stupid policy! Nev Never mind.",Teddy,0
+14974,10,1,"( Groans ) What was that all about? I bought these running shoes, but they were in the wrong size and now the stupid store won't let me return them.",Teddy,0
+14975,10,2,Oh well.,Spencer,0
+14976,10,3,What are you gonna do? I'll tell you what I'm gonna do.,Spencer,1
+14977,10,4,I'm gonna get angry! How dare they treat you like that?! - What? - I can't believe this.,Spencer,1
+14978,10,5,"Who was the idiot you were dealing with? Uh, I think it was someone named Sam? Oh, Sam must have a brain the size of a walnut.",Spencer,1
+14979,10,6,"Spencer, honey.",Teddy,0
+14980,10,7,Just calm down.,Teddy,0
+14981,10,8,"No, I can't calm down, all right? Because I am so furious with this Sam! I am disgusted by Sam.",Spencer,1
+14982,10,9,I am so glad you feel this way.,Teddy,0
+14983,10,10,I'm gonna get my keys.,Teddy,1
+14984,10,11,Wait.,Spencer,0
+14985,10,12,( Stammers ) What are you getting your keys for? Because we are going down to that store and you're gonna give Sam a piece of my mind! What just happened? I don't know.,Teddy,1
+14986,10,13,We're in uncharted territory.,Bob,1
+14987,10,14,What do I do now? - I don't know.,Bob,0
+14988,10,15,We're in uncharted territory.,Bob,1
+14989,11,0,( Toby cooing ) Amy: Psst.,Amy,0
+14990,11,1,"Hey, Charlie.",Amy,0
+14991,11,2,"Who said that? It's me, Toby.",Amy,0
+14992,11,3,Come here.,Amy,0
+14993,11,4,You can talk? Just to you.,Amy,1
+14994,11,5,Charlie? You're my favorite in the whole family.,Amy,0
+14995,11,6,Really? - Yeah.,Amy,0
+14996,11,7,"I love you, Charlie.",Amy,0
+14997,11,8,Do you love me too? Yes.,Amy,0
+14998,11,9,That is so Goody.,Amy,1
+14999,11,10,"Now remember, this is our very special secret.",Amy,0
+15000,11,11,Just for us.,Amy,0
+15001,11,12,Don't tell anyone.,Amy,0
+15002,11,13,Okay? Okay.,Amy,0
+15003,11,14,"( Mouths words ) Hi, Charlie.",Amy,0
+15004,11,15,Toby talks.,Charlie,1
+15005,12,0,"You know, there's no reason to cause a scene.",Spencer,0
+15006,12,1,I think we made our point just by showing up.,Spencer,0
+15007,12,2,"Yes, hi.",Teddy,0
+15008,12,3,We'd like to speak to Sam.,Teddy,0
+15009,12,4,We have a problem.,Teddy,0
+15010,12,5,I'm Sam.,Others,1
+15011,12,6,What seems to be the problem? No problem.,Spencer,0
+15012,12,7,( Chuckles ) But you just said there was a problem.,Others,0
+15013,12,8,"No, uh, no.",Spencer,0
+15014,12,9,She said it.,Spencer,0
+15015,12,10,"Come on, Spencer.",Teddy,0
+15016,12,11,Tell him what you told me.,Teddy,0
+15017,12,12,Gosh.,Spencer,0
+15018,12,13,Who can remember? He said you have a brain the size of a walnut.,Spencer,1
+15019,12,14,Excuse me? Uh.,Others,0
+15020,12,15,"To be fair, I've seen some pretty large walnuts.",Spencer,1
+15021,12,16,And And he said that he was disgusted by you.,Teddy,0
+15022,12,17,But then I walked it back to just furious.,Spencer,1
+15023,12,18,Is there anything else you'd like to say to me before I take you into the break room? Where I will break you.,Others,1
+15024,12,19,"Ah, wait.",Spencer,0
+15025,12,20,"Uh, look.",Spencer,0
+15026,12,21,I didn't mean any of the things I said.,Spencer,0
+15027,12,22,"See, I took some bad advice from her father, and uh, I was really stupid.",Spencer,0
+15028,12,23,And I am very sorry.,Spencer,0
+15029,12,24,Please don't break me.,Spencer,1
+15030,12,25,"Heard enough, Teddy? - Thanks, Sam.",Others,0
+15031,12,26,I'm good.,Teddy,0
+15032,12,27,Cool.,Others,0
+15033,12,28,"Hope I didn't scare you too much, little guy.",Others,1
+15034,12,29,"What just happened? Oh, what just happened was I, the woman Taught you, the idiot, a lesson.",Spencer,1
+15035,12,30,So you heard everything? - My mom did.,Spencer,0
+15036,12,31,Oh.,Spencer,0
+15037,12,32,"Look, I promise I'll never take advice from your father again.",Spencer,1
+15038,12,33,Everyone gets there eventually.,Teddy,0
+15039,12,34,"Oh, uh, thanks again, Sam.",Teddy,0
+15040,12,35,"Hey, how do you guys know each other? Oh, he's in my community theater group.",Spencer,0
+15041,12,36,Great job.,Teddy,0
+15042,12,37,"Thanks, Teddy.",Others,0
+15043,12,38,And you Really looked like you were having fun out there.,Others,1
+15044,12,39,"Well, that hurt.",Teddy,1
+15045,13,0,There she is.,Bob,0
+15046,13,1,The woman I love.,Bob,0
+15047,13,2,These are for you.,Bob,0
+15048,13,3,Hmm.,Amy,0
+15049,13,4,"What's the occasion? There has to be an occasion? Can't a man give the love of his life flowers just because? Heard about the shoe store? Yes, I did.",Amy,1
+15050,13,5,Please accept the flowers.,Bob,1
+15051,13,6,Hmm.,Amy,0
+15052,13,7,No thanks.,Amy,1
+15053,13,8,"Oh, come on, honey.",Bob,0
+15054,13,9,Honey.,Bob,0
+15055,13,10,Come on.,Bob,0
+15056,13,11,I don't really believe any of that stuff that I was telling Spencer.,Bob,0
+15057,13,12,And you know what? Since Teddy taught him a lesson I don't really need you to teach me a lesson.,Bob,1
+15058,13,13,"You're afraid, aren't you, Bob? Uh-huh.",Amy,1
+15059,13,14,"Well, I accept your apology.",Amy,0
+15060,13,15,So we're We're good? Oh.,Bob,0
+15061,13,16,"I'm sorry, Bob.",Amy,0
+15062,13,17,Things are already in motion.,Amy,1
+15063,13,18,"Things? Oh, come on.",Bob,0
+15064,13,19,"What kind of things? I wish I could help you, but it's out of my hands.",Bob,1
+15065,14,0,Gabe's voice: When did you turn into dad? ( Echoing ) Into dad? Into dad? PJ's voice: How come when you hear things in your head they always have an echo? ( Echoing ) An echo? An echo? I am not turning into dad.,PJ,1
+15066,14,1,I just have a lot of responsibilities.,PJ,0
+15067,14,2,"School, a job, a future to worry about.",PJ,0
+15068,14,3,Those kids have no idea how hard I work.,PJ,0
+15069,14,4,"Oh, man.",PJ,0
+15070,14,5,I am turning into dad.,PJ,1
+15071,14,6,"Hey, guys.",PJ,0
+15072,14,7,Wake up.,PJ,0
+15073,14,8,( Groans ) - Get up.,PJ,0
+15074,14,9,Gabe: What? - It's three in the morning.,Gabe,0
+15075,14,10,Get your shoes on.,PJ,0
+15076,14,11,We are going for a little trip.,PJ,0
+15077,14,12,"I'm gonna show you guys that I'm still fun, and childish and totally immature.",PJ,0
+15078,14,13,He's back! ( Chuckling ) What do you think? - Now let's get mom.,Gabe,1
+15079,15,0,Go.,PJ,0
+15080,15,1,Wouldn't do that if I were you.,Amy,0
+15081,15,2,Let's not get mom.,PJ,0
+15082,15,3,"Hi, Mrs.",Others,0
+15083,15,4,Duncan.,Others,0
+15084,15,5,"Get out of my bedroom, Logan.",Amy,1
+15085,16,0,"( Chuckles ) Okay, honey.",Bob,0
+15086,16,1,Well done.,Bob,0
+15087,16,2,Lesson learned.,Bob,1
+15088,16,3,What are you talking about? This.,Amy,0
+15089,16,4,"Isn't this your revenge? Drawing on your face? Does that sound like me, Teddy? It's doesn't, mom.",Bob,1
+15090,16,5,Hmm.,Bob,0
+15091,16,6,So there's more? ( Chuckles ) More? It hasn't even started.,Amy,1
+15092,16,7,Oh.,Bob,0
+15093,16,8,"Teddy, turn the camera on.",Amy,0
+15094,16,9,"Hey, Charlie.",Teddy,0
+15095,16,10,"Well, uh, I wasn't really planning on doing a video diary right now, but mom told me to turn the camera on, so something is up.",Teddy,0
+15096,16,11,"Bob: Ooh, donuts! ( expl*si*n ) Exploding donuts.",Bob,1
+15097,16,12,That's Lesson learned.,Bob,0
+15098,16,13,"Okay, are we done now? - Oh.",Bob,0
+15099,16,14,Yes.,Amy,0
+15100,16,15,With phase one.,Amy,1
+15101,16,16,"Oh, man.",Bob,0
+15102,16,17,"Wish me good luck, Charlie.",Bob,1
+15103,17,0,"Okay, PJ.",Amy,0
+15104,17,1,Now I know you've been resenting your sister for some time now.,Amy,0
+15105,17,2,So I bought you something to help you finally get over it.,Amy,0
+15106,17,3,Open your eyes.,Amy,0
+15107,17,4,What is it? - It's a Teddy doll.,Amy,0
+15108,17,5,Go ahead.,Amy,0
+15109,17,6,Pull the string.,Amy,0
+15110,17,7,You're the best big brother ever.,Teddy,1
+15111,17,8,Aw.,PJ,0
+15112,17,9,This is so sweet.,PJ,0
+15113,17,10,I'm so glad you moved out.,Teddy,1
+15114,17,11,That wasn't quite as nice.,PJ,0
+15115,17,12,I never really liked you.,Teddy,1
+15116,17,13,I'm made of plastic and I'm still smarter than you.,Teddy,1
+15117,17,14,This is the worst gift ever.,PJ,1
+15118,17,15,Oh.,Amy,0
+15119,17,16,Okay that's it you're going back to the store.,Amy,0
+15120,17,17,You're beautiful.,Teddy,0
+15121,17,18,"Are you an actress? Okay, I'm going to give you one more sh*t.",Amy,1

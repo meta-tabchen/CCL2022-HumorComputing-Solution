@@ -1,0 +1,296 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+3785,1,0,So we need an act for the talent show.,PJ,0
+3786,1,1,Or we could study for our s.A.T.S.,Emmett,0
+3787,1,2,And start checking out colleges.,Emmett,0
+3788,1,3,We do have our futures to think about.,Emmett,0
+3789,1,4,Something fresh.,PJ,1
+3790,1,5,"Hey, guys.",Teddy,0
+3791,1,6,"We're just passing through, so don't mind us.",Teddy,1
+3792,1,7,"Oh, I never mind seeing you, teddy.",Emmett,1
+3793,1,8,What about me? You I mind.,Emmett,1
+3794,1,9,If you could move it along We're trying to work on our act for the talent show.,PJ,0
+3795,1,10,"Oh, you know, I'm the m.C.",Ivy,0
+3796,1,11,This year.,Ivy,0
+3797,1,12,"Well, I hope you don't mind second place, Because spencer and I are doing a dance act together.",Teddy,0
+3798,1,13,"Still wasting your time with spencer? Take away his good looks, his height and his talent, and what have you got? You.",Emmett,1
+3799,1,14,I think we're done here.,Teddy,1
+3800,1,15,"Man, I would love to b*at that spencer.",Emmett,0
+3801,1,16,"Yeah, we've got to come up with something good.",PJ,0
+3802,1,17,"For the talent show, man.",PJ,0
+3803,1,18,I got it.,Emmett,0
+3804,1,19,We go old school and do a ventriloquist act.,Emmett,0
+3805,1,20,"Oh, a ventriloquist is a guy with a talking puppet, right? Right, a dummy.",PJ,0
+3806,1,21,"Oh, one small problem there's two of us.",PJ,1
+3807,1,22,Although.,PJ,0
+3808,1,23,One of us could be the dummy.,PJ,0
+3809,1,24,Like you.,Emmett,0
+3810,1,25,Or you.,PJ,1
+3811,1,26,Or you.,Emmett,1
+3812,2,0,"Jo, if you're gonna make fun of my poster, I don't want to hear it.",Gabe,0
+3813,2,1,I'm not gonna make fun of your poster.,Others,0
+3814,2,2,I'm just gonna tell you it looks stupid.,Others,1
+3815,2,3,To ahead and vote for dylan.,Gabe,0
+3816,2,4,I can't vote for dylan.,Others,0
+3817,2,5,He's an ear-picker.,Others,1
+3818,2,6,At least he's given his nose a break.,Gabe,1
+3819,2,7,"You know, gabe, you're gonna need the girl vote to win, Which, lucky for you, I can deliver.",Others,0
+3820,2,8,"How would you do that? - We sh**t a campaign video, Post it on the class website.",Others,0
+3821,2,9,And we'll put your baby sister in it.,Others,0
+3822,2,10,Girls go nuts over babies.,Others,1
+3823,2,11,"I don't get it, but they do.",Others,1
+3824,2,12,Why do you want to help me? I thought we were enemies.,Gabe,0
+3825,2,13,"Gabe, let's not put labels on our relationship.",Others,0
+3826,2,14,We both know it's complicated.,Others,1
+3827,2,15,No kidding.,Gabe,1
+3828,2,16,"I had this dream last week where you Yeah, it's complicated.",Gabe,1
+3829,3,0,"Okay, probably something like this.",Spencer,0
+3830,3,1,Got it.,Spencer,0
+3831,3,2,Cool.,Spencer,0
+3832,3,3,Now you do it.,Spencer,0
+3833,3,4,Okay.,Teddy,0
+3834,3,5,"So? Really good, But you're not doing what I showed you.",Spencer,1
+3835,3,6,I know.,Teddy,0
+3836,3,7,"I feel like it needs something more, right? Or less.",Teddy,1
+3837,3,8,"Actually I've been working on some moves of my own, so I call this one 'the hacky sack.",Teddy,1
+3838,3,9,' Hacky hacky.,Teddy,1
+3839,3,10,"Hacky hacky hacky hacky hacky sack! What do you think? What else have you got? Well Everybody knows jazz hands, right? Right.",Teddy,1
+3840,3,11,Check out these bad boys.,Teddy,0
+3841,3,12,Pow pow pow pow pow pow pow pow! Pow! Exploding jazz hands.,Teddy,1
+3842,3,13,Fantastic.,Spencer,1
+3843,4,0,"All right, first we want to show you as a strong leader.",Others,0
+3844,4,1,So act strong.,Others,0
+3845,4,2,"How does that look? What am I looking at? Just make a fist and say, 'I will fight for you.",Gabe,1
+3846,4,3,' Okay.,Gabe,0
+3847,4,4,I will fight for you! Perfect.,Gabe,0
+3848,4,5,Now let's see the softer side of gabe The loving brother.,Others,0
+3849,4,6,Chase the kid around.,Others,1
+3850,4,7,Ready? I'm gonna get you.,Others,0
+3851,4,8,I'm gonna get you.,Gabe,1
+3852,4,9,"Aww, the baby's absolutely adorable.",Others,0
+3853,4,10,People are gonna love her.,Others,0
+3854,4,11,Now get her out of here.,Others,1
+3855,4,12,Now let's meet gabe the wise leader.,Others,1
+3856,4,13,Okay.,Gabe,0
+3857,4,14,Should I do this? No.,Gabe,1
+3858,4,15,Just answer these questions.,Others,0
+3859,4,16,Okay.,Gabe,0
+3860,4,17,"Gabe, how would you feel about a longer recess? I think it's a great idea.",Others,0
+3861,4,18,Some of the teachers think we should have more homework.,Others,0
+3862,4,19,Thoughts? That's a terrible idea.,Gabe,1
+3863,4,20,The amount of homework we do now is good.,Gabe,1
+3864,4,21,"And finally, new playground rules pro or con? I don't like them at all.",Others,0
+3865,4,22,There's safety and there's fun.,Gabe,1
+3866,4,23,You can't have them both.,Gabe,1
+3867,4,24,Loving it.,Others,0
+3868,4,25,"Now y, 'I'm gabe duncan and I approve this message.",Others,0
+3869,4,26,' I'm gabe duncan and I approve this message.,Gabe,1
+3870,4,27,Awesome.,Others,0
+3871,4,28,We're done.,Others,0
+3872,4,29,You want to play a video game? Until the election I think it's best we keep this professional.,Others,1
+3873,5,0,Or you could be the dummy.,PJ,1
+3874,5,1,Or you could be the dummy.,Emmett,1
+3875,5,2,Or you could be the dummy.,PJ,1
+3876,5,3,We could do this all day.,Emmett,1
+3877,5,4,We have been doing this all day.,Emmett,1
+3878,5,5,"Well, I can't be the dummy 'cause I'm not comfortable with you putting your hands up my shirt.",Emmett,1
+3879,5,6,You didn't feel that way last week.,PJ,1
+3880,5,7,When you had that itch you couldn't reach.,PJ,1
+3881,5,8,"All right, then what if we're both dummies? Fine, we're both dummies.",Emmett,0
+3882,5,9,"I don't know what's been going on in here, But you two just made a breakthrough.",Bob,1
+3883,6,0,"Hey, ivy, you got a minute? You found out teddy can't dance, right? She's awful.",Ivy,1
+3884,6,1,I don't want to embarrass myself.,Spencer,0
+3885,6,2,In front of the whole school.,Spencer,0
+3886,6,3,What am I gonna do? You gotta tell it to her straight.,Ivy,0
+3887,6,4,"Just rip the bandage off and say, 'girl, you stink.",Ivy,0
+3888,6,5," You know, that kind of honesty.",Spencer,0
+3889,6,6,Might be better coming from the best friend.,Spencer,0
+3890,6,7,You're funny.,Ivy,0
+3891,6,8,Fine.,Spencer,0
+3892,6,9,I'll do it.,Spencer,0
+3893,6,10,I'll just be honest with her.,Spencer,0
+3894,7,0,I sprained my ankle.,Spencer,0
+3895,7,1,"Oh, no.",Teddy,0
+3896,7,2,What happened? I was trying to practice some of your dance moves.,Spencer,0
+3897,7,3,And then I slipped.,Spencer,0
+3898,7,4,"Mm, too much hacking on the sacky? Exactly.",Teddy,1
+3899,7,5,And right before the talent show.,Ivy,0
+3900,7,6,Talk about bad timing.,Ivy,0
+3901,7,7,"You poor thing, come in.",Teddy,0
+3902,7,8,Have a seat.,Teddy,0
+3903,7,9,I'm gonna put your foot up.,Teddy,0
+3904,7,10,Can I get you anything? Are you hungry? - A little.,Teddy,0
+3905,7,11,You know what you need? Some homemade chicken soup.,Teddy,0
+3906,7,12,"Mm, chicken soup.",Ivy,1
+3907,7,13,For the chicken.,Ivy,1
+3908,8,0,Jo just put the campaign video on the website.,Gabe,0
+3909,8,1,"You want to watch it? - Sure, honey.",Gabe,0
+3910,8,2,How well do you really know gabe duncan? I will fight you! He hates babies.,Others,0
+3911,8,3,"Gabe, how would you feel if there was no more recess? I think it's a great idea.",Gabe,1
+3912,8,4,Really? And what's your opinion about less homework? That's a terrible idea.,Others,0
+3913,8,5,The amount of homework we do now is good.,Gabe,1
+3914,8,6,"And finally, how do you feel about girls? I don't like them at all.",Others,0
+3915,8,7,"Gabe duncan No recess, more homework, hates girls, Especially baby girls.",Others,1
+3916,8,8,I'm jo keener and I want to be your president.,Others,1
+3917,8,9,I'm gabe duncan and I approve this message.,Gabe,1
+3918,8,10,"Okay, I know it looks bad.",Bob,0
+3919,8,11,But But what? - Hi.,Bob,1
+3920,9,0,Hi.,Teddy,1
+3921,9,1,You're probably wondering why I'm running on my sprained ankle.,Spencer,0
+3922,9,2,"Yeah, I kind of was.",Teddy,0
+3923,9,3,It healed.,Spencer,1
+3924,9,4,Really? Then why do you still have your crutches? Lots of good questions here.,Teddy,1
+3925,9,5,"Spence, what's going on? All right, look, I faked the injury.",Teddy,0
+3926,9,6,Because there is a problem.,Spencer,0
+3927,9,7,With what? - With our dancing.,Teddy,0
+3928,9,8,"Oh, spence, not everybody gets the exploding jazz hands.",Teddy,0
+3929,9,9,The first time out.,Teddy,1
+3930,9,10,It's a process.,Teddy,1
+3931,9,11,The problem wasn't me.,Spencer,0
+3932,9,12,Oh.,Teddy,0
+3933,9,13,It's no big deal.,Spencer,0
+3934,9,14,Lots of people can't dance.,Spencer,0
+3935,9,15,And you're one of them.,Spencer,1
+3936,9,16,"For your information, I'm a great dancer.",Teddy,1
+3937,9,17,"Teddy, I'm just being honest.",Spencer,0
+3938,9,18,"Oh, like you were about your ankle? No, you know what? I'm gonna find myself a new partner - Someone who appreciates my talent.",Teddy,0
+3939,9,19,"Teddy, come on.",Spencer,0
+3940,9,20,"I even knitted you special socks to keep your toes warm, 'cause that's another thing I'm good at knitting.",Teddy,0
+3941,9,21,My class is this way.,Teddy,1
+3942,10,0,I'm so glad we decided to forget the ventriloquist act.,PJ,1
+3943,10,1,"Yeah, what were we thinking? Juggling is so much easier.",Emmett,0
+3944,10,2,"Okay, throw first.",PJ,1
+3945,10,3,"No, you throw first.",Emmett,1
+3946,10,4,"No, you throw first.",PJ,1
+3947,10,5,"No, you throw first.",Emmett,1
+3948,10,6,"Emmett, do you want to dance with me in the talent show? - Yes.",Teddy,1
+3949,10,7,Great.,Teddy,1
+3950,10,8,Let's go to the basement and rehearse.,Teddy,1
+3951,10,9,"Whoa whoa, wait, emmett.",PJ,0
+3952,10,10,What just happened here? Teddy just asked me to dance with her.,PJ,0
+3953,10,11,Let's not question it.,Emmett,1
+3954,10,12,So you're just leaving me hanng? Don't look at it that way.,PJ,0
+3955,10,13,You and I are like best buds.,Emmett,1
+3956,10,14,We've been through thick and thin together.,Emmett,1
+3957,10,15,You know I will always be there - Emmett! See ya.,Emmett,1
+3958,11,0,Pow pow pow pow pow! Pow! What do you think? And be honest.,Teddy,1
+3959,11,1,I love it.,Emmett,1
+3960,11,2,Duh.,Emmett,1
+3961,11,3,Really? 'Cause spencer said I was a bad dancer.,Teddy,0
+3962,11,4,Let's not talk about spencer.,Emmett,0
+3963,11,5,He's in the past.,Emmett,0
+3964,11,6,It's emmett time.,Emmett,1
+3965,11,7,So which of my moves should we start with? Actually I'm thinking that we should save your moves till the end.,Teddy,0
+3966,11,8,"You don't start a fine meal off with dessert, right? Right.",Emmett,0
+3967,11,9,"So I'll just start dancing, do whatever it is I do The meat and potatoes And then you can bring it home with the crÃ¨me brÃ»lÃ©e.",Emmett,0
+3968,11,10,The crÃ¨me brÃ»lÃ©e.,Teddy,1
+3969,11,11,A little less crÃ¨me brÃ»lÃ©e.,Emmett,1
+3970,11,12,The crÃ¨me brÃ»lÃ©e.,Teddy,1
+3971,11,13,A little less.,Emmett,1
+3972,11,14,CrÃ¨me brÃ»lÃ©e.,Teddy,1
+3973,11,15,More.,Emmett,1
+3974,11,16,Right.,Teddy,0
+3975,11,17,CrÃ¨me brÃ»lÃ©e.,Emmett,0
+3976,11,18,There you go.,Emmett,0
+3977,12,0,"Hey, how did it go today, honey? Well, one kid said he'd vote for me.",Gabe,0
+3978,12,1,Then he found his glasses and realized I wasn't jo.,Gabe,0
+3979,13,0,We have to do something about this jo person.,Amy,0
+3980,13,1,You don't have to do anything.,Gabe,0
+3981,13,2,"No, I do, I do, Because nobody attack my babies.",Amy,0
+3982,13,3,"Now bob, I want you to go over to jo's house.",Amy,0
+3983,13,4,And punch her dad in the face.,Amy,1
+3984,13,5,"If he's anything like jo no, thanks.",Bob,1
+3985,13,6,Once again I am the one.,Amy,0
+3986,13,7,Who has to do the butt-kicking around here.,Amy,1
+3987,13,8,"Honey, would you relax? Nobody needs to kick anything.",Bob,0
+3988,13,9,That's right.,Gabe,0
+3989,13,10,I've got a plan and I need your help.,Gabe,0
+3990,13,11,"There, you see? He's got a plan.",Bob,0
+3991,13,12,Yes.,Gabe,0
+3992,13,13,Would you stop stretching? Let's go.,Bob,0
+3993,13,14,I'm not stretching.,Amy,0
+3994,13,15,I'm stuck.,Amy,1
+3995,13,16,"Hey, I think we can really take this thing.",Teddy,0
+3996,13,17,"Look who we're up against the magician, the roller skaters, The stilt walker, the kid with the tuba.",Teddy,1
+3997,13,18,"It's a sousaphone or as he pronounces through his braces, Shooshaphone.",Ivy,1
+3998,13,19,"That was erwin and his sousaphone, Playing, believe it or not, 'party in the u.",Ivy,1
+3999,13,20,S.A.' And now please welcome the dance stylings of Locomotion! Emmett! - Are you okay? - Get away from me.,Ivy,1
+4000,13,21,"Thank you, locomotion And friends.",Ivy,1
+4001,13,22,And now for our next act.,Ivy,0
+4002,13,23,Did anyone survive that? - I'm still here.,Ivy,1
+4003,13,24,Please give it up for master ventriloquist.,Ivy,0
+4004,13,25,P.J.,Ivy,0
+4005,13,26,"Duncan! Hi, everybody.",PJ,0
+4006,13,27,I'm p.J.,PJ,0
+4007,13,28,This is charlie.,PJ,0
+4008,13,29,"Say hello, charlie.",PJ,0
+4009,13,30,I was hoping to get by on cuteness.,PJ,1
+4010,13,31,How are we doing so far? And as your president I promise to represent you.,PJ,1
+4011,14,0,To the best of my abilities.,Others,0
+4012,14,1,I also promise to fight.,Others,0
+4013,14,2,For more recess and less homework.,Others,0
+4014,14,3,"And of course, I don't hate girls.",Others,0
+4015,14,4,Like some candidates.,Others,0
+4016,14,5,Named gabe duncan.,Others,0
+4017,14,6,Thank you.,Others,0
+4018,14,7,"Before I begin, I would like to say something about this campaign.",Gabe,0
+4019,14,8,Now a lot of things have been said about me.,Gabe,0
+4020,14,9,"And even though they aren't true, I'm okay with that.",Gabe,0
+4021,14,10,But when somebody starts attacking my family That's where I draw the line.,Gabe,1
+4022,14,11,Now I could stand here.,Gabe,0
+4023,14,12,"And tell you who I really am, But I'd rather show you.",Gabe,1
+4024,15,0,"I love all my kids equally, But if I had to pick a favorite, It would be gabe.",Bob,0
+4025,15,1,"I changed the oil in your truck, dad.",Gabe,0
+4026,15,2,Without being asked classic gabe.,Bob,0
+4027,15,3,"He's just so loving and so caring, Especially with his baby sister charlie.",Amy,0
+4028,15,4,"In fact, gabe was the most excited.",Amy,0
+4029,15,5,About charlie's arrival.,Amy,0
+4030,15,6,And he made it himself.,Amy,1
+4031,15,7,Gabe's the kind of guy you want to have a root beer with.,PJ,0
+4032,15,8,"We'll stay up all night if we have to, But I'm gonna make sure you pass that test.",Gabe,1
+4033,15,9,Don't you have to rescue stray animals.,PJ,0
+4034,15,10,And find them good homes? Did that before school.,PJ,1
+4035,15,11,Classic gabe.,PJ,1
+4036,15,12,"Gabe's not only sweet and kind, He also has an amazing fashion sense.",Teddy,0
+4037,15,13,This one fun and playful.,Gabe,0
+4038,15,14,This one is off the hook! And they all lived happily ever after.,Gabe,1
+4039,15,15,Mwah.,Gabe,0
+4040,16,0,Gabe duncan Family first.,Others,0
+4041,16,1,"Gabe, gabe, gabe, gabe! - Hey.",Others,0
+4042,17,0,Hey.,Spencer,0
+4043,17,1,I just wanted to say I know what you're gonna say.,Spencer,0
+4044,17,2,"You saw the talent show and now you want to say 'I told you so,' Because you were right.",Teddy,0
+4045,17,3,I can't dance.,Teddy,0
+4046,17,4,Actually I was going to apologize.,Spencer,0
+4047,17,5,For lying about my ankle.,Spencer,0
+4048,17,6,"Oh, okay.",Teddy,0
+4049,17,7,Go ahead then.,Teddy,0
+4050,17,8,I'm sorry for lying about my ankle.,Spencer,0
+4051,17,9,I'm sorry I lied about those socks.,Teddy,0
+4052,17,10,What? I didn't actually knit them myself.,Teddy,0
+4053,17,11,I can't knit.,Teddy,0
+4054,17,12,Or dance.,Teddy,0
+4055,17,13,"Hey, if I wanted a dancing knitter, I'd date my aunt betty.",Spencer,0
+4056,17,14,So we're good? - We're great.,Teddy,0
+4057,17,15,"Emmett Get away from me! Hey, charlie.",Emmett,0
+4058,17,16,So yesterday was the school talent show.,Teddy,0
+4059,17,17,And I hold in my hand the winning check for $25.,Teddy,0
+4060,18,0,Which is made out to pj duncan.,PJ,0
+4061,18,1,"Yeah, the one that's based on your cuteness, charlie.",Teddy,0
+4062,18,2,And mine.,PJ,0
+4063,18,3,"Anyway, I on the other hand owe the school.",Teddy,0
+4064,18,4,Some money for damages.,Teddy,0
+4065,18,5,And erwin said he'll 'shee' me in court.,Teddy,0
+4066,18,6,"So my advice is, If someone ever tells you you're bad at something you love, Don't give up.",Teddy,0
+4067,18,7,Just make sure.,Teddy,0
+4068,18,8,You don't do it in front of the whole school.,Teddy,0
+4069,18,9,"And if I ever offer to teach you how to dance, Well, good luck, charlie.",Teddy,1
+4070,19,0,"Gabe, lunch.",Amy,0
+4071,19,1,All clear.,Others,0
+4072,19,2,"Gabe, really, is all this necessary? Yes, it is.",Amy,1
+4073,19,3,I'm the president.,Gabe,1
+4074,19,4,Of room 12.,Amy,1
+4075,19,5,"Today room 12, Tomorrow room 14.",Gabe,1
+4076,19,6,"They're painting room 12, so we're moving to room 14.",Gabe,1
+4077,19,7,Just eat your sandwich.,Amy,1
+4078,19,8,"Gabe, you got a little something on your Oh, whoa Gabe, would you tell the secret service man to get off your brother? Mom, what did I say about bossing me around? Oh, you wouldn't.",Gabe,1
+4079,19,9,"Take her down! How are you doing, dad? I'm fine.",Gabe,1

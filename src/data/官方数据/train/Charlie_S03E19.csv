@@ -1,0 +1,311 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+15122,1,0,"Good morning, mom.",Gabe,0.0
+15123,1,1,Oh.,Amy,0.0
+15124,1,2,"Gabe, honey.",Amy,0.0
+15125,1,3,We need to talk.,Amy,0.0
+15126,1,4,"Mom, I didn't do it! That Principal's out to get me.",Gabe,1.0
+15127,1,5,It's not about the Principal.,Amy,0.0
+15128,1,6,"Mom, I didn't do it! That teacher is out to get me.",Gabe,1.0
+15129,1,7,Gabe! You're not in trouble.,Amy,0.0
+15130,1,8,"Then why do we need to talk? Well, it's about your dad.",Amy,0.0
+15131,1,9,"Now you're aware that he occasionally snores, right? Mom, the people across the street are aware.",Amy,1.0
+15132,1,10,Car alarms are aware.,Gabe,1.0
+15133,1,11,Kansas is aware.,Gabe,1.0
+15134,1,12,"Well, obviously, I'm used to his snoring because I grew up next to train tracks.",Amy,1.0
+15135,1,13,But your father's been waking Toby up and I'm trying to get the baby to sleep through the night.,Amy,0.0
+15136,1,14,How does this involve me? We're going to have to temporarily change our sleeping arrangements.,Amy,0.0
+15137,1,15,"Man, you're putting Toby in with me? Not exactly.",Gabe,0.0
+15138,2,0,"Hey, roomie! ( Rock music playing ) ",Bob,1.0
+15139,3,0,( Doorbell rings ) ( Slight gasp ) There he is.,Teddy,0.0
+15140,3,1,"Mister Victor Deleseur, ladies and gentlemen.",Teddy,0.0
+15141,3,2,The smartest guy at South High.,Teddy,0.0
+15142,3,3,"What do you want, Teddy? What? Do I always have to want something? Can't I just invite you over as a friend to enjoy some Okay, so here it is.",Teddy,1.0
+15143,3,4,"Um, I'm taking the SAT this weekend and I really want to ace it.",Teddy,0.0
+15144,3,5,"And I you my help, since you know I scored a perfect 2400.",Others,0.0
+15145,3,6,They actually did a feature story on me in 'overachievers monthly'.,Others,1.0
+15146,3,7,"Yeah yeah, I know.",Teddy,0.0
+15147,3,8,I cut it out and put it in my scrapbook.,Teddy,0.0
+15148,3,9,Really?! - No.,Others,1.0
+15149,3,10,"So, what do you say? Will you help me? Under one condition If I tutor you, you have to agree to do whatever I say no matter what.",Others,0.0
+15150,3,11,Fine.,Teddy,0.0
+15151,3,12,Now just tell me what you want in return.,Teddy,0.0
+15152,3,13,"Do I always have to want something? Can't I just do it out of the goodness Okay, here it is.",Others,1.0
+15153,3,14,I want you to come to the park with me this Saturday.,Others,0.0
+15154,3,15,Wait.,Teddy,0.0
+15155,3,16,You mean like a date? I would never ask you out.,Teddy,0.0
+15156,3,17,"See, you have a boyfriend, I have a girlfriend and most importantly I have certain intellectual standards.",Others,1.0
+15157,3,18,"Insulted, yet relieved.",Teddy,1.0
+15158,3,19,So what are we gonna do at the park? I have a very important chess match and I'd like you to watch.,Others,0.0
+15159,3,20,That's it? - That's it.,Teddy,0.0
+15160,3,21,There's gotta be some sort of catch.,Teddy,0.0
+15161,3,22,No catch.,Others,0.0
+15162,3,23,Just chess.,Others,0.0
+15163,3,24,Is chess a euphemism for something? Like some sort of weird comic book role-playing thing? No.,Teddy,1.0
+15164,3,25,Okay.,Teddy,0.0
+15165,3,26,Fine.,Teddy,0.0
+15166,3,27,"If you tutor me, I'll come to the park and I'll watch you play 'chess'.",Teddy,0.0
+15167,3,28,"No, not 'chess'.",Others,0.0
+15168,3,29,Just chess.,Others,0.0
+15169,3,30,"You mean, 'chess'.",Teddy,1.0
+15170,3,31,No! Not 'chess'.,Others,0.0
+15171,3,32,Just chess! This may be the toughest tutoring I've ever done.,Others,1.0
+15172,4,0,"( Baby-talk ) Oh, that is so yummy.",Amy,0.0
+15173,4,1,"Isn't it good? Charlie, have you ever seen a cuter baby in your life? - Yes.",Amy,0.0
+15174,4,2,Who? Me.,Charlie,0.0
+15175,4,3,You are your mother's daughter.,Amy,1.0
+15176,4,4,"Hi, mom.",PJ,0.0
+15177,4,5,"Hi, Charlie.",PJ,0.0
+15178,4,6,"PJ, I need your help.",Amy,0.0
+15179,4,7,"Sure, mom.",PJ,0.0
+15180,4,8,"What can I do you for? It's a fun little way of saying, 'what can I do for you?' Proceed.",PJ,0.0
+15181,4,9,"Okay well, I really need to put Toby down for a nap.",Amy,0.0
+15182,4,10,But Charlie wants me to read to her.,Amy,0.0
+15183,4,11,"Can you do it? Oh, yeah.",Amy,0.0
+15184,4,12,Sure.,PJ,0.0
+15185,4,13,I got time for a quick little whoa! Hello.,PJ,0.0
+15186,4,14,"Charlie wants this book? - Would you rather change Toby's diaper? Come on, buddy.",Amy,1.0
+15187,4,15,'The Littlest Unicorn'.,PJ,0.0
+15188,4,16,'By Emily Prettyblossom'.,PJ,0.0
+15189,4,17,Yay.,Charlie,0.0
+15190,4,18,Okay.,PJ,0.0
+15191,4,19,Chapter one.,PJ,0.0
+15192,4,20,"'Some people say that unicorns aren't real, but they are.",PJ,0.0
+15193,4,21,They hail from a magical place called Butterflylandia'.,PJ,0.0
+15194,4,22,"Oh, boy.",PJ,0.0
+15195,4,23,Keep going.,Charlie,0.0
+15196,4,24,"'This is the story of one of those unicorns, the littlest one of all'.",PJ,0.0
+15197,4,25,'Her name was Junie.,PJ,0.0
+15198,4,26,"Her real name, that is'.",PJ,0.0
+15199,4,27,'Her mean brothers called her 'Junie the Puny Uni'.,PJ,0.0
+15200,4,28,That's not very nice.,PJ,0.0
+15201,4,29,"No, it isn't.",Charlie,0.0
+15202,4,30,Shh.,PJ,0.0
+15203,4,31,"'One day, Junie and her family went to the meadow for a picnic'.",PJ,0.0
+15204,4,32,"'The meadow was right next to the dark forest, a place Junie was forbidden to go'.",PJ,0.0
+15205,4,33,'But her curiosity got the better of her'.,PJ,0.0
+15206,4,34,Uh-oh.,PJ,0.0
+15207,4,35,I'm thirsty.,Charlie,0.0
+15208,4,36,Suck it up.,PJ,0.0
+15209,4,37,Junie's in trouble.,PJ,1.0
+15210,5,0,"So, what's the answer? ( Sighing ) Uh - 'C'? - No no no, it's 'B'! Well, I was close.",Teddy,1.0
+15211,5,1,"Teddy, this is the SAT's, not horseshoes! You know what? We've been going at this for a while.",Others,1.0
+15212,5,2,Maybe we should stop.,Teddy,0.0
+15213,5,3,Stop? But the test is Saturday.,Others,0.0
+15214,5,4,You can't stop now.,Others,0.0
+15215,5,5,Let's move on to math.,Others,0.0
+15216,5,6,"In a parallelogram - Yeah, Victor.",Others,0.0
+15217,5,7,I don't think I can study anymore.,Teddy,0.0
+15218,5,8,I feel like my brain is full.,Teddy,0.0
+15219,5,9,"That's the great thing about brains, they never get full.",Others,0.0
+15220,5,10,Even smaller ones like yours.,Others,1.0
+15221,5,11,Okay.,Teddy,0.0
+15222,5,12,"I'll have you know, my friends consider me very smart.",Teddy,0.0
+15223,5,13,"You mean like Ivy? Well, and other friends.",Others,1.0
+15224,5,14,You mean like Spencer? Let's get back to work.,Others,1.0
+15225,6,0,"'And as the sun set on the dark forest, Junie realized she would have to survive the night alone'.",PJ,0.0
+15226,6,1,Are you scared? No.,PJ,0.0
+15227,7,0,( Voice trembling ) Me either.,PJ,1.0
+15228,7,1,"Okay, bedtime.",Amy,0.0
+15229,7,2,Five more minutes.,PJ,0.0
+15230,7,3,We wanna finish this chapter.,PJ,0.0
+15231,7,4,"I'm sorry, honey.",Amy,0.0
+15232,7,5,But Charlie needs to go to bed.,Amy,0.0
+15233,7,6,That's the kind of parenting that drove Junie away from the green pastures of Butterflylandia.,PJ,1.0
+15234,7,7,Okay.,Amy,0.0
+15235,7,8,"Well, it's bedtime and I'm from the land of 'I-don't-care-ia'.",Amy,1.0
+15236,7,9,"Come on, Charlie.",Amy,0.0
+15237,7,10,And don't worry.,PJ,0.0
+15238,7,11,I won't read ahead without you.,PJ,0.0
+15239,7,12,Promise? Promise.,PJ,0.0
+15240,7,13,Good night.,PJ,0.0
+15241,7,14,Good night.,Charlie,0.0
+15242,7,15,I said good night.,Charlie,0.0
+15243,7,16,( Groaning ) Oh.,PJ,0.0
+15244,8,0,Gabe.,Bob,0.0
+15245,8,1,"Yeah, dad? - You awake? - No, dad.",Gabe,1.0
+15246,8,2,"You wanna talk? No, dad.",Bob,1.0
+15247,8,3,Your mom usually lets me talk about my day a little.,Bob,0.0
+15248,8,4,It helps me fall asleep.,Bob,0.0
+15249,8,5,"( Sighing ) Okay, dad.",Gabe,0.0
+15250,8,6,"How was your day? Well, I was over at Mrs.",Gabe,0.0
+15251,8,7,Fisher's today Workin'.,Bob,0.0
+15252,8,8,( Sighs ) Had to knock down so many spiderwebs.,Bob,0.0
+15253,8,9,"She finally came up to me and she said, 'Bob, did you miss a week?' I said, 'no, you just have a lot of spiders'.",Bob,1.0
+15254,8,10,Good night.,Gabe,0.0
+15255,8,11,"Gabe? ( Exhales ) Dad, if you can't sleep, just watch some TV.",Gabe,0.0
+15256,8,12,But it's bedtime.,Bob,0.0
+15257,8,13,"Is it? ( TV turns on ) Whoa! Whoa whoa! TV after bedtime? How often you do this? Um This is, uh this is my first time, dad.",Bob,1.0
+15258,9,0,"Now, if the semicircle arc 'AB' has the length six times PI.",Others,0.0
+15259,9,1,And the circumference of the circle with the diameter 'BC' is eight times PI What is the area of the shaded region?! Um 'B'.,Teddy,0.0
+15260,9,2,Wrong! - Oh! What are you doing?! I'm giving you a punishment to train your brain.,Others,0.0
+15261,9,3,"Victor, I'm not A cat.",Teddy,0.0
+15262,9,4,"Well, of course not.",Others,0.0
+15263,9,5,A cat could have solved that equation.,Others,0.0
+15264,9,6,It's midnight.,Teddy,0.0
+15265,9,7,We're done working.,Teddy,0.0
+15266,9,8,We're done? Just because ( Mocking ) 'It's midnight'.,Others,1.0
+15267,9,9,"( Fake sobbing ) Yes, that is what I said.",Teddy,0.0
+15268,9,10,Just without the hurtful attitude.,Teddy,1.0
+15269,9,11,Am I wasting my time here? Do you want this?! I don't think you want this! I don't want this.,Others,0.0
+15270,9,12,Sit down and open that workbook.,Others,0.0
+15271,9,13,That's it.,Teddy,0.0
+15272,9,14,We're done.,Teddy,0.0
+15273,9,15,You're fired.,Teddy,0.0
+15274,9,16,Fired? - Yup.,Others,0.0
+15275,9,17,"Terminated, dismissed, shown the door.",Teddy,0.0
+15276,9,18,"Ooh, we're working with synonyms.",Others,1.0
+15277,9,19,"Yes, we are.",Teddy,0.0
+15278,9,20,"Now get out! Exit! Scram! Man, watching infomercials.",Teddy,1.0
+15279,10,0,I've got a kernel stuck in my tooth.,Bob,1.0
+15280,10,1,Doesn't get any better than this.,Bob,0.0
+15281,10,2,Shh shh shh shh.,Gabe,0.0
+15282,10,3,"Footsteps! Shut it down! Oh, sure.",Gabe,1.0
+15283,10,4,In here you don't snore.,Amy,0.0
+15284,10,5,( Snoring ) There it is.,Amy,1.0
+15285,11,0,( Air horn blows ) Rise and shine.,Others,1.0
+15286,11,1,"Victor, I fired you.",Teddy,0.0
+15287,11,2,Wrong.,Others,0.0
+15288,11,3,The correct answer is 'C' I can't be fired.,Others,0.0
+15289,12,0,( Air horn blows ) Victor.,Teddy,0.0
+15290,12,1,It's 6:00 in the morning.,Teddy,0.0
+15291,12,2,"What in the world are you doing here? Where else would I be? Gee, I don't know.",Teddy,0.0
+15292,12,3,"Maybe at home, asleep.",Teddy,0.0
+15293,12,4,Clutching some kind of a Sci-Fi action figure.,Teddy,0.0
+15294,12,5,"Teddy, you agreed to do whatever I said.",Others,0.0
+15295,12,6,No matter what.,Others,0.0
+15296,12,7,Welcome to 'no matter what'! Are you crazy? ( Chuckles ) Crazy about learnin'.,Others,1.0
+15297,12,8,And that's the only time you'll ever hear me drop a 'g'.,Teddy,1.0
+15298,12,9,Listen closely because I'm about to drop a 'g'.,Others,0.0
+15299,12,10,'O' away! This is good.,Teddy,1.0
+15300,12,11,This is good.,Others,0.0
+15301,12,12,"You're frustrated, you're angry, you're right on schedule.",Others,0.0
+15302,12,13,Excuse me? This happens whenever I'm working with someone.,Others,0.0
+15303,12,14,There always comes a moment when they want to quit.,Others,0.0
+15304,12,15,"Actually, your breaking point came later than usual.",Others,0.0
+15305,12,16,Which means that you're one of my most promising students.,Others,0.0
+15306,12,17,"Really? Oh, yes.",Teddy,1.0
+15307,12,18,I am very impressed.,Others,0.0
+15308,12,19,"You're a star, Teddy.",Others,0.0
+15309,12,20,Oh.,Teddy,0.0
+15310,12,21,( Laughs ) I don't know about star.,Teddy,1.0
+15311,12,22,Is my star ready to get to work now? ( Bashfully ) Would you stop that? I'm gonna get dressed.,Teddy,0.0
+15312,12,23,I'll be right back.,Teddy,0.0
+15313,12,24,Star.,Teddy,1.0
+15314,13,0,"( Chuckles ) - Hey, mom.",PJ,0.0
+15315,13,1,Hi.,Amy,0.0
+15316,13,2,Help me out here.,Amy,0.0
+15317,13,3,I'm Mezrab.,PJ,0.0
+15318,13,4,Help me out a little more.,Amy,0.0
+15319,13,5,"I'm Mezrab Magicpenny, the legendary half-wizard, half-unicorn, who Junie meets in the dark forest.",PJ,0.0
+15320,13,6,I thought this would help make the story come alive.,PJ,0.0
+15321,13,7,"For Charlie? Yeah, okay.",Amy,0.0
+15322,13,8,Yeah.,PJ,0.0
+15323,13,9,"Honey, I'm sorry.",Amy,0.0
+15324,13,10,Charlie's still sleeping.,Amy,0.0
+15325,13,11,"Well, should I wake her up? Yeah, you know what? Let's wake up Toby too.",Amy,0.0
+15326,13,12,Make it a party.,Amy,1.0
+15327,13,13,Okay! - No! Get back in here! I'm kidding.,Amy,0.0
+15328,13,14,You can't read to Charlie this morning.,Amy,0.0
+15329,13,15,She's got preschool.,Amy,0.0
+15330,13,16,"Aw, man.",PJ,0.0
+15331,13,17,"Well, can I at least have some breakfast? Sure.",PJ,0.0
+15332,13,18,Have a bagel.,Amy,1.0
+15333,13,19,"What, no cream cheese? ( Chanting ) If you don't know then leave it blank.",PJ,1.0
+15334,14,0,When you score high there's me to thank! ( Chanting ) Geometry is really a breeze.,Others,1.0
+15335,14,1,Right triangles are 90 degrees.,Teddy,1.0
+15336,14,2,"Sound off! One, two! PI is 3.14.",Others,1.0
+15337,14,3,"Come on now, let's hear that voice.",Others,0.0
+15338,14,4,Never guess on multiple choice.,Teddy,1.0
+15339,14,5,Go ahead and do one more! Eight squared is 64! Next time we should take a car.,Others,1.0
+15340,14,6,( Panting ) I'm not used to running this far.,Others,1.0
+15341,15,0,( Rock music playing ) ( Music stops ) What time is it? It's 1:00 in the morning.,Charlie,0.0
+15342,15,1,Also known as story time.,PJ,0.0
+15343,15,2,"Okay, where were we? Oh, yeah.",PJ,0.0
+15344,15,3,Junie was at the Cave of Shadows.,PJ,0.0
+15345,15,4,"'As Junie entered the cave, she was scared, but also very curious'.",PJ,0.0
+15346,15,5,'She crept ahead cautiously'.,PJ,0.0
+15347,15,6,I'm tired.,Charlie,0.0
+15348,15,7,"Yeah, well, so was Junie.",PJ,0.0
+15349,15,8,But she keeps going.,PJ,1.0
+15350,15,9,"All-night bowling dad, you're an animal! - PJ?! - Dad? - Where are you going? - Uh, nowhere.",Bob,0.0
+15351,15,10,Why is Charlie up? - No reason.,Bob,0.0
+15352,15,11,Why is Gabe up? - No reason.,PJ,0.0
+15353,15,12,What's with the book? What's with the bowling ball? None of this ever happened.,Bob,0.0
+15354,15,13,"None of what ever happened? Let's go, dad.",PJ,0.0
+15355,15,14,He can keep this up all night.,Gabe,0.0
+15356,15,15,Keep what up all night? 'Suddenly two bright green eyes opened wide and lit up the rocky den'.,PJ,0.0
+15357,15,16,'And Junie stood face-to-face with a giant fire-breathing dragon! 'He opened his mouth and roared' PJ?! Mom! What are you doing? What are you doing? That only works with your dad.,PJ,1.0
+15358,15,17,What's going on here? It was Charlie's idea.,PJ,0.0
+15359,15,18,She wanted to finish the book.,PJ,0.0
+15360,15,19,"Oh, okay.",Amy,0.0
+15361,15,20,"So Charlie got up in the middle of the night, called you at your apartment and told you to come over for a book sesh? She's a scamp.",Amy,1.0
+15362,15,21,"Come on, Charlie.",Amy,0.0
+15363,15,22,"Ah, okay.",PJ,0.0
+15364,15,23,"Good night, PJ.",Amy,0.0
+15365,15,24,"Well, what's she doing tomorrow? - Preschool.",PJ,0.0
+15366,15,25,"Again? That's every day now? - Morning, Gabe.",PJ,1.0
+15367,16,0,I want him out.,Gabe,0.0
+15368,16,1,Who? - Dad.,Amy,0.0
+15369,16,2,I haven't slept a wink in 48 hours.,Gabe,0.0
+15370,16,3,Except a quick little nap during math class.,Gabe,1.0
+15371,16,4,Is this about his snoring? No! I gave him a taste of freedom and he went crazy.,Gabe,0.0
+15372,16,5,Yeah.,Amy,0.0
+15373,16,6,Dad does better with rules.,Amy,0.0
+15374,16,7,Lots and lots of rules.,Amy,0.0
+15375,16,8,I can't do it anymore.,Gabe,0.0
+15376,16,9,You gotta take him back.,Gabe,0.0
+15377,16,10,Tonight.,Gabe,0.0
+15378,16,11,"Calm down, okay? This is your dad we're talking about.",Amy,0.0
+15379,16,12,Let's show a little respect.,Amy,0.0
+15380,16,13,We'll flip a coin.,Amy,0.0
+15381,16,14,"Heads, you're stuck with him.",Amy,0.0
+15382,16,15,"Tails, he's my problem.",Amy,0.0
+15383,16,16,Deal.,Gabe,0.0
+15384,16,17,Please be tails.,Gabe,0.0
+15385,16,18,Please be tails.,Gabe,0.0
+15386,16,19,Please be tails.,Gabe,0.0
+15387,16,20,Hey.,Bob,0.0
+15388,16,21,Whatcha doing? Fighting over you.,Bob,1.0
+15389,16,22,So who won? Aw! Gabe! Yes! Welcome back.,Amy,1.0
+15390,17,0,( Doorbell rings ) - Hi.,Teddy,0.0
+15391,17,1,"So? How'd the test go? Well of course I won't know for a while, but I think I did really well.",Others,0.0
+15392,17,2,"Now, in accordance with our agreement, you need to accompany me to my chess match.",Others,0.0
+15393,17,3,"Right right, the 'chess match'.",Teddy,0.0
+15394,17,4,"Teddy, it's just a chess match.",Others,0.0
+15395,17,5,Sure.,Teddy,0.0
+15396,17,6,Okay.,Others,0.0
+15397,17,7,"Well, what do I have to wear? A bird suit or a robot outfit? Actually, what you have on now is perfect.",,1.0
+15398,17,8,"Come on, Andrew.",Others,0.0
+15399,17,9,It's your move.,Others,0.0
+15400,17,10,"It is? Oh, right.",Others,1.0
+15401,17,11,Checkmate.,Others,0.0
+15402,17,12,"What? No! It can't be! Curse you, Deleseur! We're done here.",Others,1.0
+15403,17,13,"Thank you, Teddy.",Others,0.0
+15404,17,14,Nerd bait.,Teddy,0.0
+15405,17,15,Not my finest hour.,Teddy,0.0
+15406,18,0,"Well, Charlie.",Teddy,0.0
+15407,18,1,"I got my SAT results back, and let's just say I did pretty well.",Teddy,0.0
+15408,18,2,I'm trying not to be supercilious.,Teddy,0.0
+15409,18,3,Did I use that right? Who cares? Test's over.,Teddy,0.0
+15410,18,4,"Hey, check it out.",PJ,0.0
+15411,18,5,The sequel to 'The Littlest Unicorn' just came out.,PJ,0.0
+15412,18,6,'Revenge of The Littlest Unicorn'.,PJ,0.0
+15413,18,7,"Have you seen Charlie? Uh, yeah.",PJ,0.0
+15414,18,8,And she told me to tell you that she's not home.,Teddy,0.0
+15415,18,9,"Man! Well, who am I supposed to read this to? Hello, Toby! Okay, chapter one.",PJ,1.0
+15416,18,10,'Junie had an axe to grind' Well.,PJ,0.0
+15417,18,11,Sounds like there's gonna be a b*at down in Butterflylandia.,Teddy,0.0
+15418,18,12,"Better wish Junie some good luck, Charlie.",Teddy,1.0
+15419,19,0,"Charlie, are you ready to go to the park now? No! ( Groans ) PJ, thanks to that stupid book you read her Charlie's afraid to go outside.",Amy,0.0
+15420,19,1,She thinks there's a dragon out there.,Amy,0.0
+15421,20,0,There is.,Charlie,1.0
+15422,20,1,"Will you please explain to your sister the difference between what's real and what's not? Okay, Charlie.",Amy,0.0
+15423,20,2,It's very simple.,PJ,0.0
+15424,20,3,"Unicorns are real, dragons are not.",PJ,0.0
+15425,20,4,Okay.,Amy,0.0
+15426,20,5,Are you ready to go now? No.,Amy,0.0
+15427,20,6,"Okay, mom.",PJ,0.0
+15428,20,7,I got this.,PJ,0.0
+15429,20,8,"Charlie, there is no dragon out there.",PJ,0.0
+15430,20,9,"Look, I'll show you.",PJ,0.0
+15431,20,10,( Roaring ) ( Coughs ) Told you.,Charlie,0.0

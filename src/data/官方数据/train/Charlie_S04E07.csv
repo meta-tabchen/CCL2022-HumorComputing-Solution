@@ -1,0 +1,400 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+16519,1,0,(Video game noises) ,Amy,0
+16520,1,1,Ga Gabe? I asked you to take your clothes upstairs.,Amy,0
+16521,1,2,"Yeah, I said I would.",Gabe,1
+16522,1,3,I just didn't say when.,Gabe,1
+16523,1,4,"I don't get you sometimes, you know? I wash your clothes.",Amy,0
+16524,1,5,I dry them.,Amy,0
+16525,1,6,I fold them.,Amy,0
+16526,1,7,I put them in the basket.,Amy,0
+16527,1,8,All I ask is that you take them upstairs.,Gabe,0
+16528,1,9,I see what's going on here.,Gabe,0
+16529,1,10,Somebody needs a pat on the back.,Gabe,0
+16530,1,11,"Hey, you're doing great, mom.",Gabe,0
+16531,1,12,Clothes upstairs now.,Gabe,0
+16532,1,13,(Cellphone rings) ,Gabe,0
+16533,1,14,Oh.,Gabe,0
+16534,1,15,Hold that thought.,Gabe,0
+16535,1,16,Hello.,Gabe,0
+16536,1,17,"Oh, hey, Lauren.",Gabe,0
+16537,1,18,"Yeah, how's it going? Oh, no, I'm not doing anything.",Gabe,0
+16538,1,19,"Don't forget to take your Yeah, so what's up? Yeah, sure you're cute now.",Amy,1
+16539,1,20,One day you'll disappoint me too.,Amy,1
+16540,2,0,Hey! Want to hear some exciting news? Emmett and I are apartment sitting for the guy upstairs.,PJ,0
+16541,2,1,We're taking care of his pet rats.,PJ,0
+16542,2,2,And the exciting part is? Somebody trusts me and Emmett.,PJ,1
+16543,2,3,With rats.,Teddy,0
+16544,2,4,Live rats.,PJ,1
+16545,2,5,"Wait, so you guys aren't going to be in your apartment tonight? That's right.",Teddy,0
+16546,2,6,"Why? Well, I was kind of thinking about having a slumber party.",Teddy,0
+16547,2,7,"See, tonight would be my anniversary with Spencer.",Teddy,0
+16548,2,8,"But rather than sit around and mope, I was thinking I should have some fun with my girls.",Teddy,0
+16549,2,9,And you want me to bring the rats over to liven up the festivities? Actually I was hoping I could have the slumber party at your apartment.,PJ,1
+16550,2,10,"Oh, sure.",PJ,0
+16551,2,11,No problem.,PJ,0
+16552,2,12,Thanks.,Teddy,0
+16553,2,13,"You know, we could do it here, it's just there's so many people around.",Teddy,0
+16554,2,14,Mom? - That's the people I'm talking about.,Teddy,0
+16555,3,0,Unbelievable! Unbelievable! ,Bob,0
+16556,3,1,"Charlie, look at this.",Bob,0
+16557,3,2,"I can't read, daddy.",Charlie,0
+16558,3,3,I'm sorry.,Bob,1
+16559,3,4,"Look, this is an ad For a new extermination company.",Bob,0
+16560,3,5,"Vern Hardy, formerly of Bob's Bugs-Be-Gone Has opened Vern's Vermin-Be-Vanquished.",Bob,0
+16561,3,6,Unbelievable.,Charlie,0
+16562,3,7,(Phone rings) ,Bob,0
+16563,3,8,(Chuckles) ,Bob,0
+16564,3,9,"Hi, Vern.",Bob,0
+16565,3,10,"Hey, what's new? Yeah.",Bob,0
+16566,3,11,No no no no.,Bob,0
+16567,3,12,I do accept your resignation.,Bob,0
+16568,3,13,"Hey, this is how you repay me for 12 years of work, by stabbing me in the back? You I know k*ll bugs is an ugly business.",Bob,0
+16569,3,14,I taught you that! ,Bob,1
+16570,3,15,(Phone beeps) ,Bob,0
+16571,3,16,(Sighs) Now what am I gonna do? Get someone else.,Bob,0
+16572,3,17,"You know what? For someone who can't read, you're pretty smart.",Bob,1
+16573,4,0,"Thanks for this, P.J.",Teddy,0
+16574,4,1,"you know, tonight I just want to have fun And not even think about you-know-who and the fact that it's our you-know-what.",Teddy,0
+16575,4,2,No problem.,PJ,0
+16576,4,3,"Hey, you know, I think the last time you were here, was when I made that French dinner for you and Spencer.",Teddy,0
+16577,4,4,Also known as you-know-who.,Teddy,1
+16578,4,5,"That was for your anniversary, wasn't it? ",PJ,0
+16579,4,6,And there's the you-know-what.,Teddy,0
+16580,4,7,What were you going to show me? ,Teddy,0
+16581,4,8,"Okay, first thing Don't touch the D.V.R.",PJ,0
+16582,4,9,I'm recording a Yacky the Duck Marathon.,PJ,0
+16583,4,10,Very important.,PJ,0
+16584,4,11,"Also, plumbing can be tricky.",PJ,0
+16585,4,12,Don't use the kitchen sink and the toilet at the same time.,PJ,0
+16586,4,13,Bad things will happen.,PJ,0
+16587,4,14,Okay.,Teddy,0
+16588,4,15,Really bad things.,PJ,0
+16589,4,16,This one time Emmett was ,PJ,0
+16590,4,17,I don't need to know.,Teddy,0
+16591,4,18,"Okay, uh you're welcome to anything in the fridge.",PJ,0
+16592,4,19,There's not much in there.,PJ,0
+16593,4,20,Just a banana.,PJ,0
+16594,4,21,"Oh! Actually, don't touch the banana.",PJ,0
+16595,4,22,That's Emmett's.,PJ,0
+16596,4,23,Got it.,Teddy,0
+16597,4,24,"Anything else? Uh, let's see Yacky, plumbing, banana nope.",PJ,0
+16598,4,25,We're good.,PJ,0
+16599,4,26,Thank you.,Teddy,0
+16600,5,0,(Doorbell rings) ,Gabe,0
+16601,5,1,"Hey, Lauren, come on in.",Gabe,0
+16602,5,2,"Hi, Mrs.",Lauren,0
+16603,5,3,Duncan.,Lauren,0
+16604,5,4,Hi.,Lauren,0
+16605,5,5,You must be Charlie.,Lauren,0
+16606,5,6,Who are you? I'm Lauren.,Charlie,0
+16607,5,7,I'm Mrs.,Lauren,0
+16608,5,8,Dabney's granddaughter.,Lauren,0
+16609,5,9,But you seem nice.,Charlie,1
+16610,5,10,We're all baffled.,Gabe,0
+16611,5,11,(Chuckles) Whoa.,Lauren,0
+16612,5,12,Whoa.,Gabe,0
+16613,5,13,Laundry basket almost took me down.,Lauren,0
+16614,5,14,What is that doing there? I will be right back.,Gabe,0
+16615,5,15,So sorry.,Gabe,0
+16616,5,16,Did you see that? ,Amy,0
+16617,5,17,Unbelievable.,Charlie,1
+16618,5,18,"Thank you, Lauren.",Amy,0
+16619,5,19,"You know, with five kids, I don't always notice what needs to be put away.",Amy,0
+16620,5,20,"Oh, you're welcome.",Lauren,0
+16621,5,21,It's really funny.,Amy,0
+16622,5,22,"Yeah, there's probably, stuff lying all over this house making a mess.",Amy,0
+16623,5,23,Stuff right here in this room.,Amy,1
+16624,5,24,See anything? ,Amy,0
+16625,5,25,"Um, I don't know.",Lauren,0
+16626,5,26,"The video games are kind of messy, I guess.",Lauren,0
+16627,5,27,Huh.,Amy,0
+16628,5,28,"Okay, I'm back.",Gabe,0
+16629,5,29,"Gabe, Lauren and I were just talking.",Amy,0
+16630,5,30,"What was it you were saying about the video games? That they were messy? Messy, yes, that's the word that you used.",Amy,0
+16631,5,31,Oh.,Gabe,0
+16632,5,32,(Chuckles) That's my bad.,Gabe,0
+16633,5,33,That's his bad.,Amy,0
+16634,5,34,(Laughs) ,Amy,0
+16635,5,35,"(Whispers) You're welcome here any time, Lauren.",Amy,1
+16636,5,36,Any time at all.,Amy,1
+16637,6,0,Come in.,Bob,0
+16638,6,1,"Hi, I'm Beau Landry.",Beau,0
+16639,6,2,I'm here about the job.,Beau,0
+16640,6,3,Bob Duncan.,Bob,0
+16641,6,4,"It's a pleasure to meet you, Sir.",Beau,0
+16642,6,5,Have a seat.,Bob,0
+16643,6,6,Here's my resume.,Beau,0
+16644,6,7,"(Mumbles, sighs) Well, looks like you just moved here.",Bob,0
+16645,6,8,"Yes Sir, from Hollow Rock, Tennessee.",Beau,0
+16646,6,9,So why'd you leave? ,Bob,0
+16647,6,10,"You ever been to Hollow Rock, Tennessee? ",Beau,1
+16648,6,11,So what brought you to Denver? ,Bob,0
+16649,6,12,The bus.,Beau,1
+16650,6,13,"Naw, I'm just messing with you.",Beau,1
+16651,6,14,"(Laughs) My Aunt lives in Denver, so I figure while I'm staying with her I might as well check it out, look for a job, make some money, save for college.",Beau,0
+16652,6,15,"(Sighs) Well, Beau, you seem like a great kid, but you just You don't have any experience in the field.",Bob,0
+16653,6,16,"Well, I can't argue that, but I really want this job, Sir.",Beau,0
+16654,6,17,"Ever since I was little, it's been my dream to be an exterminator.",Beau,0
+16655,6,18,Really? ,Bob,0
+16656,6,19,"Naw, I'm just messing with you again.",Beau,1
+16657,6,20,(Chuckles) I actually just want a job.,Beau,0
+16658,6,21,"Okay, well, that's good enough for me.",Bob,0
+16659,6,22,You're hired.,Bob,0
+16660,6,23,"Really? No, just messing with you.",Bob,1
+16661,7,0,This is gonna be so much fun.,Others,0
+16662,7,1,Too bad Ivy's too sick to be here.,Teddy,0
+16663,7,2,Yeah.,Others,0
+16664,7,3,"She is sick, right? Because sometimes I get the feeling she doesn't like me.",Others,0
+16665,7,4,Why would you say that? ,Teddy,0
+16666,7,5,She told me she doesn't like me.,Others,0
+16667,7,6,She told me that too.,Others,0
+16668,7,7,"Oh, Ivy doesn't like you either? No, she told me she doesn't like you.",Others,1
+16669,7,8,"Moving past Ivy to the fun part Okay, have you guys seen Jackson? The new boy at school? He is c-u-t-e cute! I talked to him at lunch, but I couldn't tell if he was interested.",Teddy,0
+16670,7,9,"How do you know if a boy likes you? I have so many questions about boys, like, why are they so mean? Why are they so stupid? Why don't I have one? Guys, can we please just not talk about boys tonight? I'm sorry, it's just kind of a sore subject.",Others,1
+16671,7,10,"You're right, Teddy.",Others,0
+16672,7,11,I'm sorry.,Others,0
+16673,7,12,"(P.J.knocks) - Hello, can I come in? - Ooh! That sounds like a boy! ",Others,1
+16674,7,13,(Voice breaks) Come on in.,Others,1
+16675,7,14,It's not a boy.,Teddy,1
+16676,7,15,It's just my brother.,Teddy,0
+16677,7,16,"What are you doing here? Oh, just double-checking you're not using the D.V.R.",Teddy,0
+16678,7,17,"Oh, and Emmett wants his banana.",Bob,1
+16679,7,18,"Hey, P.J., can I ask you a question? Sorry, Teddy, this is gonna be about boys.",Others,1
+16680,7,19,Go ahead.,Teddy,0
+16681,7,20,"Okay, how does a girl know if a boy likes her? Oh, that's easy.",Others,0
+16682,7,21,It's the way he looks at you when you first meet.,PJ,0
+16683,7,22,It seems like time stops and you're the only two people in the world.,PJ,0
+16684,7,23,Oh! ,Others,0
+16685,7,24,I want that.,Others,1
+16686,7,25,I had that.,Teddy,1
+16687,7,26,"Oh, hey, that reminds me happy anniversary, sis.",PJ,0
+16688,7,27,Really? What? I didn't say Spencer's name.,PJ,1
+16689,8,0,"Oh, dang it! If you came over to borrow something, I'm out of it.",Others,1
+16690,8,1,Good afternoon to you too.,Amy,0
+16691,8,2,"Actually, I was wondering if Lauren could come over.",Amy,0
+16692,8,3,"How come you're asking and not Gabe? What's going on, Amy? Does something have to be going on, for me to pay a visit to my friend and neighbor Mrs.",Amy,1
+16693,8,4,Dabney? Yes.,Others,1
+16694,8,5,"Yeah, okay, I'm not buying it either.",Amy,0
+16695,8,6,"Okay, here's the deal I cannot get Gabe to do his chores.",Amy,0
+16696,8,7,"But whenever Lauren asks him to do something, he does it, so can I borrow her for a while? Why would I let you take advantage of my precious granddaughter? Because Maybe there's something in it for you.",Amy,0
+16697,8,8,Evil is a two-way street.,Amy,1
+16698,8,9,Evil? I'm listening.,Others,1
+16699,8,10,You could use Gabe to get Lauren to do her chores.,Amy,0
+16700,8,11,Ooh.,Amy,0
+16701,8,12,I thought you'd like it.,Amy,0
+16702,8,13,"So, for instance, if Gabe were to tell Lauren that he was embarrassed about our dirty windows She might do something about it.",Others,0
+16703,8,14,Gabe's always had a thing about clean windows Ever since he was a baby.,Amy,0
+16704,8,15,You should come over more often.,Others,1
+16705,8,16,Aw.,Others,0
+16706,9,0,Look at this place.,Emmett,0
+16707,9,1,It's hard to believe an apartment in our building can look this great.,PJ,0
+16708,9,2,"Right? I mean, he has everything we don't Nice furniture, cool art, rats.",Emmett,1
+16709,9,3,What are the rats' names again? Peanut Butter and Jelly.,PJ,0
+16710,9,4,Wow.,Emmett,0
+16711,9,5,(Rustling) Look at Jelly run around the cage.,Emmett,0
+16712,9,6,"Man, he's fast.",Emmett,0
+16713,9,7,I bet Peanut Butter's faster.,PJ,0
+16714,9,8,Are you saying what I think you're saying? Both: Rat race! This may be our greatest race ever.,Emmett,0
+16715,9,9,Certainly our weirdest.,PJ,0
+16716,9,10,(Laughs) ,Emmett,0
+16717,9,11,Are you ready? ,Emmett,0
+16718,9,12,Ready.,PJ,0
+16719,9,13,"On your mark, get set ",PJ,0
+16720,9,14,Go.,PJ,0
+16721,9,15,(Squeaking) - What are they doing? ,Emmett,0
+16722,9,16,"Guys, the path is clearly marked.",PJ,0
+16723,9,17,Where they go? Oh no.,Emmett,0
+16724,9,18,No no no no no.,Emmett,0
+16725,9,19,No no no no.,Emmett,0
+16726,9,20,No no no no.,PJ,0
+16727,9,21,(Whimpering) No no.,Emmett,0
+16728,9,22,Oh oh oh oh! ,Emmett,0
+16729,9,23,What? What? ,Emmett,0
+16730,9,24,"Oh, I got Jelly.",Emmett,0
+16731,9,25,"Where's Peanut Butter? Well, he's not at the finish line, so winner! ",Emmett,1
+16732,10,0,(Squeaking) ,Teddy,0
+16733,10,1,(Screaming) ,Others,0
+16734,10,2,(All scream) ,Others,0
+16735,10,3,Wait! Why are we screaming? ,Others,0
+16736,10,4,(Squeaking continues) ,Others,0
+16737,10,5,(Screaming continues) ,Others,0
+16738,10,6,How did a rat get in here anyway? ,Others,0
+16739,10,7,"Well, there it is! ",Others,0
+16740,10,8,(Girls screaming) Why are you screaming? Is there a problem with the D.V.R.? There's a rat in here! ,PJ,1
+16741,10,9,Both: Yes! ,PJ,0
+16742,10,10,Woo! ,PJ,0
+16743,10,11,Peanut Butter.,PJ,0
+16744,10,12,"P.J.: Come here, Peanut Butter.",PJ,0
+16745,10,13,"Okay, Peanut Butter.",Emmett,0
+16746,10,14,Come here.,PJ,0
+16747,10,15,I'm Emmett.,Emmett,0
+16748,10,16,I'm Vonnie.,Others,0
+16749,10,17,P.J.: Emmett! ,PJ,0
+16750,10,18,"Sorry, sorry.",Emmett,0
+16751,10,19,(Whispers) Did you see that? He just gave me the look! You don't want the look from Emmett.,Others,0
+16752,10,20,Believe me.,Teddy,0
+16753,10,21,"Okay, now where was the last place you saw the rat? Right there.",PJ,0
+16754,10,22,"Well, he's not there now, so we know he moved.",Emmett,0
+16755,10,23,That's the kind of thinking that comes with the look.,Teddy,1
+16756,10,24,We need a plan to catch this rat.,Emmett,0
+16757,10,25,"Okay, I think I got one.",PJ,0
+16758,10,26,"You go upstairs, grab all the cheese you can find, crackers too, and you bring 'em down here.",PJ,0
+16759,10,27,"After we've had our after-breakfast snack, we'll think of ways to catch that rat.",PJ,0
+16760,10,28,Got it.,Emmett,0
+16761,11,0,"Good morning, Sir.",Beau,0
+16762,11,1,Beau Landry ready for work.,Beau,0
+16763,11,2,I'm sorry.,Bob,0
+16764,11,3,I guess I didn't make myself clear.,Bob,0
+16765,11,4,You didn't get the job.,Bob,0
+16766,11,5,"Sir, if I didn't get the job, then why am I wearing this shirt? I don't know why.",Beau,0
+16767,11,6,"Mr.Duncan, I'm a hard worker and I'm reliable.",Beau,0
+16768,11,7,"If you give me a chance, you won't be disappointed.",Beau,0
+16769,11,8,"Beau, come on.",Bob,0
+16770,11,9,"Look, I (Sighs) I really need someone with experience.",Bob,0
+16771,11,10,"Well, this is already my second day.",Beau,1
+16772,11,11,"Come on, there must've been someone that gave you your first big break.",Beau,0
+16773,11,12,(Sighs) ,Bob,0
+16774,11,13,(Chuckles) Well There was old man Witherspoon.,Bob,0
+16775,11,14,"Yeah, there's a story.",Bob,0
+16776,11,15,I don't suppose you'd want to hear it.,Bob,0
+16777,11,16,I'd love to.,Beau,0
+16778,11,17,Really? You want to hear one of my bug stories? That's never happened before.,Bob,0
+16779,11,18,(Phone ringing) You hang on.,Bob,0
+16780,11,19,Hello.,Bob,0
+16781,11,20,"Teddy: Dad, there was a rat! ",Teddy,0
+16782,11,21,"Oh, hi, Teddy.",Bob,0
+16783,11,22,A rat in PJ's apartment! Whoa whoa whoa whoa.,Teddy,0
+16784,11,23,"What? All right, all right.",Bob,0
+16785,11,24,I'll be right over.,Bob,0
+16786,11,25,"Well, I guess it's your lucky day.",Bob,0
+16787,11,26,I'm gonna give you a sh*t.,Bob,0
+16788,11,27,We've got a rat situation.,Bob,0
+16789,11,28,I'm hired? ,Beau,0
+16790,11,29,We'll just see how the first job goes.,Bob,0
+16791,11,30,"Oh! Hey, you know what? On the way over, I'll tell you the old man Witherspoon story.",Bob,1
+16792,11,31,"Now I kinda have the job, so Oh, no no no no no.",Bob,0
+16793,11,32,You said you'd listen.,Bob,1
+16794,11,33,There's no take-backs.,Bob,1
+16795,12,0,These are really dirty.,Lauren,0
+16796,12,1,Seems like they haven't been washed forever.,Lauren,1
+16797,12,2,"Actually, it was November ",Gabe,0
+16798,12,3,(Laughs) That's pretty specific.,Lauren,0
+16799,12,4,I used to egg her windows every Halloween.,Gabe,0
+16800,12,5,Sweet memories.,Gabe,1
+16801,12,6,Sweet memories.,Gabe,1
+16802,12,7,So is this clean enough for you? ,Lauren,0
+16803,12,8,I guess.,Gabe,0
+16804,12,9,Who cares? You care.,Gabe,0
+16805,12,10,You have a thing about clean windows.,Lauren,0
+16806,12,11,I don't have a thing about clean anything.,Gabe,1
+16807,12,12,That's not what your mom told my grandma.,Lauren,0
+16808,12,13,My mom and Mrs.Dabney were together? And now we're washing windows? ,Gabe,0
+16809,12,14,"Yeah, so? ",Lauren,0
+16810,12,15,"We're being played! Mrs.Dabney I can see, but my own mother? Actually, I can see that too.",Gabe,1
+16811,13,0,"Amy, you are a genius.",Others,0
+16812,13,1,I think next week Lauren's gonna point out that my garden needs weeding.,Amy,0
+16813,13,2,And I have a feeling Gabe is gonna think my laundry room needs repainting.,Others,1
+16814,13,3,He does have an eye for that.,Amy,1
+16815,13,4,(Both laughing evilly) Wow.,Amy,0
+16816,13,5,Your evil laugh is a lot better than mine.,Amy,0
+16817,13,6,I've been doing it a lot longer.,Others,1
+16818,13,7,"They're laughing now, but we'll see who's laughing later.",Gabe,1
+16819,13,8,"So what are we gonna do? I don't know yet, but whatever it is, it's gonna end in evil laughing.",Gabe,0
+16820,14,0,I swear Emmett gave me the look.,Others,0
+16821,14,1,Oh! And we're back to that.,Teddy,0
+16822,14,2,"Oh, and I gave the look back to him.",Others,0
+16823,14,3,Ha! We're so getting married.,Others,0
+16824,14,4,He didn't give you the look.,Others,0
+16825,14,5,He looked at you.,Others,1
+16826,14,6,There's a difference.,Others,0
+16827,14,7,I guess somebody doesn't want to be a bridesmaid.,Others,1
+16828,14,8,I don't either.,Teddy,0
+16829,14,9,"Okay, cavalry is here.",Bob,0
+16830,14,10,"Girls, maybe you should wait in the bathroom.",Bob,0
+16831,14,11,"Well, what if the rat's in there? Then they'll scream and we'll know where the rat is.",Bob,1
+16832,14,12,What? ,Teddy,0
+16833,14,13,"Uh, nothing.",Bob,0
+16834,14,14,Nothing.,Bob,0
+16835,14,15,Ready to go.,Beau,0
+16836,14,16,"Who's this? This is Beau, giving him a little try-out.",Bob,0
+16837,14,17,"Beau, this is my son, P.J.",Bob,0
+16838,14,18,Hey.,PJ,0
+16839,14,19,(Trap rattles) Oh whoa.,PJ,0
+16840,14,20,No no no traps.,PJ,0
+16841,14,21,"Dad, you can't k*ll this rat.",PJ,0
+16842,14,22,"Well, then what did you call an exterminator for? Oh, I thought you were a pest control specialist.",PJ,0
+16843,14,23,I stopped saying that years ago.,Bob,0
+16844,14,24,Who was I kidding? ,Bob,1
+16845,14,25,Why can't we use the traps? ,Bob,0
+16846,14,26,Because he's a pet.,PJ,0
+16847,14,27,His name's Peanut Butter.,PJ,0
+16848,14,28,Someone trusted me with him and then I raced him Like I always do.,PJ,1
+16849,14,29,"Do you happen to have any real peanut butter? Well, yeah, why? Well, I figure if his name's Peanut Butter, maybe he likes peanut butter.",Beau,0
+16850,14,30,"(Bob chuckles) Dad is this gonna work? No, of course not.",Bob,0
+16851,14,31,"But you know what? This is good, because we all learn from trial and ",Bob,0
+16852,14,32,There he is! ,Bob,0
+16853,14,33,(P.J.Gasps) ,PJ,0
+16854,14,34,There you go.,Beau,0
+16855,14,35,"Oh, thank you.",PJ,0
+16856,14,36,"Oh, Peanut Butter, you had me so worried.",PJ,0
+16857,14,37,"Not bad, kid.",Bob,0
+16858,14,38,Not bad.,Bob,0
+16859,14,39,You know what? Welcome aboard.,Bob,0
+16860,14,40,All right.,Beau,0
+16861,14,41,"(Chuckles) Hey, girls, you can come out now.",Bob,0
+16862,14,42,"Oh, hey, Beau, this is Vonnie and Kelsey ",Bob,0
+16863,14,43,Both: Hi.,Others,0
+16864,14,44,And that's my daughter Teddy.,Bob,0
+16865,14,45,(Angelic chorus singing) Hi.,Teddy,0
+16866,14,46,Hey.,Beau,0
+16867,14,47,Now that was the look.,Others,1
+16868,15,0,"Hey, what are you doing here? I thought you were getting together with Lauren.",Amy,0
+16869,15,1,"Oh, we broke up.",Gabe,0
+16870,15,2,What?! Wha what happened? She's nice and all.,Amy,0
+16871,15,3,It's just she started getting all bossy.,Gabe,0
+16872,15,4,Kept asking me to do chores and stuff.,Gabe,0
+16873,15,5,"Gabe, this is all my fault.",Amy,0
+16874,15,6,"What? Okay, look, Mrs.Dabney and I, used you and Lauren to get each other to do things around the house.",Amy,0
+16875,15,7,"How could you do that?! Well, it was more Mrs.Dabney than me.",Gabe,0
+16876,15,8,I can't believe you ruined my first relationship.,Gabe,0
+16877,15,9,I feel terrible.,Amy,0
+16878,15,10,"I I just Is there anything I can do, anything at all to make you feel better? ",Amy,0
+16879,15,11,(Sighs) I I could eat.,Gabe,0
+16880,15,12,"Okay, I'll make you a sandwich.",Amy,0
+16881,15,13,Eh.,Gabe,0
+16882,15,14,You know what might help? Lasagna From from the nice Italian place.,Gabe,0
+16883,15,15,That's all the way across town.,Amy,0
+16884,15,16,"My first relationship, mom.",Gabe,0
+16885,15,17,I'm leaving now.,Amy,0
+16886,15,18,(Sighs) ,Gabe,0
+16887,15,19,"(Door opens, closes) ",Gabe,0
+16888,15,20,(Rings) ,Gabe,0
+16889,15,21,Hey.,Lauren,0
+16890,15,22,"Hey, how's it working over there? Hang on.",Gabe,0
+16891,15,23,"Here you go, honey.",Others,0
+16892,15,24,Grandma's so sorry for what she did.,Others,0
+16893,15,25,Working like a charm.,Lauren,1
+16894,16,0,"Hey Charlie, so Today's life lesson is about sleepovers.",Teddy,0
+16895,16,1,As in don't have them at PJ's apartment.,Teddy,0
+16896,16,2,"Wait, what am I saying? When you're my age, PJ's gonna be, like, 30.",Teddy,0
+16897,16,3,"He can't still be living with Emmett, can he? My advice stands.",Teddy,1
+16898,16,4,"In other news, dad hired a new guy Beau.",Teddy,0
+16899,16,5,And I met him and That's all I wanna say about that.,Teddy,0
+16900,16,6,"Hey, honey, have you seen Gabe? I made him one of those fruit smoothies he loves so much.",Amy,0
+16901,16,7,"Oh, I think he went somewhere with Lauren.",Teddy,0
+16902,16,8,"With Lauren? They're still together? I mean, they were holding hands.",Amy,0
+16903,16,9,You know what goes well with a smoothie? Revenge.,Amy,0
+16904,16,10,"Well, Gabe's gonna need some good luck, Charlie.",Teddy,1
+16905,17,0,Hey! So what's the big emergency? I was taking care of my neighbors bird and as usual I lost him.,Bob,0
+16906,17,1,"Well, so, what do you need me for? Remember how we used peanut butter to catch Peanut Butter? I think the same thing might work with the bird.",PJ,1
+16907,17,2,What's the birds name? ,Bob,0
+16908,17,3,Bob.,PJ,0
+16909,17,4,That's ridiculous! I think his given name is Robert.,Bob,0
+16910,17,5,Makes sense to me.,PJ,0
+16911,17,6,That's not what I meant.,Bob,0
+16912,17,7,Will you please just go stand by the window? Fine.,PJ,0
+16913,17,8,"But I'm telling you, this isn't going to work.",Bob,0
+16914,17,9,"Whoa, whoa, whoa! Thanks dad.",PJ,1
+16915,17,10,"It's the wrong bird, but thanks.",PJ,1
+16916,17,11,"Oh, there you are.",PJ,0
+16917,17,12,Hi Bob.,PJ,1

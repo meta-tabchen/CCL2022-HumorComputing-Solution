@@ -1,0 +1,343 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+9615,1,0,"Hi, Ivy.",Others,0
+9616,1,1,Hey.,lvy,0
+9617,1,2,"Hi, G.G.",Others,0
+9618,1,3,"Lana, I know you're new here, But my name is Teddy.",Teddy,0
+9619,1,4,I'm sorry.,Others,0
+9620,1,5,"I've just heard so many people call you 'g.G.,' - I thought - No, it's Teddy.",Teddy,0
+9621,1,6,Got it.,Others,0
+9622,1,7,Teddy.,Others,0
+9623,1,8,Starts with a 't.' Just like touchy.,Others,1
+9624,1,9,"Ivy, why are people calling me gigi? I don't know.",Teddy,0
+9625,1,10,Maybe it's a nickname.,lvy,1
+9626,1,11,Are they saying gigi like the name 'gigi' Or the letters 'g.G.,Teddy,0
+9627,1,12,'? I don't know.,lvy,0
+9628,1,13,Probably the second one.,lvy,1
+9629,1,14,What would G.G.,Teddy,0
+9630,1,15,Stand for? Glamorous gal.,Teddy,0
+9631,1,16,Golden goddess.,Teddy,0
+9632,1,17,Genetic greatness.,Teddy,1
+9633,1,18,Goody-goody.,lvy,1
+9634,1,19,It means goody-goody.,lvy,1
+9635,1,20,Goody-goody why would they call me that? Maybe it's because you always play by the rules.,Teddy,0
+9636,1,21,And never do anything bad.,lvy,0
+9637,1,22,Or something like that.,lvy,1
+9638,1,23,"Okay, but I am so not a goody-goody.",Teddy,0
+9639,1,24,"If anything, I am a baddy-baddy.",Teddy,1
+9640,1,25,"T, only a goody-goody.",lvy,1
+9641,1,26,Would say baddy-baddy.,lvy,0
+9642,1,27,I've been bad.,Teddy,0
+9643,1,28,I've broken rules.,Teddy,0
+9644,1,29,"Like when? - Like the time - Okay, I've bent rules.",Teddy,0
+9645,1,30,"Like when? Like the time Oh, man.",Teddy,0
+9646,1,31,I am a G.G.,Teddy,1
+9647,1,32,"I'm glad you came around, girl.",lvy,0
+9648,1,33,Cause I'm the one who started it.,lvy,1
+9649,2,0,"Gabe, I need your help.",Teddy,0
+9650,2,1,So I just found out I have this horrible nickname.,Teddy,0
+9651,2,2,You mean G.G.? How do you know about that? I helped Ivy come up with it.,Gabe,1
+9652,2,3,"Okay, well, I'm not a goody-goody.",Teddy,0
+9653,2,4,And I wanna do something naughty to prove it.,Teddy,0
+9654,2,5,"First, stop using words like naughty.",Gabe,0
+9655,2,6,Got it.,Teddy,0
+9656,2,7,"Now I'll help you be bad, with something.",Gabe,0
+9657,2,8,Elp me.,Gabe,0
+9658,2,9,"What? - Well, I'm grounded, But I need to get ungrounded by Saturday.",Gabe,0
+9659,2,10,Jake invited me to super adventure land.,Gabe,0
+9660,2,11,"Super adventure land reopened? Yeah, that's why I they close it down again.",Teddy,0
+9661,2,12,"Now how do I get mom and dad to let me go? Well, you could try behaving better.",Gabe,0
+9662,2,13,"All right, I don't I need answers.",Gabe,0
+9663,2,14,Okes.,Gabe,0
+9664,2,15,Why don't you just do something nice for them? Like? In the garage last week.,Teddy,0
+9665,2,16,And I found this old poem back in High School.,Teddy,0
+9666,2,17,"M I was gonna give it to her for her birthday, But you could do it now.",Teddy,0
+9667,2,18,Then they'll be putty in my hands.,Gabe,0
+9668,2,19,"Thanks, G.G.",Gabe,1
+9669,2,20,Stop calling me that.,Teddy,1
+9670,2,21,"Hi, Charlie.",Teddy,0
+9671,2,22,"Hi, G.G.",Charlie,1
+9672,3,0,"Argh! Mom, will you make me a dress? P.J., do we need to talk? About what? About why you want me to make you a dress.",PJ,1
+9673,3,1,I don't want you to.,PJ,0
+9674,3,2,I need you to.,PJ,0
+9675,3,3,"Honey, can't you just borrow one of mine? This could just be a phase.",Amy,1
+9676,3,4,The dress isn't for me.,PJ,0
+9677,3,5,It's for Charlie.,PJ,0
+9678,3,6,I got an assignment in my home ec class to make an outfit.,PJ,0
+9679,3,7,For someone in my family.,PJ,0
+9680,3,8,"Okay, next time lead with that.",Amy,1
+9681,3,9,"So will you do it? - Nope, if I do it, how will you learn? Mom, I took this class to meet girls, Not to learn stuff.",PJ,1
+9682,3,10,"It's my third year taking home ec, And I still don't know what 'ec' means.",PJ,1
+9683,3,11,"Sorry, kiddo.",Amy,0
+9684,3,12,You're on your own.,Amy,0
+9685,3,13,Fine.,PJ,0
+9686,3,14,"Well, then will you help me with my civil w*r report? Nope.",PJ,0
+9687,3,15,Will you at least tell me who won? I've got a daring new plan.,PJ,1
+9688,4,0,That's gonna blow away my goody-goody image forever.,Teddy,0
+9689,4,1,"Are you ready for this? Tomorrow, - I say we ditch school.",Teddy,0
+9690,4,2,Okay.,lvy,1
+9691,4,3,"Ivy, I don't think you understand what I'm proposing here.",Teddy,1
+9692,4,4,I'm saying tomorrow.,Teddy,0
+9693,4,5,We're not going to be in school.,Teddy,0
+9694,4,6,When school is going on.,Teddy,1
+9695,4,7,"T, I'm familiar with the concept of ditching.",lvy,1
+9696,4,8,So where are we going? - Super adventure land.,lvy,0
+9697,4,9,I'm in.,lvy,0
+9698,4,10,"Okay, Ivy, it's settled.",Teddy,0
+9699,4,11,We are going to ditch school tomorrow.,Teddy,0
+9700,4,12,That's right.,Teddy,0
+9701,4,13,"Tomorrow, Teddy, Ivy ditching.",Teddy,1
+9702,4,14,"And by ditching, I mean gone.",Teddy,0
+9703,4,15,Not here.,Teddy,0
+9704,4,16,Absesans excuse.,Teddy,1
+9705,4,17,"We got it, Teddy.",Others,0
+9706,4,18,You're ditching.,Others,0
+9707,4,19,"Yeah, by tomorrow I'm gonna have a new nickname.",Teddy,0
+9708,4,20,Gone girl.,Teddy,1
+9709,4,21,That's still G.G.,Others,1
+9710,5,0,"Agggghh! Okay, Charlie, I'm gonna design a dress for you.",PJ,0
+9711,5,1,Now don't worry.,PJ,0
+9712,5,2,I just watched 10 hours of fashion reality shows.,PJ,0
+9713,5,3,So I'm highly qualified.,PJ,1
+9714,5,4,Now let's start by taking a look at what you usually wear.,PJ,0
+9715,5,5,"Okay, no.",PJ,0
+9716,5,6,Wrong.,PJ,0
+9717,5,7,Hate it.,PJ,0
+9718,5,8,"Girlfriend, what are you thinking? Owls are so last year.",PJ,1
+9719,5,9,"Honey, we need to create a whole new look for you, Something that screacharlie! Oh, sorry I screamed 'charlie.",PJ,1
+9720,5,10,"' If I'm gonna make you the perfect dress, I need to know more about you.",PJ,0
+9721,5,11,So tell me what you like.,PJ,0
+9722,5,12,I like toys.,Charlie,0
+9723,5,13,Toys.,PJ,0
+9724,5,14,Fun.,PJ,0
+9725,5,15,Youth.,PJ,0
+9726,5,16,I'm getting something.,PJ,0
+9727,5,17,Wait a second.,PJ,0
+9728,5,18,Yes.,PJ,0
+9729,5,19,Yes! That's your new look.,PJ,1
+9730,5,20,No.,Charlie,0
+9731,5,21,You are such a diva.,PJ,0
+9732,5,22,I love it.,PJ,1
+9733,6,0,"Mom, dad, I was feeling so bad.",Gabe,0
+9734,6,1,About whatever I did to get grounded.,Gabe,1
+9735,6,2,You sprayed Mrs.,Bob,1
+9736,6,3,Dabney with a garden hose.,Bob,1
+9737,6,4,It was an accident.,Gabe,0
+9738,6,5,She was in her kitchen.,Amy,1
+9739,6,6,"Anyway, I felt so bad about that, That I decided to clean the garage.",Gabe,0
+9740,6,7,And I found this in one of mom's little boxes.,Gabe,0
+9741,6,8,And framed it for you.,Gabe,0
+9742,6,9,What is it? It's a love poem dad wrote to mom in High School.,Bob,0
+9743,6,10,No no no.,Amy,0
+9744,6,11,"You don't have to read it, Gabe.",Amy,1
+9745,6,12,"'my dearest Amy, how does a dream leave footprints in the sand?' How does a flower kindle a memory.",Gabe,0
+9746,6,13,"'Or candlelight whisper your name?' Pretty good so far, huh? Pretty good? I'm a plate of soup.",Gabe,1
+9747,6,14,I don't remember writing that.,Bob,0
+9748,6,15,It doesn't even rhyme like a good poem should.,Bob,1
+9749,6,16,Look at that.,Bob,0
+9750,6,17,That's not even my handwriting.,Bob,0
+9751,6,18,"Dad, you wrote it.",Gabe,0
+9752,6,19,It's signed 'bob d.,Gabe,0
+9753,6,20,' Who else would 'bob d.,Gabe,0
+9754,6,21,' be? Diddlebock.,Bob,1
+9755,6,22,"Hey, dad, watch the language.",PJ,1
+9756,6,23,Why would Bob diddlebock.,Bob,0
+9757,6,24,"Write you a love poem? Okay, during that brief time.",Bob,0
+9758,6,25,"In High School when we were broken up, I dated Bob diddlebock.",Amy,0
+9759,6,26,It was no big deal.,Amy,1
+9760,6,27,Not to Bob diddlebock.,PJ,0
+9761,6,28,You were a dream that left footprints.,PJ,1
+9762,6,29,In his sand.,PJ,1
+9763,6,30,I do have that effect on men.,Amy,1
+9764,6,31,"Whoa whoa! So the minute we break up, You go out and find another guy? What was I supposed to do? Go home and cry all day? I did.",Bob,1
+9765,6,32,"Bob, it's been 20 years.",Amy,0
+9766,6,33,Let it go.,Amy,0
+9767,6,34,Like you let the poem go? We were on a break.,Bob,1
+9768,6,35,How about we take another one? - Works for me.,Bob,1
+9769,6,36,"Guys, this was supposed.",Gabe,0
+9770,6,37,To be a happy moment.,Gabe,1
+9771,7,0,For me! Oh! School's just starting.,Teddy,0
+9772,7,1,First period is happening right now.,Teddy,0
+9773,7,2,"Congratulations, t.",lvy,0
+9774,7,3,You're officially ditching.,lvy,1
+9775,7,4,How does it feel to be bad? Great.,lvy,0
+9776,7,5,"Does your stomach hurt as much as mine? Howdy, young ladies! I'm the mayor of super adventure land.",Teddy,1
+9777,7,6,Who are you? - I'm Ivy.,lvy,0
+9778,7,7,Uh I'm claudette.,Teddy,0
+9779,7,8,I'm from Oklahoma.,Teddy,0
+9780,7,9,My parents aren't here right now.,Teddy,0
+9781,7,10,They're taking my brothers Rusty and dusty to the bathroom.,Teddy,1
+9782,7,11,"Well, that's a little more information.",Others,0
+9783,7,12,"Than I needed, darling.",Others,1
+9784,7,13,"What is wrong with you, claudette? I'm new at this, okay? A cop is staring at us.",lvy,1
+9785,7,14,He totally knows we're ditching.,Teddy,0
+9786,7,15,"T, will you stop? He doesn't care about us.",lvy,0
+9787,7,16,Then why is he coming over here? Just be cool.,Teddy,0
+9788,7,17,Nobody's in trouble.,lvy,0
+9789,7,18,"Young ladies, you're under arrest.",Others,1
+9790,7,19,We're under arrest? - Afraid so.,Teddy,0
+9791,7,20,For what? For not having enough fun.,Teddy,0
+9792,7,21,"And as sheriff of super adventure land, I'm gonna have to give you a ticket.",Others,1
+9793,7,22,For a free smoothie.,Others,0
+9794,7,23,Now can we please go have some fun? I wanna ride terror in the sky.,lvy,0
+9795,7,24,Really? 'cause I was thinking Mr.,Teddy,0
+9796,7,25,Chipmunk's kooky clown cars.,Teddy,1
+9797,7,26,"Yeah, I'm gonna go find Rusty and dusty.",lvy,1
+9798,8,0,"Dad, check out this old photo album I found in the garage.",Gabe,0
+9799,8,1,You stay out of the garage.,Bob,0
+9800,8,2,It's full of misery.,Bob,1
+9801,8,3,Let's look at all the great times you and mom have had.,Gabe,0
+9802,8,4,"Hey, there's you and mom and some handsome guy at the prom.",Gabe,0
+9803,8,5,That's Bob diddlebock.,Bob,1
+9804,8,6,Moving on.,Gabe,0
+9805,8,7,"Hey, where'd mom get that really cool sports car? That's Bob diddlebock's.",Gabe,1
+9806,8,8,He had two.,Bob,1
+9807,8,9,"All right, let's try one more.",Gabe,0
+9808,8,10,Any chance you had a boat.,Gabe,0
+9809,8,11,Called the s.S.,Gabe,1
+9810,8,12,"Diddlebock? You know, I just can't believe she kept his poem all these years.",Bob,0
+9811,8,13,"Anyway, thanks for cheering me up, Gabe.",Bob,1
+9812,8,14,"Handsome, smart and rich.",Gabe,0
+9813,8,15,"Oh, Amy, how did you let him get away? Hey, mom.",Gabe,1
+9814,8,16,You know what would be a really cool thing to do before Saturday? - What's that? - Rip up Bob diddlebock's poem in front of dad.,Gabe,0
+9815,8,17,Show him it means nothing to you.,Gabe,0
+9816,8,18,"Gabe, I'm not gonna do that.",Amy,0
+9817,8,19,"Why? Because you still have feelings for him? So now you're lurking in the kitchen? Hey, I am always in the kitchen.",Bob,1
+9818,8,20,I just happened to be lurking this one time.,Bob,0
+9819,8,21,You just answer the question.,Bob,0
+9820,8,22,"No, I do not have feelings for Bob diddlebock.",Amy,0
+9821,8,23,Then why did you keep his stupid poem all these years? Because it's the only love poem anyone ever wrote me.,Amy,1
+9822,8,24,That's why.,Amy,0
+9823,8,25,"Oh, yeah? Well, that's that's That's a pretty good reason.",Bob,1
+9824,8,26,"Man, now I just feel bad.",Bob,1
+9825,8,27,"You know, the best way to get over feeling bad is.",Gabe,0
+9826,8,28,To make someone else feel good.,Gabe,0
+9827,8,29,I can be that someone.,Gabe,1
+9828,8,30,No? Okay.,Gabe,1
+9829,9,0,So where should we go next? Say cheese! Have a super day! Ivy! - Did you see that? - See what? Who wants to take a picture with me? Step right up.,lvy,0
+9830,9,1,"Hey, I saw what you did! You stole that woman's wallet.",Teddy,0
+9831,9,2,I don't know what you're talking about.,Others,0
+9832,9,3,"Toodle-oo! Hey, come back here.",Teddy,1
+9833,9,4,"What in tarnation is going on here? The mayor, he's a thief.",Others,0
+9834,9,5,He stole a woman's wallet.,Teddy,0
+9835,9,6,"What? - Careful, bill.",Others,0
+9836,9,7,She's been acting up all day.,Others,0
+9837,9,8,Might be a code 6.,Others,1
+9838,9,9,Let's go.,Others,0
+9839,9,10,Wait a minute.,lvy,0
+9840,10,0,What's a code 6? Possible wacko! Why isn't Charlie in preschool? I had to pull her out.,Amy,0
+9841,10,1,We have work to do.,PJ,0
+9842,10,2,"Why aren't you in school? Charlie's dress isn't done, and I'm on a deadline.",PJ,0
+9843,10,3,"Okay, are any of my kids in school? At least I know Teddy is.",Amy,1
+9844,10,4,"Mom, I'm freaking out.",PJ,0
+9845,10,5,"Would you mind taking a look at my dress? Sure, let's see what you got.",Amy,0
+9846,10,6,It's all Charlie's fault.,PJ,1
+9847,10,7,She's not selling it.,PJ,1
+9848,10,8,Don't blame the model.,Amy,0
+9849,10,9,I said be fierce.,PJ,0
+9850,10,10,Is that fierce? I don't know.,Charlie,1
+9851,10,11,"No, you don't, do you? This this is a disaster.",PJ,1
+9852,11,0,"Ivy, you gotta get me out of here.",Teddy,0
+9853,11,1,I am not cut out for the slammer.,Teddy,0
+9854,11,2,Don't worry.,lvy,0
+9855,11,3,I've got this.,lvy,0
+9856,11,4,Okay.,Teddy,0
+9857,11,5,"Howdy, sheriff.",lvy,0
+9858,11,6,Whoops.,lvy,0
+9859,11,7,"Sheriff, I think you dropped Are you trying to bribe me? Maybe I am.",Others,1
+9860,11,8,With pink money that has absolutely no monetary value? Sheriff.,lvy,0
+9861,11,9,I'm on my way.,Others,0
+9862,11,10,"Well, it's your lucky day.",Others,0
+9863,11,11,We're understaffed.,Others,0
+9864,11,12,We just got a code 12.,Others,0
+9865,11,13,What's that? Some kid just barfed on the tilt-a-whirl.,Others,1
+9866,11,14,Now you're free to go.,Others,0
+9867,11,15,Thank goodness.,Teddy,1
+9868,12,0,"P.J., we're waiting.",Dabney,0
+9869,12,1,All right.,PJ,0
+9870,12,2,Say hello.,PJ,0
+9871,12,3,To Charlie.,PJ,0
+9872,12,4,Her kicky summer dress is perfect for the 2 year old.,PJ,0
+9873,12,5,Who plays all day and parties all night.,PJ,1
+9874,12,6,"From nap time to snack time, This dress says it all.",PJ,0
+9875,12,7,"And if there's an oopsie with a juice box, No problem.",PJ,0
+9876,12,8,It's washable.,PJ,1
+9877,12,9,I have to say I am impressed.,Dabney,0
+9878,12,10,"Clean lines, nice stitching.",Dabney,0
+9879,12,11,Excellent job.,Dabney,0
+9880,12,12,"Thank you and thank you, Charlie.",PJ,0
+9881,12,13,Yeah.,PJ,1
+9882,12,14,"Is that a price tag? All right, 'b' minus.",Dabney,1
+9883,12,15,"Really? Oh, because buying the dress.",PJ,0
+9884,12,16,"Is a creative way to solve the problem? No, because this is your third time in my class.",Dabney,1
+9885,12,17,We're done.,Dabney,1
+9886,13,0,"Hello! Can I borrow someone's notes? Sorry, I don't know if you guys noticed.",Teddy,0
+9887,13,1,I wasn't here yesterday.,Teddy,0
+9888,13,2,That's right.,Teddy,0
+9889,13,3,Ditching.,Teddy,0
+9890,13,4,"Yeah, you told us that.",Others,0
+9891,13,5,"We went to super adventure land, Had a bit of a run-in with the cops, Ended up in jail.",Teddy,0
+9892,13,6,"T, look.",lvy,1
+9893,13,7,"What is he doing here? - Teddy Duncan, would you come up here, please? Hello, I am the sheriff of super adventure land.",Teddy,0
+9894,13,8,"And because of this young lady, We uncovered a ring of pickpockets.",Others,0
+9895,13,9,"That sadly included our own mayor, The town crier.",Others,0
+9896,13,10,"And yes, sal the squirrel.",Others,0
+9897,13,11,"And now on behalf of super adventure land, And our parent company, famfunco industries, north America, I'm proud to present this super citizen medal.",Others,0
+9898,13,12,To Teddy Duncan.,Others,0
+9899,13,13,I'm not a super citizen.,Teddy,0
+9900,13,14,I'm a ditcher.,Teddy,0
+9901,13,15,I'm bad.,Teddy,0
+9902,13,16,"Well, whatever you are, Thank you for saving good wholesome clean family fun.",Others,1
+9903,13,17,G.G.! G.G.! ,Others,1
+9904,13,18,"Guys, I'm bad! I'm bad I tell you!",Teddy,0
+9905,13,19,G.G.! G.G.! ,Others,0
+9906,13,20,What the heck? G.G.! G.G.! ,Teddy,1
+9907,14,0,"Hey, Amy, you got a minute? ",Bob,0
+9908,14,1," What is it, Bob? ",Amy,0
+9909,14,2, Something I want you to hear.,Bob,0
+9910,14,3,"Okay, I wrote this for you.",Bob,0
+9911,14,4,"'to my wonderful wife,' The love of my life, Here is a poem from your bobby-boo.",Bob,0
+9912,14,5,I love your sweet hugs.,Bob,0
+9913,14,6,Even more than my bugs.,Bob,0
+9914,14,7,'And your kisses more than chili or stew.,Bob,0
+9915,14,8,' You do love your stew.,Amy,1
+9916,14,9,"Okay, here, there's more.",Bob,0
+9917,14,10,There's more.,Bob,0
+9918,14,11,Okay.,Bob,0
+9919,14,12,"'and though our future's unwritten,' I still remain smitten.",Bob,0
+9920,14,13,And will till the end of all time.,Bob,0
+9921,14,14,This poem may be late.,Bob,0
+9922,14,15,"I know it's not great, 'But at least I know how to rhyme.",Bob,1
+9923,14,16,' That's very sweet.,Amy,0
+9924,14,17,"Thank you, bobby-boo.",Amy,0
+9925,14,18,Eww.,Amy,0
+9926,14,19,"I mean, what's going on? I have a new poem for my frame.",Gabe,1
+9927,14,20,"Yes, and it rhymes.",Bob,1
+9928,14,21,You guys made up.,Gabe,0
+9929,14,22,That's just fantastic.,Gabe,0
+9930,14,23,"You know, we should celebrate.",Gabe,0
+9931,14,24,"How about a trip to super adventure land? Yeah, why not? We haven't been there in a while.",Gabe,1
+9932,14,25,"Yeah, sounds good to me.",Amy,0
+9933,14,26,"Yes! Hey, P.J., guess what.",Gabe,0
+9934,14,27,The whole family's going to super adventure land.,Gabe,0
+9935,14,28,"Oh, didn't you hear? There's a big scandal involving the mayor.",PJ,0
+9936,14,29,Super adventure land's closed.,PJ,0
+9937,14,30,"No! Well, Charlie, mom and dad found out I ditched.",Gabe,1
+9938,15,0,And now I'm grounded.,Teddy,0
+9939,15,1,It's called consequences.,Teddy,0
+9940,15,2,Something you get used to when you're a baddy-baddy.,Teddy,0
+9941,15,3,"Darn, I'm still wearing the medal.",Teddy,1
+9942,15,4,"Teddy, what are you doing? No video diary while you're grounded.",Amy,0
+9943,15,5,No video diary while I'm grounded? That seems kind of lame.,Teddy,0
+9944,15,6,I don't know how else to punish you.,Amy,0
+9945,15,7,You don't really do anything.,Amy,1
+9946,15,8,"So you don't think I'm bad? Mom, I'm bad.",Teddy,0
+9947,15,9,"I'm so bad I'm not even gonna say good luck, Charlie.",Teddy,1
+9948,15,10,You just did.,Amy,1
+9949,15,11,Oh! The story you have just seen it's true.,Teddy,1
+9950,16,0,The outcomes are completely made up.,Others,0
+9951,16,1,"The mayor was found guilty of lying, stealing And talking in a ridiculous cartoony voice.",Others,0
+9952,16,2,Ridiculous?! I think not.,Others,0
+9953,16,3,Gabe Duncan eventually made it to super adventure land.,Others,0
+9954,16,4,He was thrown in jail three minutes later For spitting off the monorail.,Others,1
+9955,16,5,PJ Duncan did not go on a career in fashion design.,Others,1
+9956,16,6,Amy Duncan Just likes having her picture taken.,Others,1

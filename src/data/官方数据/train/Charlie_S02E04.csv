@@ -1,0 +1,293 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+6061,1,0,Hey! - There you are.,Ivy,0
+6062,1,1,"So what's the big news and why didn't you just text me? Because I wanted to see the expression on your face When I told you-- okay, here goes: So that really hot senior Josh Invited me to his party this weekend.",Teddy,0
+6063,1,2,And he said I could bring a friend.,Teddy,0
+6064,1,3,So tell me how it all went down.,Ivy,0
+6065,1,4,Okay okay okay.,Teddy,0
+6066,1,5,So I was standing at my locker when Josh asked me.,Teddy,0
+6067,1,6,I got so nervous I closed my hair in the door And I had to stand there like this.,Teddy,1
+6068,1,7,Wait a minute.,Ivy,0
+6069,1,8,Our moms will never let us go to a senior party.,Ivy,0
+6070,1,9,Already solved that.,Teddy,0
+6071,1,10,"Ooh, we're gonna lie.",Ivy,1
+6072,1,11,We can't.,Teddy,0
+6073,1,12,You're a terrible liar.,Teddy,0
+6074,1,13,I am not.,Ivy,0
+6075,1,14,Yeah you are.,Teddy,0
+6076,1,15,"Whenever you lie, your voice gets really high.",Teddy,0
+6077,1,16,"huh-uh! Okay, so here's the plan.",Teddy,0
+6078,1,17,You know that app that lets you create fake phone calls? That what that creates what? There's a phone app that you can create fake phone calls with.,Teddy,0
+6079,1,18,All I have to do is record my mom saying some stuff That sounds like she's giving me permission to go to the party.,Teddy,0
+6080,1,19,"Ah, then when my mom hears it - She'll let me go.",Ivy,0
+6081,1,20,Exactly.,Teddy,0
+6082,1,21,And we go to the party and Josh falls in love with me.,Teddy,0
+6083,1,22,"Oh, and his cute best friend falls in love with me, But I tell him that I have a boyfriend, But he doesn't take no for an answer-- - Are you done? - And then There's a third guy that gets interested today's all burnt toast 鈾?running late, and dad says 鈾?has anybody seen my left shoe? 鈾?I close my eyes, take a bite 鈾?grab a ride, laugh out loud 鈾?there it is up on the roof 鈾?I've been there, I've survived 鈾?so just take my advice 鈾?hang in there, baby 鈾?things are crazy 鈾?but I know your future's bright 鈾?hang in there, baby 鈾?there's no maybe 鈾?everything turns out all right 鈾?your life is up and down 鈾?but trust me, it comes back around 鈾?you're gonna love who you turn out to be 鈾?hang in there, baby.",Ivy,0
+6084,2,0,"鈾?Oh, Charlie.",Bob,0
+6085,2,1,"You know daddy loves you, But daddy's played baby about 100 times And he doesn't feel so good.",Bob,0
+6086,2,2,He needs to rest.,Bob,0
+6087,2,3,"Oh, okay.",Bob,0
+6088,2,4,All right.,Bob,0
+6089,2,5,"Oh, I know! Let's play Baby watches daddy take a nap.",Bob,1
+6090,2,6,"Aha! Boys, I need your help.",Bob,0
+6091,2,7,Really? - Today at work I got bit by a spider.,Bob,0
+6092,2,8,You're an exterminator.,Gabe,0
+6093,2,9,"Doesn't that happen every day? Well, this particular spider I happen to be mildly allergic to.",Bob,0
+6094,2,10,"that's disgusting! Cover it, cover it, cover it.",PJ,0
+6095,2,11,"Please, I think I'm gonna barf.",Gabe,0
+6096,2,12,Thank you so much for your concern.,Bob,1
+6097,2,13,I went and I saw the doctor.,Bob,0
+6098,2,14,She says the swelling's going to be gone in a couple of days.,Bob,0
+6099,2,15,"Oh, that's revolting.",Gabe,1
+6100,2,16,Although it does make your tummy look smaller.,PJ,0
+6101,2,17,"gosh, dad, how could I help?' thanks for asking.",Bob,0
+6102,2,18,"P.J., I need you to cover for me at work tomorrow.",Bob,0
+6103,2,19,I got a really busy day.,Bob,0
+6104,2,20,"fine, I'll help.",PJ,0
+6105,2,21,But I better not get a giant arm too.,PJ,0
+6106,2,22,  ,PJ,1
+6107,2,23,"Gabe, I gotta go upstairs and rest, So I need you to look after Charlie, okay? What am I supposed to do with Charlie? Wha-- you play baby with her.",Bob,0
+6108,2,24,"Come on, she loves it.",Bob,0
+6109,2,25,Fetch.,Gabe,1
+6110,3,0,"Okay, Ivy, I'm about to launch phase one of operation fool mom.",Teddy,0
+6111,3,1,What? No.,Teddy,0
+6112,3,2,I don't know what I'm gonna wear to the party.,Teddy,0
+6113,3,3,Let's trick our moms first.,Teddy,1
+6114,3,4,Hi mom.,Teddy,0
+6115,3,5,Hey.,Amy,0
+6116,3,6,"What? Mom, I haven't seen you all day and all I get is a hey? Sorry.",Teddy,0
+6117,3,7,"Hi, Teddy! Uh, mom, could you get this loose thread on my sweater? - Where is it? - Oh, must have fallen off.",Teddy,0
+6118,3,8,Threads.,Teddy,1
+6119,3,9,Go figure.,Teddy,1
+6120,3,10,How are you doing? Fine.,Amy,1
+6121,3,11,"Oh, mom, Could I ask you a personal question? Honey, of course you can.",Teddy,0
+6122,3,12,Great.,Teddy,0
+6123,3,13,"What's-- what's-- what's the question? Oh, I don't have one right now.",Amy,0
+6124,3,14,"Just You know, good to know for down the road.",Teddy,1
+6125,3,15,"Seriously, how are you doing? Oh, mom, you took Spanish, right? What does this mean? That means I like that boy.",Teddy,0
+6126,3,16,He's very nice.,Amy,0
+6127,3,17,"Wait a minute, I thought you were taking french.",Amy,0
+6128,3,18,"Oh, wow.",Teddy,0
+6129,3,19,Guess that's why I didn't understand it.,Teddy,0
+6130,3,20,"I love you, mom.",Teddy,0
+6131,3,21,"I love you too, honey.",Amy,0
+6132,3,22,"Weird-- I usually have those conversations with P.J.dad, make it stop.",Amy,1
+6133,3,23,Make what stop? - Play baby.,Gabe,0
+6134,3,24,That.,Gabe,0
+6135,3,25,"Everywhere I go 'play baby, Play baby, play baby.",Gabe,0
+6136,3,26," I'm sorry, son, but somebody has finally found you likeable.",Bob,1
+6137,3,27,"Well, I can't take it anymore.",Gabe,0
+6138,3,28,I'm going to the library.,Gabe,0
+6139,3,29,"The library? - Yeah, dad.",Gabe,0
+6140,3,30,It's come to that.,Gabe,0
+6141,3,31,Do you even know where the library is? - I'll find it.,Bob,1
+6142,4,0,"she's coming! Okay, are you ready with your phone? Ready.",Ivy,0
+6143,4,1,"Oh, hi, Mrs.",Teddy,0
+6144,4,2,Wentz.,Teddy,0
+6145,4,3,"Hi, Teddy.",Others,0
+6146,4,4,"Ivy, didn't you hear me? - No.",Others,0
+6147,4,5,I have been honking and screaming 'ivy' for 10 minutes.,Others,0
+6148,4,6,That was you? I know so many people.,Ivy,1
+6149,4,7,Let's go.,Others,0
+6150,4,8,"Before that, quick question.",Ivy,0
+6151,4,9,What? - There's a senior boy named Josh And he invited Teddy and me to a party this weekend.,Ivy,0
+6152,4,10,"Can I go? Now, Ivy, you know my policy.",Others,0
+6153,4,11,"Unless I've met the boy, the answer's no.",Others,0
+6154,4,12,And I'm sure Teddy's mom said the same thing.,Others,0
+6155,4,13,"Oh well, actually I haven't asked my mom yet.",Teddy,0
+6156,4,14,"Oh hey, why don't I call my mom at work and see what she says? it's ringing.",Teddy,1
+6157,4,15,"Hi, mom.",Teddy,0
+6158,4,16,"Hi, Teddy.",Amy,0
+6159,4,17,"Uh, mom, I was calling to see if I can go to a party? - Where is it? - It's at my friend Josh's house.",Teddy,0
+6160,4,18,"You know Josh, right? I like that boy.",Teddy,0
+6161,4,19,He's very nice.,Amy,1
+6162,4,20,"So what do you say? Can I go to the party? Honey, of course you can.",Teddy,0
+6163,4,21,"Thanks, mom.",Teddy,0
+6164,4,22,You're the best.,Teddy,0
+6165,4,23,"All right, I don't want to keep you.",Teddy,0
+6166,4,24,"Love you! Love you too, honey.",Amy,0
+6167,4,25,See? Teddy gets to go.,Ivy,1
+6168,4,26,"Well, if it's okay with Amy.",Others,0
+6169,4,27,it's okay with me.,Others,0
+6170,4,28,You can go.,Others,0
+6171,4,29,"Thanks, mom.",Ivy,0
+6172,4,30,You're the best.,Ivy,0
+6173,4,31,I like that boy.,Amy,0
+6174,4,32,He's very nice.,Amy,0
+6175,4,33,"What was that? Oh, I was just doing an impression of my mom.",Teddy,1
+6176,4,34,I also do my dad.,Teddy,0
+6177,4,35,"Teddy, get in here!' What is it, dad? 'who ate the last donut?' You did, dad.",Teddy,1
+6178,4,36,"well, we'd better get going.",Others,1
+6179,5,0,"Mmm, what smells so good? - Hot dogs.",Teddy,0
+6180,5,1,Oh.,Teddy,0
+6181,5,2,Nothing makes boiled water smell better Than Amy Duncan's hot dogs.,Teddy,1
+6182,5,3,This should be good.,Amy,1
+6183,5,4,"Um, so, mom, I was wondering if I could go to a party at Josh's house.",Teddy,0
+6184,5,5,He's this really cute senior.,Teddy,0
+6185,5,6,You don't know him.,Teddy,0
+6186,5,7,"I'm sorry, Teddy, the answer's no.",Amy,0
+6187,5,8,You know my policy.,Amy,0
+6188,5,9,"Oh, come on! Ivy's mom is letting her go.",Teddy,0
+6189,5,10,Mary Lou wentz gave permission? - Yes.,Amy,0
+6190,5,11,"Yes, she did.",Teddy,0
+6191,5,12,And I can call her if you want to hear from her.,Teddy,0
+6192,5,13,I'd love to.,Teddy,0
+6193,5,14,"Hi, Mrs.",Teddy,0
+6194,5,15,"Wentz, it's Teddy Duncan.",Teddy,0
+6195,5,16,"I'm gonna put you on speaker, okay? So, Mrs.",Teddy,0
+6196,5,17,"Wentz, you're letting Ivy go to that party, right? It's okay with me.",Others,0
+6197,5,18,"Are you sure, Mary Lou, because-- - it's okay with me.",Others,0
+6198,5,19,"Really, you're not the least bit-- - it's okay with me.",Amy,0
+6199,5,20,"Oops, lost her.",Teddy,0
+6200,5,21,"So can I go to the party? Well If it's okay with Mary Lou, it's okay with me.",Amy,0
+6201,5,22,"Ooh, thank you, mommy! Love you so much.",Teddy,0
+6202,5,23,Yeah No one loves mom more than when she's saying yes.,Amy,1
+6203,5,24,That was an interesting phone call.,Gabe,1
+6204,5,25,Was it? Yeah.,Teddy,0
+6205,5,26,"Yeah, it was.",Gabe,1
+6206,6,0,"Having fun yet, kid? No, vern, I am not.",Others,0
+6207,6,1,First time in a crawl space? I can't believe my dad does this for a living.,PJ,0
+6208,6,2,I'm really gonna have to start paying attention in school.,PJ,1
+6209,6,3,"Shh! Uh-oh, rats.",PJ,0
+6210,6,4,Rats? I thought we were catching possums.,PJ,0
+6211,6,5,Sometimes the critters make the decisions.,Others,1
+6212,6,6,Where are the rats? - All around us.,PJ,0
+6213,6,7,dozens.,Others,0
+6214,6,8,Maybe hundreds.,Others,0
+6215,6,9,Quiet.,Others,0
+6216,6,10,"If they smell fear, We're both dead.",Others,1
+6217,7,0,That was horrifying.,PJ,0
+6218,7,1,"Pass the salt, kid.",Others,0
+6219,7,2,"Uh, that's termite poison.",Others,0
+6220,8,0,You only put that on a sandwich once.,Others,1
+6221,8,1,Whoops.,PJ,0
+6222,8,2,Sorry.,PJ,0
+6223,8,3,"Well, it's nice to finally meet you.",Others,0
+6224,8,4,Your dad sure talks about you a lot.,Others,0
+6225,8,5,He does? - All the time.,Others,0
+6226,8,6,"Goes on and on about you-- how you're smart, Driven, popular.",Others,1
+6227,8,7,He said all that about me? - Oh yeah.,PJ,0
+6228,8,8,He's very proud.,Others,0
+6229,8,9,"Well, lunch break's over, Ted.",Others,0
+6230,8,10,"Ted? Ted?! Oh, Teddy's my sister.",PJ,0
+6231,8,11,"Oh, then you must be the self-confident Sharp-as-a-tack mischief-maker.",Others,0
+6232,8,12,That's Gabe.,Gabe,1
+6233,8,13,Hmm.,Others,0
+6234,8,14,"You're the little cutie pie who just got out of diapers? I'm the oldest! - P.J.? - Oh right, of course.",Others,0
+6235,8,15,P.J.,Others,0
+6236,8,16, You're the nice one.,Others,0
+6237,8,17,"That's it? Everyone else is sharp, Smart and adorable And I'm just nice? I know what'll turn that frown upside down.",PJ,0
+6238,8,18,You get to carry the rat bag.,Others,1
+6239,9,0,"Hi, Amy.",Others,0
+6240,9,1,"Hi, Mary Lou! Come on in.",Amy,0
+6241,9,2,Okay.,Others,0
+6242,9,3,What brings you here? Ivy forgot her boa.,Amy,0
+6243,9,4,"Now if she's going to a party, she needs her boa.",Others,1
+6244,9,5,"They just left, but don't worry-- The leopard-print dress will be festive enough.",Amy,1
+6245,9,6,"I gotta say, Amy, I was a bit surprised You gave Teddy permission to go to that party.",Others,0
+6246,9,7,"Well, I only said yes to Teddy because you gave Ivy permission first.",Amy,0
+6247,9,8,You know how much I respect you as a mother.,Amy,0
+6248,9,9,"Cracker? Oh, thank you.",Others,0
+6249,9,10,But you gave Teddy permission first And I said yes because of how much I respect you.,Others,0
+6250,9,11,"Okay, yeah yeah yeah, best moms ever.",Gabe,0
+6251,9,12,I'm trying to watch my cartoons here.,Gabe,1
+6252,9,13,I-- I didn't give Teddy permission first.,Amy,0
+6253,9,14,But I heard Teddy call you at work.,Others,0
+6254,9,15,"No, Teddy never called me at work.",Amy,0
+6255,9,16,I'm confused.,Amy,0
+6256,9,17,"Yeah, me too.",Others,0
+6257,9,18,May I enlighten you? - Spill it.,Gabe,0
+6258,9,19,The girls used a phone app to make it sound like You each gave them permission to go to the party.,Gabe,0
+6259,9,20,"What? - They didn't! Oh, Mary Lou, but they did.",Gabe,1
+6260,9,21,"Now, mom, so next time I'm bad-- we both know there will be a next time-- Just remember this moment when I did something for you.",Gabe,0
+6261,9,22,They are gonna be in so much trouble when they get home.,Amy,0
+6262,9,23,Why wait till they get home? They're not the only ones who know about apps.,Others,0
+6263,9,24,"No, they aren't.",Amy,0
+6264,9,25,What do we know about apps? I have a g.P.S.,Amy,0
+6265,9,26,App on this phone.,Others,0
+6266,9,27,That means I can track Ivy's phone.,Others,0
+6267,9,28,Shall we go to a party? I'd be 'appy' to.,Others,0
+6268,9,29,"hello? Teddy dear, Gabe here.",Gabe,1
+6269,9,30,"Before I share the news, let's remember this moment the next time I need a favor.",Gabe,0
+6270,9,31,Why do all of your calls start with the same creepy question? Mom and Mrs.,Teddy,0
+6271,9,32,Wentz know all about the phony phone calls.,Gabe,0
+6272,9,33,What?! How'd they find out? That part remains a mystery.,Teddy,0
+6273,9,34,Anywho They're tracking you on g.P.S.,Gabe,0
+6274,9,35,And heading your way.,Gabe,0
+6275,9,36,What? Our moms are tracking us on g.P.S.G.P.S.? They're not supposed to know about that.,Teddy,0
+6276,9,37,"Oh gosh, thanks, Gabe.",Teddy,0
+6277,9,38,I owe you one.,Gabe,1
+6278,9,39,So it would seem.,Teddy,0
+6279,10,0,There you are.,Gabe,0
+6280,10,1,I think Charlie wants to play baby with you.,Bob,0
+6281,10,2,"She keeps going, 'gabe, Gabe!' She can say it all she wants.",Bob,0
+6282,10,3,It's not gonna happen.,Gabe,0
+6283,10,4,I'm sick of her and I'm sick of that stupid doll.,Gabe,0
+6284,10,5,"Oh, Charlie, come on! I didn't mean it.",Gabe,0
+6285,10,6,I was just Gabe being Gabe.,Gabe,1
+6286,10,7,"Hey, there he is! How'd it go today? the highlight of my day Was carrying a bag of rats.",Bob,0
+6287,10,8,Vern must like you because he's awful particular about his rat bag.,Bob,1
+6288,10,9,Vern told me what you said about us kids.,PJ,0
+6289,10,10,What'd I say? - That everyone else is so great And I'm just nice.,PJ,0
+6290,10,11,"So? You're nice, what's wrong with that? So 'nice' is what your friend calls the ugly girl He wants you to go out with.",Bob,0
+6291,10,12,"Is that all I am to you-- An ugly girl? Oh, this is so exciting-- Going after the perps.",PJ,0
+6292,11,0,"Wait, the girls are turning around.",Others,0
+6293,11,1,What? - Looks like they're headed back to your house.,Others,0
+6294,11,2,"Hold on your your purse, Mary Lou.",Amy,0
+6295,11,3,We're making a u-ey.,Amy,0
+6296,11,4,Oh yeah! - You know what would be great? - What? If we had a siren and a flashing light.,Amy,0
+6297,11,5,They got apps for everything.,Others,0
+6298,12,0,Hey.,Bob,0
+6299,12,1,I think we gotta talk.,Bob,0
+6300,13,0,I'm not in the mood.,PJ,0
+6301,13,1,"Oh, that wasn't very nice.",PJ,1
+6302,13,2,Oh come on.,Bob,0
+6303,13,3,When I said you were nice that was a compliment.,Bob,0
+6304,13,4,That was the best thing you could say about me? - I think that says a lot.,PJ,0
+6305,13,5,"Look, P.J., As a father, the most important thing to me Is that my kids are good people-- Kind-hearted, genuinely concerned about other people Nice.",Bob,0
+6306,13,6,"Hey, by that standard you're the kid I'm most proud of.",Bob,0
+6307,13,7,Really? - Really.,PJ,0
+6308,13,8,"Thanks, dad.",PJ,0
+6309,13,9,"Hey, thank you for helping me out on the job today.",Bob,0
+6310,13,10,"Uh, you know, I was kinda Hoping maybe someday we could Make that a permanent thing.",Bob,0
+6311,13,11,'Duncan &amp; son.,Bob,1
+6312,13,12,' Oh! That reminds me-- better hit those books.,PJ,0
+6313,13,13,"Well, that wasn't nice at all.",Bob,1
+6314,14,0,"Oh, what are you two doing here? Did the party end early? No, we decided not to go.",Amy,0
+6315,14,1,The truth is We tricked you into giving us permission to go to the party.,Teddy,0
+6316,15,0,"Did you now? Yes, I'm ashamed to say we did.",Teddy,0
+6317,15,1,But on the way there something made us change our minds.,Teddy,0
+6318,15,2,And what's that? We saw the grape juice billboard.,Teddy,0
+6319,15,3,"You know the one where the girl is hugging her mom Because she's so happy with the juice? 'grape moms think alike,' I'm familiar with it.",Teddy,0
+6320,15,4,Anyway that got us to thinking about how wonderful you two are And we talked it over and agreed that you deserved better And decided not to go.,Teddy,0
+6321,15,5,it's true.,Ivy,1
+6322,15,6,"Anyway, we know you're probably gonna punish us, But we're okay with that.",Teddy,0
+6323,15,7,"Well, we can talk about that later.",Amy,0
+6324,15,8,I'm really proud that you guys told us the truth.,Amy,0
+6325,15,9,I am too.,Others,0
+6326,15,10,Darn you for raising us so well.,Teddy,0
+6327,15,11,It's what I do.,Amy,0
+6328,16,0,"Hey, Ivy, I'm on my way out.",Teddy,0
+6329,16,1,Are you here? I'm right in front of your house.,Ivy,0
+6330,16,2,"Are you sure it's not too late to go? Oh, girlfriend, these senior parties go all night.",Teddy,0
+6331,16,3,Going somewhere? - Back to bed.,Teddy,1
+6332,16,4,You got that right.,Amy,0
+6333,16,5,Caught by mom.,Teddy,0
+6334,16,6,Can't go.,Teddy,0
+6335,16,7,"If you're not going, I'm not going.",Ivy,0
+6336,16,8,You got that right.,Others,1
+6337,17,0,"Hi, Charlie.",Gabe,0
+6338,17,1,"Charlie, come on.",Gabe,0
+6339,17,2,How many times do I have to say I'm sorry? What is it gonna take for you to forgive me? You baby.,Gabe,0
+6340,17,3,"you baby'? What does that mean? Well, Charlie, I don't know how you got him to do that, But thank you.",Gabe,0
+6341,17,4,We'll be enjoying this for years.,Teddy,0
+6342,17,5,"now say good luck, Charlie.",Teddy,1
+6343,17,6,Do you want me to spit up? 'cause I'm not afraid to go there.,Gabe,0
+6344,17,7,Cranky baby.,Teddy,0
+6345,18,0,"Hey, how's it going? Good good.",Gabe,0
+6346,18,1,"Remember a few weeks ago I mentioned something about Cashing in my favors? Well, today's the day.",Gabe,0
+6347,18,2,You two never saw me.,Gabe,0
+6348,18,3,Bye-bye now.,Gabe,0
+6349,18,4,come in.,Amy,0
+6350,18,5,"He's upstairs, boys.",Amy,0
+6351,18,6,"Why'd you give him up, mom? - He didn't do the dishes.",Teddy,0
+6352,18,7,Don't cross mama.,Amy,1

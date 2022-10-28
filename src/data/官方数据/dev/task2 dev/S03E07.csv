@@ -1,0 +1,845 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+4076,1,0,"Hey, Charlie.",Teddy,0
+4077,1,1,"So, exciting times for the Duncan family.",Teddy,0
+4078,1,2,"Tomorrow, you turn three! Yay! And if that wasn't exciting enough, one week ago, the new baby was due.",Teddy,0
+4079,1,3,Let's see how that baby's doing now.,Teddy,0
+4080,1,4,I want you out! Duncan kid number five is late.,Amy,1
+4081,1,5,And Duncan kid number two is getting on my nerves.,Amy,0
+4082,1,6,Moving on.,Teddy,0
+4083,1,7,"Anyway, I'm hoping for a baby girl.",Teddy,0
+4084,1,8,I'm hoping for a baby boy.,PJ,0
+4085,1,9,Yeah.,Gabe,0
+4086,1,10,Me too.,Gabe,0
+4087,1,11,I want a younger brother to pick on.,Gabe,0
+4088,1,12,I'm tired of picking on my older brother.,Gabe,1
+4089,1,13,"Oh, boy or girl doesn't matter to me.",Bob,0
+4090,1,14,"Whatever Mom wants, I want.",Bob,0
+4091,1,15,Don't touch me.,Amy,1
+4092,1,16,"Never again, honey.",Bob,0
+4093,1,17,Once again I've kept the camera on just a smidge too long.,Teddy,0
+4094,1,18,"Guys, this is all just too much.",Amy,0
+4095,1,19,"The new baby's about to come, and Charlie's birthday tomorrow.",Amy,0
+4096,1,20,Just so long as they don't happen on the same day.,Teddy,0
+4097,1,21,"What do you mean? - Well, think about it.",Amy,0
+4098,1,22,Wouldn't it be kind of sad if Charlie had to share her birthday with the new baby? I'll tell you what's sad.,Teddy,0
+4099,1,23,We're out of French Toast sticks.,PJ,0
+4100,1,24,"Teddy, honey, the baby's gonna come when the baby wants to come.",Amy,0
+4101,1,25,"But if it does happen to be tomorrow, I need everyone to help out with Charlie's birthday.",Amy,0
+4102,1,26,"Mom, I'm willing to help out by doing what I always do.",Gabe,0
+4103,1,27,You don't ever do anything.,Amy,0
+4104,1,28,And nobody does it better.,Gabe,1
+4105,1,29,"All I'm saying is if somebody goes to the trouble of inventing French Toast sticks, the least we could do is buy their product.",PJ,0
+4106,1,30,"Bob, honey, you took care of those things I asked you to handle, right? I..",Amy,0
+4107,1,31,Certainly did.,Bob,0
+4108,1,32,Why was there a pause between 'I' and 'certainly'? No pause.,Amy,1
+4109,1,33,"So, you bought the baby's new car seat, and the doll Charlie wants for her birthday? Honey.",Amy,0
+4110,1,34,I did it all.,Bob,0
+4111,1,35,Okay? Mission accomplished.,Bob,0
+4112,1,36,I..,Amy,0
+4113,1,37,Believe you.,Amy,0
+4114,1,38,"Uh, Gabe? - Yeah? - Listen, here is, uh..",Bob,0
+4115,1,39,Here's 50 bucks.,Bob,0
+4116,1,40,I need you to go down to the mall.,Bob,0
+4117,1,41,I need you to get that doll for Charlie.,Bob,0
+4118,1,42,"Dad, why can't you do it? Because I gotta buy a car seat.",Bob,1
+4119,1,43,NULL,Teddy;Bob;Amy,1
+4134,2,58,"Hey, honey? Hey, come on.",Bob,0
+4135,2,59,There's something I want to show you.,Bob,0
+4136,2,60,"Honey, come on.",Bob,0
+4137,2,61,I'm moving as fast as I can.,Amy,0
+4138,2,62,NULL,Amy;Bob,1
+4139,2,63,Look.,Bob,0
+4140,2,64,Look.,Bob,0
+4141,2,65,New car seat is in.,Bob,0
+4142,2,66,Good.,Amy,0
+4143,2,67,Yeah.,Bob,0
+4144,2,68,Bought it three days ago.,Bob,0
+4145,2,69,"Well, whatever.",Bob,0
+4146,2,70,Looks a little crowded in here.,Amy,0
+4147,2,71,"Well, honey, we're gonna be up front.",Bob,0
+4148,2,72,"Who cares what happens in the back? Bob, I don't think there's enough room.",Bob,0
+4149,2,73,Sure there is.,Bob,0
+4150,2,74,"No, Bob, with five kids, I think we might need a new car.",Amy,0
+4151,2,75,Slow down.,Bob,0
+4152,2,76,"No, no, no, no, no.",Bob,0
+4153,2,77,Enough room in here for everybody.,Bob,0
+4154,2,78,"Look, Charlie sits here, new baby over there, one kid back there, the other over there.",Bob,0
+4155,2,79,Done.,Bob,0
+4156,2,80,Problem solved.,Bob,0
+4157,2,81,You forgot a kid.,Amy,0
+4158,2,82,Which one? I don't know.,Bob,0
+4159,2,83,But I know there are five.,Amy,0
+4160,2,84,This can work.,Bob,0
+4161,2,85,Let me show you..,Bob,0
+4162,3,86,"Kids! There, see? Piece of cake.",Bob,0
+4163,3,87,How's everybody doing back there? PJ keeps poking me with his rib.,Amy,0
+4164,3,88,It's called breathing.,PJ,1
+4165,3,89,"Honey, Gabe doesn't have a seat belt.",Amy,0
+4166,3,90,Or a seat.,Gabe,1
+4167,3,91,He'll be fine.,Bob,1
+4168,3,92,"Hey, Charlie? Are you comfortable? No.",Bob,1
+4169,3,93,NULL,Amy;Bob;PJ,1
+4170,4,94,Okay.,Amy,0
+4171,4,95,Here we go.,Amy,0
+4172,4,96,Oh.,Amy,0
+4173,4,97,"Hey, Mom? Oh..",Teddy,0
+4174,4,98,What are you doing? Painting my toenails.,Teddy,0
+4175,4,99,Just because I can't see them doesn't mean they shouldn't look good.,Amy,1
+4176,4,100,Oh.,Teddy,0
+4177,4,101,"Well in that case, you might want to consider clipping them.",Teddy,1
+4178,4,102,"Can I help you? Well, I am actually here to help you.",Teddy,0
+4179,4,103,"So, Mom, I know that you've been very anxious to get this baby out, so I went online and I looked up some natural ways to induce labor.",Teddy,0
+4180,4,104,"Ooh, like what? Well, uh, there's a bunch of techniques, but the first one includes..",Teddy,0
+4181,4,105,Boo! What was that? I was trying to scare the baby out.,Teddy,1
+4182,4,106,"Well, it didn't work.",Amy,0
+4183,4,107,Okay.,Teddy,0
+4184,4,108,"Fine, well, there's always some other stuff we can try, like..",Teddy,0
+4185,4,109,Boo! Stop that.,Amy,0
+4186,4,110,"Okay, you know, it's a baby.",Amy,0
+4187,4,111,NULL,Amy;Teddy,1
+4188,5,112,"So, what do you want to do today? Well, it's a beautiful day.",Others,0
+4189,5,113,"Sun shining, the birds are chirping..",Gabe,0
+4190,5,114,NULL,Others;Gabe,1
+4191,5,115,"All right, let's go.",Gabe,0
+4192,5,116,Wait.,Gabe,0
+4193,5,117,I promised my Dad I'd go to the store and buy Charlie a stupid doll.,Gabe,0
+4194,5,118,And I told my Mom I was at the library.,Others,0
+4195,5,119,"So what? No, Jake, I really have to go do this.",Gabe,0
+4196,5,120,"So, who's stopping you? I'll wait right here.",Others,0
+4197,5,121,"Yeah, you know I'm not allowed to leave you in this house alone.",Gabe,0
+4198,5,122,Come on.,Gabe,0
+4199,5,123,"Man, you take one bubble bath, you get labeled.",Others,0
+4200,6,124,What's all this? I got us some yoga balls.,Teddy,0
+4201,6,125,Another way to induce labor is through bouncing.,Teddy,0
+4202,6,126,"All right, I'll try anything.",Amy,0
+4203,6,127,"Hit it, Charlie.",Teddy,0
+4204,6,128,Feel anything? I feel silly.,Amy,0
+4205,6,129,You look silly.,Charlie,1
+4206,6,130,Oh.,Amy,0
+4207,6,131,"Teddy, this isn't going to work.",Amy,0
+4208,6,132,NULL,Charlie;Amy;Teddy,1
+4209,7,133,"Dude, I can't be seen doll shopping.",Others,0
+4210,7,134,I'll lose my street cred.,Others,1
+4211,7,135,"Yeah, I think you lost that when you started giggling in the bra Department.",Gabe,1
+4212,7,136,Let's just buy this thing and get out of here.,Gabe,0
+4213,7,137,Kuddle Me Katie? That's stupid.,Others,0
+4214,7,138,Goo-goo.,Others,0
+4215,7,139,It said goo-goo.,Others,1
+4216,7,140,Aw.,Others,0
+4217,7,141,"Whoa, look what they just released.",Others,0
+4218,7,142,Attack of the Zartians.,Others,0
+4219,7,143,"Oh, right.",Gabe,0
+4220,7,144,I heard about this game.,Gabe,0
+4221,7,145,Zartians are martians that were bitten by zombies.,Gabe,0
+4222,7,146,Ewe.,Others,0
+4223,7,147,That's disgusting.,Others,0
+4224,7,148,"What are they covered in, bl*od or puke? Hopefully both.",Gabe,0
+4225,7,149,Let's get it.,Others,0
+4226,7,150,It's 50 bucks.,Gabe,0
+4227,7,151,I don't have 50 bucks.,Gabe,0
+4228,7,152,"Yeah, you do.",Others,0
+4229,7,153,Wait a minute.,Gabe,0
+4230,7,154,Are you..,Gabe,0
+4231,7,155,Are you saying..,Gabe,0
+4232,7,156,That's exactly what I'm saying.,Others,0
+4233,7,157,You're gonna buy this game with the doll money.,Others,0
+4234,7,158,Yeah.,Gabe,0
+4235,7,159,And then what? - We play it.,Gabe,0
+4236,7,160,After we play it? - We play it again.,Gabe,1
+4237,7,161,"Well, what about Charlie's doll? I promised my Dad.",Gabe,0
+4238,7,162,"Dude, we're teenagers now.",Others,0
+4239,7,163,We're supposed to be rebels.,Others,0
+4240,7,164,Your Mom still picks out your underwear.,Gabe,0
+4241,7,165,And sometimes I wear it backwards.,Others,0
+4242,7,166,On purpose.,Others,1
+4243,7,167,NULL,Gabe;Amy;Gabe,1
+4244,8,168,"Hey, Mom.",PJ,0
+4245,8,169,"How you doing? I am tired, bloated, cranky, I have never been more miserable in my life.",Amy,0
+4246,8,170,That's nice.,PJ,1
+4247,8,171,Hey..,PJ,0
+4248,8,172,I just did a quick freezer check..,PJ,0
+4249,8,173,Still not seeing the French Toast sticks.,PJ,0
+4250,8,174,I bought you some.,Amy,0
+4251,8,175,"Yeah, you bought French Toast squares.",PJ,0
+4252,8,176,"Well, if you want sticks, then just take the squares and cut them in half.",Amy,0
+4253,8,177,NULL,PJ;Amy,1
+4254,8,178,"Honey, you'll figure it out.",Amy,0
+4255,8,179,I guess I could take the cut squares..,PJ,0
+4256,8,180,And glue them together lengthwise with syrup..,PJ,0
+4257,8,181,Or would jam make a better adhesive? I'd better nap on it.,PJ,0
+4258,8,182,"That's your big brother, PJ.",Amy,0
+4259,8,183,He's not the smartest..,Amy,0
+4260,8,184,That's it.,Amy,0
+4261,8,185,"Hey, Mom.",Teddy,0
+4262,8,186,"You hungry? Oh, no.",Teddy,0
+4263,8,187,"Honey, I couldn't eat anything.",Amy,0
+4264,8,188,"I'm so big, I just..",Amy,0
+4265,8,189,I just..,Amy,0
+4266,8,190,What you got? Vindaloo Pepper Curry from the new Indian place.,Teddy,0
+4267,8,191,Because I read that another way to induce labor is with spicy food.,Teddy,0
+4268,8,192,"Is it really that spicy? Yeah, so spicy, they made me sign a waiver.",Teddy,0
+4269,8,193,And attend a brief seminar.,Teddy,0
+4270,8,194,Let's try it.,Amy,0
+4271,9,195,"Dad! I set that down, like, one minute ago.",Teddy,0
+4272,9,196,Stuff's got some kick to it.,Bob,0
+4273,10,197,"What else you got? So, uh, how is belly dancing supposed to help? Well, they say that it's good to exercise your core, and..",Amy,0
+4274,10,198,"Let's face it, right now..",Teddy,0
+4275,10,199,You're all core.,Teddy,0
+4276,10,200,Oh..,Amy,0
+4277,10,201,"Check it out, this is fun.",Amy,0
+4278,10,202,Mm-hum.,Amy,0
+4279,10,203,"And surprise, surprise.",Amy,0
+4280,10,204,I'm good at it.,Amy,0
+4281,10,205,"Feel anything, Mom? Feel like I'm kicking your butt at belly dancing.",Amy,0
+4282,10,206,"Oh, no, you're not.",Teddy,0
+4283,10,207,"Oh, yes, I am.",Amy,0
+4284,10,208,Bring it.,Teddy,0
+4285,10,209,Consider it brung.,Amy,0
+4286,10,210,"Uh, yeah.",Amy,0
+4287,10,211,"Oh! - Yeah! Yeah, you just got served.",Amy,0
+4288,10,212,"In a bowl, with a spoon.",Amy,0
+4289,10,213,Didn't realize belly dancing had so much trash talk.,Teddy,0
+4290,11,214,"Man, this is frustrating.",Bob,0
+4291,11,215,"Yeah, I know.",PJ,0
+4292,11,216,"They really need to make bigger keyboards for people with big, sausage-y fingers.",PJ,1
+4293,11,217,NULL,Bob;PJ,1
+4294,11,218,"Problem is, you got too many choices.",Bob,0
+4295,11,219,And then you gotta figure out..,Bob,0
+4296,11,220,Mileage and..,Bob,0
+4297,11,221,"Color, safety, reliability..",Bob,0
+4298,11,222,You know what? This is impossible.,Bob,0
+4299,11,223,"Well, what about this one? I mean, look how happy it's making that family.",PJ,0
+4300,11,224,"Oh, and they're going across the country.",PJ,0
+4301,11,225,Mount Rushmore.,PJ,0
+4302,11,226,The Grand Canyon..,PJ,0
+4303,11,227,Grandma's house.,PJ,0
+4304,11,228,PJ.,Bob,0
+4305,11,229,"Come on, it's just a commercial, you..",Bob,0
+4306,11,230,"Hey, they brought her a puppy.",Bob,0
+4307,11,231,Aw.,PJ,0
+4308,11,232,"Oh, it's just what she wanted.",Bob,0
+4309,11,233,We have to get that car.,PJ,0
+4310,11,234,If we want to be happy.,Bob,0
+4311,12,235,"Okay, how is a salad going to help me go into labor? Not the salad, the dressing.",Amy,0
+4312,12,236,"See, this place is famous for it.",Teddy,0
+4313,12,237,They have this special secret ingredient that just pops a kid right out.,Teddy,1
+4314,12,238,It's worth a sh*t.,Amy,0
+4315,12,239,"Besides, I haven't eaten in like, 15 minutes.",Amy,0
+4316,12,240,Hi.,Others,0
+4317,12,241,Can I help you? Yes.,Others,0
+4318,12,242,"A table for two, please.",Teddy,0
+4319,12,243,"Sure, can I get your name? We have about a three-hour wait.",Others,0
+4320,12,244,Three hours? But we need a table right away.,Teddy,0
+4321,12,245,"Yes, I'm pregnant.",Amy,0
+4322,12,246,It's kind of a special circumstance.,Teddy,0
+4323,12,247,NULL,Others;Amy,1
+4324,13,248,Doh! This is ridiculous.,Amy,0
+4325,13,249,I can't believe they're making us stand here like this.,Amy,0
+4326,13,250,I'm seven days overdue.,Amy,0
+4327,13,251,Seven days? Try nine days on for size.,Others,0
+4328,13,252,I'm looking back at seven days like it was a party.,Others,1
+4329,13,253,"Oh, yeah? I have enough gas to fly to London.",Amy,0
+4330,13,254,NULL,Others,1
+4331,13,255,How's that table coming? - All right.,Teddy,0
+4332,14,256,I can't wait to play this game.,Others,0
+4333,14,257,"Yeah, I was getting that from the way you opened the box with your teeth.",Gabe,0
+4334,14,258,That's how I open everything.,Others,0
+4335,14,259,"Why do you think I need braces? Now, if my Dad comes down.",Others,1
+4336,14,260,"And asks where the doll is, what am I gonna tell him? Okay, I got it.",Gabe,0
+4337,14,261,I'll tell him that..,Gabe,0
+4338,14,262,"On the way to the toy store, I got b*at up by a gang.",Gabe,0
+4339,14,263,And..,Gabe,0
+4340,14,264,They stole the money and I'm lucky to be alive.,Gabe,0
+4341,14,265,"Dude, it's your Dad we're talking about.",Others,0
+4342,14,266,Why are you working so hard on a story? You know what? You're right.,Others,0
+4343,14,267,"Why am I worried about Charlie's stupid doll anyway? All right, here.",Gabe,0
+4344,14,268,Uh-oh.,Others,0
+4345,14,269,What's that? 'Warning.,Others,0
+4346,14,270,' 'Contains scenes of graphic violence.,Gabe,0
+4347,14,271, 'Parental supervision strongly advised.,Gabe,0
+4348,15,272,"' Yes! Well, I retain so much water, I slosh when I walk.",Amy,0
+4349,15,273,I slosh when I sleep.,Others,0
+4350,15,274,"Oh, you sleep? Oh, Mom.",Amy,0
+4351,15,275,I just thought of a great idea.,Teddy,0
+4352,15,276,Why don't we get the salads to go? Don't you think we thought of that? They don't do takeout here.,Others,0
+4353,15,277,Sure hope your next kid is smarter than this one.,Others,1
+4354,15,278,Hey.,Amy,0
+4355,15,279,Nobody insults my kids but me.,Amy,0
+4356,15,280,"You want a piece of me? - You want a piece of me? - Okay! Ladies, let's break it up.",Teddy,0
+4357,15,281,"Let's just go, okay? I can't do this for three hours.",Amy,0
+4358,15,282,"What? No, Mom.",Teddy,0
+4359,15,283,We have to stick it out.,Teddy,0
+4360,15,284,The baby has to be born today.,Teddy,0
+4361,15,285,Tomorrow's Charlie's birthday.,Teddy,0
+4362,15,286,"Honey, I know that.",Amy,0
+4363,15,287,But we're out of options here.,Amy,0
+4364,15,288,Or are we? Look over there.,Teddy,0
+4365,15,289,That must be the salad dressing.,Teddy,0
+4366,15,290,"Okay, so you create a distraction for everyone, and I'll go get it.",Teddy,0
+4367,15,291,We're going to steal salad dressing? The student becomes the master.,Amy,1
+4368,15,292,Oh my! Oh my! It's happening.,Amy,0
+4369,15,293,"Oh, Mama's having a baby child! Okay, just stay calm.",Amy,0
+4370,15,294,Everything's gonna be okay.,Others,0
+4371,15,295,Okay.,Others,0
+4372,15,296,Just breathe.,Others,0
+4373,15,297,"Oh, you know what? False alarm.",Amy,0
+4374,15,298,Sorry.,Amy,0
+4375,15,299,"Everybody go back to your salads, nothing more to see here.",Amy,0
+4376,15,300,Oh.,Teddy,0
+4377,15,301,Let's get out of here.,Teddy,0
+4378,15,302,"Hey! Stop them, they've got the dressing.",Others,0
+4379,15,303,Run for it! Oh.,Amy,0
+4380,15,304,Okay.,Teddy,0
+4381,15,305,"Hey, everybody relax.",Teddy,0
+4382,15,306,"Yeah, no need to get crazy, okay, there's plenty of dressing for everyone.",Amy,0
+4383,15,307,I am having twins.,Others,0
+4384,15,308,I want double.,Others,0
+4385,15,309,"Oh, yeah? I'm gonna need to see an ultrasound.",Amy,1
+4386,15,310,"Hey, hey! Back off.",Teddy,0
+4387,15,311,One more step and the dressing gets it.,Teddy,1
+4388,15,312,That's right.,Amy,0
+4389,15,313,You heard her.,Amy,0
+4390,15,314,Now everyone waddle away real nice-like.,Amy,0
+4391,15,315,NULL,Amy;Teddy,1
+4392,16,316,"So, Bob.",Others,0
+4393,16,317,"What got you interested in the Serenade? Well, the mileage, safety, reliability..",Others,0
+4394,16,318,Was it the puppy? Yeah.,Others,1
+4395,16,319,"So, what do you think? Rides pretty smooth, doesn't it? Yeah, it's..",Others,0
+4396,16,320,"It's okay, I guess.",Bob,0
+4397,16,321,Are you kidding? I feel like I'm floating on a cloud.,PJ,0
+4398,16,322,A cloud with seat warmers.,Others,0
+4399,16,323,So that's why I'm so toasty down there.,PJ,1
+4400,16,324,Sounds like your boy likes the car.,Others,0
+4401,16,325,"Six cup holders?! Serenade! Serenade! Serenade! What do you say, Bob? You want to go inside and we'll crunch some numbers? Um..",Others,0
+4402,16,326,"Could you give us a minute, Stu? Sure thing.",Bob,0
+4403,16,327,I'll be in the showroom.,Others,0
+4404,16,328,"PJ! What are you doing? You're blowing the whole deal! What do you mean? If Stu thinks we like the car, we're gonna have to pay more for it.",Bob,0
+4405,16,329,We gotta make him think we don't want the car.,Bob,0
+4406,16,330,NULL,Bob;PJ,1
+4407,17,331,It was horrifying.,Amy,0
+4408,17,332,That one gal chewed off a couple of my buttons.,Amy,0
+4409,17,333,Why don't we go downstairs again and try bouncing..,Teddy,0
+4410,17,334,"Oh, no, no, no, no.",Amy,0
+4411,17,335,"Sweetie, we are done.",Amy,0
+4412,17,336,"Okay, we've tried everything.",Amy,0
+4413,17,337,This baby is gonna come when it wants to.,Amy,0
+4414,17,338,I guess you're right.,Teddy,0
+4415,17,339,"And if it is born on Charlie's birthday, maybe that wouldn't be such a bad thing.",Amy,0
+4416,17,340,"What do you mean? Well, I don't know, with..",Amy,0
+4417,17,341,"Five kids, maybe it wouldn't hurt to double up on birthdays.",Amy,0
+4418,17,342,You know..,Amy,0
+4419,17,343,"Less parties, less presents, less headaches..",Amy,0
+4420,17,344,Hey.,Amy,0
+4421,17,345,Maybe I can tell Charlie and the baby they were born on December 25.,Amy,1
+4422,18,346,"So, follow my lead.",Bob,0
+4423,18,347,Play it cool.,Bob,0
+4424,18,348,"Oh, and whatever happens, don't get too overenthusiastic.",Bob,0
+4425,18,349,"Don't worry about me, big guy.",PJ,0
+4426,18,350,I will be cool with a capital 'K.,PJ,1
+4427,18,351,' And don't do any spelling.,Bob,0
+4428,18,352,Check.,PJ,0
+4429,18,353,"Have a seat, fellas.",Others,0
+4430,18,354,In these chairs? Forget it.,PJ,0
+4431,18,355,They're pieces of junk.,PJ,0
+4432,18,356,We're not buying the chairs.,Bob,0
+4433,18,357,Darn right we're not.,PJ,0
+4434,18,358,It's not even that fun.,PJ,0
+4435,18,359,"So, what do you think, Bob? Will you be driving home in a Serenade today? Well, uh..",Others,0
+4436,18,360,"I don't know, Stu.",Bob,0
+4437,18,361,"I guess it, uh, depends on what you can do for me.",Bob,0
+4438,18,362,"Yeah, Stu.",PJ,0
+4439,18,363,What have you got? Bring it.,PJ,0
+4440,18,364,Does this price work for you? Does..,Others,0
+4441,18,365,"This work for you? Whoa, whoa, whoa.",PJ,1
+4442,18,366,"PJ, PJ? We actually have to look at the offers.",Bob,0
+4443,18,367,"Amateur move, but go ahead.",PJ,1
+4444,18,368,"Look, Bob.",Bob,0
+4445,18,369,I want to make you happy.,Bob,0
+4446,18,370,What do you think about this? This is your offer? PJ..,Others,0
+4447,18,371,"This is your beef, Stu? Get it? 'Beef Stu'? - Yeah, we..",PJ,1
+4448,18,372,We all got it.,Bob,0
+4449,18,373,Yeah.,Others,0
+4450,18,374,"Come on, Dad.",PJ,0
+4451,18,375,We are out of here.,PJ,0
+4452,18,376,"Dad? You coming? I, uh..",PJ,0
+4453,18,377,NULL,Bob,1
+4454,18,378,I..,Bob,0
+4455,18,379,I apologize.,Bob,0
+4456,19,380,How long have we been playing? Six hours.,Gabe,0
+4457,19,381,My eyes are burning.,Gabe,0
+4458,19,382,You should blink once in a while.,Others,1
+4459,19,383,That's exactly what they want.,Gabe,0
+4460,19,384,"Who are you working for, the Zartian King? Easy, dude.",Gabe,1
+4461,19,385,Your phone's ringing again.,Gabe,0
+4462,19,386,It's just my Mom wondering where I am.,Others,0
+4463,19,387,Off to voice mail.,Others,0
+4464,19,388,I'm gonna go down this alley and check for mutants.,Gabe,0
+4465,19,389,Cover me.,Gabe,0
+4466,19,390,"You having fun, Gabe? Whoa.",Bob,0
+4467,19,391,Did you see that? What? My Dad.,Gabe,0
+4468,19,392,He was..,Gabe,0
+4469,19,393,He was in the game and he was talking to me.,Gabe,0
+4470,19,394,That's normal.,Others,0
+4471,19,395,"After six hours, you're gonna hallucinate.",Others,1
+4472,19,396,Really? Yeah.,Gabe,0
+4473,19,397,It was a warning on the box.,Others,0
+4474,19,398,You've just got to power through it.,Others,0
+4475,19,399,Okay.,Gabe,0
+4476,19,400,You're right.,Gabe,0
+4477,19,401,Just got to focus.,Gabe,0
+4478,19,402,We got to get that level nine monster.,Gabe,0
+4479,19,403,It's your baby sister's birthday.,Bob,0
+4480,19,404,All she wanted was a doll.,Bob,0
+4481,19,405,Maybe you're the monster.,Bob,0
+4482,19,406,Ah! What are you doing? We're done.,Gabe,0
+4483,19,407,And tomorrow we're taking the game back and getting Charlie her doll.,Gabe,0
+4484,19,408,What's wrong with your hands? I don't know.,Gabe,0
+4485,19,409,NULL,Others;Gabe,1
+4486,20,410,"Oh, happy first birthday, you adorable baby.",Amy,0
+4487,20,411,Aw.,Gabe,0
+4488,20,412,"Aw, look at that smile.",Gabe,0
+4489,20,413,Aw.,Teddy,0
+4490,20,414,Check out those cheeks.,Teddy,0
+4491,20,415,I could just eat you up.,Teddy,0
+4492,20,416,You are the cutest baby ever.,PJ,0
+4493,20,417,"Yes, you are.",PJ,0
+4494,20,418,"It's my birthday, too.",Charlie,0
+4495,20,419,"Oh, and Daddy loves you.",Bob,0
+4496,20,420,"That's right, Daddy lu-lu you.",Bob,0
+4497,20,421,Aw.,Teddy,0
+4498,20,422,I'm sad.,Charlie,0
+4499,20,423,"Oh, my little angel.",Amy,0
+4500,20,424,I could never forget you.,Amy,0
+4501,20,425,"I'll never forget you either, baby.",Bob,0
+4502,20,426,NULL,Amy;Bob;Teddy,1
+4503,21,427,Teddy.,Amy,0
+4504,21,428,"Morning, Mom.",Teddy,0
+4505,21,429,"Teddy, I can't have this baby today.",Amy,0
+4506,21,430,Charlie needs to have her special birthday.,Amy,0
+4507,21,431,That's what I've been saying all along.,Teddy,0
+4508,21,432,"Yeah, but now I'm saying it.",Amy,1
+4509,21,433,"Okay, well, what made you change your mind? I had this horrible dream last night.",Teddy,0
+4510,21,434,The entire family was just being so mean to Charlie..,Amy,0
+4511,21,435,Ignoring her.,Amy,0
+4512,21,436,Even you.,Amy,0
+4513,21,437,What were you doing in the dream? I was doing what I always do.,Teddy,0
+4514,21,438,Fighting bravely to make things right.,Amy,1
+4515,21,439,"Okay, look, the point is I can't have the baby today.",Amy,0
+4516,21,440,Charlie needs her special day.,Amy,0
+4517,21,441,"All right, well, however you got here, I totally agree.",Amy,0
+4518,21,442,We'll just make sure that you don't have the baby until tomorrow.,Amy,0
+4519,21,443,Exactly.,Amy,0
+4520,21,444,Okay.,Amy,0
+4521,21,445,"Okay, operation get baby out.",Amy,0
+4522,21,446,Has officially become operation keep baby in.,Amy,0
+4523,21,447,"I need complete rest and relaxation, okay? Nothing but peace..",Amy,0
+4524,21,448,Calm.,Amy,0
+4525,21,449,And quiet.,Amy,0
+4526,21,450,"Morning, honey.",Bob,0
+4527,21,451,I said quiet! Yeah.,Amy,0
+4528,21,452,NULL,Bob,1
+4529,22,453,Next.,Others,0
+4530,22,454,"Hi, we'd like to return this game, please.",Gabe,0
+4531,22,455,Has it been opened? Nope.,Others,0
+4532,22,456,Then why is it covered in tape and what appears to be teeth marks? Okay.,Others,0
+4533,22,457,I'm gonna level with you.,Gabe,0
+4534,22,458,We bought this game by accident.,Gabe,0
+4535,22,459,"And then, Jake here..",Gabe,0
+4536,22,460,Accidentally opened it.,Gabe,0
+4537,22,461,And then we accidentally played it for six hours.,Others,0
+4538,22,462,"Guys, I'm sorry, you can't return this.",Others,0
+4539,22,463,"Oh, no, we don't want to return it.",Gabe,0
+4540,22,464,We want to exchange it..,Gabe,0
+4541,22,465,For money.,Gabe,0
+4542,22,466,Next.,Others,0
+4543,23,467,"Oh, this is bad.",Gabe,0
+4544,23,468,What am I gonna do? Only thing you can do.,Gabe,0
+4545,23,469,You gotta steal the doll.,Others,0
+4546,23,470,Steal the doll? But that's wrong.,Gabe,0
+4547,23,471,"Well, exactly.",Others,0
+4548,23,472,"You know the old saying, 'two wrongs make a right.",Others,0
+4549,23,473,"' No, it's 'two wrongs don't make a right.",Gabe,0
+4550,23,474,' Oh.,Others,0
+4551,23,475,"Well, then, you know the other old saying..",Others,0
+4552,23,476,NULL,Others;Gabe,1
+4553,23,477,' I'm not gonna steal the doll.,Gabe,0
+4554,23,478,"Well, can we at least steal candy? No.",Others,0
+4555,23,479,Then what's the point of even going to the store? Serenade! Serenade! Serenade! Yeah.,Others,0
+4556,24,480,Oh.,Bob,0
+4557,24,481,Well..,Bob,0
+4558,24,482,Hope you learned something from the whole car-buying experience.,Bob,0
+4559,24,483,"Sure did, Dad.",PJ,0
+4560,24,484,"What's that, son? Can't we just leave it at a 'sure did, Dad'? I'm talking about the negotiation.",Bob,1
+4561,24,485,Look..,Bob,0
+4562,24,486,Someday you're gonna have a family of your own.,Bob,0
+4563,24,487,And you're gonna have to buy a new car.,Bob,0
+4564,24,488,"And you know what you're gonna say to your kid? The car doesn't fit in the garage? What? Then I'll say, 'it's not my fault, son.",Bob,1
+4565,24,489,' I learned all this from your grandpa Bob.,PJ,1
+4566,24,490,"' And he'll say, 'oh, that explains it.",PJ,1
+4567,24,491,' Then we'll laugh and get ice cream.,PJ,0
+4568,24,492,NULL,PJ;Bob,1
+4569,25,493,Then everybody was being really mean to you.,Amy,0
+4570,25,494,"But don't you worry, I did what I always do.",Amy,0
+4571,25,495,Fought bravely to make things right.,Amy,0
+4572,25,496,"Charlie, you have the best Mommy in the world.",Amy,0
+4573,25,497,Even in a dream.,Amy,0
+4574,25,498,Charlie? I made you a special birthday lunch.,Teddy,0
+4575,25,499,It's in the kitchen.,Teddy,0
+4576,25,500,Let's go get it.,Teddy,0
+4577,25,501,Yay.,Charlie,0
+4578,25,502,"Okay, um, Mom..",Teddy,0
+4579,25,503,I was just wondering about Charlie's birthday party.,Teddy,0
+4580,25,504,"Oh, honey.",Amy,0
+4581,25,505,I have to rest.,Amy,0
+4582,25,506,"Would you please take care of that for me? Yeah, I got it.",Amy,0
+4583,25,507,Everything you need to know is in a file in the kitchen.,Amy,0
+4584,25,508,Got it.,Teddy,0
+4585,25,509,"Teddy, you have really been there for me, and I just..",Amy,0
+4586,25,510,"I'm just so thankful, and..",Amy,0
+4587,25,511,You're my rock.,Amy,0
+4588,25,512,I don't know what I'd do without you.,Amy,0
+4589,25,513,Yeah.,Teddy,0
+4590,25,514,NULL,Teddy;Amy,1
+4591,26,515,"Charlie, how'd you like your special pony-shaped sandwich? All right.",Teddy,0
+4592,26,516,Well.,Teddy,0
+4593,26,517,Glad I spent an hour cutting it out.,Teddy,0
+4594,26,518,Party folder.,Teddy,0
+4595,26,519,"Hey, Charlie, come with me.",Teddy,0
+4596,26,520,Ready? Oh! I got 'cha.,Teddy,0
+4597,26,521,Okay.,Teddy,0
+4598,26,522,NULL,Teddy,1
+4599,26,523,Good.,Teddy,0
+4600,26,524,You wait here.,Teddy,0
+4601,26,525,I'll be right back.,Teddy,0
+4602,27,526,"Dad, hi.",Teddy,0
+4603,27,527,Okay.,Teddy,0
+4604,27,528,Big problem..,Teddy,0
+4605,27,529,"So you know how Mom's been kinda spacey with the pregnancy? Well, she forgot to plan Charlie's birthday party.",Teddy,0
+4606,27,530,You think you got problems? The garage is 31 inches too short.,Bob,0
+4607,27,531,"Oh, the garage is too short? Now it's the garage's fault? Yeah, car-buying expert here didn't measure the..",PJ,1
+4608,27,532,She doesn't need to know the details.,Bob,0
+4609,27,533,She has her own situation.,Bob,0
+4610,27,534,"Didn't you hear? Mom made a big, dumb mistake.",Bob,1
+4611,27,535,"Well, so what..",Teddy,0
+4612,27,536,What am I gonna do? Charlie's in there waiting for her party.,Teddy,0
+4613,27,537,"Okay, all right.",Bob,0
+4614,27,538,"Give me, uh..",Bob,0
+4615,27,539,Give me a minute to think.,Bob,0
+4616,27,540,"Uh, bu..",Bob,0
+4617,27,541,Bu.,Bob,0
+4618,27,542,Bu..,Bob,0
+4619,27,543,Ba..,Bob,0
+4620,27,544,Okay..,Bob,0
+4621,27,545,NULL,Bob;Teddy,1
+4622,27,546,"Well, I..",Teddy,0
+4623,27,547,I guess I could try calling some of Charlie's friends.,Teddy,0
+4624,27,548,See if they can come over.,Teddy,0
+4625,27,549,Pick up a cake at the store..,Teddy,0
+4626,27,550,Before you buy the cake..,PJ,0
+4627,27,551,You might wanna measure the fridge.,PJ,0
+4628,27,552,"Know what I'm saying, Dad? Hi uh, Mrs.",PJ,0
+4629,28,553,"Dickson, it's Teddy Duncan calling.",Teddy,0
+4630,28,554,"Listen, so I'm throwing together a little last-minute birthday party for Charlie, and I was just wondering if Megan could come.",Teddy,0
+4631,28,555,Oh.,Teddy,0
+4632,28,556,Chicken pox.,Teddy,0
+4633,28,557,Poor little thing.,Teddy,0
+4634,28,558,"But, you know, she doesn't have to stay for long.",Teddy,1
+4635,28,559,Okay.,Teddy,0
+4636,28,560,"Okay, I understand.",Teddy,0
+4637,28,561,"Oh, you know what? As long as I've got you..",Teddy,0
+4638,28,562,Is there any chance that Mr.,Teddy,0
+4639,28,563,Dickson is a..,Teddy,0
+4640,28,564,"Is a clown or a magician, or..",Teddy,1
+4641,28,565,"Hello? Hi um, is this Cake World? Yeah, yeah, hi.",Teddy,0
+4642,28,566,I need a cake.,Teddy,0
+4643,28,567,Um..,Teddy,0
+4644,28,568,You're out of cake? You realize you're called 'Cake World.,Teddy,1
+4645,28,569,"' Which means, right now, you're just 'world.",Teddy,0
+4646,28,570,"' Yeah, well, I don't like your attitude, either.",Teddy,0
+4647,28,571,"Hello? Hi, uh..",Teddy,0
+4648,28,572,"Hi, is this 'Al's Amazing Animals'? Yeah um, listen, I know that it's last minute, but I'm trying to put together this birthday party.",Teddy,0
+4649,28,573,What's the most amazing animal you've got? A monkey who does tricks for cake.,Teddy,0
+4650,28,576,"Yeah, we're gonna have a problem.",Teddy,0
+4651,28,577,"Um, by any chance..",Teddy,0
+4652,28,578,NULL,Teddy,1
+4653,28,579,"Hey, you know who might be fun to have at your party? Who? The kids from the playground.",Teddy,0
+4654,28,580,"Yay! What kids? Well, we won't know until we get there.",Teddy,0
+4655,29,581,"Yay! Woo-hoo! Okay, that's as far as I can go.",Bob,0
+4656,29,582,"How's she looking? It's a she? How can you tell? Could you just press the button? All right, here it goes.",PJ,0
+4657,29,583,Looking good.,PJ,0
+4658,29,584,Looking good.,PJ,0
+4659,29,585,So close.,PJ,0
+4660,30,586,Hm.,Amy,0
+4661,30,587,PJ was right.,Amy,0
+4662,30,588,The squares aren't as much fun as the sticks.,Amy,1
+4663,30,589,NULL,Amy,1
+4664,31,590,"So, what are you gonna do? Well, what choice do I have? I have to tell my Dad the truth.",Gabe,0
+4665,31,591,"The truth? Dude, that game messed you up.",Others,1
+4666,31,592,"You know, if you came in and shared some of the blame, they'd probably go easier on me.",Gabe,0
+4667,31,593,Guess we'll never know.,Others,1
+4668,31,594,Gotta admit..,Gabe,0
+4669,31,595,NULL,Gabe,1
+4670,32,596,"Okay, you.",Amy,0
+4671,32,597,You stay right where you are.,Amy,0
+4672,33,598,Little more.,PJ,0
+4673,33,599,Stop! Little more.,PJ,0
+4674,33,600,Stop! Little more.,PJ,0
+4675,33,601,Stop! Okay.,PJ,0
+4676,33,602,We're getting there.,PJ,0
+4677,33,603,"No, we're not! This is ridiculous.",Bob,0
+4678,33,604,"Dad, calm down.",PJ,0
+4679,33,605,"No, that's it! That's it! I'm done.",Bob,0
+4680,33,606,Done! Taking this t*nk back to the..,Bob,0
+4681,33,607,NULL,PJ;Bob,1
+4682,34,608,Uh-oh.,Amy,0
+4683,34,609,"Oh! Oh! It looks bad from this side, too.",Bob,1
+4684,34,610,"Dad, I have to tell you some..",Gabe,0
+4685,34,611,It can wait.,Gabe,1
+4686,34,612,Uh-oh.,Amy,0
+4687,34,613,"Hey, Dad.",PJ,0
+4688,34,614,Great news.,PJ,0
+4689,34,615,Garage door closes.,PJ,1
+4690,34,616,"Guys, Charlie's birthday party is..",Teddy,0
+4691,34,617,Not our biggest problem.,Teddy,0
+4692,34,618,Uh-oh.,Amy,0
+4693,34,619,"Why do you keep saying, 'uh-oh'? Why do you think? The baby's coming.",Amy,0
+4694,34,620,"Oh! - Okay, all right.",Bob,0
+4695,34,621,We gotta get Mom to the hospital.,Bob,0
+4696,34,622,"Come on, honey.",Bob,0
+4697,34,623,Get in the car.,Bob,0
+4698,34,624,NULL,Amy;Bob;Teddy,1
+4699,34,625,"Come on, I'll drive.",Teddy,0
+4700,34,626,Ed's out front.,Teddy,0
+4701,34,627,Ed? Who's Ed? That's the name of my car.,Bob,0
+4702,34,628,"Ed? So is that short for uh, Edward? Edgar? Edwin? - Ed..",PJ,0
+4703,34,629,Ed..,PJ,0
+4704,34,630,"Bigger issues, PJ! Okay, we really need to go.",Bob,0
+4705,34,631,"Okay, come on.",Bob,0
+4706,34,632,You guys have to throw Charlie her birthday party.,Teddy,0
+4707,34,633,I'm gonna drive Mom to the hospital.,Teddy,0
+4708,34,634,"Oh, why do we always get the hard things? You know..",PJ,0
+4709,34,635,I always thought you would be the first one to drive a car into the kitchen.,Gabe,0
+4710,34,636,"Me, too.",Charlie,0
+4711,35,637,"Hey, how you doing, honey? It'd be a lot better if you were quiet! She wants me to be quiet.",Bob,0
+4712,35,638,Gotta be quiet.,Bob,0
+4713,35,639,"Why can't I be quiet? Dad, were you this panicky when the rest of us were born? Uh..",Teddy,0
+4714,35,640,No.,Bob,0
+4715,35,641,"Because the first four times we did this, we were at a hospital! We did this, yeah.",Bob,0
+4716,35,642,NULL,Amy;Bob,1
+4717,35,643,We're on our way.,Teddy,0
+4718,35,644,We're gonna be there shortly.,Teddy,0
+4719,35,645,Right after this..,Teddy,0
+4720,35,646,Slight delay.,Teddy,0
+4721,35,647,You're outta gas.,Bob,0
+4722,35,648,"You're outta gas! Aw, Teddy.",Bob,0
+4723,35,649,How could you be so irresponsible?! Says the guy who drove a car into our kitchen.,Teddy,1
+4724,36,650,Close your eyes.,PJ,0
+4725,36,651,There you go.,PJ,0
+4726,36,652,Okay.,PJ,0
+4727,36,653,Ready? Keep 'em closed.,PJ,0
+4728,36,654,Okay.,PJ,0
+4729,36,655,And..,PJ,0
+4730,36,656,"Surprise! Hey! Look who came to your party, Charlie.",Gabe,0
+4731,36,657,Three of your oldest and bestest friends.,Gabe,0
+4732,36,658,Aw.,Gabe,0
+4733,36,659,Tennis ball head.,Gabe,0
+4734,36,660,Aw.,Gabe,0
+4735,36,661,Scary clown.,Gabe,0
+4736,36,662,Ah! And..,Gabe,0
+4737,36,663,Badly-damaged monkey.,PJ,0
+4738,36,664,I..,PJ,0
+4739,36,665,I don't think she likes it.,PJ,0
+4740,36,666,"Well, she's..",Gabe,0
+4741,36,667,She's about to.,Gabe,0
+4742,36,668,"Oh, okay.",PJ,0
+4743,36,669,Because..,Gabe,0
+4744,36,670,Ta-da! Happy Birthday! It's your special birthday cake.,PJ,0
+4745,36,671,That's not cake.,Charlie,0
+4746,36,672,It's your special birthday bagel.,PJ,1
+4747,36,673,"Mm, bagel.",Gabe,0
+4748,36,674,Tennis ball head's.,Gabe,0
+4749,36,675,Favorite.,Gabe,0
+4750,36,676,Mm.,PJ,0
+4751,36,677,"Yum, yum, yum.",PJ,0
+4752,36,678,"Where's my present? Yeah, did you get the Kuddle Me Katie doll? What is this, '60 minutes'? Just enjoy the party.",Gabe,0
+4753,36,679,Charlie..,PJ,0
+4754,36,680,We have got some really fun party games planned.,PJ,0
+4755,36,681,Like..,PJ,0
+4756,36,682,Watching TV! Yay! I want princesses.,PJ,0
+4757,36,683,"Really? Uh, did Mommy promise you a Princess? Mommy said, 'two princesses, please.",PJ,0
+4758,36,684,"' All right, you heard her, Princess.",Gabe,0
+4759,36,685,Make it happen.,Gabe,0
+4760,36,686,NULL,PJ;Gabe,1
+4761,37,687,Just breathe.,Teddy,0
+4762,37,688,I'm sure Dad will find us a ride soon.,Teddy,0
+4763,37,689,"Yeah, because he's so good with cars? Hey, sorry it took so long.",Amy,1
+4764,37,690,"You went for ice cream at a time like this? Uh, well..",Amy,0
+4765,37,691,"Actually, the ice cream came to me.",Bob,0
+4766,37,692,You're taking me to the hospital in an ice cream truck? You said to flag down the first thing I saw.,Amy,0
+4767,37,693,"Oh what's the matter, the giant hot dog wouldn't stop? Yeah.",Teddy,0
+4768,37,694,Okay.,Bob,0
+4769,37,695,"Push, Teddy.",Amy,0
+4770,37,696,"Welcome aboard Mustachio Pete's, the ice cream truck with the pistachio treats.",Others,0
+4771,37,697,"FYI, pistachio has been discontinued.",Others,0
+4772,37,698,"Bob, I need to lie down.",Amy,0
+4773,37,699,Okay.,Others,0
+4774,37,700,You can use that bean bag chair.,Others,0
+4775,37,701,It's where Mustachio Pete takes his 10 minute breaks..,Others,0
+4776,37,702,Which Mustachio Pete is allowed by law.,Others,0
+4777,37,703,"You're not gonna keep referring to yourself in the third person, are you? Yes, he is.",Teddy,0
+4778,37,704,That's Mustachio Pete's trademark.,Others,0
+4779,37,705,"That, and the pistachio, which, FYI..",Others,0
+4780,37,706,Has been discontinued.,Amy,0
+4781,37,707,We get..,Bob,0
+4782,37,708,We..,Bob,0
+4783,37,709,Okay.,Bob,0
+4784,37,710,"Come on, honey.",Bob,0
+4785,37,711,"If things get bad back there, bite down on a rocket pop.",Others,0
+4786,37,712,"Ooh, cool, I will.",Bob,0
+4787,37,713,NULL,Teddy;Bob,1
+4788,37,714,Emergency? This calls for the fast-paced music.,Others,0
+4789,38,715,"Ready, Charlie? It's Princess time! Uh-oh.",PJ,0
+4790,38,716,I seem to have lost my sister Princess.,PJ,0
+4791,38,717,Excuse me.,PJ,0
+4792,38,718,NULL,Gabe;PJ,1
+4793,38,719,Left..,PJ,0
+4794,38,720,And right.,PJ,0
+4795,38,721,And we cast a spell.,PJ,0
+4796,38,722,And we twirl and we twirl.,PJ,0
+4797,38,723,And we curtsy! Aw.,PJ,0
+4798,38,724,Look at that smile.,PJ,0
+4799,38,725,We gotta go again.,PJ,0
+4800,38,726,"What? But, this time, stay with me.",PJ,0
+4801,38,727,"And five, six, seven, eight.",PJ,0
+4802,38,728,"Left, right..",PJ,0
+4803,39,729,Can't you go any faster? We're already doing 23.,Teddy,0
+4804,39,730,I'm giving her all she's got.,Others,1
+4805,39,731,Okay.,Bob,0
+4806,39,732,Baby's close.,Bob,0
+4807,39,733,NULL,Others;Bob,1
+4808,39,734,You don't have to tell me about stress.,Others,0
+4809,39,735,The ice cream truck business is dog-eat-dog.,Others,0
+4810,39,736,I got Side Burn Sam nipping at my heels.,Others,0
+4811,39,737,"Could we just focus on the road, Pete? But both princesses are so beautiful.",Teddy,0
+4812,40,738,"How could I ever choose just one to be my wife? Dude, that's your line.",PJ,1
+4813,40,739,"Oh, right.",Gabe,0
+4814,40,740,"Well, I guess there's only one way.",Gabe,0
+4815,40,741,See whose foot fits the magic slipper.,Gabe,0
+4816,40,742,Okay.,PJ,0
+4817,40,743,'Tis not I whose foot doth fit the slipper.,PJ,0
+4818,40,744,"Yes, 'tis not me, either.",Gabe,0
+4819,40,745,"But, sister Princess, you have not tried on the slipper.",PJ,0
+4820,40,746,I doth not want to.,Gabe,0
+4821,40,747,"Oh, yeth you will.",PJ,0
+4822,40,748,Or I will hurteth you.,PJ,0
+4823,40,749,With my fitht.,PJ,0
+4824,40,750,"Oh, joy.",Gabe,0
+4825,40,751,It fits.,Gabe,1
+4826,40,752,My bride! At long last I have found you.,PJ,0
+4827,40,753,And they seal their love..,PJ,0
+4828,40,754,With a kiss.,PJ,0
+4829,40,755,"Okay, we're done! - Bah! Yeah, not quite.",Gabe,0
+4830,40,756,We're gonna go again from the top.,PJ,0
+4831,40,757,NULL,PJ;Gabe,1
+4832,41,758,Ah! Hey..,Amy,0
+4833,41,759,I'm gonna need your help back here.,Bob,0
+4834,41,760,"Dad, I don't know how to deliver a baby.",Teddy,0
+4835,41,761,"Honey, you just gotta help me.",Bob,0
+4836,41,762,All alone back here! Just sayin'.,Amy,0
+4837,41,763,Okay.,Teddy,0
+4838,41,764,"How you doing, Mom? - Hey.",Teddy,0
+4839,41,765,This baby is coming now.,Amy,0
+4840,41,766,Then..,Teddy,0
+4841,41,767,Let's have a baby.,Teddy,0
+4842,41,768,"Okay, Teddy.",Bob,0
+4843,41,769,Here we go.,Bob,0
+4844,42,770,"Oh, wow.",Teddy,0
+4845,42,771,"Well, hello, number five.",Bob,0
+4846,42,772,What a beautiful baby boy.,Teddy,0
+4847,42,773,Aw.,Others,0
+4848,42,774,Isn't he precious? We got here as fast as we could.,PJ,0
+4849,42,775,Hi.,Teddy,0
+4850,42,776,There's the birthday girl.,Amy,0
+4851,42,777,Happy Birthday.,Amy,0
+4852,42,778,"Charlie, come here.",Amy,0
+4853,42,779,Meet your new baby brother.,Amy,0
+4854,42,780,Brother? Cool.,Gabe,0
+4855,42,781,"Hey, what name did you pick? Well, we decided to call him..",PJ,0
+4856,42,782,Toby.,Amy,0
+4857,42,783,Hey.,Gabe,0
+4858,42,784,I came up with that one.,Gabe,0
+4859,42,785,Nice.,Gabe,0
+4860,42,786,"Welcome to the world, Toby Duncan.",Teddy,0
+4861,42,787,"Hey, quick question.",Bob,0
+4862,42,788,"Why are you guys dressed like that? Oh, because..",Bob,0
+4863,42,789,Mom promised Charlie princesses for her party.,Gabe,0
+4864,42,790,I never promised Charlie princesses.,Amy,0
+4865,42,791,NULL,Gabe;Amy;Gabe,1
+4866,42,792,What? Why not? Bob? Gabe? PJ? Teddy? Gabe? Oh.,Amy,0
+4867,42,793,"Sweetie, I'm sorry.",Amy,0
+4868,42,794,"Wasn't much of a birthday, was it? That's okay, Mommy.",Amy,0
+4869,42,795,"Now, don't you worry.",Amy,0
+4870,42,796,We will get you your special present.,Amy,0
+4871,42,797,I like this present.,Charlie,0
+4872,43,798,"Okay, listen up.",Teddy,0
+4873,43,799,Here's the plan.,Teddy,0
+4874,43,800,"So, when they come through the front door, you guys..",Teddy,0
+4875,43,801,Are gonna hold up this banner.,Teddy,0
+4876,43,802,Here.,Teddy,0
+4877,43,803,Take that.,Teddy,0
+4878,43,804,"And Charlie, you're gonna give Mommy these balloons.",Teddy,0
+4879,43,805,And I'm gonna blow the noisemaker.,Teddy,0
+4880,43,806,"And then we're all gonna sing 'welcome home, Toby' To the tune of the rock classic..",Teddy,0
+4881,43,807,'Our House.,Teddy,0
+4882,43,808,' Why do you get to blow the noisemaker? And why are we making such a big deal outta this? They bring a new baby home like every six months.,PJ,0
+4883,43,809,Yeah.,Gabe,0
+4884,43,810,This is what we always do.,Teddy,0
+4885,43,811,We did it for Charlie.,Teddy,0
+4886,43,812,Did you do it for me? Uh..,Gabe,0
+4887,43,813,Yeah.,Teddy,0
+4888,43,814,"You're lying! - No, I'm not.",Gabe,0
+4889,43,815,"Yeah, you are.",PJ,0
+4890,43,816,You..,Gabe,0
+4891,43,817,"You know what? If you didn't do it for me, I'm not doing it for Toby.",Gabe,0
+4892,43,818,NULL,Gabe;PJ,1
+4893,43,819,"Gabe, just pick up the stupid banner and join in this very touching family celebration! You can't make me.",Teddy,0
+4894,43,820,"Well, if he's not gonna do it, I'm not gonna do it.",PJ,0
+4895,43,821,And if we not all gonna do it together....,PJ,0
+4896,43,822,It looks like Charlie could have made it.,Gabe,0
+4897,43,823,Good to be home.,Bob,0
+4898,43,824,"This is what it's all about, isn't it? Now I see..",PJ,0
+4899,44,825,So let me show you around.,Teddy,0
+4900,44,826,"This is your home, Toby.",Teddy,0
+4901,44,827,Yeah.,Teddy,0
+4902,44,828,This is the living room.,Teddy,0
+4903,44,829,And this is your family.,Teddy,0
+4919,44,845,"Hey, what you doing? Giving Toby a proper welcome home.",Teddy,0
+4920,45,846,"Well, Charlie, it's been kind of a big week.",Teddy,0
+4921,45,847,"I uh, I helped deliver a baby..",Teddy,0
+4922,45,848,"Our little brother, Toby..",Teddy,0
+4923,45,849,And you finally got your Kuddle Me Katie.,Teddy,0
+4924,45,850,Which you lost interest in five minutes after you got it.,Teddy,0
+4925,45,851,"Doesn't matter, Gabe's still paying for it.",Teddy,0
+4926,45,852,He worked out a little agreement with Mom and Dad.,Teddy,0
+4927,45,853,Gabe! Diaper change! And it's a doozy.,Amy,0
+4928,45,854,Coming.,Gabe,0
+4929,45,855,"Wish him good luck, Charlie.",Teddy,0
+4930,46,856,"Isn't he adorable? Oh, little Toby.",Amy,0
+4931,46,857,He sure is.,Teddy,0
+4932,46,858,"Oh, by the way, what's his middle name? Wan-Kenobi.",Teddy,0
+4933,46,859,Toby Wan-Kenobi? Yeah.,Teddy,1
+4934,46,860,"Yup, your Dad's a big fan of the movies.",Amy,1
+4935,46,861,"Speaking of, where is Dad? I'm ready to go home.",Amy,0
+4936,46,862,He said he was just going to pull the car up.,Teddy,0
+4937,46,863,Here he is now.,Teddy,1
+4938,46,864,"Hey! Ready to go hun? Yes, babe how did you do that? We're on the eighth floor.",Amy,1
+4939,46,865,NULL,Bob;Teddy,1
+4940,46,866,Yeah.,PJ,0
+4941,46,867,Serenade! Serenade! PJ Darth Duncan! You're going to wake your baby brother.,Amy,0
+4942,46,868,"Oh, sorry.",PJ,0
+4943,46,869,Serenade.,PJ,0
+4944,46,870,Serenade.,PJ,0
+4945,46,871,Serenade.,PJ,0
+4946,46,872,Serenade.,PJ,0
+4947,46,873,Serenade.,PJ,0
+4948,46,874,Serenade.,PJ,0

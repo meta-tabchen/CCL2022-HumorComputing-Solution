@@ -1,0 +1,361 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+14402,1,0,Uh-oh.,Teddy,0
+14403,1,1,Charlie's in a time-out.,Teddy,0
+14404,1,2,What'd she do? She tried to give your baby brother to the mailman.,Amy,1
+14405,1,3,Mm-hmm.,Teddy,0
+14406,1,4,Even put a stamp on his forehead.,Amy,1
+14407,1,5,"Wait a minute, didn't PJ try to mail me? Yes, and you tried to mail Gabe, and Gabe tried to mail Charlie.",Amy,1
+14408,1,6,"See, these are the sweet family memories you just don't get with e-mail.",Teddy,1
+14409,1,7,Mm.,Amy,0
+14410,1,8,Okay.,Amy,0
+14411,1,9,"Charlie, have you learned your lesson? No.",Amy,0
+14412,1,10,Close enough.,Amy,0
+14413,1,11,Get outta here.,Amy,0
+14414,1,12,Go go go.,Amy,0
+14415,1,13,Uh Oh.,Amy,0
+14416,1,14,"Um By the way, I was on your school website this morning, and I noticed that your volleyball team needs a team mom.",Amy,0
+14417,1,15,Don't tell me you're thinking about calling.,Teddy,0
+14418,1,16,Called.,Amy,1
+14419,1,17,"But you're You're not doing it, right? Doing it.",Teddy,0
+14420,1,18,Mom! Don't you think we should have had a conversation about this? Just did.,Teddy,0
+14421,1,19,( Sighs ) ( Laughs ) What are you smiling about? It'll be your turn next.,Teddy,1
+14422,1,20,"Hey, Teddy.",PJ,0
+14423,1,21,I'm a fragrance technician at Bimbel's.,PJ,0
+14424,1,22,Fragrance technician.,Teddy,0
+14425,1,23,Mm-hmm.,PJ,0
+14426,1,24,"Basically, I hold up a bottle of cologne and do this CHH.",PJ,0
+14427,1,25,"Very different from when I used to work at Kwikki-Chikki, where I did this ( Imitates clunking ) And this ( Whooshing ) And sometimes this ( Imitates squeaking ) Oh.",PJ,0
+14428,1,26,Now you try this.,Teddy,0
+14429,1,27,Zip.,Teddy,1
+14430,2,0,This is baseball.,Bob,0
+14431,2,1,"Not my favorite sport, but when I get to watch it, I get three hours all to myself.",Bob,1
+14432,2,2,"( Cooing ) - Hey, dad.",Gabe,0
+14433,2,3,Yeah? There's something we need to talk about.,Gabe,0
+14434,2,4,"Oh, no.",Bob,0
+14435,2,5,Do I have to call my lawyer? My insurance guy? Please don't say both.,Bob,1
+14436,2,6,Don't worry.,Gabe,0
+14437,2,7,You don't have to call anybody.,Gabe,0
+14438,2,8,"Besides, trouble making was more tween Gabe's thing.",Gabe,0
+14439,2,9,I'm teen Gabe now.,Gabe,0
+14440,2,10,"Well welcome Sir, we've uh Been nervously expecting you.",Bob,1
+14441,2,11,All right.,Gabe,0
+14442,2,12,"So, here's the thing.",Gabe,0
+14443,2,13,"Tomorrow, I need your help because I have a date.",Gabe,0
+14444,2,14,Nice.,Bob,0
+14445,2,15,"So, who's the girl? Her name's Emma.",Bob,0
+14446,2,16,She's new at our school.,Gabe,0
+14447,2,17,"Okay, so because she doesn't know you, she agreed to go out with you.",Bob,1
+14448,2,18,Exactly.,Gabe,0
+14449,2,19,Yeah.,Bob,1
+14450,2,20,Okay.,Gabe,0
+14451,2,21,"So, here's the plan.",Gabe,0
+14452,2,22,"You pick us up, you take us to the theater, and you sit as far away from us as possible.",Gabe,0
+14453,2,23,"Questions? Can I speak to her? Uh, yes.",Bob,0
+14454,2,24,I have taken the liberty of preparing some small talk for you.,Gabe,1
+14455,2,25,( Sighs ) 'Hello.,Bob,0
+14456,2,26,' 'I'm Bob.,Bob,0
+14457,2,27,' 'Good-bye.,Bob,0
+14458,2,28,"' You know, now that I'm hearing it out loud We may not need 'I'm Bob.",Gabe,1
+14459,3,0,"' Hey, Emmett.",PJ,0
+14460,3,1,How's the road trip to Death Valley? You ran out of gas? That can't be good.,PJ,0
+14461,3,2,Vultures? That can't be good.,PJ,0
+14462,3,3,Emmett.,PJ,0
+14463,3,4,"Dude, Emmett.",PJ,0
+14464,3,5,You're not gonna believe this.,PJ,0
+14465,3,6,I think the clown moved out because there's a really cute girl in that apartment.,PJ,0
+14466,3,7,"Well, you can't call dibs! We're not even sure if you're coming back.",PJ,1
+14467,3,8,"Sorry, dude.",PJ,0
+14468,3,9,I'm making my move.,PJ,1
+14469,3,10,Yeah.,PJ,0
+14470,3,11,"Up, and down.",PJ,0
+14471,3,12,"Up, and down.",PJ,0
+14472,3,13,Up And down.,PJ,1
+14473,4,0,I hear this movie is pretty good.,Others,0
+14474,4,1,"Yeah, me too.",Gabe,0
+14475,4,2,"( Chuckles ) ( Gabe's voice ) Yeah, me too? That's all you got? I should have written out some cards for myself.",Gabe,1
+14476,4,3,Oh.,Others,0
+14477,4,4,"Great, thanks.",Others,0
+14478,4,5,My daughter's on a date with a kid And I'm keeping an eye on them.,Others,0
+14479,4,6,You know what? I think that's my kid she's on the date with.,Bob,1
+14480,4,7,( Laughs ) - Bob Duncan.,Others,0
+14481,4,8,"Randy Schleebee, how you doing? I'm good.",Bob,0
+14482,4,9,Have some popcorn.,Bob,0
+14483,4,10,Hmm? Thanks.,Others,0
+14484,4,11,Have all the popcorn.,Bob,0
+14485,4,12,Whoa.,Others,0
+14486,4,13,Salty.,Others,0
+14487,4,14,Yuck.,Others,0
+14488,4,15,Root beer.,Others,0
+14489,4,16,My bad.,Bob,1
+14490,4,17,"Oh, it's starting.",Others,0
+14491,5,0,"( Sighs ) Man, I can't believe we lost again.",Teddy,0
+14492,5,1,What do you think the problem is? The other team scored more points than us.,Others,0
+14493,5,2,"Um, I have an idea.",Amy,0
+14494,5,3,Mm! Nope.,Teddy,0
+14495,5,4,"Mom, remember we made an agreement.",Teddy,0
+14496,5,5,"As team mom, you can only answer questions about snacks and schedules.",Teddy,0
+14497,5,6,We even put this in writing.,Teddy,0
+14498,5,7,"Well, if she gives advice as awesomely as she slices oranges, maybe she's got something.",Others,0
+14499,5,8,I like this girl.,Amy,0
+14500,5,9,"Okay, ladies.",Amy,0
+14501,5,10,Listen up.,Amy,0
+14502,5,11,I've got a story for you.,Amy,0
+14503,5,12,"Oh, just so long as it's not one of your college stories.",Teddy,0
+14504,5,13,When I was in college - Here we go.,Amy,0
+14505,5,14,I played hockey for the Southwest Denver Community College Lady Icers.,Amy,0
+14506,5,15,We'd lost 10 games in a row.,Amy,0
+14507,5,16,"But all that was about to change the night that we played our arch rival, the Northeast Pueblo Community College Lady Checkers.",Amy,0
+14508,5,17,This is time you're never gonna get back.,Teddy,1
+14509,5,18,"Now, because of a terrible blizzard, we had to stay in a motel.",Amy,0
+14510,5,19,Best thing that ever happened to us.,Amy,0
+14511,5,20,We all got to know each other and we really bonded.,Amy,0
+14512,5,21,"And you know what happened at the next game? No, but I'm on the edge of my seat.",Amy,0
+14513,5,22,One of their players tripped me from behind And our entire team jumped that girl and cross-checked the daylights out of her.,Amy,0
+14514,5,23,Ba-bam! It was so touching.,Amy,0
+14515,5,24,"To recap, your advice is that we attack someone? Well, not at first.",Teddy,1
+14516,5,25,No no no.,Amy,0
+14517,5,26,I'm saying that you invite the team over for a slumber party.,Amy,0
+14518,5,27,So you guys can all bond.,Amy,0
+14519,5,28,I love parties.,Others,0
+14520,5,29,"And I just got a new sleeping bag! Okay, you are way too perky.",Others,1
+14521,5,30,Looks like we're having a sleepover.,Amy,0
+14522,5,31,"Yes, in my new sleeping bag! Seriously, just dial it down.",Teddy,1
+14523,6,0,( Sighs ) - What a day.,Gabe,0
+14524,6,1,What a day.,Bob,1
+14525,6,2,She sat so close.,Gabe,0
+14526,6,3,He sat so close.,Bob,1
+14527,6,4,Our hands touched.,Gabe,0
+14528,6,5,"Our hands touched! Wait, what are you talking about? Emma's dad.",Bob,1
+14529,6,6,What a total nightmare.,Bob,0
+14530,6,7,I never want to see him again.,Bob,0
+14531,6,8,"Dad, who says you have to? Just because I'm hanging out with Emma doesn't mean that, you have to do stuff with her dad.",Gabe,0
+14532,6,9,Really? I don't think Randy feels the same way.,Bob,1
+14533,6,10,What do you mean? Because he wrote his phone number on my hand.,Bob,0
+14534,6,11,Home.,Bob,1
+14535,6,12,And cell.,Bob,1
+14536,7,0,Hey.,Others,0
+14537,7,1,I'm Molly.,Others,0
+14538,7,2,I'm PJ.,PJ,0
+14539,7,3,Welcome to the neighborhood.,PJ,0
+14540,7,4,I didn't know I was living across from a doctor.,Others,0
+14541,7,5,"Oh, you are? I was talking about you.",Others,0
+14542,7,6,I saw your coat.,Others,0
+14543,7,7,( Chuckles ) Oh.,PJ,0
+14544,7,8,"Oh, you think It's so impressive that someone so young could be a doctor.",Others,0
+14545,7,9,I've worked really hard.,PJ,1
+14546,7,10,So what's your specialty? My specialty? I uh Make people smell better.,Others,0
+14547,7,11,"Oh, so you're an ear, nose, and throat guy? Mostly nose.",Others,0
+14548,7,12,"I'd say it's 50% nose, 30% ear, 30% throat.",PJ,0
+14549,7,13,That's 110%.,Others,0
+14550,7,14,That's just how much I give.,PJ,1
+14551,7,15,"So what do you do, Molly? Oh, uh, I'm a college student.",PJ,0
+14552,7,16,"Well, it was nice meeting you, PJ.",Others,0
+14553,7,17,"You know, actually Um.",PJ,0
+14554,7,18,"I, uh I'm cooking dinner tonight if you want to come over.",PJ,0
+14555,7,19,The diagnosis is meatloaf.,PJ,0
+14556,8,0,"Hey, girls.",Amy,0
+14557,8,1,How's the bonding going? ( Muttering ) Okay.,Amy,0
+14558,8,2,I see what the problem is.,Amy,0
+14559,8,3,Put your phones in the basket.,Amy,0
+14560,8,4,Good.,Amy,0
+14561,8,5,Dump it.,Amy,0
+14562,8,6,In.,Amy,0
+14563,8,7,"Aw, man.",Amy,0
+14564,8,8,Teddy.,Amy,0
+14565,8,9,"Vonnie, you too.",Amy,0
+14566,8,10,What if my boyfriend calls? - You have a boyfriend now? Here.,Others,1
+14567,8,11,"Okay, girls.",Amy,0
+14568,8,12,Forget about your phones.,Amy,0
+14569,8,13,"( Phone beeps ) - ( Gasps ) Okay, everybody.",Amy,0
+14570,8,14,We're gonna do a bonding exercise.,Amy,0
+14571,8,15,"Now get up, get over there, form a circle.",Amy,0
+14572,8,16,Let's go.,Amy,0
+14573,8,17,"Hustle, hustle.",Amy,0
+14574,8,18,Get a move on.,Amy,0
+14575,8,19,Okay.,Amy,0
+14576,8,20,Reach in the circle and grab two hands.,Amy,0
+14577,8,21,Now the goal here is to untie the knot without letting go.,Amy,0
+14578,8,22,"It's very difficult, but if you work together, you'll see how easy it is.",Amy,0
+14579,8,23,Go.,Amy,0
+14580,8,24,Ow.,Others,0
+14581,8,25,Ow.,Others,0
+14582,8,26,Turn this way.,Others,0
+14583,8,27,"No, the other way! - Ow.",Others,0
+14584,8,28,"Ow, watch it! Get your butt out of my face! Get your face out of my butt.",Others,1
+14585,8,29,( Groans ) You girls have got to learn to work together.,Amy,0
+14586,8,30,"Okay, I need a volunteer.",Amy,0
+14587,8,31,Teddy.,Amy,0
+14588,8,32,Everyone form a circle around Teddy.,Amy,0
+14589,8,33,Come on.,Amy,0
+14590,8,34,"Now, you're going to close your eyes and make your body stiff and straight.",Amy,0
+14591,8,35,And then you're going to lean into the circle.,Amy,0
+14592,8,36,"Now, you're gonna feel like you're falling, but you're not because your teammates are going to keep you upright.",Amy,0
+14593,8,37,There we go.,Amy,0
+14594,8,38,Now we're working together.,Amy,0
+14595,8,39,Good.,Amy,0
+14596,8,40,"How you doing, Teddy? - You know, actually pretty good.",Teddy,0
+14597,8,41,Good.,Amy,0
+14598,8,42,"( Cell phone rings ) Aah! I have to have a phone, I'm a mom.",Amy,1
+14599,9,0,"( Doorbell rings ) Hi, Gabe.",Others,0
+14600,9,1,Emma.,Gabe,0
+14601,9,2,I was just wondering if you wanted to go out for ice cream.,Others,0
+14602,9,3,Sure.,Gabe,0
+14603,9,4,Why not make it a foursome? Hey.,Others,1
+14604,9,5,"Hey, you know where I live now.",Bob,0
+14605,9,6,"Come on, Bobbo.",Others,1
+14606,9,7,We had so much fun this afternoon it'd be a crime not to keep the party going.,Others,1
+14607,9,8,"Yeah Oh, whoa.",Bob,0
+14608,9,9,"Come on, Gabe.",Bob,0
+14609,9,10,A little help? You smell like flowers.,Gabe,0
+14610,9,11,"Oh, you You know what? What am I thinking? I can't go anywhere, I got two little ones I gotta take care of.",Bob,0
+14611,9,12,"I hear you, Bobsled.",Others,0
+14612,9,13,That's a cry for help.,Others,0
+14613,9,14,So I'm staying right here with you.,Others,1
+14614,9,15,Maybe we can just have ice cream here.,Others,0
+14615,9,16,"Looks like the party's staying home, Bobcat.",Others,1
+14616,9,17,"As you can tell, I've been thinking of some nicknames for you.",Others,0
+14617,9,18,So you think of some names for me.,Others,0
+14618,9,19,"Oh, I am.",Bob,1
+14619,10,0,"Okay, we are going to do another bonding exercise.",Amy,0
+14620,10,1,Everyone find a partner.,Amy,0
+14621,10,2,"Okay, good.",Amy,0
+14622,10,3,Now I want each of you to tell your partner one thing you like about her And one thing you don't.,Amy,0
+14623,10,4,"By the end of this, we're all gonna be very close.",Amy,0
+14624,10,5,"( Crying ) ( Whining ) Oh yeah? Yeah, my head's too big? Well, your head is too small! I am not over dramatic! She said over dramatically.",Teddy,1
+14625,10,6,"Oh, wait a sec.",Amy,0
+14626,10,7,My bad.,Amy,0
+14627,10,8,( Chuckles ) This is actually really funny.,Amy,0
+14628,10,9,"Um, this is not a bonding exercise.",Amy,0
+14629,10,10,No.,Amy,0
+14630,10,11,We did this in my acting class to break down our emotions.,Amy,0
+14631,10,12,"I feel so worthless! Well, as you can see, it's very effective.",Amy,1
+14632,10,13,"You know what, Vonnie? You're even meaner than Coach Hammerstone! Oh, please.",Others,0
+14633,10,14,Nobody's meaner than that diphthong.,Others,0
+14634,10,15,"Yeah, the worst.",Others,0
+14635,10,16,I hate him.,Others,0
+14636,10,17,We don't like the coach? - Hate him.,Amy,0
+14637,10,18,And I like everybody.,Others,0
+14638,10,19,"Well Well, that's it.",Amy,0
+14639,10,20,The best thing any team can bond over A common enemy.,Amy,0
+14640,10,21,Grab your coats.,Amy,0
+14641,10,22,Wait.,Others,0
+14642,10,23,"What about the slumber party? Oh, don't worry.",Others,0
+14643,10,24,"After we humiliate the coach, we'll all come back here and get in our jammies.",Amy,1
+14644,11,0,If there's one thing I've learned from all my years of doctoring It's that sticks and stones can break your bones.,PJ,1
+14645,11,1,Good to know.,Others,0
+14646,11,2,Mm-hmm.,PJ,0
+14647,11,3,"You know who used to live in your apartment, Molly? A clown.",PJ,0
+14648,11,4,"Oh, right.",Others,0
+14649,11,5,Patches.,Others,0
+14650,11,6,I'm subletting from him.,Others,0
+14651,11,7,He's working on a cruise ship.,Others,0
+14652,11,8,Boats and clowns.,PJ,0
+14653,11,9,"Ugh, two of my biggest fears.",PJ,0
+14654,11,10,Actually my biggest fear Would be a boat full of spiders Driven by a clown.,PJ,1
+14655,11,11,Okay.,Others,0
+14656,11,12,"So, shall we retire to the Over there? Hey, can I ask you something? Sure.",PJ,0
+14657,11,13,I fell off my bike and scraped my elbow.,Others,0
+14658,11,14,I think it might be infected.,Others,0
+14659,11,15,"Would you take a look? - Oh, um.",Others,0
+14660,11,16,"I'm ear, nose, and throat.",PJ,0
+14661,11,17,"You need more of a wrist, elbow, armpit guy.",PJ,1
+14662,11,18,Still.,Others,0
+14663,11,19,"You are a doctor, right? Got me there.",PJ,0
+14664,11,20,Okay.,PJ,0
+14665,11,21,Let's take a look.,PJ,0
+14666,11,22,Ewe ewe ewe ewe ewe ewe ewe! That's disgusting.,PJ,0
+14667,11,23,Is it infected? - It's something.,Others,0
+14668,11,24,Cover it up! Oh! Ohh.,PJ,0
+14669,11,25,"Oh, I would rather be on the spider clown boat right now.",PJ,1
+14670,11,26,"PJ? You're not really a doctor, are you? ( Sighs ) No.",Others,0
+14671,11,27,I'm not.,PJ,0
+14672,11,28,I Spray cologne at Bimbel's Department store.,PJ,0
+14673,11,29,Why did you lie? Because you seemed so impressed by all the doctor stuff.,PJ,0
+14674,11,30,I didn't think you'd like me if you knew what I really do.,PJ,0
+14675,11,31,I'm sorry.,PJ,0
+14676,11,32,Well Actually I wasn't completely honest with you either.,Others,0
+14677,11,33,What do you mean? I'm not really a student.,Others,0
+14678,11,34,What are you? This is a surprise.,PJ,1
+14679,11,35,"( Horn honks ) I don't usually tell people on the first date, but it kind of came up naturally.",Others,0
+14680,11,36,Okay okay okay.,PJ,0
+14681,11,37,I just need some time to get used to this.,PJ,0
+14682,11,38,"PJ, a lot of people are afraid of clowns, but I can help you get over that.",Others,0
+14683,11,39,Okay okay okay.,PJ,0
+14684,11,40,Um We'll start tomorrow.,PJ,0
+14685,12,0,"( Horn honks ) Take that, Hammerstone! ( Grunts ) - Whoa.",Amy,0
+14686,12,1,Yes.,Amy,0
+14687,12,2,"Yeah, taste my two-ply fury! - Great sh*t, Vonnie.",Others,1
+14688,12,3,"You rock! - Yeah! Keep firing, girls.",Amy,0
+14689,12,4,Five bucks if anyone can get it down the chimney.,Amy,0
+14690,12,5,Look at this.,Teddy,0
+14691,12,6,We're really coming together as a team.,Teddy,0
+14692,12,7,Your idea actually worked.,Teddy,0
+14693,12,8,"Well, of course it worked.",Amy,0
+14694,12,9,"Why are you surprised? I don't know, maybe I've been influenced by the last, Well, maybe in the future you'll give your old mom some credit.",Teddy,1
+14695,12,10,She knows what she's doing.,Amy,0
+14696,12,11,Mrs.,Others,0
+14697,12,12,"Duncan? Why does Coach Hammerstone's welcome mat say 'The Johnsons'? Huh? Is is 306 North Birchwood, right? This is 306 South Birchwood.",Others,0
+14698,12,13,Bummer.,Amy,0
+14699,12,14,"( Police sirens ) Run! Aah! Whoever doesn't get arrested, meet me at 306 North Birchwood! ( Doorbell rings ) Wait wait wait.",Amy,0
+14700,13,0,Don't answer that.,Bob,0
+14701,13,1,"Gabe, it's Emma.",Others,0
+14702,13,2,Are you home? It's a trick.,Bob,0
+14703,13,3,I know he's out there.,Bob,0
+14704,13,4,I'm not here.,Bob,0
+14705,13,5,Emma.,Gabe,0
+14706,13,6,And the Rand-man.,Others,0
+14707,13,7,I didn't want to say anything so I could trick your dad.,Others,0
+14708,13,8,"So, where is the Ka-Bobster? Um He's not home.",Others,0
+14709,13,9,"Yes, he is.",Charlie,1
+14710,13,10,"Uh, no.",Gabe,0
+14711,13,11,No he's not.,Gabe,0
+14712,13,12,She falls apart every time he leaves so we try to keep her out of the loop.,Gabe,0
+14713,13,13,He's in there.,Charlie,0
+14714,13,14,"Oh, I love this guy.",Others,0
+14715,13,15,Always playing games.,Others,0
+14716,13,16,Gotcha! - Hey.,Others,0
+14717,13,17,"So, want to sit down? Sure.",Gabe,0
+14718,13,18,"Isn't it great that our dads are best friends? Yeah, about that.",Others,0
+14719,13,19,Um The truth is My dad isn't crazy about your dad.,Gabe,0
+14720,13,20,"What? What's wrong with my dad? For one thing, he's kind of loud.",Others,0
+14721,13,21,He's outgoing.,Others,0
+14722,13,22,( Chuckles ) He makes up a bunch of stupid nicknames.,Gabe,0
+14723,13,23,Ka-Bobster? That's hilarious.,Others,0
+14724,13,24,"I mean, he licks his fingers and eats other people's food.",Gabe,0
+14725,13,25,Yeah.,Others,0
+14726,13,26,I've got nothing for that one.,Others,1
+14727,13,27,"You know, your dad's not exactly perfect.",Others,0
+14728,13,28,"He's grumpy, and messy, and says stupid things Whoa whoa whoa.",Others,0
+14729,13,29,My dad's not the problem.,Gabe,0
+14730,13,30,Yours is.,Gabe,0
+14731,13,31,"I mean, yeah.",Gabe,0
+14732,13,32,"My dad is a problem, but not this problem.",Gabe,0
+14733,13,33,"Well, I can't believe you're saying bad things about my dad.",Others,0
+14734,13,34,"Daddy? Let's go! - What's wrong, honey? - I want to go.",Others,0
+14735,13,35,Gabe's a jerk.,Others,0
+14736,13,36,Oh Oh yeah? Well You don't smell like flowers any more! ( Gabe's voice ) Good one.,Gabe,1
+14737,13,37,Wasn't it? Wow.,Gabe,0
+14738,13,38,This is a shock.,Bob,0
+14739,13,39,"Hey, I guess this is it for us, too, huh? Just because the kids aren't seeing each other doesn't mean that we can't.",Others,0
+14740,13,40,"Hey, I got a great idea.",Others,0
+14741,13,41,Let's go camping.,Others,0
+14742,13,42,"Hey, I got a better idea.",Bob,0
+14743,13,43,"Randy: What is it? Well, Charlie.",Others,0
+14744,14,0,"Um, once again mom interfered with one of my activities, but this time she actually helped.",Teddy,0
+14745,14,1,"Yeah, thanks to her, the team really bonded.",Teddy,0
+14746,14,2,"And, uh, we'll have a chance to bond even more at our court-ordered community service.",Teddy,1
+14747,14,3,( Phone rings ) Hello? Who? Bob-a-lama-ding-dong? - I'm not here.,Teddy,0
+14748,14,4,"Oh, yes you are! Well, it looks like Bob-a-lama-ding-dong has a new friend.",Teddy,0
+14749,14,5,Ooh.,Teddy,0
+14750,14,6,"Wish him good luck, Charlie.",Teddy,0
+14751,15,0,"Teddy, honey, it's not true.",Amy,0
+14752,15,1,Those girls were just being mean.,Amy,0
+14753,15,2,"Teddy: Are you sure? Yes, I'm sure.",Teddy,0
+14754,15,3,You do not have a big head.,Amy,0
+14755,15,4,You're not just saying that? No.,Teddy,0
+14756,15,5,No.,Amy,0
+14757,15,6,Lots of families have to have their doors widened.,Amy,0
+14758,15,7,It's just that lately I've been feeling Like it's Bigger than usual.,Teddy,1
+14759,15,8,"Well, that's because You've been spending too much time with your brothers.",Amy,0
+14760,15,9,"Hey, guys.",PJ,0
+14761,15,10,What's going on? What you looking at?,Gabe,0

@@ -1,0 +1,322 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+8599,1,0,"Congratulations, mom.",PJ,0
+8600,1,1,"Oh, thank you, sweetheart.",PJ,0
+8601,1,2,I was wondering if you kids would remember.,Amy,0
+8602,1,3,"Well, who could forget a day like this? Any idea what we're talking about? It's our 20th wedding anniversary.",Bob,0
+8603,1,4,"Wow, 20 years with dad.",Teddy,0
+8604,1,5,"Wow, that's a real conversation stopper, isn't it? Okay, kids, your dad and I have had 20 wonderful years.",Bob,0
+8605,1,6,I gotta give the guy credit.,Gabe,0
+8606,1,7,"I mean, let's face it Sometimes I may not be the easiest person in the world to live with.",Dabney,0
+8607,1,8,This is where you all jump in.,Ivy,0
+8608,1,9,"And say, 'no no no, mom.",Amy,0
+8609,1,10,You're great.,Lauren,0
+8610,1,11,"' No no no, mom.",PJ,0
+8611,2,0,You're great.,Bob,0
+8612,2,1,"So is dad gonna get you a nice gift? Kids, I love your father dearly, But when it comes to anniversary gifts, There's only one word to describe him.",Bob,0
+8613,2,2,It starts with 'ch' and ends in 'eap.,Spencer,0
+8614,2,3,"' Yeah, I'm gonna need more hints.",Toby,0
+8615,2,4,"Yeah, the only gift he ever gets me is a card he signs, 'happy anniversary.",Dabney,0
+8616,2,5,"Love, me.",Gabe,0
+8617,2,6,"' Well, at least you get a card.",Gabe,0
+8618,2,7,It's the same card.,Gabe,0
+8619,2,8,He reuses it every year.,Amy,0
+8620,2,9,"Well, who knows? Maybe this year he'll surprise you.",Lauren,0
+8621,2,10,"Yeah, maybe he'll come into the kitchen with his zipper up.",Spencer,0
+8622,2,11,"Good morning, everybody.",Gabe,0
+8623,2,12,"Dad, barn door.",Toby,0
+8624,2,13,"For you, my dear.",Toby,0
+8625,2,14,A card! Wonder what it says.,Emmett,0
+8626,2,15,'happy anniversary.,Amy,0
+8627,2,16,"Love, me.",Spencer,0
+8628,2,17,' - I love you too.,Skyler,0
+8629,2,18,Glad to hear it.,Spencer,0
+8630,2,19,"In that case, read on.",Gabe,0
+8631,2,20,There's more this year.,Emmett,0
+8632,2,21,'p.,Dabney,0
+8633,2,22,S.,Ivy,0
+8634,2,23,Aloha.,Emmett,0
+8635,2,24,' what does that mean? That means that the Duncans.,Toby,0
+8636,2,25,Are going to Hawaii! I knew you'd come through.,Charlie,0
+8637,2,26,You are so generous.,Toby,0
+8638,2,27,"Oh, thank you.",Ivy,0
+8639,2,28,I'm gonna need that back.,Skyler,0
+8640,3,0,"today's all burnt toast ? running late and dad jokes ? 'has anybody seen my left shoe?' ? I close my eyes, take a bite ? grab a ride, laugh out loud ? there it is up on the roof ? I've been there, I survived ? so just take my advice ? hang in there, baby ? things are crazy ? but I know your future's bright ? hang in there, baby ? there's no maybe ? everything turns out all right ? sure life is up and down ? but trust me, it comes back around ? you're gonna love who you turn out to be ? hang in there, baby.",Dabney,0
+8641,3,1,"? Bob, this place is gorgeous.",Spencer,0
+8642,3,2,"Huh? Only the best for you, my love.",Amy,0
+8643,3,3,Oh.,Beau,0
+8644,3,4,"Okay, I'm gonna check us in.",Charlie,0
+8645,3,5,Okay.,Gabe,0
+8646,3,6,"Hey, Charlie, you wanna.",Gabe,0
+8647,3,7,Yeah.,Emmett,0
+8648,3,8,Nd the pool? Let's make sure no one has the same swimsuit as mommy.,Toby,0
+8649,3,9,"Okay, guys, come on, you don't have to wait for me.",Ivy,0
+8650,3,10,"Go outside, explore.",Lauren,0
+8651,3,11,We're in paradise.,Beau,0
+8652,3,12,"Dude, look at the size of that flat-screen.",Beau,0
+8653,3,13,"Teddy, you don't have to hang with me.",Dabney,0
+8654,3,14,"Come on, there's got to be to check out too.",Skyler,0
+8655,3,15,"No, that's okay.",Amy,0
+8656,3,16,I Found it.,Amy,0
+8657,3,17,"Hi, um, I'm Teddy.",Lauren,0
+8658,3,18,"Aloha, Teddy.",Bob,0
+8659,3,19,I'm kai.,Charlie,0
+8660,3,20,Kai what an interesting name.,Dabney,0
+8661,3,21,It means 'the sea.,Lauren,0
+8662,3,22,"' what does 'teddy' mean? Oh, it means my parents were expecting a boy.",Spencer,0
+8663,3,23,So are you into surfing? Am I? I have been complaining about.,Gabe,0
+8664,3,24,The lack of surf in Denver since I don't know when.,Teddy,0
+8665,3,25,"If you want a surfing lesson, I'll be at the beach tomorrow morning.",Ivy,0
+8666,3,26,"Yeah, I'd love that.",Gabe,0
+8667,3,27,"Okay well, aloha.",Skyler,0
+8668,3,28,"That means 'hello, goodbye and I like your smile.",Spencer,0
+8669,3,29,' Actually just the first two.,Amy,0
+8670,3,30,Yeah.,Bob,0
+8671,3,31,"No, I know.",Toby,0
+8672,3,32,I was going for an alo-ha-ha.,Beau,0
+8673,3,33,I'm leaving now.,Ivy,0
+8674,4,0,"Hi, I'd like to check in.",Spencer,0
+8675,4,1,The name is Bob Duncan.,Spencer,0
+8676,4,2,I believe we have the sizzlin' summer package.,Toby,0
+8677,4,3,"Yes, here it is one room, And I see you will be attending the timeshare presentation.",PJ,0
+8678,4,4,Hey.,Bob,0
+8679,4,5,"Hey! How much did you hear? Oh, not much, just something about a timeshare.",Teddy,0
+8680,4,6,What is that? It's you know what it is? It's complicated.,Teddy,0
+8681,4,7,Why don't Timeshare is a hotel room you buy one week every year.,Dabney,0
+8682,4,8,For the rest of your life.,Bob,0
+8683,4,9,"Okay, she doesn't For attending our presentation, Mr.",Dabney,0
+8684,4,10,Duncan gets his entire trip for free.,Bob,0
+8685,4,11,Need to know all that.,Charlie,0
+8686,4,12,So Your big anniversary gift to mom is a free trip? This is a win-win.,Ivy,0
+8687,4,13,Your mom thinks I'm a hero and I've got I've got no intention of buying a timeshare.,Spencer,0
+8688,4,14,Come on.,PJ,0
+8689,4,15,Can't we keep this between us? Keep what between us? That's why you're my favorite.,PJ,0
+8690,4,16,Yeah.,Charlie,0
+8691,4,17,"And here's our room! I love it! Oh, this is sweet.",Ivy,0
+8692,4,18,"Where's our room? Uh, it's a computer glitch.",Lauren,0
+8693,4,19,They messed up our reservation.,Gabe,0
+8694,5,0,Sounds believable to me.,Amy,0
+8695,5,1,"Wait, we're all staying in one room? Oh come on, you guys, this is gonna be great.",Beau,0
+8696,5,2,Look at this We even have a view of what appears to be.,Spencer,0
+8697,5,3,The parking lot of a golf course.,Beau,0
+8698,5,4,I don't want to share a room with you people.,Bob,0
+8699,5,5,"Okay, you two stop it.",Bob,0
+8700,5,6,Your very generous father.,Charlie,0
+8701,5,7,Spent a lot of money to get us here.,PJ,0
+8702,5,8,Sounds believable too.,PJ,0
+8703,5,9,"Where are we all gonna sleep? It's simple girls in one bed, guys in the other.",Skyler,0
+8704,5,10,"Oh, that is not fair.",Amy,0
+8705,5,11,We have dad.,Skyler,0
+8706,5,12,"Yeah, but Charlie is a very restless sleeper.",Amy,0
+8707,5,13,But we have dad.,Teddy,0
+8708,5,14,Would you relax? We're gonna make this work.,Toby,0
+8709,5,15,"Hey, Charlie, here we are in Hawaii.",Gabe,0
+8710,5,16,I'm in my bed; Mom's in my bed; You're in my bed.,Amy,0
+8711,5,17,"But we still have the good bed because Dad, can you scoot over? - Sorry.",Ivy,0
+8712,5,18,Ah! That's better.,PJ,1
+8713,5,19,"Wish them good luck, Charlie.",PJ,0
+8714,5,20,That wasn't so bad.,Beau,0
+8715,5,21,Speak for yourself.,Gabe,0
+8716,5,22,"If Charlie Duncan sinks this putt, She wins a free trip to the kahuna kiddies' club.",Charlie,0
+8717,5,23,While mommy gets a full-body massage.,Emmett,0
+8718,5,24,"And she wins the trip anyway! - I'm sorry, you can't go in there.",Beau,0
+8719,5,25,Why not? - Because it is kapu.,Skyler,0
+8720,5,26,Kapu? It means 'forbidden.,Charlie,0
+8721,5,27,' that is sacred ground.,Beau,0
+8722,5,28,Sacred ground? Next to the towel hut? I don't think so.,Bob,0
+8723,5,29,"Stop! If you go in there, Bad things will happen.",Gabe,0
+8724,5,30,"Listen, buddy, I have four kids.",Amy,0
+8725,5,31,And I'm married to an exterminator.,Gabe,0
+8726,5,32,That's about as kaas it gets.,Toby,0
+8727,5,33,What are you doing? - Putting a curse on you.,Toby,1
+8728,6,0,"Oh really? Well, if I were cursed, could I do this? ah-ua ah-ua, ah-uh ah ah ah ah ? ding ding ding ding boo! ?.",Bob,0
+8729,6,1,Now your whole family is cursed.,Charlie,0
+8730,6,2,"Ooh, my whole family! Got any pets? 'cause we could do this all day.",Ivy,0
+8731,6,3,I'll tell you what you do this all day.,Dabney,0
+8732,6,4,And I'm gonna enjoy my vacation.,Amy,0
+8733,6,5,"Ah, there it is.",Dabney,0
+8734,6,6,"Ha, cursed.",Beau,0
+8735,6,7,Plea I used the fast-acting curse.,Spencer,0
+8736,6,8,"Guys, come on.",PJ,0
+8737,6,9,We're in Hawaii.,Amy,0
+8738,6,10,You can't sit in a room all day playing video games.,Spencer,0
+8739,6,11,We could if you'd leave us alone.,Beau,0
+8740,6,12,What could you possibly be playing.,Ivy,0
+8741,6,13,That could be better than exploring Hawaii? It's a really cool game called 'tropical chopper challenge.,Toby,0
+8742,6,14,"' Yeah, right now we're flying helicopters over volcanoes.",PJ,0
+8743,6,15,You can do that for real on the island.,Amy,0
+8744,6,16,"Yeah, but are the graphics this good? - Let's see.",Spencer,0
+8745,6,17,Check it out.,Toby,0
+8746,6,18,Oh! Oh yeah.,Teddy,0
+8747,6,19,"Come on, guys, let's go.",Bob,0
+8748,6,20,"Come on, I'm gonna drop you off at the helicopter.",Spencer,0
+8749,6,21,You're gonna have the time of your lives.,Emmett,0
+8750,6,22,Look at this I even got a coupon.,Amy,0
+8751,6,23,'hal's discount helicopter: Serving the island since February.,Skyler,0
+8752,6,24,' Let's go.,Amy,0
+8753,6,25,"Hey, Gabe, in the car do you want to play 'snorkeling adventure'? Unless they have that in Hawaii too.",Ivy,0
+8754,7,0,"Hi, kai.",Gabe,0
+8755,7,1,"Oh, that rhymed.",Toby,0
+8756,7,2,So am I the only one here? Is this gonna be a private lesson? Unless someone else shows up.,Skyler,0
+8757,7,3,Let me get you a board.,Teddy,0
+8758,7,4,All right.,Gabe,0
+8759,7,5,"Later, gator! Too much.",Spencer,0
+8760,7,6,"Is this where the surfing lessons are? Uh, yeah.",Teddy,0
+8761,7,7,"You're interested in surfing? Well, at home I love channel surfing, So I thought I'd try the other kind.",Toby,0
+8762,7,8,"Well, you might have a hard time with this class.",Amy,0
+8763,7,9,The teacher doesn't speak any English whatsoever.,Skyler,0
+8764,7,10,"I'll be right with you, Teddy.",PJ,0
+8765,7,11,"Wow, he's gotten better.",Ivy,0
+8766,7,12,Is that the surfing instructor? - Uh-huh.,Amy,0
+8767,7,13,And you want to be alone with him? - Uh-huh.,Emmett,0
+8768,7,14,Why didn't you just say so? Hawaii is for romance.,PJ,0
+8769,7,15,I'll find somewhere else to avoid my husband.,Bob,0
+8770,7,16,Thank you.,Teddy,0
+8771,7,17,Bye.,PJ,0
+8772,7,18,Bye.,Teddy,0
+8773,7,19,Who was that? - I don't know.,Amy,0
+8774,7,20,She didn't speak any English.,Toby,0
+8775,7,21,"Oh, Mr.",Toby,0
+8776,7,22,Duncan? Just want to remind you.,Beau,0
+8777,7,23,The timeshare presentation is today at 3:00.,Skyler,0
+8778,7,24,Yes yes.,Bob,0
+8779,7,25,"By the way, how long is the presentation? Wo wow.",Beau,0
+8780,7,26,Why why so long? It takes a while to break people down.,Toby,0
+8781,7,27,"I mean, we have a lot of ground to cover.",Skyler,0
+8782,8,0,Okay.,Dabney,0
+8783,8,1,See you then Or not.,Beau,0
+8784,8,2,"Hey, honey.",PJ,0
+8785,8,3,Hey.,Teddy,0
+8786,8,4,"Who was that? - Uh, him? Uh Director of ping-pong services.",Ivy,0
+8787,8,5,"Do you want to meet me by the pool? Yeah yeah, let me grab my suit.",PJ,0
+8788,8,6,And then I'll tell you about my curse.,Toby,0
+8789,8,7,Your what? Cute story.,Spencer,0
+8790,8,8,You're gonna laugh.,Gabe,0
+8791,8,9,All right.,Lauren,0
+8792,8,10,"Oh, I am so glad you're here.",Dabney,0
+8793,8,11,Thank you.,Gabe,0
+8794,8,12,Do I know you? I happen to have a deathly fear of elevators.,Dabney,0
+8795,8,13,I hate riding in them alone.,Skyler,0
+8796,8,14,"Well, now you have an elevator buddy.",Dabney,0
+8797,8,15,You okay? - Fine so far.,Ivy,0
+8798,8,16,"But believe me, if this thing ever broke down, You would not want to be in here with me.",Amy,0
+8799,8,17,"Don't worry, nothing's going to happen.",Charlie,0
+8800,8,18,What's going on? - We stopped.,Amy,0
+8801,8,19,"You lied to me! Wha No no no, calm down.",Spencer,0
+8802,8,20,I'm sure we'll start up again in a second.,Ivy,0
+8803,8,21,"Ah, hold me! - Oh! Um, okay, why don't we use the emergency phone to call someone? Okay? Okay, we'll go together.",Amy,0
+8804,8,22,Ready? Go.,Dabney,0
+8805,8,23,"Okay, look, just relax.",Bob,0
+8806,8,24,We're going to be fine.,Spencer,0
+8807,8,25,As long as we don't lose power.,Skyler,0
+8808,9,0,"First time in a helicopter, boys? - Yep.",Emmett,0
+8809,9,1,Mine too.,Emmett,0
+8810,9,2,Ha! A little helicopter humor.,Dabney,0
+8811,9,3,"Hey, what's that over there? No idea.",Teddy,1
+8812,9,4,Just moved here.,PJ,0
+8813,9,5,Flew tours over the grand canyon for 30 years.,Beau,0
+8814,9,6,What's the name of that volcano? b*at me.,Toby,0
+8815,9,7,"But did you know that the grand canyon's also a mile deep? Yeah, I didn't, but school's out.",Emmett,0
+8816,9,8,So I'm not supposed to be learning anything new.,Dabney,0
+8817,9,9,Do you know anything about Hawaii? I know they got some weird food.,Teddy,0
+8818,9,10,I had some crazy fish today.,Ivy,0
+8819,9,11,It's not sitting too well.,Dabney,0
+8820,9,12,"Either of you guys know how to fly one of these things? Oh, is that more helicopter humor? 'fraid not.",Dabney,0
+8821,9,13,I feel like I'm gonna - P.,PJ,0
+8822,9,14,J.,Beau,0
+8823,9,15,", do something.",Toby,0
+8824,9,16,I am.,Beau,0
+8825,9,17,"Wake up, old dude! Wake up! P.",Bob,0
+8826,9,18,J.,Lauren,0
+8827,9,19,", what are we going to do? Words, P.",Charlie,0
+8828,10,0,J.,Emmett,0
+8829,10,1,! Words! Oh.,Emmett,0
+8830,10,2,"Well, maybe I could fly this thing.",Spencer,0
+8831,10,3,These controls kind of look like my video game.,Ivy,0
+8832,10,4,"Where the heck is the zombie cannon? Please, God, if you let me live through this, I promise I'll do something good.",PJ,0
+8833,10,5,Another way to see the grand canyon is by burro.,PJ,0
+8834,10,6,"Wow, you work fast.",PJ,0
+8835,10,7,"All right, good, steady.",Ivy,0
+8836,10,8,"Think you got it now? Can I let go? No no, not quite yet.",Teddy,0
+8837,10,9,"Okay, so I think we've done enough balance.",Teddy,0
+8838,10,10,"How about some board control? Oh, surfing surfing surfing.",Bob,0
+8839,10,11,"That is why we're here, right? Yeah, but I thought maybe we could get to know each other.",Emmett,0
+8840,10,12,"Okay, I'll go first.",Charlie,0
+8841,10,13,"I love smoothies, Um, you know, especially after a workout.",PJ,0
+8842,10,14,Or or like a lesson of some kind.,Teddy,0
+8843,10,15,"Well, after the lesson's done, Do you want to get a smoothie? Look at you always one step ahead of me.",Toby,0
+8844,10,16,"Okay, you think you're ready to hit the water? I guess.",PJ,0
+8845,10,17,"Don't worry, you'll be a natural.",Charlie,0
+8846,10,18,Okay.,Gabe,0
+8847,11,0,Whoo hoo! This is awesome! Whoa yeah! I told you you'd be a natural.,Amy,0
+8848,11,1,"Oh, look, one foot.",Ivy,0
+8849,11,2,"Oh, look, no feet.",Gabe,0
+8850,11,3,"Gnarly! Cowabunga! Hey, what are you doing here? This is my private lesson.",Charlie,0
+8851,11,4,"You know you're dreaming, right? What? Wake up, Teddy! Teddy, wake up.",Skyler,0
+8852,11,5,"Honey, you okay? What happened? The last thing I remember I was at my surfing lesson.",Toby,0
+8853,11,6,Yeah.,Gabe,0
+8854,11,7,"Well, uh, that didn't go too well.",Emmett,0
+8855,11,8,"On your first wave, you shouted, 'I'm a natural!' And then you landed on your head.",Dabney,0
+8856,11,9,Oh no.,Toby,0
+8857,11,10,I missed my smoothie date.,Lauren,0
+8858,11,11,He was so cute.,Gabe,0
+8859,11,12,What happened to you? I was almost smothered by my elevator buddy.,Emmett,0
+8860,11,13,"Oh yeah, big whoop.",Amy,0
+8861,11,14,We were almost k*ll in a helicopter crash.,Lauren,0
+8862,11,15,Didn't you hear me? I missed my smoothie date.,Teddy,0
+8863,11,16,"Wow, bad day for the Duncans.",Charlie,0
+8864,11,17,It's almost like the whole family's cursed.,Bob,0
+8865,11,18,What are you all looking at me for? Huh? I I don't know anything about a curse.,Lauren,0
+8866,11,19,Didn't you mention something about a curse earlier? No no no.,Beau,0
+8867,12,0,No no.,Ivy,0
+8868,12,1,I think I might have mentioned something about a purse.,PJ,0
+8869,12,2,"Why would I mention something about a curse? I mean, nothing's happened to Charlie or you.",Charlie,0
+8870,12,3,That's true.,Beau,0
+8871,12,4,I'm good.,Charlie,0
+8872,12,5,Fore! Mr.,Spencer,0
+8873,12,6,Duncan? Hi.,Ivy,0
+8874,12,7,"Um, I was just doing just doing a quick plant inspection.",Skyler,0
+8875,12,8,"Yeah, that's a that's a ficus.",Beau,0
+8876,12,9,We missed you yesterday at the timeshare presentation.,Skyler,0
+8877,12,10,"If you don't attend the one today, We'll be forced to charge you for your entire trip.",Bob,0
+8878,12,11,Everything? - Down to the last macadamia nut.,Emmett,0
+8879,12,12,Timeshare? - Hey.,Amy,0
+8880,12,13,Hey.,Teddy,0
+8881,12,14,"You're watching tv, but it's not on.",Dabney,0
+8882,12,15,I don't deserve entertainment.,Amy,0
+8883,13,0,"Dude, what's the matter with you? I can't get what happened in the helicopter out of my head.",Lauren,0
+8884,13,1,I just feel like a coward.,Toby,0
+8885,13,2,"Well, normally I'd say that's because you are a coward, But I made this promise to be good, so I won't say that.",Gabe,0
+8886,13,3,"When the helicopter pilot passed out, I just I froze.",Emmett,0
+8887,13,4,I didn't do anything.,Lauren,0
+8888,13,5,Except scream like a little girl Is something else I won't say.,Skyler,0
+8889,13,6,"You know, it almost feels like you are saying those things.",Dabney,0
+8890,13,7,"Being good is new to me, so there's gonna be some snags.",Dabney,0
+8891,13,8,I just feel like a total loser.,Spencer,0
+8892,13,9,"Well, wait a minute.",Spencer,0
+8893,13,10,I made a promise to God to do something good.,Lauren,0
+8894,13,11,"And if I help you face your fears, that would count, right? And then God and I would be square.",PJ,0
+8895,14,0,"You'd do that for me? - That's what good people do, right? I mean, I'm just guessing here.",Teddy,0
+8896,14,1,"Hey, elevator buddy.",Toby,0
+8897,14,2,"Oh, dear, what happened to you? Swimming jellyfish.",PJ,0
+8898,14,3,Things keep happening.,Teddy,0
+8899,14,4,"Come on, Charlie, Let's go see the pretty garden Or let's go see the pretty boy.",Gabe,0
+8900,14,5,The garden's not going anywhere.,Lauren,0
+8901,14,6,Kai.,Dabney,0
+8902,14,7,Teddy.,Toby,0
+8903,14,8,How are you feeling? That was quite the fall you took yesterday.,Ivy,0
+8904,14,9,"Oh yeah, but I'm fine now.",Toby,0
+8905,14,10,"So can we reschedule that smoothie? Hold on, let me check.",Gabe,0
+8906,14,11,"How about after my next surf lesson? Wanna meet then? Sure, I'd love that.",Beau,0
+8907,15,0,Then it's a date.,Beau,0
+8908,15,1,Second time's the charm.,Dabney,0
+8909,15,2,"Well, that went well, didn't it, Charlie? Charlie? Charlie! Next time on Good Luck Charlie.",Amy,0
+8910,15,3,"Charlie? Here, girl.",Emmett,0
+8911,15,4,"People, quiet! I know this is gonna sound really crazy, but here goes We've been cursed.",PJ,0
+8912,15,5,"You put this curse on my family, And I was just wondering if you could reverse it.",Bob,0
+8913,15,6,Ready for our date? - Ah! Quick favor I need you to pretend to be mom.,Charlie,0
+8914,15,7,Why don't you stand up and introduce yourselves? - Bob.,Ivy,0
+8915,15,8,Ted Amy.,Bob,0
+8916,15,9,Ted Amy.,Spencer,0
+8917,15,10,"P.J., I need your list of fears.",Lauren,0
+8918,15,11,I made a promise that I would do something good.,Toby,0
+8919,15,12,Ah!,PJ,0

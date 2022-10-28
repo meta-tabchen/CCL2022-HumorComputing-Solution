@@ -1,0 +1,326 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+10248,1,0,"Honey, you are going to lomy Halloween costume this year.",Bob,0.0
+10249,1,1,But not as much as you are gonna love mine.,Amy,0.0
+10250,1,2,"No, you're gonna love mine more.",Bob,0.0
+10251,1,3,"No, you're gonna love mine more.",Amy,0.0
+10252,1,4,Guys! Save the creepiness for tonight.,Teddy,0.0
+10253,1,5,"By the way, I can't take Charlie trick-or-treating this year.",PJ,0.0
+10254,1,6,I've got plans.,PJ,0.0
+10255,1,7,Ivy and I can take her.,Teddy,0.0
+10256,1,8,"We're going to a party, but that's not until later.",Teddy,0.0
+10257,1,9,"You wanna know what my plans are? Okay, you forced it out of me.",PJ,0.0
+10258,1,10,I am going out.,PJ,0.0
+10259,1,11,With a girl.,PJ,0.0
+10260,1,12,"So is Emmett going as Beyonce again? Her name is Zoey, and I met her while delivering chicken Two piece, dark meat, gravy on the side.",PJ,0.0
+10261,1,13,"Wow, she sounds great.",Bob,0.0
+10262,1,14,I know.,PJ,0.0
+10263,1,15,She's a lot of fun.,PJ,0.0
+10264,1,16,You're gonna love her.,PJ,0.0
+10265,1,17,Love her already.,Teddy,0.0
+10266,1,18,Stop that.,PJ,0.0
+10267,1,19,"Well, I for one am glad to hear.",Amy,0.0
+10268,1,20,That P.J.,Amy,0.0
+10269,1,21,Has gotten over Skyler and has found a new girl.,Amy,0.0
+10270,1,22,"Hey, so long as I don't have to look.",Bob,0.0
+10271,1,23,"At Beyonce Emmett, I'm happy.",Bob,0.0
+10272,2,0,"鈾?- Happy Halloween, Mrs.",Gabe,0.0
+10273,2,1,Dabney.,Gabe,0.0
+10274,2,2,What do you want? I see you put on early this year.,Gabe,0.0
+10275,2,3,E.,Gabe,0.0
+10276,2,4,And I see you're going devil child again.,Dabney,0.0
+10277,2,5,"Oh, you added the word 'evil' this year.",Gabe,0.0
+10278,2,6,Nice touch.,Gabe,0.0
+10279,2,7,I like to keep it fresh.,Dabney,0.0
+10280,2,8,"Anyhoo, I'm here to talk about the trouble.",Gabe,0.0
+10281,2,9,That you always have on Halloween.,Gabe,0.0
+10282,2,10,You mean the trouble that started 11 years ago.,Dabney,0.0
+10283,2,11,"About the same time you learned to walk? Every year, and your house gets egged.",Dabney,0.0
+10284,2,12,Red.,Gabe,0.0
+10285,2,13,"For just $50, that stops.",Gabe,0.0
+10286,2,14,Sure.,Gabe,0.0
+10287,2,15,So you're offering me protection From you.,Dabney,0.0
+10288,2,16,From an unnamed hooligan.,Gabe,0.0
+10289,2,17,Named Gabe.,Dabney,0.0
+10290,2,18,"Who hurt you so bad that you can't trust? All right, fine.",Gabe,0.0
+10291,2,19,I guess I have no choice.,Dabney,0.0
+10292,2,20,You've got a deal.,Dabney,0.0
+10293,2,21,All right.,Gabe,0.0
+10294,2,22,I'll just take that 50 and we'll move on with our lives.,Gabe,0.0
+10295,2,23,I don't have that kind of money just sitting around.,Dabney,0.0
+10296,2,24,I'm gonna need a little time.,Dabney,0.0
+10297,2,25,All right.,Gabe,0.0
+10298,2,26,You better hurry.,Gabe,0.0
+10299,2,27,It gets dark very early this time of year.,Gabe,0.0
+10300,2,28,I love Halloween.,Gabe,0.0
+10301,2,29,So do I.,Dabney,0.0
+10302,3,0,"Well, Charlie, as you can probably see.",Teddy,0.0
+10303,3,1,Us Duncans take Halloween.,Teddy,0.0
+10304,3,2,Very seriously.,Teddy,0.0
+10305,3,3,I'm home.,Amy,0.0
+10306,3,4,"Oh, I wonder who that could be.",Teddy,0.0
+10307,3,5,"Why, it's dad! Hi, I'm Bob.",Teddy,0.0
+10308,3,6,Of Bob's bugs be gone.,Amy,0.0
+10309,3,7,"How's your vermin? I'm home! Well, if it isn't Ashley tisdale? I'm mom, And I'm a star.",Bob,0.0
+10310,3,8,"Ba-bam! Yeah? Well well, I'm not an exterminator.",Amy,0.0
+10311,3,9,I'm a pest control specialist.,Amy,0.0
+10312,3,10,Did I ever tell you about the time I went to southwest Denver community college? Me want donut.,Bob,0.0
+10313,3,11,Me want donut.,Amy,0.0
+10314,3,12,"Well, things are getting a little ugly.",Teddy,0.0
+10315,3,13,We'll see you at Thanksgiving.,Teddy,0.0
+10316,3,14,"Hey, Gabe.",Bob,0.0
+10317,3,15,"You gonna put on your costume? Hey, everybody.",Bob,0.0
+10318,3,16,What are you supposed to be? - I'm a goth wearing a mustache.,PJ,0.0
+10319,3,17,"Well, that's kind of a weird costume.",Teddy,0.0
+10320,3,18,Not as weird as little bo peep.,Bob,0.0
+10321,3,19,"Well, actually, the little bo peep costume wasn't appropriate There was not enough bo, a little too much peep.",Teddy,0.0
+10322,3,20,Hmm.,PJ,0.0
+10323,3,21,"No, I'm Mary.",Teddy,0.0
+10324,3,22,From 'mary had a little lamb.,Teddy,0.0
+10325,3,23,' Oh! But I seem to be missing something.,Teddy,0.0
+10326,3,24,"Oh, little lamb.",Teddy,0.0
+10327,3,25,"Go ahead, Charlie, say it.",Teddy,0.0
+10328,3,26,Baa.,Charlie,0.0
+10329,3,27,"Carrots? Where's the candy? Oh, we're not giving out candy this year.",Gabe,0.0
+10330,3,28,I thought it would be fun to hand out healthy snacks instead.,Teddy,0.0
+10331,3,29,We're gonna be that house? Our first trick-or-treater.,PJ,0.0
+10332,4,0,"Carrots? You're thhouse? Ivy, we're going to a costume party.",Ivy,0.0
+10333,4,1,"Where is your costume? Oh, I've got a costume.",Teddy,0.0
+10334,4,2,That is so real.,Teddy,0.0
+10335,4,3,"I was gonna put the cleaver on my head, But I didn't wanna compete with all this.",Ivy,0.0
+10336,4,4,"Trick or treat! - Oh my gosh, a Teddy bear.",Teddy,0.0
+10337,4,5,That is so adorable.,Teddy,0.0
+10338,4,6,"You know, my name is Teddy.",Teddy,0.0
+10339,4,7,"Trick or treat! Here you go, Teddy bear.",Teddy,0.0
+10340,4,8,Carrots.,Others,0.0
+10341,4,9,"You're kidding, right? Teddy bear's got a little 'tude.",Teddy,0.0
+10342,4,10,Happy Halloween.,Teddy,0.0
+10343,4,11,Thanks.,Others,0.0
+10344,4,12,Don't bother.,Others,0.0
+10345,5,0,Mrs.,Gabe,0.0
+10346,5,1,"Dabney? Go away! This is a recording! It's Gabe! Huh! Ironic, Considering all the times I've thought about removing your head.",Dabney,0.0
+10347,5,2,I'm here for my 50 bucks.,Gabe,0.0
+10348,5,3,First sign this.,Dabney,0.0
+10349,5,4,What is it? A contract guaranteeing.,Dabney,0.0
+10350,5,5,That nothing's gonna happen to my house tonight.,Dabney,0.0
+10351,5,6,Now go away before you attract the treat-or-trickers.,Dabney,0.0
+10352,5,7,You mean the trick-or-treaters? Whatever.,Gabe,0.0
+10353,5,8,I hate this holiday.,Dabney,0.0
+10354,6,0,I've got it.,PJ,0.0
+10355,6,1,Hey.,Others,0.0
+10356,6,2,Hi.,PJ,0.0
+10357,6,3,"Zoey, I'd like you to meet my mom I mean my dad Guys, your costumes are too good.",PJ,0.0
+10358,6,4,Hi.,Bob,0.0
+10359,6,5,Hi.,Amy,0.0
+10360,6,6,Hey.,Others,0.0
+10361,6,7,And your costume is blowing my mind.,PJ,0.0
+10362,6,8,"Right? - Well, I guess.",Amy,0.0
+10363,6,9,"Um, who exactly are you supposed to be? My sister.",Amy,0.0
+10364,6,10,She looks like this.,Others,0.0
+10365,6,11,Wow.,Amy,0.0
+10366,6,12,Now I get it.,Amy,0.0
+10367,6,13,My parents are dressed as each other.,PJ,0.0
+10368,6,14,Yeah.,Others,0.0
+10369,6,15,You remind me a lot of my parents.,Others,0.0
+10370,6,16,"Do they like to have fun too? - No, I meant that there are two of them.",Others,0.0
+10371,6,17,"Well, we should get going.",PJ,0.0
+10372,6,18,Have fun.,Amy,0.0
+10373,6,19,Yeah.,Bob,0.0
+10374,6,20,Bye.,Bob,0.0
+10375,6,21,"Wow, she's a spark plug.",Bob,0.0
+10376,6,22,"Hey, Beyonce Emmett's looking better and better.",Amy,0.0
+10377,6,23,"Hey, kiddo, that your second costume? It's kinda lame.",Amy,0.0
+10378,6,24,"Yeah, who cares? Second time around is all about volume.",Gabe,0.0
+10379,6,25,What do you want? - I want to show you something.,Dabney,0.0
+10380,7,0,What? I didn't do this.,Gabe,0.0
+10381,7,1,"Someone did, and I paid you $50 to protect my house.",Dabney,0.0
+10382,7,2,But it wasn't me.,Gabe,0.0
+10383,7,3,But it will be you cleaning it up.,Dabney,0.0
+10384,7,4,Huh! I don't I don't think so.,Gabe,0.0
+10385,7,5,Let's take a closer look at the contract you signed.,Dabney,0.0
+10386,7,6,Right there.,Dabney,0.0
+10387,7,7,"'if provider, Gabe Duncan, fails to protect said residence,' The provider, Gabe Duncan, agrees to work for Mrs.",Gabe,0.0
+10388,7,8,Dabney.,Gabe,0.0
+10389,7,9,For one full day' work for you doing what? - Keep reading.,Gabe,0.0
+10390,7,10,'Doing whatever Mrs.,Gabe,0.0
+10391,7,11,Dabney tells him to.,Gabe,0.0
+10392,7,12,' - You tricked me.,Gabe,0.0
+10393,7,13,And that's my treat.,Dabney,0.0
+10394,8,0,Oh.,Teddy,0.0
+10395,8,1,"Go ahead, Charlie.",Teddy,0.0
+10396,8,2,Go get a piece of candy.,Teddy,0.0
+10397,8,3,Go ahead.,Teddy,0.0
+10398,8,4,Charlie! - I'll get her.,Teddy,0.0
+10399,8,5,"That was hilarious! No, it wasn't.",Teddy,0.0
+10400,8,6,What is wrong with you? What's wrong with you? It's Halloween.,Teddy,0.0
+10401,8,7,"Yeah, but scaring a two-year-old isn't funny.",Teddy,0.0
+10402,8,8,It's mean.,Teddy,0.0
+10403,8,9,She's only two? I'm sorry.,Others,0.0
+10404,8,10,I didn't know.,Others,0.0
+10405,8,11,"Here, take some extra candy.",Others,0.0
+10406,8,12,Thank you.,Teddy,0.0
+10407,8,13,"Oh! What? Karl, one; Trick-or-treaters, zero.",Teddy,0.0
+10408,8,14,"Oh, what is that horrible smell? I added some rotten eggs to the fake bl*od.",Teddy,0.0
+10409,8,15,It's kind of my secret sauce.,Others,0.0
+10410,8,16,Ugh! I can't go to a party smelling like this.,Teddy,0.0
+10411,8,17,A party? I'm sorry.,Others,0.0
+10412,8,18,I didn't know.,Others,0.0
+10413,8,19,Reach into the cauldron.,Others,0.0
+10414,8,20,There's some perfume in there.,Others,0.0
+10415,8,21,"Oh, reach into your own cauldron, you clump nugget! I hate that Karl kid! I mean, no one would even talk to me at the party.",Teddy,0.0
+10416,9,0,Can you blame them? Mary had a little smell.,Ivy,0.0
+10417,9,1,We need to teach Karl a lesson.,Teddy,0.0
+10418,9,2,"Well, can you teach it from over there? You've still got a little stink on.",Ivy,0.0
+10419,9,3,"Ivy, I want revenge.",Teddy,0.0
+10420,9,4,"Okay, so what's your plan? How about this? I get a library card in Karl's name, I check out a lot of books.",Teddy,0.0
+10421,9,5,And I keep them well past their due dates.,Teddy,0.0
+10422,9,6,"Okay, I'm no good at this.",Teddy,0.0
+10423,9,7,Help me.,Teddy,0.0
+10424,9,8,"Okay, fasten your seat belt.",Ivy,0.0
+10425,9,9,Ivy's gonna introduce you to the dark side.,Ivy,0.0
+10426,10,0,I hate November 1st.,Gabe,0.0
+10427,10,1,"Yeah, that's the problem with malted milk balls One's too many and 1,000 aren't enough.",Bob,0.0
+10428,10,2,No more candy ever again.,Gabe,0.0
+10429,10,3,Right after this piece.,Gabe,0.0
+10430,10,4,Nuh-uh.,Amy,0.0
+10431,10,5,That's it.,Amy,0.0
+10432,10,6,I'm throwing the rest out.,Amy,0.0
+10433,10,7,"Ooh, caramel.",Amy,0.0
+10434,10,8,"Hey, everybody.",PJ,0.0
+10435,10,9,"Uh, you do know Halloween's over.",Bob,0.0
+10436,10,10,Why are you still wearing your costume? This isn't my costume.,Bob,0.0
+10437,10,11,This is my new look.,PJ,0.0
+10438,10,12,"So you weren't in costume last night? Well, sure I was.",Amy,0.0
+10439,10,13,"Hello, fake mustache? - P.",PJ,0.0
+10440,10,14,"J., you're a goth now? - That's right, And because I'm the total opposite of what I used to be, From now on call me j.P.",PJ,0.0
+10441,10,15,"If you're the total opposite, shouldn't we call you Albert Einstein? Albert who? P.",Gabe,0.0
+10442,10,16,"J., I don't understand.",Amy,0.0
+10443,10,17,Why are you doing this? - Zoey.,Amy,0.0
+10444,10,18,Oh.,Amy,0.0
+10445,10,19,That's why.,Amy,0.0
+10446,10,20,Hi.,Others,0.0
+10447,10,21,Hi.,Others,0.0
+10448,10,22,I think I like the sister better.,Amy,0.0
+10449,11,0,Okay.,Gabe,0.0
+10450,11,1,All the egg's gone.,Gabe,0.0
+10451,11,2,"Can I take a break now? Hold on, let me check the contract.",Dabney,0.0
+10452,11,3,Nope.,Dabney,0.0
+10453,11,4,"All right, what's next? I need you to give kaboodle a bath.",Dabney,0.0
+10454,11,5,I'm not giving your Cat a bath! - What else you got? - Shave Mr.,Gabe,0.0
+10455,11,6,Dabney's back.,Dabney,0.0
+10456,11,7,"Here, Kitty Kitty.",Gabe,0.0
+10457,11,8,That Cat of yours does not like taking baths.,Gabe,0.0
+10458,11,9,I know.,Dabney,0.0
+10459,11,10,That's why I had you do it.,Dabney,0.0
+10460,11,11,"All right, what what's next? You need to give kaboodle his vitamin.",Gabe,0.0
+10461,11,12,"Is he supposed to swallow this? Oh no, that goes in the other end.",Gabe,0.0
+10462,11,13,"And if you thought he didn't like baths? Ooh! Hey, Zoey and I are going out now.",Dabney,0.0
+10463,12,0,Don't wait up.,PJ,0.0
+10464,12,1,We'll be back kinda late.,PJ,0.0
+10465,12,2,"Where are you kids off to? - Well, I suggested minigolf, But Zoey wanted to go to the cemetery.",PJ,0.0
+10466,12,3,So we compromised we're going to the cemetery.,PJ,0.0
+10467,12,4,Who are you? - I'm P.J.,Carlie,0.0
+10468,12,5,No.,Chalie,0.0
+10469,12,6,Thank you for reminding me.,PJ,0.0
+10470,12,7,I'm j.P.,PJ,0.0
+10471,12,8,Now.,PJ,0.0
+10472,12,9,"Okay, well, whoever you are, Are you sure about this goth thing? Mom, dad, don't worry.",Amy,0.0
+10473,12,10,I'm still the same guy you know and love.,PJ,0.0
+10474,12,11,"Oh, mom, by the way, I ran out of eyeliner.",PJ,0.0
+10475,12,12,And I had to borrow some of yours.,PJ,0.0
+10476,12,13,"Bob, what are we gonna do about this? - Nothing.",Amy,0.0
+10477,12,14,Doing nothing isn't my thing.,Amy,0.0
+10478,12,15,"Trust me, P.J.",Bob,0.0
+10479,12,16,Is gonna be just fine.,Bob,0.0
+10480,12,17,Forgot my nail polish.,PJ,0.0
+10481,12,18,"And if he isn't, then we've got.",Bob,0.0
+10482,12,19,All these other kids we can pin our hopes on.,Bob,0.0
+10483,13,0,"All right, I've done everything you've asked.",Gabe,0.0
+10484,13,1,"Can I go now? - Well, I hate to see a beautiful day end, But you can go after you take out that trash.",Dabney,0.0
+10485,13,2,"What's all this? Egg cartons, Toilet paper rolls.",Gabe,0.0
+10486,13,3,You set me up.,Gabe,0.0
+10487,13,4,I don't know what you're talking about.,Dabney,0.0
+10488,13,5,You egged and t.P.'d your own house.,Gabe,0.0
+10489,13,6,"Who hurt you so bad that you can't trust? Well played, Mrs.D.",Dabney,0.0
+10490,13,7,You are a worthy adversary.,Gabe,0.0
+10491,13,8,As are you.,Dabney,0.0
+10492,13,9,Until next year? - I'll be here.,Gabe,0.0
+10493,14,0,"You wanted to see me? - Yeah, Karl, come on in.",Others,0.0
+10494,14,1,Come on.,Ivy,0.0
+10495,14,2,"Look, have a seat.",Ivy,0.0
+10496,14,3,"Listen, I've got to warn you about my friend Teddy.",Ivy,0.0
+10497,14,4,You ticked off the wrong person.,Ivy,0.0
+10498,14,5,"So what, I'm supposed to be afraid her now? Veafraid.",Others,0.0
+10499,14,6,She has problems Anger problems.,Ivy,0.0
+10500,14,7,"Mary had a little lamb has anger problems? Yes, and when you messed with her little lamb, Scary is where Mary is sure to go.",Others,0.0
+10501,14,8,"Ivy, I'm back.",Teddy,0.0
+10502,14,9,Oh no.,Ivy,0.0
+10503,14,10,"Okay, this isn't good.",Ivy,0.0
+10504,14,11,Stay here.,Ivy,0.0
+10505,14,12,I'll deal with this.,Ivy,0.0
+10506,14,13,Don't get mad.,Ivy,0.0
+10507,14,14,Karl's here.,Teddy,0.0
+10508,14,15,"What?! What, he's here?! Who brought him into this house?! I just wanted to make peace.",Teddy,0.0
+10509,14,16,I told you not to get involved! What are you doing? Put that down! No! Save yourself.,Teddy,0.0
+10510,14,17,She's not right.,Ivy,0.0
+10511,14,18,"Hello, Karl.",Teddy,0.0
+10512,14,19,Don't hurt me.,Others,0.0
+10513,14,20,"Oh, don't worry.",Teddy,0.0
+10514,14,21,"In a minute, you won't feel anything.",Teddy,0.0
+10515,14,22,"Ha! - Please, I'm sorry! Let me go! No! Yeah, you keep running, Karl! And don't come back! That was awesome.",Others,0.0
+10516,14,23,You were awesome.,Teddy,0.0
+10517,14,24,"Great plan, smart plan.",Teddy,0.0
+10518,14,25,"You know, you're a genius.",Ivy,0.0
+10519,14,26,"Oh, you're a genius.",Ivy,0.0
+10520,14,27,Locked out? - Locked out.,Teddy,0.0
+10521,15,0,"'but the fact is I was napping,' And so gently you came rapping, And so faintly you came tapping, Tapping at my chamber door, That I scarce was sure I heard you Here I opened wide the door; - Darkness there' - Be right back.",PJ,0.0
+10522,15,1,"'deep into the darkness peering,' Long I stood there wondering, fearing, - Doubting, dreaming dreams no mortal ' - Mom.",PJ,0.0
+10523,15,2,"Hi, sweetie.",Amy,0.0
+10524,15,3,"What are you doing here? Oh, just Paying my respects.",PJ,0.0
+10525,15,4,To who? Ezekiel fitchhorn.,Amy,0.0
+10526,15,5,He died in 1928.,PJ,0.0
+10527,15,6,Time does not heal all wounds.,Amy,0.0
+10528,15,7,"Really, mom, what are you doing here? Oh, P.J., come here.",PJ,0.0
+10529,15,8,"Honey, I'm worried about you.",Amy,0.0
+10530,15,9,Stop worrying.,PJ,0.0
+10531,15,10,This is who I am now.,PJ,0.0
+10532,15,11,It just doesn't seem like you.,Amy,0.0
+10533,15,12,"Honey, you're in the middle of a cemetery.",Amy,0.0
+10534,15,13,At 11:00 at night when you could be at home in bed.,Amy,0.0
+10535,15,14,I do like to go to bed early.,Amy,0.0
+10536,15,15,"I know, Because you're not a nighttime person.",Amy,0.0
+10537,15,16,I know.,PJ,0.0
+10538,15,17,I'm a daytime person.,PJ,0.0
+10539,15,18,Aw.,Amy,0.0
+10540,15,19,"And look at you, all in black.",Amy,0.0
+10541,15,20,Black isn't me.,PJ,0.0
+10542,15,21,I like pastels.,PJ,0.0
+10543,15,22,Right.,Amy,0.0
+10544,15,23,"Sweetie, When you're with the right person, You don't have to change who you are.",Amy,0.0
+10545,15,24,Then why are you always trying to change dad? Because that's wio am.,PJ,0.0
+10546,15,25,"Honey, you are such a great guy, And somewhere out there is a very lucky girl.",Amy,0.0
+10547,15,26,Who will find that out.,Amy,0.0
+10548,15,27,I promise.,Amy,0.0
+10549,15,28,Come here.,Amy,0.0
+10550,15,29,"Thanks, mom.",PJ,0.0
+10551,15,30,So are you gonna talk to Zoey? - Yeah.,Amy,0.0
+10552,15,31,"I've just gotta be honest with her, You know, tell her it's not working.",PJ,0.0
+10553,15,32,"'so that now, to the still b*at of my heart' The police are here! Run! What was that? I don't like to hurt people.",PJ,0.0
+10554,15,33,That's who I am.,PJ,0.0
+10555,16,0,"Well, Charlie, my trip to the dark side went very well.",Teddy,0.0
+10556,16,1,I showed her the way.,Ivy,0.0
+10557,16,2,Yeah.,Teddy,0.0
+10558,16,3,"Turns out I like scaring people, and I'm good at it.",Teddy,0.0
+10559,16,4,Really good at it.,Teddy,0.0
+10560,16,5,Scarily good at it.,Teddy,0.0
+10561,16,6,"Give it a rest, Mary.",Ivy,0.0
+10562,16,7,"Good luck, Charlie.",Teddy,0.0
+10563,17,0,"Well, hello hello hello.",Bob,0.0
+10564,17,1,Do I know you? I am the ghost of Ezekiel fitchhorn.,Amy,0.0
+10565,17,2,You paid me a visit the other night.,Bob,0.0
+10566,17,3,I'm here to return the favor.,Bob,0.0
+10567,17,4,Come on in.,Amy,0.0
+10568,17,5,Why thank you.,Bob,0.0
+10569,17,6,"Say, has anyone ever told you.",Bob,0.0
+10570,17,7,"You're the bee's knees? Uh, my great-grandfather.",Bob,0.0
+10571,17,8,"How would you like to make time with a ghost? Oh, Zeke, that's really flattering, I'd be all over that.",Bob,0.0
+10572,17,9,"Since I'm not Next time, a simple note 'Thank you' will suffice.",Amy,0.0

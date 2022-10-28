@@ -1,0 +1,411 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+6462,1,0,"Chew carefully, I'm missing an earring.",Amy,1
+6463,1,1,"Eh, I'll roll the dice.",Bob,1
+6464,1,2,"Hey, everybody.",PJ,0
+6465,1,3,I have some big news..,PJ,0
+6466,1,4,I'm moving out.,PJ,0
+6467,1,5,You're what? ,Bob,0
+6468,1,6,What do you mean you're moving out?,Amy,0
+6469,1,7, I am moving in with Emmett.,PJ,0
+6470,1,8,His parents promised him an apartment when he turned 18.,PJ,0
+6471,1,9,"They had a party for him, gave him a cake and drove him to the new place.",PJ,0
+6472,1,10,All in like 20 minutes.,PJ,1
+6473,1,11,"P.J., I'm not sure about this.",Amy,0
+6474,1,12,"Mom, it totally makes sense.",PJ,0
+6475,1,13,I'm about to start Community College and the apartment is right near campus.,PJ,0
+6476,1,14,That is a good point.,Bob,0
+6477,1,15,Blah blah blah.,Gabe,0
+6478,1,16,All I'm hearing is that I'm getting my own room.,Gabe,1
+6479,1,17,Let's get you packed.,Gabe,0
+6480,1,18,Come on.,Gabe,0
+6481,1,19,"Bob, are you sure PJ's ready to live on his own? ",Amy,0
+6482,1,20,"Well, he is 18, honey.",Bob,0
+6483,1,21,"Oh, it sounds like somebody's experiencing empty-nest syndrome.",Bob,1
+6484,1,22,"Well, the good news there is that our nest is still very very full.",Bob,1
+6485,1,23,"In fact, the challenge is to avoid having any more little birdies.",Bob,1
+6486,1,24,It just went by so fast.,Amy,0
+6487,1,25,It seems like just yesterday that P.J.was tripping over his shoelaces and we were wiping his nose.,Bob,0
+6488,1,26,NULL,Amy;Bob;Gabe,1
+6489,2,27,"Oh,my Mom's here.",Spencer,0
+6490,2,28,Aw.,Teddy,0
+6491,2,29,"Hello, Teddy. Spencer, you ready?",Others,0
+6492,2,30,I left my coat downstairs.,Spencer,0
+6493,2,31,I'll be right back.,Spencer,0
+6494,2,32,Would you like to come in? ,Teddy,0
+6495,2,33,"Oh no, that's okay.",Others,0
+6496,2,34,"I'm fine, thanks.",Others,0
+6497,2,35,So it's been awhile.,Teddy,0
+6498,2,36,How have you been? ,Teddy,0
+6499,2,37,I'm good.,Others,0
+6500,2,38,Thank you.,Others,0
+6501,2,39,And you? ,Others,0
+6502,2,40,Good good.,Teddy,0
+6503,2,41,NULL,Teddy;Spencer,1
+6504,2,42,"Temperate, you might say.",Teddy,0
+6505,2,43,Yes.,Others,0
+6506,2,44,Temperate.,Others,0
+6507,2,45,Temperate.,Teddy,0
+6508,2,46,"Oh, Spencer's back..",Teddy,0
+6509,2,47,"Yay! Hey, it wasn't there.",Spencer,0
+6510,2,48,I must have left it in the backyard.,Spencer,0
+6511,2,49,I'll just..,Spencer,0
+6512,2,50,No no.,Teddy,0
+6513,2,51,You can get it next time.,Teddy,0
+6514,2,52,Out you go.,Teddy,0
+6515,2,53,Bye.,Spencer,0
+6516,2,54,"Bye, guys.",Teddy,0
+6517,2,55,Temperate? What..? ,Teddy,0
+6518,3,56,"Bob, would you take Toby upstairs and put him down for his nap?",Amy,0
+6519,3,57,Uh..,Bob,0
+6520,3,58,Up..,Bob,0
+6521,3,59,Up..,Bob,0
+6522,3,60,Upstairs? That's uh..,Bob,0
+6523,3,61,"It's kinda lonely up there, isn't it? ",Bob,1
+6524,3,62,Would you take Toby upstairs and put him down for his nap?,Amy,0
+6525,3,63,"Hey, you know what? Have him nap right here.",Bob,0
+6526,3,64,"Bob, he's six weeks old.",Amy,0
+6527,3,65,Never too early to learn how to couch-nap.,Bob,1
+6528,3,66,"Okay, fine.",Amy,0
+6529,3,67,I will take him upstairs.,Amy,0
+6530,3,68,And you better get real comfortable on that couch.,Amy,1
+6531,3,69,What was that about? ,Gabe,0
+6532,3,70,What?,Bob,0
+6533,3,71,Not wanting to take the baby upstairs.,Gabe,0
+6534,3,72,"I mean, that's lazy..",Gabe,0
+6535,3,73,Even for you.,Gabe,1
+6536,3,74,What? I just didn't feel like it.,Bob,0
+6537,3,75,That's all.,Bob,0
+6538,3,76,"No, there's something going on with you.",Gabe,0
+6539,3,77,Since when did you become so interested in me? ,Bob,0
+6540,3,78,NULL,Gabe;Bob;Amy,1
+6541,4,79,"Man, this place is great.",PJ,0
+6542,4,80,We should really call your Dad and thank him.,PJ,0
+6543,4,81,We can't.,Emmett,0
+6544,4,82,Part of the agreement about the new apartment is that I never call.,Emmett,1
+6545,4,83,This is so awesome.,PJ,0
+6546,4,84,We can eat whatever we want.,Emmett,0
+6547,4,85,Stay up past our bedtime.,PJ,0
+6548,4,86,"Dude, there is no bedtime!  ",Emmett,0
+6549,4,87,"Yay, we're adults now!",PJ,0
+6550,4,88,"Dude, I'm gonna go check out the view.",PJ,0
+6551,4,89,"Hey, look at this clown.",PJ,0
+6552,4,90,"Oh, it's an actual clown.",Emmett,0
+6553,4,91,"You're not still afraid of clowns, are you? ",Emmett,0
+6554,4,92,No.,PJ,0
+6555,4,93,You know what the best part - about this place is? ,Emmett,0
+6556,4,94,Huh?,PJ,0
+6557,4,95,Our moms aren't around to tell us what to do.,Emmett,0
+6558,4,96,Ah.,PJ,0
+6559,4,97,It's your Mom.,Emmett,0
+6560,4,98,"Hi, guys! Brought you some lunch.",Amy,0
+6561,4,99,Lunch..,Emmett,0
+6562,4,100,Awesome.,Emmett,0
+6563,4,101,Except for we don't have any plates.,Emmett,0
+6564,4,102,Or forks.,Emmett,0
+6565,4,103,"Hey, why don't you go see if that clown next door has any? ",PJ,0
+6566,4,104,I'm on it.,Emmett,0
+6567,4,105,"Sweetheart, that's not nice.",Amy,0
+6568,4,106,We don't call our neighbors clowns.,Amy,0
+6569,4,107,"Well, if I knew his professional name I'd use it.",PJ,1
+6570,4,108,So what do you think of the place? ,PJ,0
+6571,4,109,It's nice!,Amy,0
+6572,4,110,"Yeah, it's a little small maybe.",Amy,0
+6573,4,111,Call it cozy.,PJ,1
+6574,4,112,Kinda drafty.,Amy,0
+6575,4,113,NULL,PJ;Amy;Emmett,1
+6576,4,114,That's Emmett's bed and that's mine.,PJ,0
+6577,4,115,"Oh, Emmett's a little messy, isn't he? ",Amy,0
+6578,4,116,Yeah.,PJ,0
+6579,4,117,"Well, that's Emmett.",PJ,0
+6580,4,118,"Honey, just because it's Emmett's apartment doesn't mean you should let him walk all over you.",Amy,0
+6581,4,119,"If you don't like the mess, say something.",Amy,0
+6582,4,120,"Mom, stop worrying, okay? It's gonna be fine.",PJ,0
+6583,4,121,We're grown-ups now..,PJ,0
+6584,5,122,"Ugh, it was just so awkward and I kept saying 'temperate'.",Teddy,0
+6585,5,123,And I never say temperate.,Teddy,0
+6586,5,124,You just said it twice.,Spencer,1
+6587,5,125,Does your Mom like me? ,Teddy,0
+6588,5,126,"Hey, of course she likes you.",Spencer,0
+6589,5,127,"I mean, does your Mom like me? ",Spencer,0
+6590,5,128,Let's keep it on your Mom.,Teddy,0
+6591,5,129,"Hey Teddy, look, my Mom likes you, all right? That's just how she is.",Spencer,0
+6592,5,130,"You know, she's reserved.",Spencer,0
+6593,5,131,"Well, I want us to have a good relationship.",Teddy,0
+6594,5,132,So tell me some stuff about her.,Teddy,0
+6595,5,133,"Okay, um, what do you want to know? ",Spencer,0
+6596,5,134,"I want to know who is Lynn Walsh? What's her favorite color, her favorite food? Who would play her in the movie of her life? ",Teddy,0
+6597,5,135,Do you know that stuff about your Mom?,Spencer,0
+6598,5,136,"Purple, lasagna and Reese Witherspoon.",Teddy,0
+6599,5,137,"Oh, um..",Spencer,0
+6600,5,138,"All right, well, there's one thing I can tell you..",Spencer,0
+6601,5,139,She likes orchids.,Spencer,0
+6602,5,140,Orchids.,Teddy,0
+6603,5,141,Yeah.,Teddy,0
+6604,5,142,"Good, okay.",Teddy,0
+6605,5,143,So what else? ,Teddy,0
+6606,5,144,"Uh, oh, she likes going to this one fancy place downtown for high tea.",Spencer,0
+6607,5,145,Great.,Teddy,0
+6608,5,146,"Okay, keep going.",Teddy,0
+6609,5,147,That's all I got.,Spencer,0
+6610,5,148,That's it? ,Teddy,1
+6611,5,149,"Hey look, I think it's pretty great I came up with that.",Spencer,0
+6612,5,150,"Okay, I just had an awesome idea.",Teddy,0
+6613,5,151,I'm gonna take your Mom out to tea and we're gonna talk about orchids..,Teddy,0
+6614,5,152,NULL,Teddy;Spencer,1
+6615,5,153,That's great.,Spencer,0
+6616,5,154,"I don't have to come to this, do I? ",Spencer,0
+6617,6,155,I just need you to watch the baby for a sec..,Bob,0
+6618,6,156,Whoa!..,Bob,0
+6619,6,157,No! No! Oh ow! Mmm.,Teddy,0
+6620,6,158,Nobody tells Mom! ,Bob,0
+6621,6,159,What are we not telling Mom? ,Gabe,0
+6622,6,160,What? What? ,Bob,0
+6623,6,161,"Dude, you just yelled 'nobody tells Mom' in your sleep.",Gabe,0
+6624,6,162,"I mean I'm in, I just want to know what we're not telling her.",Gabe,1
+6625,6,163,No.,Bob,0
+6626,6,164,"No, I was just dreaming about that time I dropped Charlie.",Bob,0
+6627,6,165,Oh.,Gabe,0
+6628,6,166,I remember that day.,Gabe,0
+6629,6,167,That was a really good sandwich.,Gabe,1
+6630,6,168,Now I'm worried I'm gonna do the same thing to Toby.,Bob,0
+6631,6,169,I can't stop thinking about it.,Bob,0
+6632,6,170,So that's why you didn't want to carry him up the stairs.,Gabe,0
+6633,6,171,I don't want to carry him down the stairs either.,Bob,0
+6634,6,172,"What are you gonna do, Dad?  ",Gabe,0
+6635,6,173,I don't know!,Bob,0
+6636,6,174,But I can't drop Toby like I did Charlie.,Bob,0
+6637,6,175,You did what? ,Charlie,0
+6638,6,176,I did wh..,Bob,0
+6639,6,177,"Hey! Hey hey, Sweetie.",Bob,0
+6640,6,178,"No no no no, Daddy didn't drop you.",Bob,0
+6641,6,179,It was more..,Bob,0
+6642,6,180,It..,Bob,0
+6643,6,181,It..,Bob,0
+6644,6,182,It was more like a toss.,Bob,1
+6645,6,183,And then you flew a little! ,Bob,1
+6646,6,184,Bad Daddy.,Charlie,0
+6647,6,185,But Daddy caught you.,Bob,0
+6648,6,186,NULL,Charlie;Bob;Gabe,1
+6649,7,187,"Thanks for buying plates and forks, Emmett.",PJ,0
+6650,7,188,Too bad we're having soup.,PJ,1
+6651,7,189,"Hey, would you mind picking that up? ",PJ,0
+6652,7,190,"I will, just let me finish my plate of soup first.",Emmett,0
+6653,7,191,It'll take one second.,PJ,0
+6654,7,192,NULL,Emmett;PJ,1
+6655,7,193,Soup gets cold really fast when it's on a plate.,Emmett,0
+6656,7,194,How long does it take to pick up a piece of trash? ,PJ,0
+6657,7,195,"Okay, well, wait.",Emmett,0
+6658,7,196,What's your problem? ,Emmett,0
+6659,7,197,My problem is my roommate is a slob.,PJ,0
+6660,7,198,I'm a slob? ,Emmett,0
+6661,7,199,You're a slob.,PJ,0
+6662,7,200,You take that back!,Emmett,0
+6663,7,201,I will not.,PJ,0
+6664,7,202,"You know, I hate when you get like this.",Emmett,0
+6665,7,203,I'm going to my room.,Emmett,0
+6666,7,204,"All right, well, I'm going to my room.",PJ,0
+6667,7,205,You better not be looking at me.,PJ,0
+6668,7,206,You better not be looking at me.,Emmett,0
+6669,7,207,Stop it!,PJ,0
+6670,7,208,You stop it! ,Emmett,0
+6671,7,209,"No, you stop it! Turn around.",PJ,0
+6672,7,210,You..,Emmett,0
+6673,7,211,Okay.,Emmett,0
+6674,7,212,You want something to look at? Try this.,Emmett,0
+6675,7,213,"Ha! See, that doesn't bother me.",PJ,0
+6676,7,214,Now you're the clown.,PJ,0
+6677,7,215,"No, you're the clown.",Emmett,0
+6678,7,216,You're the clown.,PJ,0
+6679,7,217,You're the clown.,Emmett,0
+6680,7,218,You don't think you're a clown? ,PJ,0
+6681,7,219,What me to prove that you're a clown?,Emmett,0
+6682,7,220,Fine! Look at your bed! ,PJ,0
+6683,8,221,"Yes hi, um..",Teddy,0
+6684,8,222,"I'm just double-checking a reservation for Duncan? Yes yes, I know I called five minutes ago.",Teddy,0
+6685,8,223,It's just..,Teddy,0
+6686,8,224,It's a..,Teddy,0
+6687,8,225,It's a very important reservation.,Teddy,0
+6688,8,226,"See, it's with my boyfriend's Mom..",Teddy,0
+6689,8,227,"Yes, the one who likes orchids.",Teddy,0
+6690,8,228,"Oh, okay, she's here.",Teddy,0
+6691,8,229,"Okay, I have to go.",Teddy,0
+6692,8,230,I'll..,Teddy,0
+6693,8,231,I'll call you from the car.,Teddy,0
+6694,8,232,Hello! ,Teddy,0
+6695,8,233,Hello.,Others,0
+6696,8,234,"Come in, sit.",Teddy,0
+6697,8,235,"Oh, love to.",Others,0
+6698,8,236,You look lovely.,Teddy,0
+6699,8,237,So do you.,Others,0
+6700,8,238,Shall we? ,Teddy,0
+6701,8,239,Sure.,Others,0
+6702,9,240,"Hey, Mom.",PJ,0
+6703,9,241,"Hey, P.J.",Amy,0
+6704,9,242,what are you doing here? ,Amy,0
+6705,9,243,"Oh, Emmett and I had a big fight.",PJ,0
+6706,9,244,Really? That's terrible.,Amy,0
+6707,9,245,"Oh, you know what? Gabe put a lock on your bedroom door but I'll get the bolt cutters.",Amy,0
+6708,9,246,"No, Mom, Mom, no! Mom, I'm not moving back.",PJ,0
+6709,9,247,We worked it out.,PJ,0
+6710,9,248,"Oh, you did? ",Amy,0
+6711,9,249,Yeah.,PJ,0
+6712,9,250,I got mad because he was messing up the place.,PJ,0
+6713,9,251,He got mad because I got mad.,PJ,0
+6714,9,252,Then we got tired of being mad.,PJ,0
+6715,9,253,He agreed to stop being a slob and we made chocolate toast.,PJ,0
+6716,9,254,Oh.,Amy,0
+6717,9,255,"Well, good for you, standing up for yourself.",Amy,0
+6718,9,256,Mmm.,Amy,0
+6719,9,257,And I'm sure Emmett will live up to his promise of not being a slob.,Amy,0
+6720,9,258,I mean you know what they say.,Amy,0
+6721,9,259,NULL,Amy;PJ,1
+6722,9,260,Or is it that people never change? ,Amy,1
+6723,10,261,"Doing great, big guy.",Gabe,1
+6724,10,262,I don't know if I can do this.,Bob,0
+6725,10,263,Just keep coming.,Gabe,0
+6726,10,264,"No, my knees are wobbling.",Bob,0
+6727,10,265,"Yes! Okay, all right.",Gabe,0
+6728,10,266,"So you made it down with a roast, a ham and a chicken.",Gabe,1
+6729,10,267,You wanna try some side dishes? ,Gabe,1
+6730,10,268,I'm ready to carry a real kid.,Bob,0
+6731,10,269,What are you looking at?,Gabe,0
+6732,10,270,Hi.,Amy,0
+6733,10,271,Hi! ,Bob,0
+6734,10,272,Hi.,Gabe,0
+6735,10,273,"Okay uh, two questions..",Amy,0
+6736,10,274,Why are you carrying Gabe and..,Amy,0
+6737,10,275,Why does that chicken have a face? ,Amy,0
+6738,10,276," Oh, you know why?",Bob,0
+6739,10,277,We're playing a new game called uh..,Bob,0
+6740,10,278,Chicken drop.,Bob,1
+6741,10,279,And he who drops the chicken must carry the victor down the stairs.,Bob,0
+6742,10,280,NULL,Gabe;Bob;Amy,1
+6743,11,281,May I help you? ,Others,0
+6744,11,282,Hi.,Teddy,0
+6745,11,283,We have a reservation.,Teddy,0
+6746,11,284,"Duncan, party of two.",Teddy,0
+6747,11,285,"Sorry, I don't have you down.",Others,0
+6748,11,286,"What? But, um..",Teddy,0
+6749,11,287,I confirmed the reservation and then I reconfirmed..,Teddy,0
+6750,11,288,And then I reconfirmed the reconfirm.,Teddy,0
+6751,11,289,Which is basically just a long way of saying that I put a lot of work into this reservation so I want my table and I want it now! ,Teddy,0
+6752,11,290,"Oh, here it is, 'Duncan'.",Others,0
+6753,11,291,Shall we?  ,Teddy,0
+6754,12,292,So who are you again?,Others,0
+6755,12,293,I'm the Window Inspector from the Department of See-through Services.,Amy,0
+6756,12,294,"Okay, I've been a building manager for 25 years, and I have never heard of that.",Others,0
+6757,12,295,"Well, you're hearing about it now.",Amy,1
+6758,12,296,"All right, let's see what we got here.",Amy,0
+6759,12,297,Oh yeah.,Amy,0
+6760,12,298,"P87, single pane..We see a lot of these.",Amy,0
+6761,12,299,"Okay, for the final part of my inspection I'm gonna need you to vacate the premises.",Amy,0
+6762,12,300,I can't do that.,Others,0
+6763,12,301,I take the security of my building very seriously.,Others,0
+6764,12,302,I have a candy bar.,Amy,0
+6765,12,303,Lock up when you're done.,Others,0
+6766,12,304,P.J.! ,Amy,0
+6767,12,305, Unbelievable! He promised.,PJ,0
+6768,12,306,NULL,Amy;PJ,1
+6769,13,307,So how's your tea?,Teddy,0
+6770,13,308,Actually it's a little cold.,Others,0
+6771,13,309,"Well, I can fix that.",Teddy,0
+6772,13,310,"Um, excuse me, her tea is cold.",Teddy,0
+6773,13,311,"Could you get her a fresh cup? And make sure it's hot, like piping hot.",Teddy,1
+6774,13,312,I hear that you like orchids.,Teddy,0
+6775,13,313,I used to and then my Mother passed away.,Others,0
+6776,13,314,Orchids were her favorite too.,Others,0
+6777,13,315,And now I can't even look at one without crying.,Others,0
+6778,13,316,Oh my gosh.,Teddy,0
+6779,13,317,Are you okay? ,Others,0
+6780,13,318,Yes.,Teddy,0
+6781,13,319,"Oh, my hand fell asleep.",Teddy,0
+6782,13,320,Darn it.,Teddy,0
+6783,13,321,Thank you.,Others,0
+6784,13,322,Ah ah! ,Others,0
+6785,13,323,"What, what's wrong?",Teddy,0
+6786,13,324,I burned my tongue.,Others,0
+6787,13,325,"Ice ice! We need ice! Ah, ice.",Teddy,0
+6788,13,326,Is that helping?,Teddy,0
+6789,13,327, I'm stuck.,Others,0
+6790,13,328,You're what?,Teddy,0
+6791,13,329,I'm stuck!,Others,0
+6792,13,330,NULL,Teddy,1
+6793,13,331,How is everything over here?,Others,0
+6794,14,332,"Well, Mom, I'm moving back home.",PJ,0
+6795,14,333,Oh no.,Amy,0
+6796,14,334,"It's such sad, unexpected news.",Amy,0
+6797,14,335,I came back home today and the place was a mess.,PJ,0
+6798,14,336,What was it? Unmade bed? Potato chips everywhere? ,Amy,0
+6799,14,337,How do you know about the chips? ,PJ,0
+6800,14,338,I don't.,Amy,0
+6801,14,339,Man.,PJ,0
+6802,14,340,And after he promised me he was going to keep the place clean.,PJ,0
+6803,14,341,I'm never talking to that guy again.,PJ,0
+6804,14,342,"Hey, once you get over this, you guys will be best friends again.",Amy,0
+6805,14,343,I don't think so.,PJ,0
+6806,14,344,"I mean, really I could have dealt with the mess..",PJ,0
+6807,14,345,But he looked me right in the eye and said he didn't do it.,PJ,0
+6808,14,346,Best friends don't lie to each other.,PJ,0
+6809,14,347,I'm gonna go put my stuff away.,PJ,0
+6810,14,348,"P.J., wait.",Amy,0
+6811,14,349,Emmett didn't mess up your apartment.,Amy,0
+6812,14,350,I did.,Amy,0
+6813,14,351,What? Why would you do that? ,PJ,0
+6814,14,352,Because I thought you weren't ready to live on your own.,Amy,0
+6815,14,353,And..,Amy,0
+6816,14,354,The truth is..,Amy,0
+6817,14,355,I'm the one who's not ready.,Amy,0
+6818,14,356,"But, Mom, I'm 18.",PJ,0
+6819,14,357,I'm an adult now.,PJ,0
+6820,14,358,But you're still my little boy.,Amy,0
+6821,14,359,You'll always be my little boy.,Amy,0
+6822,14,360,You're a good Mom.,PJ,0
+6823,14,361,I know.,Amy,0
+6824,14,362,NULL,PJ;Amy,1
+6825,14,363,I know.,Amy,0
+6826,15,364,"How you feeling, Dad? ",Gabe,0
+6827,15,365,Good good.,Bob,0
+6828,15,366,Yeah!,Gabe,0
+6829,15,367,"Yes, I did it! - I did it!",Bob,0
+6830,15,368,Nice! What were you so worried about? ,Gabe,0
+6831,15,369,I don't know.,Bob,0
+6832,15,370,It was a piece of cake.,Bob,0
+6833,15,371,Where are you going? ,Gabe,0
+6834,15,372,NULL,Bob;Gabe,1
+6835,15,373,A guy's gotta celebrate.,Bob,0
+6836,15,374,"Oh hey, thank you..",Bob,0
+6837,15,375,So much for getting me through this.,Bob,0
+6838,15,376,You real..,Bob,0
+6839,15,377,No! ,Gabe,0
+6840,15,378, No!,PJ,0
+6841,15,379,"Hey, honey..",Bob,0
+6842,15,380,"You dropped the baby again, didn't you, Bob?  ",Amy,0
+6843,15,381,What?,Bob,0
+6844,16,382,"Well, Charlie, um, I went to tea with Spencer's Mom.",Teddy,0
+6845,16,383,And we had so much fun..,Teddy,0
+6846,16,384,We decided to keep that party going..,Teddy,0
+6847,16,385,NULL,Teddy;Bob,1
+6848,16,386,"Yeah, I don't think Mrs.",Teddy,0
+6849,16,387,Walsh will be talking to me anytime soon.,Teddy,0
+6850,16,388,Or to anyone.,Teddy,0
+6851,16,389,What..,Teddy,0
+6852,16,390,"Dad, what are you doing? ",Teddy,0
+6853,16,391,Taking Toby for a walk.,Bob,0
+6854,16,392,That doesn't really look like a walk.,Teddy,0
+6855,16,393,"No, it will be eventually.",Bob,0
+6856,16,394,"Well, don't you need the diaper bag?",Teddy,0
+6857,16,395,"Aw, man!",Bob,0
+6858,16,396,"Well, you survived him for three years, all you need is 15 more.",Teddy,0
+6859,16,397,"Good luck, Charlie.",Teddy,0
+6860,17,398,"Hi, Bob Duncan here with another amazing product that is going to make your life easier.",Bob,0
+6861,17,399,"You have stairs, do you have a baby? Well, how many times has this happened to you? Whoa! ",Bob,0
+6862,17,400,"Well, those days are gone.",Bob,0
+6863,17,401,"Because the next time your baby goes flying, he won't end up crying, thanks to the new ultra-cute..",Bob,0
+6864,17,402,"Baby Chute! That's right! Your home is going to be more safe and more fun! And if you act now, we will also throw in the ultra-cute..",Bob,0
+6865,17,403,Senior Chute.,Bob,0
+6866,17,404,Woo! So what are you waiting for? Pick up that phone and call.,Bob,0
+6867,17,405,Call right now.,Bob,0
+6868,17,406,And if you drop the phone..,Bob,0
+6869,17,407,We've got that covered too..,Bob,0
+6870,17,408,"Ultra-cute Industries, a division of Famfunco International.",Others,0
+6871,17,409,"Not advised for babies, seniors or phones.",Others,0

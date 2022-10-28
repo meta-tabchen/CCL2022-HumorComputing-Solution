@@ -1,0 +1,358 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+10886,1,0,"Hey, dad, you gonna eat your last piece of bacon? Nice.",PJ,0.0
+10887,1,1,"Oh, dad, by the way I'm having career day at my school, And I was wondering if you could come.",PJ,0.0
+10888,1,2,Really? You want me to come in and talk about my job? - That's fantastic.,Bob,0.0
+10889,1,3,"Easy, big guy.",PJ,0.0
+10890,1,4,You're a time filler.,PJ,0.0
+10891,1,5,"Nothing more, nothing less.",Bob,0.0
+10892,1,6,That's a little less fantastic.,Bob,0.0
+10893,1,7,"Hey, how come I never came in and spoke to one of your classes? We didn't have career day back then.",Bob,0.0
+10894,1,8,It's a whole new idea.,PJ,0.0
+10895,1,9,Really? They had career day when I was a kid.,Bob,0.0
+10896,1,10,Must have skipped a generation.,PJ,0.0
+10897,1,11,"Hey, Gabe.",Amy,0.0
+10898,1,12,Why aren't you asking me to career day this year? Because of what happened last year.,Amy,0.0
+10899,1,13,We see a lot of interesting things in the emergency room.,Amy,0.0
+10900,1,14,This is what can happen when you don't follow the directions.,Amy,0.0
+10901,1,15,On the chainsaw.,Amy,0.0
+10902,1,16,"Kids, kids, hold your reactions till the end.",Amy,0.0
+10903,1,17,We've got a lot of pictures here.,Amy,0.0
+10904,1,18,"So now severed limbs are off-limits to 11-year-olds? What? today's all burnt toast 鈾?running late and dad jokes 鈾?'has anybody seen my left shoe?' 鈾?I close my eyes, take a bite 鈾?grab a ride, laugh out loud 鈾?there it is up on the roof 鈾?I've been there, I survived 鈾?so just take my advice 鈾?hang in there, baby, things are crazy 鈾?but I know your future's bright 鈾?hang in there, baby 鈾?there's no maybe 鈾?everything turns out all right 鈾?sure life is up and down 鈾?but trust me, it comes back around 鈾?you're gonna love who you turn out to be 鈾?hang in there, baby.",Amy,0.0
+10905,1,19,"鈾?''And cheesy, ' the sad little pizza said,' 'I just feel so plain.",Others,0.0
+10906,1,20,"' And pepe, his friend the pepperoni pizza said, 'but, cheesy, that's why kids love you.",Others,0.0
+10907,1,21,' And cheesy felt all better.,Others,0.0
+10908,1,22,'The end.,Others,0.0
+10909,1,23,' Mom.,Teddy,0.0
+10910,1,24,"Candace, thank you we really enjoyed it.",Amy,0.0
+10911,1,25,I heard you snoring.,Others,1.0
+10912,1,26,"The important thing right, Charlie? D it.",Amy,0.0
+10913,1,27,"No, mommy.",Charlie,0.0
+10914,1,28,She's right.,Amy,0.0
+10915,1,29,It was not a good book.,Amy,0.0
+10916,1,30,I could write a better story than that.,Teddy,0.0
+10917,1,31,I wish you would.,Others,0.0
+10918,1,32,"Publishing, hildren's.",Others,0.0
+10919,1,33,And I am always for new talent.,Others,0.0
+10920,1,34,"Anyway, we'll see you guys next week.",Others,0.0
+10921,1,35,"Bye, Candace.",Teddy,0.0
+10922,1,36,See ya.,Others,0.0
+10923,1,37,That gives me an idea.,Teddy,0.0
+10924,1,38,Me too.,Amy,0.0
+10925,1,39,A children's book! What do you know about writing? What do you know about children? Maybe we could write a book together.,Teddy,0.0
+10926,1,40,And then we could read it at next week's story time.,Amy,0.0
+10927,1,41,And the kids will go crazy.,Amy,0.0
+10928,1,42,"Candace will publish it, And I'll be on 'good morning Denver.",Amy,0.0
+10929,1,43,' Right now let's just focus on writing a good story for the kids.,Teddy,0.0
+10930,1,44,You're right.,Amy,0.0
+10931,1,45,You're right.,Amy,0.0
+10932,1,46,It's all about the kids.,Amy,0.0
+10933,1,47,"Oh, great.",Others,0.0
+10934,1,48,I guess dinner's here.,PJ,0.0
+10935,1,49,And a happy kwikki chikki hello to you.,Others,0.0
+10936,1,50,"I heard that, Scott.",Others,0.0
+10937,1,51,"I'm sure that you heard, but when I ask.",Others,0.0
+10938,1,52,"For a home-cooked meal, you suddenly go deaf.",Others,0.0
+10939,1,53,I'm not a housewife.,Others,0.0
+10940,1,54,I work too.,Others,0.0
+10941,1,55,"Do you want me to come back later? No, then the food will be cold.",Others,0.0
+10942,1,56,Don't worry.,PJ,0.0
+10943,1,57,It's already cold.,PJ,0.0
+10944,1,58,Let's ask this guy.,Others,0.0
+10945,1,59,"What do you think? Come on, we want your opinion.",Others,0.0
+10946,1,60,Who is responsible for dinner? That is a tough question.,Others,0.0
+10947,1,61,I've seen mz parents have the very same argument 'cause they both have jobs too.,PJ,0.0
+10948,1,62,How do they work it out? - Very loudly.,Others,0.0
+10949,1,63,"But at least they're communicating, Which is maybe what you guys need to do.",PJ,0.0
+10950,1,64,But we are communicating.,Others,0.0
+10951,1,65,"Are you? Are you really? No, we're not.",PJ,0.0
+10952,1,66,Maybe it's time to start.,PJ,0.0
+10953,1,67,I just want things to go back to the way they were when we first got married.,Others,0.0
+10954,1,68,I want that too.,Others,0.0
+10955,1,69,"I'm sorry, honey.",Others,0.0
+10956,1,70,I'm sorry too.,Others,0.0
+10957,1,71,"Well, I guess there's only one thing left to say.",PJ,0.0
+10958,1,72,That'll be $14.,PJ,0.0
+10959,1,73,"Okay, tell me what you think of this.",Amy,0.0
+10960,1,74,"'actress, singer, dancer, comedian, entertainer, nurse,' Wife, mother of four, Amy Duncan now adds author.",Amy,0.0
+10961,1,75,'To her long list of credits.,Amy,0.0
+10962,1,76,' What is that? It's my bio for the book jacket.,Teddy,0.0
+10963,1,77,Too long? 'cause I could lose 'wife and mother of four.,Amy,0.0
+10964,1,78,"' Hey, I have an idea.",Teddy,0.0
+10965,1,79,"Instead of a book jacket, let's write a book.",Teddy,0.0
+10966,1,80,"Okay, seems kind of backwards to me, but okay, sure.",Amy,0.0
+10967,1,81,Let's just brainstorm and see what we come up with.,Teddy,0.0
+10968,1,82,Excellent idea.,Amy,0.0
+10969,1,83,Brainstorming.,Amy,0.0
+10970,1,84,Stormy brain.,Amy,0.0
+10971,1,85,"Thinking, thoughts, ideas, words Mom, brainstorms are usually quiet.",Teddy,0.0
+10972,1,86,Sorry.,Amy,0.0
+10973,1,87,"And remember, an idea can come from anywhere.",Teddy,0.0
+10974,1,88,Got it! - What? Trashy.,Amy,0.0
+10975,1,89,Trashy? Trashy the trash can.,Amy,1.0
+10976,1,90,I was staring at the trash can and it just came to me.,Amy,0.0
+10977,1,91,"Okay, trashy.",Teddy,0.0
+10978,1,92,"So what's his story? Teddy, I can't do all the work.",Teddy,0.0
+10979,1,93,I came up with trashy.,Amy,0.0
+10980,1,94,"Yeah, but what's he trying to teach the kids? Oh, okay.",Teddy,0.0
+10981,1,95,"Um, well, when trashy.",Amy,0.0
+10982,1,96,"Sees someone litter, He says, 'enh-enh-enh-enh.",Amy,0.0
+10983,1,97,' I do that really well.,Amy,0.0
+10984,1,98,I should do hjs voice for the movie.,Amy,0.0
+10985,1,99,"Hey, mom, let's think of some other ideas.",Teddy,0.0
+10986,1,100,Really? 'cause I'm loving me some trashy.,Amy,0.0
+10987,1,101,"Okay okay, well, maybe we should work separately, Then get together tomorrow with some new ideas.",Teddy,0.0
+10988,1,102,That aren't based off of the first thing you looked at.,Teddy,0.0
+10989,1,103,Fine.,Amy,0.0
+10990,1,104,Good.,Teddy,0.0
+10991,1,105,Whatever.,Amy,0.0
+10992,1,106,Great.,Amy,0.0
+10993,1,107,Enh-enh-enh.,Amy,0.0
+10994,1,108,I can see it on a t-shirt.,Amy,0.0
+10995,1,109,"Okay, dad, career day is tomorrow.",Gabe,0.0
+10996,1,110,What's your plan? - My plan? - Yeah.,Bob,0.0
+10997,1,111,To wing it.,Bob,0.0
+10998,1,112,"Dad, this isn't a toast to mom on your anniversary.",Gabe,0.0
+10999,1,113,This is important.,Gabe,0.0
+11000,1,114,Now you can't just get up there and talk aboutour job.,Gabe,0.0
+11001,1,115,You gotta put on a show.,Gabe,0.0
+11002,1,116,"This is all about the sizzle, not the steak.",Gabe,0.0
+11003,1,117,I get it.,Bob,0.0
+11004,1,118,"You want me to bring in a couple of critters that I caught, Like a rat or a possum.",Bob,0.0
+11005,1,119,"Is there any chance you could catch something exciting, Like an alligator or a lion.",Gabe,0.0
+11006,1,120,Or a polar bear? Yeah.,Gabe,0.0
+11007,1,121,"Well, those might be tough since career day is tomorrow.",Bob,0.0
+11008,1,122,And we live in Denver.,Bob,0.0
+11009,1,123,"All right, dad, whatever you do, Just don't embarrass me.",Gabe,0.0
+11010,1,124,That means shirt tucked in and your most dependable belt.,Gabe,0.0
+11011,1,125,"Hey, that's not gonna happen again.",Bob,0.0
+11012,1,126,"Man, you ruin one little league game Hi again.",Bob,0.0
+11013,1,127,"Ooh, something smells good.",PJ,0.0
+11014,1,128,I'm making pork chops.,Others,0.0
+11015,1,129,"Then why'd you order chicken? Actually, we were hoping you could help us with another problem.",Others,0.0
+11016,1,130,"Oh, well, come on out.",PJ,0.0
+11017,1,131,"Have a seat, make yourselves at home.",PJ,0.0
+11018,1,132,Talk to me.,PJ,0.0
+11019,1,133,The thing is Christine's mother wants to come and stay with us.,Others,0.0
+11020,1,134,For two weeks.,Others,0.0
+11021,1,135,"I wanted to ask her to come for less time, But But what? Come on, tell the chicken guy.",Others,0.0
+11022,1,136,But I'm afraid of her.,Others,0.0
+11023,1,137,"There, I said it.",Others,0.0
+11024,1,138,"Yeah, but just because Hold on.",PJ,0.0
+11025,1,139,We're working with Christine now.,Others,0.0
+11026,1,140,"Now, Christine, how did that make you feel? Well, it makes me feel sad, and I want Scott - Scott, feedback.",PJ,0.0
+11027,1,141,"I feel that I'd like to help Christine, - So she wouldn't be so sad.",Others,0.0
+11028,1,142,How can you help? Well but you asked me.,PJ,0.0
+11029,1,143,Don't question my process.,PJ,0.0
+11030,1,144,I'll tell you how you can help.,PJ,0.0
+11031,1,145,Date night.,PJ,0.0
+11032,1,146,Date night.,Others,0.0
+11033,1,147,"Yeah, make sure you guys schedule some alone time.",PJ,0.0
+11034,1,148,While your mother's here.,PJ,0.0
+11035,1,149,Your needs are important too.,PJ,0.0
+11036,1,150,Date night.,Others,0.0
+11037,1,151,That's a great idea.,Others,0.0
+11038,1,152,Yeah.,Others,0.0
+11039,1,153,Thank you so much.,Others,0.0
+11040,1,154,"Hey, it's what I do.",PJ,0.0
+11041,1,155,Now let's take a look at those pork chops.,PJ,0.0
+11042,1,156,"Now before we share our book ideas, Let's remember to be kind.",Teddy,0.0
+11043,1,157,That's right.,Amy,0.0
+11044,1,158,There are no bad ideas.,Amy,0.0
+11045,1,159,I'll go first.,Amy,0.0
+11046,1,160,"Ba-bam! Hey, trashy's back.",Amy,0.0
+11047,1,161,I know.,Amy,0.0
+11048,1,162,"Try as I might, I could not top him.",Amy,0.0
+11049,1,163,"Can I share one of my ideas now? Y-yeah, of course.",Teddy,0.0
+11050,1,164,Go ahead.,Amy,0.0
+11051,1,165,Okay.,Teddy,0.0
+11052,1,166,So my idea is a story.,Teddy,0.0
+11053,1,167,About a little tin can and his name is 'Tim can.,Teddy,0.0
+11054,1,168,' So the story begins with Tim on the shelf at the store.,Teddy,0.0
+11055,1,169,Then he goes on some amazing adventures.,Teddy,0.0
+11056,1,170,That teach kids all about recycling.,Teddy,0.0
+11057,1,171,What do you think? I think I was wrong.,Teddy,0.0
+11058,1,172,There are bad ideas.,Amy,1.0
+11059,1,173,"Honey, don't get too down on yourself.",Amy,1.0
+11060,1,174,I set the bar pretty high with trashy.,Amy,1.0
+11061,1,175,Are you kidding? You just you pointed at a trash can.,Teddy,0.0
+11062,1,176,And gave it a stupid name.,Teddy,0.0
+11063,1,177,I could do that.,Teddy,0.0
+11064,1,178,Let's write a story about tabley or blendery.,Teddy,0.0
+11065,1,179,"Blendery? Okay, that's just silly.",Amy,0.0
+11066,1,180,What would a blender say? 'chop chop chop'? Even I can't make that work.,Amy,0.0
+11067,1,181,You know what doesn't work? This.,Teddy,0.0
+11068,1,182,You know what you are jealous.,Amy,0.0
+11069,1,183,"Yes, I am, Of people that don't have to work with you.",Teddy,0.0
+11070,1,184,Then fine.,Amy,0.0
+11071,1,185,Don't work with me.,Amy,0.0
+11072,1,186,I'll write 'trashy' by myself.,Amy,0.0
+11073,1,187,"Okay, well, I'll write 'tim can' by myself, Then next week at story time, we'll let the kids decide which one's best.",Teddy,0.0
+11074,1,188,Oh yeah yeah.,Amy,0.0
+11075,1,189,"They'll decide To feed your book to trashy! When mommy finishes reading her book at story time, I want you to jump up and yell, 'yay, trashy!' - Can you do that for me? - Yay, trashy! Yay! - What are you doing? - Nothing.",Amy,0.0
+11076,1,190,You're coaching Charlie.,Teddy,0.0
+11077,1,191,"Mom, that's cheating.",Teddy,0.0
+11078,1,192,I am her mother.,Amy,0.0
+11079,1,193,It is my job to tell her what stuff to like.,Amy,0.0
+11080,1,194,"Okay, so trashy's the right stuff? Enh-enh-enh.",Teddy,0.0
+11081,1,195,"Even though you're mocking me, It still works.",Amy,0.0
+11082,1,196,"Okay, Charlie, now repeat after me, 'Tim can, I love Tim can.",Teddy,0.0
+11083,1,197,"' Yay, trashy! Gahhh! Guys, what are you doing here? - This is my mother Elaine.",Others,0.0
+11084,1,198,We need you.,Others,0.0
+11085,1,199,"We tried ordering chicken, But they said you weren't working today.",Others,0.0
+11086,1,200,"Well, I guess I could fit you in.",Others,0.0
+11087,1,201,Have a seat.,PJ,0.0
+11088,1,202,"Okay, talk to me.",PJ,0.0
+11089,1,203,I didn't come halfway across this country.,Others,0.0
+11090,1,204,So these two could go out on a date night.,Others,0.0
+11091,1,205,Then feel free to go back.,Others,0.0
+11092,1,206,"Scott, that is my mother.",Others,0.0
+11093,1,207,"Okay okay, I see what's going on here.",PJ,0.0
+11094,1,208,"You guys are talking at each other, not with each other.",PJ,0.0
+11095,1,209,"Now you talk to me, and I'll talk to him.",PJ,1.0
+11096,1,210,And he'll talk to me and I'll talk to her.,PJ,1.0
+11097,1,211,"She'll talk to me, and I'll talk to you.",PJ,1.0
+11098,1,212,"That's you to me, me to him, him to me, Me to her, her to me, me to you.",PJ,1.0
+11099,1,213,It's just that simple.,PJ,1.0
+11100,1,214,It's kind of hard to take you seriously without the hat.,Others,0.0
+11101,1,215,"Oh, sorry.",PJ,0.0
+11102,1,216,Let's get to work.,PJ,0.0
+11103,1,217,I was just afraid of losing you.,Others,0.0
+11104,1,218,You'll never lose me.,Others,0.0
+11105,1,219,"And you can stay here as long as you like, mom.",Others,0.0
+11106,1,220,What's going on in here? Healing.,Amy,0.0
+11107,1,221,What's going on in here is healing.,PJ,0.0
+11108,1,222,"Thank you, Mr.Turtlebaum.",Gabe,0.0
+11109,1,223,Oh.,Gabe,0.0
+11110,1,224,Of 'turtlebaum &amp; turtlebaum accounting: A professional corporation.,Gabe,0.0
+11111,1,225,' Right.,Gabe,0.0
+11112,1,226,Now let's give a warm room six welcome.,Gabe,0.0
+11113,1,227,"To my dad, Bob Duncan.",Gabe,0.0
+11114,1,228,Hey.,Bob,0.0
+11115,1,229,Dazzle me.,Gabe,0.0
+11116,1,230,"Hey, everybody, I am Bob Duncan of Bob's bugs be gone.",Bob,0.0
+11117,1,231,And I am here today.,Bob,0.0
+11118,1,232,To talk to you.,Bob,0.0
+11119,1,233,About the fine art of pest control.,Bob,0.0
+11120,1,234,Yes.,Bob,0.0
+11121,1,235,"Now in my typical day, I come across all sorts of insects Ants, roaches, mice.",Bob,0.0
+11122,1,236,"'wait, Mr.",Bob,0.0
+11123,1,237,"Duncan,' you say, 'mice aren't insects.",Bob,0.0
+11124,1,238,They are' Anybody? That's right.,Bob,0.0
+11125,1,239,They are rodents.,Bob,0.0
+11126,1,240,Not here to learn.,Gabe,0.0
+11127,1,241,"Anyway, I've brought along some animals.",Bob,0.0
+11128,1,242,"That, although I've never seen them on the job, I could quite possibly catch.",Bob,0.0
+11129,1,243,If we were living in a different climate.,Bob,0.0
+11130,1,244,On a different continent.,Bob,0.0
+11131,1,245,For example Look at that guy Ooh! That is an emperor scorpion.,Bob,0.0
+11132,1,246,"Now some people say that its sting is no worse than a bee's, And others, well, they're not around to say anything.",Bob,0.0
+11133,1,247,Ow! I'm just kidding.,Bob,0.0
+11134,1,248,I'm just kidding.,Bob,0.0
+11135,1,249,"Hey, you thought that was cool, huh? Wait until you check out this guy.",Bob,0.0
+11136,1,250,Whoa.,Bob,0.0
+11137,1,251,"Look at him, huh? This is a corn snake.",Bob,0.0
+11138,1,252,"Pretty cool, huh? That's my dad.",Gabe,0.0
+11139,1,253,"Hello, everybody, welcome to story time.",Teddy,0.0
+11140,1,254,"My name is Teddy, and today we have a special treat.",Teddy,0.0
+11141,1,255,You're gonna hear two stories.,Teddy,0.0
+11142,1,256,"The first one is written by me, and it's called.",Teddy,0.0
+11143,1,257,'Tim can and his amazing journey.,Teddy,0.0
+11144,1,258,' Tin can? Tim.,Amy,0.0
+11145,1,259,Tim can.,Teddy,0.0
+11146,1,260,"All right, now before we begin, Just a reminder, as of today, This story has not been published.",Teddy,0.0
+11147,1,261,Okay.,Teddy,0.0
+11148,1,262,"'Once upon a time, there was a little can of soup.",Teddy,0.0
+11149,1,263,And his name was Tim.,Teddy,0.0
+11150,1,264,Tim lived at the grocery store hoping someday someone would buy him.,Teddy,0.0
+11151,1,265,One day a nice woman did.,Teddy,0.0
+11152,1,266,'Her name was Candace.,Teddy,0.0
+11153,1,267,' Oh! Hey! That's your name.,Teddy,0.0
+11154,1,268,That's funny.,Teddy,0.0
+11155,1,269,Okay.,Teddy,0.0
+11156,1,270,"'Candace took Tim home,' Poured his soup in a pot, Then tossed him in the recycling bin.",Teddy,0.0
+11157,1,271,'Tim was sad.,Teddy,0.0
+11158,1,272,'Is that all there is? ' he wondered.,Teddy,0.0
+11159,1,273,' That's what I'm wondering.,Amy,0.0
+11160,1,274,"Poor plumber, having to follow me.",Bob,0.0
+11161,1,275,"I guess somebody had to go on after Elvis, right? You did great, dad, and more importantly, - So did your belt.",Bob,0.0
+11162,1,276,Yeah.,Bob,0.0
+11163,1,277,"Gabe, your old man wasn't gonna let you down.",Bob,0.0
+11164,1,278,Have you seen the scorpion? - What? You lost a scorp - Wait wait wait wait.,Bob,0.0
+11165,1,279,Let's just find it quietly by ourselves.,Bob,0.0
+11166,1,280,All right.,Bob,0.0
+11167,1,281,"Scorpions aren't poisonous, right? How should I know? I just rented it this morning.",Gabe,0.0
+11168,1,282,I thought I saw something on tv that said a scorpion can paralyze you.,Gabe,0.0
+11169,1,283,That might have been a nice thing to mention.,Bob,0.0
+11170,1,284,Before I let it walk on me.,Bob,0.0
+11171,1,285,I think they found it.,Gabe,0.0
+11172,1,286,'and after Tim had been recycled into Tim pie plate.,Teddy,0.0
+11173,1,287,"' And Tim aluminum foil, He went back to being Tim can.",Teddy,0.0
+11174,1,288,'And lived happily ever after.,Teddy,0.0
+11175,1,289,The end.,Teddy,0.0
+11176,1,290,"' Yay! Well, kids, wasn't that better than 'cheesy and pepe pizza'? Yeah! Hey, kids, here comes trashy! Hey, everybody, I'm trashy the trash can.",Teddy,0.0
+11177,1,291,But I'm not just any trash can.,Amy,1.0
+11178,1,292,"No, I'm a trash can that gives out candy.",Amy,1.0
+11179,1,293,Whoo! And the best part about trashy.,Amy,1.0
+11180,1,294,Is that he has magical powers.,Amy,1.0
+11181,1,295,So that he never runs out of candy.,Amy,1.0
+11182,1,296,"Yeah, eat it up.",Amy,1.0
+11183,1,297,"Yeah, eat it up.",Amy,0.0
+11184,1,298,And that's the story of trashy the trash can.,Amy,1.0
+11185,1,299,The end.,Amy,1.0
+11186,1,300,That's not a story.,Teddy,1.0
+11187,1,301,You're just throwing candy at the kids so they'll like your book better.,Teddy,0.0
+11188,1,302,"Well, let's see if it works.",Amy,0.0
+11189,1,303,Who likes trashy better than Tim can? - Me! - Ooh ooh ooh! Yeah yeah! Mm-hmm.,Amy,0.0
+11190,1,304,"Oh, yeah? Well, I forgot to tell you one thing about Tim can.",Teddy,0.0
+11191,1,305,He is gonna take all of you kids in the library.,Teddy,0.0
+11192,1,306,Out for ice cream.,Teddy,0.0
+11193,1,307,"Okay, everybody repeat after me.",Amy,1.0
+11194,1,308,"Trashy! Trashy! Trashy! - Tim can! Tim can! Tim can! - Trashy! Trashy! Trashy! Oh, Candace, do you wanna buy my story? Or do you wanna buy story? What I want is to find a new library for story time.",Amy,1.0
+11195,1,309,Great.,Amy,1.0
+11196,1,310,What am I supposed to do with 500 of these? And what seems to be the problem tonight? There's no problem.,Amy,1.0
+11197,1,311,Everything's great.,Others,0.0
+11198,1,312,Aren't we past this? Let's dive in.,PJ,0.0
+11199,1,313,"No, seriously, we're fine.",Others,0.0
+11200,1,314,We worked out all our issues.,Others,0.0
+11201,1,315,Then why'd you order chicken? Because we're hungry.,PJ,0.0
+11202,1,316,"But if you guys are fine, Then I'm just the chicken guy.",PJ,0.0
+11203,1,317,Pretty much.,Others,0.0
+11204,1,318,Thanks.,Others,0.0
+11205,1,319,Keep the change.,Others,0.0
+11206,1,320,I'll be back! I forgot your sides.,PJ,0.0
+11207,1,321,Gabe.,Bob,0.0
+11208,1,322,Can I talk to you for a minute? Kinda busy with my string cheese.,Gabe,0.0
+11209,1,323,"Buddy, I'm really sorry about today.",Bob,0.0
+11210,1,324,All you asked me to do was not embarrass you.,Bob,0.0
+11211,1,325,And that's exactly what I did.,Bob,0.0
+11212,1,326,"Dad, you didn't embarrass me.",Gabe,0.0
+11213,1,327,"Thanks to you, everybody loves me.",Gabe,0.0
+11214,1,328,"What? Yeah, after the scorpion stung you, and then you passed out, And then Mr.",Gabe,0.0
+11215,1,329,Turtlebaum tried to suck the poison out of you.,Gabe,0.0
+11216,1,330,And then he passed out.,Gabe,0.0
+11217,1,331,"What? In all the confusion, the snake got loose.",Gabe,0.0
+11218,1,332,"Yeah, backup.",Bob,0.0
+11219,1,333,"Turtlebaum did what? And then while you were at the hospital, The fire department came and the whole school was evacuated for the day.",Gabe,0.0
+11220,1,334,I am a hero because of you.,Gabe,0.0
+11221,1,335,"Thanks, dad.",Gabe,0.0
+11222,1,336,Now I'm gonna need an answer on that turtlebaum question.,Bob,0.0
+11223,1,337,"Well, Charlie, needless to say, I'm still unpublished, But the good news is so is mom.",Teddy,0.0
+11224,1,338,I think we learned a very important lesson.,Amy,0.0
+11225,1,339,I look good even in a trash can.,Amy,0.0
+11226,1,340,"Well, that's one of the lessons.",Teddy,0.0
+11227,1,341,"So - I just feel so empty, So abandoned.",PJ,0.0
+11228,1,342,I guess it'd be safe to say I feel used.,PJ,0.0
+11229,1,343,You know what I'm saying? Been here for 10 minutes.,Teddy,0.0
+11230,1,344,Pay him already.,Teddy,0.0
+11231,1,345,"Hey, see you tomorrow? Sometimes there's nothing left to say but good luck, Charlie.",PJ,0.0
+11232,1,346,Poor me.,Others,0.0
+11233,1,347,"I don't have any toppings, Just cheese.",Others,0.0
+11234,1,348,"You're a loser, cheesy.",Others,0.0
+11235,1,349,"Look at me, all covered in pepperoni.",Others,0.0
+11236,1,350,There must be something good about being so plain.,Others,0.0
+11237,1,351,"Oh yeah, when you think of it, let me know.",Others,0.0
+11238,1,352,Uh-oh.,Others,0.0
+11239,1,353,"Plain old cheese or delicious pepperoni? No! Huh, I guess there is something good.",Bob,0.0
+11240,1,354,About being plain.,Others,0.0
+11241,1,355,It'd be a shame to leave just one.,Bob,0.0
+11242,1,356,I was afraid of that.,Others,0.0

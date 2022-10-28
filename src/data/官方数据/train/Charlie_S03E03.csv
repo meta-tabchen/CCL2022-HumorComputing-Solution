@@ -1,0 +1,390 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+11984,1,0,"Man, this is so great, getting to hang out with you.",Ivy,0
+11985,1,1,I forgot how cool you are.,Ivy,0
+11986,1,2,Aww.,Teddy,0
+11987,1,3,"Ivy, you are so sweet.",Teddy,0
+11988,1,4,I love hanging out with you too.,Teddy,0
+11989,1,5,Shh! I'm on video chat.,Ivy,0
+11990,1,6,"Oh! Hey, Ivy, did you see this email from our guidance counselor? Mm-mm.",Teddy,0
+11991,1,7,"If it's from school, it goes straight to my spam.",Ivy,1
+11992,1,8,"Well, this is about our community service requirement.",Teddy,0
+11993,1,9,"If we don't get this done, we don't graduate next year.",Teddy,0
+11994,1,10,See? This is why I don't open emails from school.,Ivy,1
+11995,1,11,They always stress me out.,Ivy,1
+11996,1,12,"Oh no, it gets worse.",Teddy,0
+11997,1,13,"See, because we waited so long, There are only two jobs left.",Teddy,0
+11998,1,14,The first one includes helping old people ,Teddy,0
+11999,1,15,Pass.,Ivy,0
+12000,1,16,But you didn't let me finish.,Teddy,0
+12001,1,17,You lost me at 'old people.,Ivy,1
+12002,1,18,"' so what's the other one? Interning at k-qui, ",Teddy,0
+12003,1,19,That public radio station.,Teddy,0
+12004,1,20,You mean the one where Everyone talks like this.,Ivy,1
+12005,1,21,Yes.,Teddy,0
+12006,1,22,"Yes, that's the one.",Teddy,0
+12007,1,23,"Man, I hate that station.",Ivy,0
+12008,1,24,"Well, would you rather bathe old people? And we're on the air.",Teddy,1
+12009,2,0,"Hey, Bob, honey, I have a great idea.",Amy,0
+12010,2,1,We should have a baby ,Amy,0
+12011,2,2,No! No more babies! Would you let me finish? I was going to say we should have a baby shower.,Bob,1
+12012,2,3,Oh.,Bob,0
+12013,2,4,You should really run your words together a little faster.,Bob,1
+12014,2,5,Is a baby shower even appropriate for a fifth kid? It is when you gave away all your other baby stuff.,Bob,1
+12015,2,6,Because you were absolutely certain.,Amy,1
+12016,2,7,You weren't gonna have another one.,Amy,1
+12017,2,8,"What are you looking at me for? What are you looking at me for? So Throwing yourself a baby shower, huh? I am not throwing myself a baby shower.",Bob,1
+12018,2,9,That's tacky.,Amy,0
+12019,2,10,I just need.,Amy,0
+12020,2,11,To trick someone into throwing it for me.,Amy,1
+12021,2,12,"But who? Oh, don't worry.",Amy,0
+12022,2,13,I'll get it.,Amy,0
+12023,3,0,Hi.,Others,0
+12024,3,1,Mary Lou wentz.,Amy,0
+12025,3,2,Come on in.,Amy,0
+12026,3,3,"Thank you, Amy.",Others,0
+12027,3,4,I was just talking to Bob about you.,Amy,0
+12028,3,5,Really? - I was just telling him.,Amy,0
+12029,3,6,How you're my very best friend.,Amy,1
+12030,3,7,Oh.,Others,0
+12031,3,8,And you're I'm just here to pick up Ivy.,Others,0
+12032,3,9,"Mary Lou, what's the rush? Have a seat.",Amy,0
+12033,3,10,Take a load off.,Amy,0
+12034,3,11,"Oh, I think I'm just gonna leave you two alone.",Bob,0
+12035,3,12,So what's my best friend up to? That would be you.,Amy,1
+12036,3,13,"Oh, right right.",Others,0
+12037,3,14,"Well, not much.",Others,0
+12038,3,15,Great great.,Amy,1
+12039,3,16,"Well, you know, if you want something to do, You could throw a baby shower for your best friend.",Amy,1
+12040,3,17,That would be me.,Amy,1
+12041,3,18,Oh.,Others,0
+12042,3,19,"A baby shower? Yes, doesn't it sound fun? Okai, I will do all the work.",Amy,1
+12043,3,20,All you have to do is show up and host it.,Amy,0
+12044,3,21,"Okay, I guess I could do that.",Others,0
+12045,3,22,Great.,Amy,0
+12046,3,23,"Oh, and I want it to be a surprise.",Amy,1
+12047,3,24,But you already know about it.,Others,1
+12048,3,25,I mean we're talking about it right now.,Others,1
+12049,3,26,"Oh, Mary Lou, Honey, I'm an incredible actress, try me.",Amy,1
+12050,3,27,"Just, umm, tell me something sad.",Amy,1
+12051,3,28,"Um, your dog is sick.",Others,0
+12052,3,29,What? No! I can't bear it! No! Why? Oh why? Ivy! Hey.,Amy,1
+12053,4,0,Great news! My friend Richie's got a kidney stone.,Bob,1
+12054,4,1,Yes! Yeah! Wait.,PJ,1
+12055,4,2,Why is that great news? Because he can't use his front-row tickets to the hockey game.,Bob,1
+12056,4,3,Which means I get to go and I get to bring one of you.,Bob,0
+12057,4,4,"Oh! Take me! Take me! - Okay, all right.",PJ,0
+12058,4,5,"You guys need to work this out, Because I can't pick a favorite.",Bob,1
+12059,4,6,"I mean, I've got one, I just can't say who it is.",Bob,1
+12060,4,7,Okay.,Gabe,0
+12061,4,8,"Hey, I've got an idea.",Gabe,0
+12062,4,9,"We'll flip a coin, all right? Heads I win, tails you lose.",Gabe,0
+12063,4,10,No no.,PJ,0
+12064,4,11,No no no no no.,PJ,0
+12065,4,12,"I'm not sure what's wrong about that, But I know I'm being tricked.",PJ,1
+12066,4,13,"Okay, I'll think of a number in my head.",Gabe,0
+12067,4,14,And we'll guess and see who comes the closest.,Gabe,0
+12068,4,15,"Gabe, I'm not falling for that again.",PJ,1
+12069,4,16,Fine.,Gabe,0
+12070,4,17,"Out of curiosity, was it six? - Yup.",PJ,1
+12071,4,18,Dang it! Mmm! And now let's take a look.,PJ,0
+12072,5,0,At our national news.,Others,0
+12073,5,1,"Okay, so remember, If we're gonna get these jobs, we've gotta come across as smart.",Teddy,1
+12074,5,2,"So we love books, we love opera, Books about opera, operas about books.",Teddy,1
+12075,5,3,"Right, got it, got it.",Ivy,0
+12076,5,4,Yeah.,Teddy,0
+12077,5,5,Act all brainyish and stuff.,Ivy,1
+12078,5,6,And let me do the talking.,Teddy,1
+12079,5,7,The lower House of the legislature.,Others,0
+12080,5,8,Passed the bill by a vote of 92-68.,Others,0
+12081,5,9,And then it was sent to the upper chamber.,Others,0
+12082,5,10,More to come on this fast-breaking story.,Others,0
+12083,5,11,"This is k-qui, The quiet station.",Others,1
+12084,5,12,"Well, hello, girls.",Others,0
+12085,5,13,Hi.,Teddy,0
+12086,5,14,"I'm Diane vanderweis, Station manager and on-air personality.",Others,0
+12087,5,15,"Oh, I'm Teddy.",Teddy,0
+12088,5,16,Charmed.,Teddy,0
+12089,5,17,And I'm Ivy.,Ivy,0
+12090,5,18,"As William Shakespeare once said, 'hello.",Ivy,1
+12091,5,19,"' Well, I'm sure he did say that at some point.",Others,1
+12092,5,20,"Oh yes, he he did.",Teddy,1
+12093,5,21,We looked it up in a book.,Teddy,1
+12094,5,22,And heard it in an opera.,Ivy,1
+12095,5,23,Okay.,Others,0
+12096,5,24,"So tell me, And you familiar with k.Q.U.I.? ",Others,0
+12097,5,25,"No, what's that? ",Ivy,1
+12098,5,26,"Oh, uh She's kidding.",Teddy,1
+12099,5,27,She knows that k.Q.U.I.,Teddy,1
+12100,5,28,Is the radio station that we are in.,Teddy,0
+12101,5,29,"Right, Ivy? As William Shakespeare once said, 'yes.' Okay.",Ivy,1
+12102,5,30,Have you heard.,Others,0
+12103,5,31,"Our award-winning program 'fruit talk'? Oh, 'fruit talk.' yeah, I love that show.",Others,1
+12104,5,32,I find it both fruity and talky.,Teddy,1
+12105,5,33,"Well, that's great, Because that's the show you're going to be working on.",Others,0
+12106,5,34,"Welcome to the k-qui family, girls.",Others,0
+12107,5,35,"Thank you, Diane.",Teddy,0
+12108,5,36,We are we're really very excited.,Teddy,0
+12109,5,37,Mm-hmm.,Ivy,0
+12110,5,38,Now can you just sign this form for school? I sign that after you do the work.,Ivy,1
+12111,5,39,It was worth a sh*t.,Ivy,1
+12112,6,0,Hey.,Bob,0
+12113,6,1,"Hey, honey.",Amy,0
+12114,6,2,What you doing? ,Bob,0
+12115,6,3,Making out the guest list.,Amy,0
+12116,6,4,For my baby shower.,Amy,0
+12117,6,5,You're inviting your ex-boss Karen? ,Bob,0
+12118,6,6,I thought you didn't like her? ,Bob,0
+12119,6,7,"Honey, I can't stand her.",Amy,1
+12120,6,8,But she married a rich guy.,Amy,1
+12121,6,9,And that means an expensive present.,Amy,1
+12122,6,10,I like presents.,Charlie,1
+12123,6,11,Charlie.,Amy,0
+12124,6,12,"Please, honey, don't be greedy, okay? This party's for mommy.",Amy,1
+12125,6,13,Wait.,Bob,0
+12126,6,14,"Why is Debbie Dooley a question mark? 'cause, hovey, I'm not sure I can handle the voice.",Bob,1
+12127,6,15,I'm Debbie Dooley.,Amy,1
+12128,6,16,"How ya doin'? Oh, it gives me a headache.",Amy,1
+12129,6,17,So you're not inviting her? ,Bob,0
+12130,6,18,"Oh, I'm inviting her.",Amy,0
+12131,6,19,The girl can bake.,Amy,0
+12132,6,20,"Of course, then you have to hear her say 'here's a snickerdoodle just for you-dle.",Amy,1
+12133,6,21,"' Now all I have to do is email this list to Mary Lou, And then she can reply with a bunch of smiley faces.",Amy,1
+12134,6,22,"Oh, that woman is too perky.",Amy,1
+12135,6,23,"Okay, so we've got We got too perky, we got too annoying.",Bob,0
+12136,6,24,And we got somebody that you can't stand.,Bob,1
+12137,6,25,This sounds like an awful party.,Bob,1
+12138,6,26,"Bob, please, these are my dearest friends you're talking about.",Amy,1
+12139,7,0,"Hey, dad.",PJ,0
+12140,7,1,P.J.,Bob,0
+12141,7,2,You're looking well.,Bob,0
+12142,7,3,Mmm.,PJ,0
+12143,7,4,"Hey, great news, Gabe and I worked it out, and we decided.",PJ,0
+12144,7,5,That I would be going to the game with you.,PJ,0
+12145,7,6,Just you.,Bob,0
+12146,7,7,Mm-hmm.,PJ,0
+12147,7,8,That's right.,Bob,0
+12148,7,9,Mmm.,Bob,0
+12149,7,10,Hey.,Gabe,0
+12150,7,11,"Guys, I'm sorry.",Bob,0
+12151,7,12,I can only take one of you.,Bob,0
+12152,7,13,Take me.,PJ,0
+12153,7,14,"No no, take me.",Gabe,0
+12154,7,15,I love you more.,Gabe,1
+12155,7,16,"No, I love you more.",PJ,1
+12156,7,17,"Hey hey hey! - No, I love you more.",Gabe,1
+12157,7,18,I have dreamed of you guys having this argument Just not while you're wearing the same pants.,Bob,1
+12158,8,0,I'm Debbie Dooley.,Others,0
+12159,8,1,How ya doin'? Mary Lou wentz.,Others,0
+12160,8,2,Welcome.,Others,0
+12161,8,3,Sorry I'm late.,Others,0
+12162,8,4,The commute was a bear.,Others,0
+12163,8,5,Oh.,Others,0
+12164,8,6,I thought you lived across the street.,Others,0
+12165,8,7,I do.,Others,0
+12166,8,8,Gotcha! ,Others,0
+12167,8,9,Here comes Amy! ,Others,0
+12168,8,10,Ooh! Everybody hide! Oh my goodness.,Others,0
+12169,8,11,This is so exciting.,Others,0
+12170,8,12,I don't know where to hi Surprise! Wha what is this? A party for me? I I don't know what to say.,Amy,1
+12171,8,13,"Oh my gosh, this is so funny.",Amy,1
+12172,8,14,You guys really got me.,Amy,1
+12173,8,15,and now I'm getting emotional.,Amy,1
+12174,8,16,Aww.,Amy,0
+12175,8,17,A shower? For my fifth baby? It almost seems inappropriate.,Amy,1
+12176,8,18,That's what I thought when I got the invite.,Others,1
+12177,8,19,"Oh, Karen, I'm so glad you could make it.",Amy,0
+12178,8,20,"Oh, well, I've been getting invited to a lot of things lately.",Others,0
+12179,8,21,"I don't know if you've heard, but I married well.",Others,0
+12180,8,22,Whoa.,Amy,0
+12181,8,23,"Yes, that's very sparkly as well.",Amy,0
+12182,8,24,I'm just glad to have your present You present I'm glad you're here.,Amy,0
+12183,8,25,"So, Mary Lou, What fun shower games did you plan? Shower games? You said just show up.",Others,1
+12184,8,26,"Well, a treasure hunt you say? Oh wow.",Amy,1
+12185,8,27,"Oh, Mary Lou, you printed maps and everything? Wow, Mary Lou, you sure know how to throw a shower.",Amy,1
+12186,8,28,"Well, I put a lot of work into it.",Others,0
+12187,8,29,"Yeah, leave the acting to me.",Amy,1
+12188,9,0,"I'm Mike cannagher, and you're listening.",Others,0
+12189,9,1,To a very special edition.,Others,0
+12190,9,2,Of 'fruit talk.,Others,0
+12191,9,3,' It's an apple-palooza.,Others,0
+12192,9,4,"Mmm-mmm! Apples, apples, apples.",Others,0
+12193,9,5,All different kinds of apples.,Others,0
+12194,9,6,Fuji.,Others,0
+12195,9,7,Rome.,Others,0
+12196,9,8,Pink lady.,Others,0
+12197,9,9,Mcintosh! ,Others,0
+12198,9,10,Uh-uh.,Others,0
+12199,9,11,I'll never make it through five hours of this.,Ivy,1
+12200,9,12,"Well, we have to, Ivy.",Teddy,0
+12201,9,13,If we don't get.,Teddy,0
+12202,9,14,"That form signed, we don't graduate.",Teddy,0
+12203,9,15,Red delicious.,Others,0
+12204,9,16,Granny Smith.,Others,0
+12205,9,17,Braeburn.,Others,0
+12206,9,18,"Then again, graduation's overrated.",Teddy,1
+12207,9,19,Now I'm kinda wishing we stayed at the baby shower.,Ivy,0
+12208,9,20,"I mean, it looked boring, but not this boring.",Ivy,1
+12209,9,21,It's gotta get better.,Teddy,0
+12210,9,22,"Wait, we're not getting any sound.",Ivy,0
+12211,9,23,Told you it'd get better.,Teddy,0
+12212,9,24,Maybe the mic's dead.,Ivy,1
+12213,9,25,"No, Mike's dead.",Teddy,1
+12214,9,26,"Mike? - Feeling better, Mike? ",Teddy,0
+12215,9,27,"Oh, I'm fine.",Others,0
+12216,9,28,It's just the apple-palooza Too much excitement.,Others,0
+12217,9,29,Wait.,Ivy,0
+12218,9,30,"Mike, before you go, one more thing ",Ivy,0
+12219,9,31,Could you sign this? ,Ivy,0
+12220,9,32,"Well, you two are gonna have to do the rest of the show.",Others,0
+12221,9,33,"What? - Oh, don't worry.",Others,0
+12222,9,34,It's only four hours.,Others,0
+12223,9,35,"Well, we don't know how to do this.",Ivy,0
+12224,9,36,You know what an apple is? ,Others,1
+12225,9,37,Yes.,Teddy,0
+12226,9,38,You're all set.,Others,1
+12227,10,0,"You wanted to see us, dad? P.J., Gabe, Come on down! ",PJ,0
+12228,10,1,What's all this? ,Gabe,0
+12229,10,2,You're the next contestants.,Bob,0
+12230,10,3,On 'love that Bob.' This is the game where we find out.,Bob,0
+12231,10,4,Who knows the most about Bob.,Bob,1
+12232,10,5,Brought to you by Bob's bugs be gone.,Bob,1
+12233,10,6,And let's meet our contestants! I'm P.J.,Bob,0
+12234,10,7,Gabe.,Gabe,0
+12235,10,8,Love that enthusiasm.,Bob,0
+12236,10,9,All right.,Bob,0
+12237,10,10,"P.J., Gabe, I'm going to ask you a series of questions.",Bob,0
+12238,10,11,"About your father, pest control specialist Bob Duncan.",Bob,0
+12239,10,12,Whoever winds up with the most correct answers.,Bob,0
+12240,10,13,Wins a ticket to a hockey game.,Bob,0
+12241,10,14,Ooh.,Bob,0
+12242,10,15,"All right, let's dive right in.",Bob,0
+12243,10,16,"Question one, ",Bob,0
+12244,10,17,'what is Bob's' ,Bob,0
+12245,10,18,Donuts! Correct! Second question Pizza.,Gabe,1
+12246,10,19,Yeah.,PJ,0
+12247,10,20,Let's move on from the food category.,Bob,0
+12248,10,21,"Okay, here's here's an easy one.",Bob,0
+12249,10,22,'what is Bob's middle name?' Looking for a middle name.,Bob,0
+12250,10,23,"All right, time's up.",Bob,0
+12251,10,24,It's William.,Bob,0
+12252,10,25,Moving on.,Bob,0
+12253,10,26,"'William moving on'? Yeesh, what a terrible name.",PJ,1
+12254,10,27,It's no wonder you never use it.,PJ,1
+12255,10,28,I can't possibly lose this thing.,Gabe,1
+12256,10,29,"Okay, here's another easy one.",Bob,0
+12257,10,30,'how old is Bob?' Fift Hey.,Bob,0
+12258,10,31,Six - No no no.,Gabe,0
+12259,10,32,"Seven - All right, next question! When is Bob's birthday? Oh, come on, you guys.",Bob,0
+12260,10,33,You gotta know this one.,Bob,0
+12261,10,34,January 1st.,Gabe,1
+12262,10,35,January 2nd.,PJ,0
+12263,10,36,January 3rd.,Gabe,0
+12264,10,37,January 4th.,PJ,1
+12265,11,0,"Okay, we are now into our Second hour of apple-palooza.",Teddy,0
+12266,11,1,Still waiting for that first call.,Teddy,0
+12267,11,2,"Oh, just a reminder, 'palooza' means excitement, And 'call' means call.",Teddy,0
+12268,11,3,Anyone.,Teddy,0
+12269,11,4,Anyone at all.,Teddy,0
+12270,11,5,"Oh, hey.",Teddy,0
+12271,11,6,"In fact, why don't we just go crazy, Open it up to foods of all kinds.",Teddy,0
+12272,11,7,"We could talk Vegetables, steak, Sausage, bacon.",Teddy,1
+12273,11,8,"Dad, if you're out there, please call.",Teddy,1
+12274,12,0,"Okay, Charlie, You ready to help mommy open her presents? ",Amy,0
+12275,12,1,"Yes, mommy.",Charlie,0
+12276,12,2,Aww.,Amy,0
+12277,12,3,I know what you're all thinking.,Amy,0
+12278,12,4,I make the most adorable children.,Amy,0
+12279,12,5,And lots of 'em.,Others,1
+12280,12,6,"Okay, before we do presents, I'm just gonna run.",Amy,0
+12281,12,7,To the little mommy's room.,Amy,0
+12282,12,8,Be right back.,Amy,0
+12283,12,9,Oh.,Others,0
+12284,12,10,Oh.,Others,0
+12285,12,11,Hmm.,Others,0
+12286,12,12,Well.,Others,0
+12287,12,13,What a pretty girl you are.,Others,0
+12288,12,14,My name is Karen.,Others,0
+12289,12,15,My mommy doesn't like you.,Charlie,1
+12290,12,16,Oh.,Others,0
+12291,12,17,Oh my.,Others,0
+12292,12,18,Of course she does.,Others,0
+12293,12,19,Why else would she invite me to the party? You're rich.,Charlie,1
+12294,12,20,Oh.,Others,0
+12295,12,21,Mm-hmm.,Others,0
+12296,12,22,"Well, yes, I am rich, Which means I have a large car.",Others,1
+12297,12,23,To put my large present into.,Others,1
+12298,12,24,"And drive away! Well, that was awkward.",Others,1
+12299,12,25,I'm certainly glad your mommy likes me.,Others,0
+12300,12,26,"Huh, Charlie? My mom says you talk funny.",Charlie,0
+12301,12,27,Pardon me? ,Others,0
+12302,12,28,It hurts her head.,Charlie,1
+12303,12,29,Really? ,Others,0
+12304,12,30,Yeah.,Charlie,0
+12305,12,31,"Well, I guess I'll just take my snickerdoodles.",Others,1
+12306,12,32,And skidoodle.,Others,1
+12307,12,33,You're leaving? ,Others,0
+12308,12,34,"Oh, you betcha.",Others,0
+12309,12,35,"Uh, Amy, I think you might wanna hurry it up in there! Mean.",Others,1
+12310,12,36,Stupid.,Charlie,1
+12311,12,37,Smelly.,Charlie,1
+12312,12,38,Bye-bye.,Charlie,1
+12313,13,0,"Okay, the topic is now 'things that exist.",Teddy,0
+12314,13,1,In the world.,Teddy,0
+12315,13,2,"' Wow, looks like we're getting an actual call.",Teddy,0
+12316,13,3,"Hi, and welcome to 'fruit talk.",Teddy,0
+12317,13,4,' who is this? It's Ivy.,Ivy,0
+12318,13,5,You do realize we're the only ones.,Ivy,1
+12319,13,6,"Listening to the show, right? And I'm not even listening.",Ivy,1
+12320,13,7,"Well, we still have three more hours to fill.",Teddy,0
+12321,13,8,"What do you suggest? - How about this? Oh, okay.",Teddy,0
+12322,13,9,"we tried to talk fruit, we tried some conversation 鈾?but the station's so boring, I need a vacation ",Teddy,0
+12323,13,10,"鈾?listen up, people, this station's a loser 鈾?and this whole show was an apple-pa-snooza 鈾?eww, oh ",Ivy,1
+12324,13,11,this station is sad.,Teddy,1
+12325,13,12,This station is tired said the two interns who just got fired.,Others,0
+12326,13,13,Can you sign this first? July 7th.,Ivy,1
+12327,14,0,July 8th.,Gabe,0
+12328,14,1,July 9th.,PJ,0
+12329,14,2,"All right, you know what? This, uh this wasn't as much fun as I thought it was gonna be.",Bob,0
+12330,14,3,I think I'm gonna ask somebody else to go to the hockey game.,Bob,0
+12331,14,4,Whoa.,PJ,0
+12332,14,5,"Wait wait, dad, just let me say something.",PJ,0
+12333,14,6,July 10th.,PJ,1
+12334,15,0,This shower was a total disaster.,Amy,0
+12335,15,1,I guess Charlie understands more than I thought.,Amy,1
+12336,15,2,"I'm sorry, mama.",Charlie,0
+12337,15,3,Oh.,Amy,0
+12338,15,4,"Honey, it's okay.",Amy,0
+12339,15,5,It's okay.,Amy,0
+12340,15,6,It's not your fault.,Amy,0
+12341,15,7,It's not anybody's fault.,Amy,0
+12342,15,8,"Well, actually - It's not anybody's fault, Mary lo ",Amy,1
+12343,15,9,Okay.,Others,0
+12344,15,10,Now would you like a cup of tea? ,Amy,0
+12345,15,11,"Yes, I would love that.",Others,0
+12346,15,12,Okay.,Amy,0
+12347,15,13,"Okay, spill it, Charlie.",Others,0
+12348,15,14,What did she say about me? Maybe you should come with me.,Others,1
+12349,16,0,"Well, Charlie, Ivy and I are looking for a new internship, And oh, I guess we have to be more careful.",Teddy,0
+12350,16,1,With what we say around you.,Teddy,0
+12351,16,2,"Otherwise, people might find out they're too perky.",Others,0
+12352,16,3,"Are you here to pick up Ivy, Mrs. Wentz? No, I'm just really annoyed.",Teddy,1
+12353,16,4,"All righty, then.",Teddy,0
+12354,16,5,"Okay, Teddy, come on! Let's go.",Bob,0
+12355,16,6,"So I'm going to my first hockey game, 'cause I was the only kid who knew when dad's birthday is.",Bob,1
+12356,16,7,"Okay, running a little late.",Bob,0
+12357,16,8,Gonna have to paint your face in the car.,Bob,0
+12358,16,9,"Yay, I'm the winner.",Teddy,1
+12359,16,10,"Wish me good luck, Charlie.",Teddy,0
+12360,17,0,"Hey, mom.",Gabe,0
+12361,17,1,"Oh, there's my little tyke.",Amy,0
+12362,17,2,"How ya doin'? Mom, you feeling okay? Super good and gettin' better.",Gabe,0
+12363,17,3,Why are you talking like that? Like what? Oh funny thing.,Gabe,0
+12364,17,4,I was taking a wax today with Debbie Dooley.,Amy,0
+12365,17,5,And we found a magic potion.,Amy,0
+12366,17,6,"Well, naturally we each took a sip, But nothing happened.",Amy,0
+12367,17,7,"Uh, mom, Something did happen.",Gabe,1
+12368,17,8,We need to fix this.,Gabe,1
+12369,17,9,"Nothing to fix, Mr. Bossy pants.",Amy,0
+12370,17,10,"Snickerdoodle? Oh yeah, you're right.",Amy,1
+12371,17,11,We are good.,Gabe,0
+12372,17,12,Are we? You betcha.,Amy,0

@@ -1,0 +1,292 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+9957,1,0,Looking forward to it.,bob,0
+9958,1,1,"Okay, see you then, buddy.",bob,0
+9959,1,2,Clump nugget! - Who's a clump nugget? - Mike gogan.,Amy,0
+9960,1,3,"Uh-oh, must be time for bowling with the gogans.",Teddy,0
+9961,1,4,"Don't you mean losing to the gogans? Hey, come on, let's have a positive attitude.",PJ,0
+9962,1,5,"I mean, sure we've lost to them five years in a row, And sure we've never come within 50 pins.",bob,1
+9963,1,6,Sure.,Teddy,0
+9964,1,7,Dad gives the worst pep talks in history.,Teddy,0
+9965,1,8,"Hey, that's not the way winners talk.",Amy,0
+9966,1,9,"Mom, if I knew how winners talked, my name would be Teddy gogan.",Teddy,1
+9967,1,10,"Well now, I don't know if I ever told you kids this, But I was the star of the southwest Denver.",Amy,0
+9968,1,11,Women's bowling team.,Amy,0
+9969,1,12,"You were? Oh, gee, I'd love to hear about that.",Gabe,0
+9970,1,13,Seems like you were on every club and team at that school.,PJ,0
+9971,1,14,How did you have time for classes? I'm not even sure that school had classes.,PJ,0
+9972,1,15,"To me, it was more of an activity center.",Amy,0
+9973,1,16,"Dad, I'm sorry to say this, But I think I'm too busy for bowling this year.",Teddy,0
+9974,1,17,"Oh, man.",bob,0
+9975,1,18,I was thinking Gabe could replace me.,Gabe,0
+9976,1,19,"Okay, I guess we'll just muddle through, But believe me.",bob,0
+9977,1,20,You're gonna be missed.,bob,0
+9978,1,21,Thanks for understanding.,Teddy,0
+9979,1,22,"Thanks, guys.",Teddy,0
+9980,1,23,Yes! We finally have a chance to win! Yeah! Why are your arms in the air? We're Stretching.,bob,1
+9981,1,24,Why are you stretching? Because we're happy you're not bowling this year.,PJ,0
+9982,2,0,"鈾?- You ready, Ivy? - Ready.",Teddy,0
+9983,2,1,"This is Teddy Duncan performing the national anthem oh, say can you see 鈾?by the dawn's early light 鈾?what so proudly we hail 鈾?at the twilight's 鈾?last gleaming 鈾?whose broad stripes and bright st 鈾?",Teddy,0
+9984,2,2,And that was Mary Lou wentz., Teddy,0
+9985,2,3,"I'm sorry, Teddy.",Others,0
+9986,2,4,I just love that song.,Others,0
+9987,2,5,It always moves me.,Others,0
+9988,2,6,Can it move you right out of the room? Why are you recording it? It's for this contest the winner gets a car.,lvy,1
+9989,2,7,And the winner also gets to sing the national anthem.,lvy,0
+9990,2,8,At a Denver nuggets game.,lvy,0
+9991,2,9,And they win a car., Teddy,0
+9992,2,10,"Well, good luck.",Others,0
+9993,2,11,I sure do love that song.,Others,0
+9994,2,12,"Yeah, you know, Mrs.",Teddy,0
+9995,2,13,"Wentz, I'd suggest that you enter the contest, But I wanna win a car.",Teddy,0
+9996,2,14,"T, my mom's not interested.",lvy,0
+9997,2,15,"Who said I'm not interested? You know, when I was younger, It was my dream to become a professional singer.",Others,0
+9998,2,16,"Really? What happened? Oh, I got married, then we had Ivy.",Others,0
+9999,2,17,"So you're blaming me? I k*ll your dreams? Of course not, sweetie.",lvy,0
+10000,2,18,It was you and your father.,Others,1
+10001,2,19,"If we both entered, we'd have two chances to win.",Teddy,0
+10002,2,20,"I would love to enter the contest, Teddy, But I don't need another car.",Others,0
+10003,2,21,Exactly.,Teddy,0
+10004,2,22,"If I win, I get the car.",Teddy,0
+10005,2,23,"If you win, I get the car.",Teddy,1
+10006,2,24,I could use a car.,lvy,0
+10007,2,25,Stay out of this.,Teddy,1
+10008,3,0,"Hey, mom, whatcha doing? Well, guess who just joined her very first social network? That's right.",Amy,0
+10009,3,1,I'm on buddy page.,Amy,1
+10010,3,2,So buddy page is officially not cool anymore.,Teddy,0
+10011,3,3,What? - Nothing.,Amy,0
+10012,3,4,"So if you ever wanna send me a message, ims, whatevs, Just hit me up.",Amy,0
+10013,3,5,"Ooh, look who else is on here Grandma! Yep, definitely gotta delete my account.",Teddy,1
+10014,3,6,'buddy suggestion P.J.,Amy,0
+10015,3,7,Duncan.,Amy,0
+10016,3,8,' I don't know.,Amy,0
+10017,3,9,Should I be buddies with P.J.? He would love that.,Amy,0
+10018,3,10,"Yeah, and after we're buddies, I could post one of his baby pictures on his page.",Amy,0
+10019,3,11,Why post one when you can post them all? That is a cute one.,Teddy,1
+10020,3,12,"Okay, 'send P.J.",Amy,0
+10021,3,13,Duncan a buddy request.,Amy,0
+10022,3,14,"' Let's do it, Charlie.",Amy,0
+10023,3,15,"Okay, hit that button right there.",Amy,0
+10024,3,16,'sent.,Amy,0
+10025,3,17,"' ha ha! Good job, Charlie.",Amy,0
+10026,3,18,You did it.,Amy,0
+10027,3,19,Hey.,Amy,0
+10028,4,0,New buddy request.,PJ,0
+10029,4,1,From Mom.,PJ,1
+10030,4,2,No thank you.,PJ,1
+10031,5,0,You're never gonna believe this.,Teddy,0
+10032,5,1,What? - Yay! Whoo! I won the contest! Is that what you were gonna say? No.,Teddy,0
+10033,5,2,"I was gonna say I won a car! Whoo! I've got to figure out what to wear! Isn't it great? Sure, for now.",Teddy,0
+10034,5,3,"'for now'? What's that supposed to mean? T, you don't know my mom.",Teddy,0
+10035,5,4,Something always goes wrong.,lvy,0
+10036,5,5,My dad and I call it 'the blip.,lvy,1
+10037,5,6,"' - The blip? - Yeah, With Mary Lou wentz, there's always a blip.",lvy,1
+10038,5,7,I've got it! I'll wear an American flag dress.,Others,0
+10039,5,8,"And a red, white and blue hat.",Others,0
+10040,5,9,With sparklers on top.,Others,0
+10041,5,10,"So is that the blip? No, that's just crazy.",lvy,1
+10042,6,0,"All right, practice time.",bob,0
+10043,6,1,Let's see what you got.,bob,0
+10044,6,2,"Oh, yes! - Yeah! Yeah! Ah, great.",bob,0
+10045,6,3,Here comes Mike gogan.,bob,0
+10046,6,4,And I'll be in the arcade.,Gabe,0
+10047,6,5,"Bob! - Hey, Mike! Always a pleasure b*at you.",othes,1
+10048,6,6,"I mean, meeting you.",othes,0
+10049,6,7,"No, I mean b*at you.",othes,1
+10050,6,8,"Well, Mike, if you're so sure you're gonna b*at us, What say we make this interesting? Say 50 bucks.",bob,0
+10051,6,9,Let's make it $100.,othes,0
+10052,6,10,Let's make it $500.,bob,0
+10053,6,11,"Let's make it $1,000.",othes,0
+10054,6,12,Let's go back to $50.,bob,1
+10055,6,13,Deal.,othes,0
+10056,7,0,"Gabe, let's go.",bob,0
+10057,7,1,In a minute.,Gabe,0
+10058,7,2,Gotta get the mystery box.,Gabe,0
+10059,7,3,What's in it? - Let me repeat the name.,Gabe,0
+10060,7,4,Mystery box.,Gabe,1
+10061,7,5,You know it's probably something stupid like a whistle.,bob,0
+10062,7,6,"A whistle? Dad, I know a kid from school that knows a kid.",Gabe,0
+10063,7,7,Whose cousin won a mystery box.,Gabe,0
+10064,7,8,And do you wanna know what was in it? An mp3 player.,Gabe,0
+10065,7,9,"Yeah? Well, I know a kid who has a dad who doesn't care.",bob,1
+10066,7,10,Let's go.,bob,0
+10067,8,0,"Hey, mom.",PJ,0
+10068,8,1,"Hey, P.J., you know what? You must have hit the wrong key on your buddy page.",Amy,0
+10069,8,2,Because you accidentally declined my buddy request.,Amy,0
+10070,8,3,"No, I meant to do that.",PJ,1
+10071,8,4,"What? You don't wanna be my buddy? Why not? Mom, I really love you, but it's kind of lame.",PJ,0
+10072,8,5,"See, buddy page is for interacting with my friends.",PJ,0
+10073,8,6,And cute girls who would never otherwise talk to me.,PJ,1
+10074,8,7,"Okay, it's lame to be buddies with the woman who gave birth to you? Now you're getting it.",Amy,0
+10075,8,8,"But, P.J., if we're buddies, We can post fun stuff on each other's page.",Amy,0
+10076,8,9,And then I can find out about what's going on in your life.,Amy,0
+10077,8,10,You are so good at explaining why this is a bad idea.,PJ,1
+10078,8,11,Thank you.,PJ,0
+10079,8,12,"Hey, Charlie? - Yeah? If you were on buddy page, you'd be my buddy, wouldn't you? No, mama.",Amy,0
+10080,9,0,Here I come! Mrs.,Others,0
+10081,9,1,"Wentz, that is quite an outfit.",Teddy,0
+10082,9,2,Wait till you see the hat.,Others,0
+10083,9,3,The batteries are still charging.,Others,0
+10084,9,4,"How's my face? Do I look okay? Yeah, you look great.",Others,0
+10085,9,5,I can't wait to see you on the jumbotron.,Teddy,0
+10086,9,6,Jumbo-what? The giant screen at the arena.,Teddy,0
+10087,9,7,"How else are 20,000 fans gonna be able to see you? All looking at me? - Are you okay, mom? - I did not think this through.",Teddy,0
+10088,9,8,Why are you putting down your purse? Because I'm staying here where there is no jumbotron.,Teddy,0
+10089,9,9,"You're not going? - No, I am not.",Teddy,0
+10090,9,10,"No, okay, it's totally normal to be a little bit nervous.",Teddy,0
+10091,9,11,So what we're gonna do is we're gonna drive to the arena.,Teddy,0
+10092,9,12,You're gonna sing the song.,Teddy,0
+10093,9,13,I'm gonna win a car.,Teddy,0
+10094,9,14,Everyone's gonna be happy.,Teddy,0
+10095,9,15,Whoa! No.,Teddy,0
+10096,9,16,"That was the sound of a lock, wasn't it? - Yes, it was.",Teddy,0
+10097,9,17,"Not coming out, is she? - No, she's not.",Teddy,0
+10098,9,18,Blip? - Blip.,Teddy,0
+10099,9,19,"Mrs.Wentz, you wanna come out now? No, thank you.",Teddy,0
+10100,9,20,"If you don't come out, your dream won't come true.",Teddy,0
+10101,9,21,"The dream where you get a car? Yeah, yeah, that's the one.",Others,1
+10102,9,22,"Ivy, say something.",Teddy,0
+10103,9,23,"Can't blame this one on me and dad, can you? Okay, Mrs.",lvy,1
+10104,9,24,"Wentz, You made a commitment.",Teddy,0
+10105,9,25,To show up and sing the national anthem.,Teddy,0
+10106,9,26,Now you are refusing.,Teddy,0
+10107,9,27,To honor that commitment.,Teddy,0
+10108,9,28,"To our nation, the United States of America.",Teddy,0
+10109,9,29,Now is that what you wanna do? Let down the entire country? Okay.,Teddy,0
+10110,10,0,"Hey, mom, how you doing? To be honest, I'm kind of upset.",Gabe,0
+10111,10,1,Great great.,Gabe,0
+10112,10,2,Wanna hand me that remote? P.J.,Gabe,0
+10113,10,3,Rejected me as a buddy on buddy page.,Amy,0
+10114,10,4,Makes me think he's hiding something.,Amy,0
+10115,10,5,He's a teenager.,Gabe,0
+10116,10,6,Of course he's hiding something.,Gabe,0
+10117,10,7,Not like us preteens.,Gabe,1
+10118,10,8,We're an open book.,Gabe,0
+10119,10,9,I wish there was some way I could view his buddy page.,Amy,0
+10120,10,10,There is.,Gabe,0
+10121,10,11,I could confirm you as a buddy.,Gabe,0
+10122,10,12,"And since I'm P.J.'s buddy, You'd be able to look at his page and he'll never know.",Gabe,0
+10123,10,13,"You would do that for me? Sure, I'll just delete some things, confirm you, And you're all set.",Gabe,1
+10124,10,14,It is so nice having a child.,Amy,0
+10125,10,15,Who will help me spy on my other children.,Amy,0
+10126,10,16,I can't take all the credit.,Gabe,0
+10127,10,17,I had to get my evil genes from someone.,Gabe,1
+10128,11,0,"Awww! Mary Lou wentz, I am done fooling around.",Teddy,0
+10129,11,1,Now I want you to unlock that door.,Teddy,0
+10130,11,2,"And get your butt in the car now! Teddy, that's funny.",Teddy,0
+10131,11,3,Do it again.,Others,1
+10132,11,4,It was pretty good.,lvy,0
+10133,11,5,You know what? I give up.,Teddy,0
+10134,11,6,"I'm sorry, Teddy.",Others,0
+10135,11,7,I just can't sing in front of all those people.,Others,0
+10136,11,8,"Wait, what if you didn't have to sing.",Teddy,0
+10137,11,9,In front of all those people? I'm listening.,Teddy,0
+10138,11,10,"Okay, I have an idea, but we really do have to go, So can I explain it to you in the car? Will you trust me? - Okay, I trust you, Teddy.",Teddy,0
+10139,11,11,Okay.,Others,0
+10140,11,12,Teddy gets the trust.,lvy,0
+10141,11,13,Teddy gets the car.,lvy,1
+10142,11,14,"Ivy, get my purse.",Others,0
+10143,11,15,Ivy gets the purse.,lvy,0
+10144,12,0,"Whoa, yeah! Good roll, honey.",Others,0
+10145,12,1,"Take that, Duncan.",Others,0
+10146,12,2,"You're up, honey.",bob,0
+10147,12,3,Okay.,Amy,0
+10148,12,4,Does she have to do this every time? Don't talk or she will start over.,PJ,0
+10149,12,5,"Come on, precious.",Amy,0
+10150,12,6,"Mama needs you now, baby girl.",Amy,0
+10151,12,7,Yeah! - Yeah! - Whoo! - All right! Let's keep it going.,bob,0
+10152,12,8,"Gabe, get ready.",bob,0
+10153,12,9,Your turn's coming up.,bob,0
+10154,12,10,"Where is Gabe? Gabe, come on.",bob,0
+10155,12,11,It's your turn.,bob,0
+10156,12,12,My turn to what? - To bowl.,Gabe,0
+10157,12,13,"Is that still going on? Gabe, look, this is just a silly game.",Gabe,1
+10158,12,14,Your family is counting on you.,bob,0
+10159,12,15,"Thanks, dad, since you were talking, I grabbed a bunny.",Gabe,0
+10160,12,16,I got 12 of these.,Gabe,0
+10161,12,17,Gimme another token.,Gabe,0
+10162,12,18,"No, you're cut off.",bob,0
+10163,12,19,Let's go.,bob,0
+10164,12,20,I just gotta get this mystery box.,Gabe,0
+10165,12,21,"No, come on, dad! Yes! - You got a strike.",PJ,0
+10166,12,22,"Yeah, yeah, whatever.",Gabe,0
+10167,12,23,Come here.,Gabe,0
+10168,12,24,"Hey, how you doing? Good.",Gabe,0
+10169,12,25,Got any tokens? No.,Gabe,0
+10170,12,26,"Come on, dude, help a brother out.",Gabe,0
+10171,12,27,I don't have any tokens.,PJ,0
+10172,12,28,"You got money, right? I wanna sell you some valuable information.",Gabe,0
+10173,12,29,What kind of valuable information? Let me see the money.,Gabe,1
+10174,12,30,Mom's looking at your buddy page to spy on you.,Gabe,0
+10175,12,31,"What? That's just Mom's looking at my buddy page, huh? Bet I could have some fun with this.",PJ,0
+10176,12,32,First I better delete some stuff.,PJ,1
+10177,13,0,It's almost time to go.,Teddy,0
+10178,13,1,"Are you okay? I'm okay, but are you sure this is going to work? Totally.",Others,0
+10179,13,2,You're gonna be awesome.,Teddy,0
+10180,13,3,Speaking of awesome.,lvy,1
+10181,13,4,"Yeah, I think we're gonna go.",Teddy,0
+10182,13,5,Without the hat.,Teddy,0
+10183,14,0,Yes! - Yes yes! Yes! All Gabe has gotta do is just knock down two pins.,bob,0
+10184,14,1,We win.,bob,0
+10185,14,2,"You can do that in your sleep, right, Gabe? What happened? I ran out of tokens.",bob,0
+10186,14,3,And now my arm's stuck.,Gabe,0
+10187,14,4,"Okay, I'll scoot over and you reach up in there.",Gabe,0
+10188,14,5,And get that box.,Gabe,1
+10189,14,6,"Little problem, Duncan? Hey, man, you got any tokens? If your kid can't bowl, the Duncans forfeit.",Others,0
+10190,14,7,"Hey, we are not gonna forfeit.",bob,0
+10191,14,8,"Well, we only have the lane for another 10 minutes.",Others,0
+10192,14,9,"Where are you going to find another Duncan? It's a long sh*t, But there's one Duncan left.",bob,0
+10193,14,10,"Okay, Charlie, the whole family's counting on you.",bob,0
+10194,14,11,"All you have to do is just knock down two pins, And we're not gonna be losers anymore.",bob,0
+10195,14,12,"Okay, go ahead.",bob,0
+10196,14,13,Go ahead.,Amy,0
+10197,14,14,Go ahead.,bob,0
+10198,14,15,"Whoa whoa! Okay, it's okay.",Amy,0
+10199,14,16,Shake it off.,Amy,0
+10200,14,17,All right.,Amy,0
+10201,14,18,We're down to our last ball.,Amy,0
+10202,14,19,It's a very special ball.,Amy,0
+10203,15,0,"Ladies and gentlemen, Please rise for the singing of our national anthem, Which will be performed tonight by Denver housewife mary Lou wentz! oh 鈾?say can you see 鈾?by the dawn's early light 鈾?what so proudly 鈾?we hailed 鈾?at the twilight's 鈾?last gleaming 鈾?We'll take that.",Others,0
+10204,16,0,"Good job, Charlie.",bob,0
+10205,17,0,and the home 鈾?of the 鈾?brave 鈾?yeah! 鈾?I said the home 鈾?I said the home 鈾?of the brave.,Others,0
+10206,18,0,"Okay, Charlie, mommy looked on P.J.'s buddy page.",Amy,0
+10207,19,0,And found out they're throwing a surprise party for me.,Amy,0
+10208,19,1,"Why, mama? - Well, as P.J.",Charlie,0
+10209,19,2,"Put it, It's a spontaneous celebration of the world's best mom.",Amy,0
+10210,19,3,"Now when we walk in, don't forget to act surprised.",Amy,0
+10211,19,4,"Hi, everybody, I'm home.",Amy,0
+10212,19,5,They must be in the kitchen.,Amy,0
+10213,19,6,"Hi, everybody, I'm home.",Amy,0
+10214,19,7,The basement.,Amy,0
+10215,19,8,Definitely the basement.,Amy,0
+10216,19,9,"Hi, everybody, I'm home.",Amy,0
+10217,19,10,"Hey, mom.",PJ,0
+10218,19,11,"Where's the Where's the what? I mean, what are you talking about? I'm talking about you snooping on my buddy page.",PJ,0
+10219,19,12,Anything you wanna say to me? I hate the Internet.,PJ,0
+10220,20,0,"Well, Charlie, Mary Lou sang the national anthem, And I won the car.",Teddy,0
+10221,20,1,"Well, you won the car.",Teddy,1
+10222,20,2,Seems the contest was sponsored by a toy company.,Teddy,0
+10223,20,3,I really gotta read the fine print.,Teddy,0
+10224,20,4,"So not only did you win the car, You also won the bowling tournament.",Teddy,0
+10225,20,5,I don't know why I'm leaving these video diaries for you.,Teddy,0
+10226,20,6,You should be leaving them for me.,Teddy,0
+10227,20,7,"Good luck, Teddy, huh? I'm kidding.",Teddy,0
+10228,20,8,"Good luck, Charlie.",Teddy,0
+10229,21,0,I can't wait to open this mystery box.,Gabe,0
+10230,21,1,There could be anything in here.,Gabe,0
+10231,21,2,"A whistle?! I spent 500 tokens on a whistle? Hello, master.",Gabe,0
+10232,21,3,Whoa! A genie.,PJ,0
+10233,21,4,"Hey, you look kind of familiar.",PJ,0
+10234,21,5,People say I look like Brad pitt.,Others,0
+10235,21,6,I'm here to grant you three wishes.,Others,0
+10236,21,7,You have one minute.,Others,0
+10237,21,8,"Go! Okay, I wish I knew what to ask for.",PJ,0
+10238,21,9,That's one.,Others,1
+10239,21,10,"That counted? Man, I wish I hadn't done that.",PJ,0
+10240,21,11,That's two.,Others,1
+10241,21,12,Okay.,PJ,0
+10242,21,13,"Ugh! Okay, really gotta be careful on this one.",PJ,0
+10243,21,14,"Hey, wait, what's going on? - Shh! Not now, not now.",Gabe,0
+10244,21,15,"But, P.J.",Gabe,0
+10245,21,16,I wish you've leave me alone.,PJ,0
+10246,21,17,And that's three.,Others,1
+10247,21,18,Still got a whistle though.,PJ,0

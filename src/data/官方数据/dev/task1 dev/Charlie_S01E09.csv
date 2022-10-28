@@ -1,0 +1,284 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+302,1,0,"Hey, Charlie! It's your big sister Teddy with the latest installment of my video diary.",Teddy,0
+303,1,1,"Teddy, turn that thing off.",Amy,0
+304,1,2,It's breakfast time.,Teddy,0
+305,1,3,In a minute! That noise you hear is our neighbor's annoying new dog.,Teddy,0
+306,1,4,"Ever since she got that little rat, - none of us have gotten any sleep.",Teddy,0
+307,1,5,"Teddy, I asked you - to do something.",Amy,0
+308,1,6,And I asked for a minute! Your breakfast is getting cold.,Teddy,0
+309,1,7,"Well, then just put it back in the toaster! Sorry you had to see that.",Teddy,0
+310,1,8,There is no prize in here.,PJ,0
+311,1,9,There's supposed to be a prize.,PJ,0
+312,1,10,You took it out yesterday.,Teddy,0
+313,1,11,"I know, but I put it back in so I'd have something to look forward to.",PJ,0
+314,1,12,"Bob, where are you? - Can I have a minute?! - Well, hurry up! You're missing quality family time! Gabe, stop hitting the toaster.",Amy,0
+315,1,13,But it's taking forever.,Gabe,0
+316,1,14,I don't even remember what I put in here.,Gabe,1
+317,1,15,"Okay, Charlie, I will get you your juice In just a minute, honey.",Amy,0
+318,1,16,Whoa! Even Charlie's in a mood.,Teddy,1
+319,1,17,Morning.,Bob ,0
+320,1,18,"Bob, did you forget to do something? - I'll kiss you tonight.",Amy,0
+321,1,19,No.,Amy,0
+322,1,20,You only shaved half your face.,Amy,0
+323,1,21,"Pick, pick, pick.",Bob ,0
+324,1,22,Maybe this is how I like to wear it now.,Bob ,0
+325,1,23,"Well, it looks ridiculous.",Amy,0
+326,1,24,What if I decided just to brush half my hair? I thought you already made that decision.,Amy,0
+327,1,25,"Oh, you are going down! Wait! Stop! Stop! Do you guys hear that? - I don't hear anything.",Teddy,0
+328,1,26,Exactly.,Teddy,0
+329,1,27,The barking stopped.,Teddy,0
+330,1,28,"Oh, come on! - Really? Well, at least Charlie's getting some sleep.",Amy,0
+331,1,29,"Why did Mrs.Dabney have to get that stupid dog, anyway? Why couldn't she get something that made less noise Like a fish? Fish don't make any noise.",PJ,0
+332,1,30,I wish you were a fish.,PJ,1
+333,1,31,"Can we all agree that thing is a pest? Because as an exterminator, it is my job To take care of pests.",Bob ,0
+334,1,32,"When you say 'take care of,' I know you actually mean k*ll.",Gabe,0
+335,1,33,"Which I'm totally fine with, by the way.",Gabe,0
+336,1,34,I'll just go over to Mrs.,Bob ,0
+337,1,35,Dabney's and demand She keep the dog in at night.,Bob ,0
+338,1,36,Or we could just try being friendly.,Amy,0
+339,1,37,"Friendly? With Mrs.Dabney? What is this, crazy idea day? Okay, look, I am serious.",PJ,0
+340,1,38,How about I invite her over tonight for a cup of coffee and I bake a pie? I thought you wanted this to go well.,Amy,0
+341,1,39,"Okay, we'll have Mrs.Dabney over, but I want everybody on their best behavior, especially you, mister.",Bob ,0
+342,1,40,I don't think I have a best behavior.,Gabe,0
+343,1,41,"Yeah, well, you'd better find one before tonight.",Bob ,0
+344,1,42,"In her defense, Mrs.",Amy,0
+345,1,43,Dabney wasn't always like this.,Amy,0
+346,1,44,She actually used to be kind of nice.,Amy,0
+347,1,45,"When was that? Let's see, how old are you? All right, got my pie.",Amy,1
+348,2,0,What do you want? ,Dabney,0
+349,2,1,"We don't want anything, Mrs.Dabney.",Amy,0
+350,2,2,"Yeah, we're just being neighborly.",Teddy,0
+351,2,3,What did he do? I didn't do anything.,Dabney,0
+352,2,4,"I don't like you, Gabe.",Dabney,0
+353,2,5,"But I like you, Mrs.Dabney.",Gabe,0
+354,2,6,"In fact, I'd like to take care of you.",Gabe,1
+355,2,7,Out.,Bob ,0
+356,2,8,"Mrs.Dabney, so you have a new dog A little chihuahua.",Amy,0
+357,2,9,So that's what this is about.,Dabney,0
+358,2,10,It's not not what this is about.,PJ,0
+359,2,11,Dog's got a name Hercules.,Dabney,0
+360,2,12,That's funny because Hercules is like so big and strong And your dog is so Just being neighborly.,Teddy,1
+361,2,13,"Look, the thing is, hercules has a tendency to bark A lot All night long.",Bob ,0
+362,2,14,"Right, so we were wondering if maybe you could bring him in before bedtime.",Amy,0
+363,2,15,"Oh, no! Fresh air's good for dogs.",Dabney,0
+364,2,16,"Well, sleep is good for people.",Bob ,0
+365,2,17,I had that same thought After every one of your many babies arrived.,Dabney,0
+366,2,18,We were talking about the dog.,Bob ,0
+367,2,19,"Well, since we're airing our grievances We begged her not to make that pie.",Dabney,0
+368,2,20,I was gonna say that maybe there's a little something You can do for me.,Dabney,0
+369,2,21,"Oh, Mrs.Dabney, we've already told you, We're not sending Gabe to military school.",Amy,0
+370,2,22,"But if it's a deal-breaker, we are willing to send him To other places.",Bob ,1
+371,2,23,I was talking about your oak tree out back.,Dabney,0
+372,2,24,There's a branch that hangs over my yard Always dropping acorns and making a big mess.,Dabney,0
+373,2,25,"Well, no problem.",Bob ,0
+374,2,26,"Dog goes in, branch comes off.",Bob ,0
+375,2,27,We got a deal? - We have a deal.,Bob ,0
+376,2,28,"Dad, that branch holds our treehouse.",Teddy,0
+377,2,29,"Well, so what? You kids haven't been up there in years.",Bob ,0
+378,2,30,I'm confused.,PJ,0
+379,2,31,"Is Gabe going somewhere or not? You know, if that treehouse comes down, That'll be even better More sunlight for my vegetable garden.",PJ,0
+380,2,32,Start eating healthier Might even make my goal Of living to be 100.,Dabney,0
+381,2,33,"Mrs.Dabney, don't you want to stay and finish your pie? You have a good night, now.",Amy,0
+382,2,34,She's gone? But I didn't get my hug.,Gabe,0
+383,2,35,"Well, at least we'll finally be able To get some sleep.",Bob ,0
+384,2,36,Too bad we have to lose our treehouse.,Teddy,0
+385,2,37,We have a treehouse? - Yeah.,Gabe,0
+386,2,38,Teddy and I used to go up there all the time when we were little.,PJ,0
+387,2,39,"Yeah, we had so much fun up there.",Teddy,0
+388,2,40,Are you kidding me? All you two ever did up there was fight.,Amy,0
+389,2,41,That's not how I remember it.,PJ,0
+390,2,42,We had great times.,PJ,0
+391,2,43,"Yeah, I mean, except for, you know, all those times That you fell out the window.",Teddy,1
+392,2,44,"Oh, I enjoyed those too.",PJ,0
+393,2,45,"How did I not know we had a treehouse? Well, 'cause it's kind of overgrown.",Gabe,0
+394,2,46,I built it that summer we went to Hawaii.,Bob ,0
+395,2,47,You guys went to Hawaii?! Yeah.,Gabe,0
+396,2,48,We used to do all kinds of fun stuff.,PJ,0
+397,2,49,"When did that stop? - Well, how old are you? ",Gabe,1
+398,3,0,"Check it out, Charlie.Here's our old treehouse.",Teddy,0
+399,3,1,"Oh, look.",Teddy,0
+400,3,2,Here's your old tea party set And all our board games.,Teddy,0
+401,3,3,Oh! Wait And look at this.,Teddy,0
+402,3,4,These are the chinese handcuffs That pj always used to get stuck in.,Teddy,0
+403,3,5,"Uh A little help? Oh! Baby booboo! Oh my goodness, I thought I lost her.",PJ,0
+404,3,6,It's been so many years.,Teddy,0
+405,3,7,And those years have not been kind.,PJ,1
+406,3,8,"Yeah, I remember.",Teddy,0
+407,3,9,I used to come up here And pretend booboo was a real baby.,Teddy,0
+408,3,10,"I was a very good mother, huh? Until you left your baby in a treehouse for 10 years.",PJ,1
+409,3,11,"Oh, whoa, look! Here's something you carved into the wall.",Teddy,0
+410,3,12,P.J.hearts P.B.' Who's P.B.? Peanut butter.,Teddy,0
+411,3,13,It was a simpler time.,PJ,0
+412,3,14,You know what stinks? When they premix it with the jelly.,PJ,1
+413,3,15,"No, it stinks that Charlie's never gonna get to use this treehouse.",Teddy,0
+414,3,16,She'd probably love it up here.,PJ,0
+415,4,0,"Hey, kids! Come on down now! P.J., we have to save this place for Charlie.",Bob ,0
+416,4,1,"Well, I wish we could, but Dad made a deal.",PJ,0
+417,4,2,"Yeah well, deals are made to be broken.",Teddy,0
+418,4,3,"Right! The golden rule! - Hey, kids! - Hey, Dad! We changed our minds.",PJ,0
+419,4,4,We don't want to lose the treehouse after all.,Teddy,0
+420,4,5,It's too late.,Bob ,0
+421,4,6,I already shook hands on it.,Bob ,0
+422,4,7,"Well, can we at least talk about this? Yeah, maybe take a family vote? This isn't a democracy, guys.",Teddy,0
+423,4,8,"And by the way, even if it was, The guy with the chainsaw Always wins.",Bob ,1
+424,4,9,Come on.,Bob ,0
+425,4,10,Come on down.,Bob ,0
+426,4,11,"No! - No? - No, we're not leaving.",Teddy,0
+427,4,12,Yeah! We're staying right here.,PJ,0
+428,4,13,We're fighting the power! Get down here now or you're grounded! You can't ground someone who's not actually on the ground.,PJ,0
+429,4,14,"Yeah! Right on, P.J.",Teddy,0
+430,4,15,"Fight the power! You know what? Good luck fighting the power saw! You're coming down one way or another! No, we are not, okay? We have history on our side! We are going to protest peacefully Like gandhi and martin luther king.",Bob ,0
+431,4,16,He had a dream.,Teddy,0
+432,4,17,"Yeah well, I got a dream too, Teddy To get some sleep! You're not scaring us.",Bob ,0
+433,4,18,"No! We laugh at you! All right, you know what? I'm done messing around.",PJ,1
+434,4,19,I'm bringing out the big g*n.,Bob ,0
+435,4,20,That's right Mom! You go get Mom.,Bob ,1
+436,4,21,"Yeah, she doesn't scare us! - This is bad, he's getting Mom.",Teddy,1
+437,4,22,Lock her up.,Teddy,0
+438,5,0,Go out there and get your kids out of that tree.,Bob ,0
+439,5,1,"Okay, why are they always my kids when they won't do what you want? They're having some kind of sit-in to try and save the treehouse.",Amy,0
+440,5,2,"Now, I appreciate that they're taking a stand.",Bob ,0
+441,5,3,I just don't like that it's against me! - Would you calm down? - But I'm the father! I'm in charge around here! When you're not home.,Bob ,1
+442,5,4,"Honey, you are getting upset over nothing.",Amy,0
+443,5,5,This is Teddy and P.J.,Amy,0
+444,5,6,We're talking about.,Amy,0
+445,5,7,They can't be in the same room for five minutes Without getting into a fight.,Amy,0
+446,5,8,They won't last an hour up there.,Amy,0
+447,5,9,All right.,Bob ,0
+448,5,10,"But when they come down, they're getting punished for defying me! If that's okay with you.",Bob ,0
+449,6,0,I'm tired.,PJ,0
+450,6,1,I'm cold.,PJ,0
+451,6,2,How much longer can we keep this up? We've been up here for 12 minutes.,PJ,0
+452,6,3,"If I had known we were gonna protest, I would have prepared.",PJ,0
+453,6,4,"For one thing, I wouldn't have had That extra-large root beer.",PJ,1
+454,6,5,"All right, let's just stay focused on why we're here - For Charlie.",Teddy,0
+455,6,6,That doesn't help.,PJ,0
+456,6,7,"Charlie gets to pee whenever she wants - Which is why my idea - Okay, please don't tell me About diaper-for-teens again.",PJ,1
+457,6,8,"Hey, Gabe.",PJ,0
+458,6,9,Hey! Oh! This is the famous treehouse I never knew about.,Gabe,0
+459,6,10,Want to join our sit-in? - It's just like when Gandhi and Billie Jean King teamed up to stop the civil w*r.,PJ,0
+460,6,11,Almost every word in that sentence was wrong.,Teddy,1
+461,6,12,"What do you say, Gabe? Are you in? - I'm in.",PJ,0
+462,6,13,Great.,PJ,0
+463,6,14,"Yeah! - But first, you'll need to bring us some supplies, Just the essentials.",PJ,0
+464,6,15,"Snacks, my video games, my guitar Whoa, dude, this is a sit-in, Not a move-in.",Teddy,1
+465,6,16,Oh! And some peanut butter.,PJ,0
+466,6,17,"Yeah, that's right, the love affair continues.",PJ,0
+467,6,18,"Well, I'll be back.",Gabe,0
+468,7,0,What are you doing? - I'm gonna join the sit-in.,Bob ,0
+469,7,1,I have to do what's right.,Gabe,0
+470,7,2,How about I take you out for ice cream instead? I'll be in the car.,Bob ,1
+471,8,0,What was that crazy card game We used to play with all the eights? - Crazy eights.,PJ,0
+472,8,1,No.,PJ,0
+473,8,2,Where is Gabe with the snacks? - Now I'm getting hungry.,Teddy,0
+474,8,3,So hungry.,PJ,0
+475,8,4,I keep thinking I smell steak cooking.,PJ,0
+476,8,5,"Yeah, me too.",Teddy,0
+477,9,0,"Really? Oh, hey! Don't mind me Just making dinner for my family You know, the ones on the ground.",Bob ,1
+478,9,1,"Yeah, okay.",Teddy,0
+479,9,2,We know what you're doing And it's not gonna work.,Teddy,0
+480,9,3,"Well, suit yourself.",Bob ,0
+481,9,4,But I'm making one medium rare The way I know someone likes.,Bob ,0
+482,9,5,I like medium rare.,PJ,0
+483,9,6,He's talking about me.,PJ,0
+484,9,7,Stay strong.,Teddy,0
+485,9,8,"Now, I'm gonna be right back.",Bob ,0
+486,9,9,I'm going inside the house To check on my chocolate soufflé.,Bob ,0
+487,10,0,"Two can play at this game! Yeah, if we had a barbecue and some steaks.",PJ,0
+488,10,1,Catch of the day T-Bone.,PJ,1
+489,10,2,Yes! - Okay.,Teddy,0
+490,11,0,"No, no, no! You'll never get the T-Bone.",Teddy,0
+491,11,1,Go for the filet.,Teddy,0
+492,11,2,I think I got it.,PJ,0
+493,11,3,I got it! I got it! I have never loved you more than Idiot! I think somebody overcooked their fishing pole.,Bob ,1
+494,11,4,This looks more medium well.,Bob ,1
+495,12,0,I'm so hungry! And there's nothing to eat up here.,PJ,0
+496,12,1,"Or is there? Acorns Acorns are food, right? For squirrels.",PJ,0
+497,12,2,How do squirrels do this.,PJ,0
+498,12,3,"Well, they're squirrels.",Teddy,1
+499,12,4,You know what? I can't take this anymore.,PJ,0
+500,12,5,I'm done.,PJ,0
+501,12,6,"Wait, no! You're just giving up? That is so like you! - What is so like me? - To be a quitter.",Teddy,0
+502,12,7,"Yeah? Well, you're bossy! - I am not bossy! And don't you ever call me that again.",PJ,0
+503,12,8,"I forbid you! - Bossy! - Quitty! - Oh, real mature! - I am more mature than you are! Whatever! Oh! Okay! Okay! All right, drop the bat Or baby booboo becomes baby barbecue.",Teddy,0
+504,12,9,You wouldn't dare! Try me.,Teddy,0
+505,12,10,Give me the baby.,Teddy,0
+506,12,11,Give me the bat.,PJ,0
+507,12,12,The baby.,Teddy,0
+508,12,13,The bat.,PJ,0
+509,13,0,"P.J.! Pull me up! Pull me up! Oh, wait! Are you quitting? - What? - You know, like, If I pull you back in, will you keep doing the sit-in? Since my alternative is a face-first dive into a hot barbecue Yes! One more thing.",Teddy,1
+510,13,1,You have to drive me wherever I want to go - For the next month.,Teddy,0
+511,13,2,"Deal! Now pull me up, my face is browning.",PJ,1
+512,13,3,Okay.,Teddy,0
+513,14,0,Thank you for saving me.,PJ,0
+514,14,1,No problem.,Teddy,0
+515,14,2,"Although, you wouldn't have had to save me If you didn't push me out of a treehouse! Whoa whoa whoa! Hey hey! Stop! Whoa! Truce! Truce! Gosh, what is wrong with us? We're going at it like seven-year-olds.",PJ,1
+516,14,3,Mom was right.,PJ,0
+517,14,4,"We did fight up here all the time, didn't we? Yes, and nothing's changed.",PJ,0
+518,14,5,We're still doing it.,Teddy,0
+519,14,6,Is this the way it's always gonna be between us? I hope not.,PJ,0
+520,14,7,I don't want to be sitting on the porch Of our old folks' home whacking each other With foam bats.,Teddy,1
+521,14,8,"Oh, do we have to live in the same old folks' home? P.J., if we can't come together And do this one thing for Charlie, We're never gonna come together on anything.",Teddy,1
+522,14,9,You're right.,PJ,0
+523,14,10,We can do this For Charlie.,PJ,0
+524,14,11,For Charlie.,Teddy,0
+525,14,12,So What do you want to do now? I don't know.,Teddy,0
+526,14,13,I wish we could hurry up and save this treehouse So we could get the heck out of this treehouse.,PJ,0
+527,15,0,They're still up in that tree.,Bob ,0
+528,15,1,You said they'd be down by now.,Bob ,0
+529,15,2,"Well, I thought they would be.",Amy,0
+530,15,3,Why is there a plastic hook in my steak? Eat around it.,Gabe,0
+531,15,4,"You know, when you think about it, This is actually kind of nice.",Amy,0
+532,15,5,"I mean, Teddy and P.J.Are finally working together on something.",Amy,0
+533,15,6,I'm proud of them.,Amy,0
+534,15,7,"Whose side are you on, Ours or the rebels? The rebels? Okay, you realize We're not actually at w*r, right? Of course I do.",Bob ,0
+535,15,8,"For that to happen, someone would have to issue A formal declaration of w*r Which should almost be done printing out.",Bob ,1
+536,15,9,"Bob, they're doing exactly what we taught them to do.",Amy,0
+537,15,10,They're standing up for what they believe in.,Amy,0
+538,15,11,"Well, you know what? Now we're going to teach them Don't mess with Daddy.",Bob ,1
+539,15,12,"Gabe, go get your water balloon launcher.",Bob ,0
+540,15,13,Okay.,Gabe,0
+541,15,14,"Gabe, sit.",Amy,0
+542,15,15,"Bob, you're taking this too far.",Amy,0
+543,15,16,No I'm not.,Bob ,0
+544,15,17,"And I gave you an order, mister.",Bob ,0
+545,15,18,"Gabe, stand down.",Amy,0
+546,15,19,"Sorry, Dad, but I'm a little more afraid of Mom.",Gabe,1
+547,15,20,Fine.,Bob ,0
+548,15,21,I'll fight this battle myself.,Bob ,0
+549,15,22,"Hey, sweetheart, you're not really afraid of me, are you? A little.",Amy,0
+550,15,23,Good.,Amy,0
+551,16,0,"I'm giving you one last chance to come down! Okay! All right! I don't like doing this, but you've forced my hand! Oh, come on! So lucky! You got so lucky! You know what? Next one's coming right through the window! Oh, yeah? Take that! What are you doing? Fightin' the power! But we're the power.",Bob ,0
+552,16,1,The kids are right.,Amy,0
+553,16,2,This treehouse is worth saving.,Amy,0
+554,16,3,"What is going on over here? You know, this really isn't a good time, Mrs.Dabney.",Dabney,0
+555,16,4,"You'd better get a handle on that family of yours 'Cause right now, it looks like they're kicking your butt.",Dabney,1
+556,16,5,"Would you let me deal with this, please? You'd better, 'cause hercules is getting kinda lonely.",Dabney,0
+557,16,6,I'm thinking of getting another dog.,Dabney,0
+558,16,7,Are you threatening me? - This one's gonna be female Might even have some puppies.,Dabney,0
+559,16,8,That's right.,Dabney,0
+560,16,9,You go get them down.,Dabney,0
+561,17,0,Time to put on the big pants! - He's coming up.,Dabney,0
+562,17,1,We have to stop him.,PJ,0
+563,17,2,"Hold your fire! - Careful, This could be a trick.",Gabe,1
+564,17,3,I come in peace.,Bob ,0
+565,17,4,I've come to join the resistance.,Bob ,0
+566,17,5,"All right! Yeah! That's right, Mrs.Dabney! I don't care about your dog! Oh, the big pants are on And they're staying up here with my family.",Bob ,0
+567,17,6,"We did it! Yes! You can have a treehouse, Charlie.",Teddy,0
+568,17,7,For a long long time.,Teddy,0
+569,17,8,"What was that? - Wait, have we ever all been up here At the same time? Is everyone okay? - Yeah - I think so.",Teddy,0
+570,18,0,"Whoa, look! Oh, hon! Was that so hard? Yeah.",Teddy,0
+571,18,1,"Well, the treehouse is down.",Bob ,0
+572,18,2,"So, you're gonna be bringing your dog in tonight, right? Oh, hercules doesn't belong to me.",Bob ,0
+573,18,3,I was just dogsitting for a couple of days.,Dabney,0
+574,18,4,I'm a cat person And an excellent negotiator.,Dabney,0
+575,18,5,Do not throw that balloon.,Bob ,0
+576,18,6,"We're gonna launch that balloon, mister.",Bob ,0
+577,19,0,"Dad! Well, Charlie, Dad and the boys Are building you a new treehouse.",Teddy,0
+578,19,1,"So someday you can go up there and play with baby booboo, You know, just as soon as we find her head.",Teddy,1
+579,19,2,"Right now, she's baby tennis ball.",Teddy,1
+580,19,3,"Yeah! No, not as much fun.",Teddy,0
+581,19,4,"Oh, and I want to recommend that you make the treehouse No boys allowed Especially if that boy weighs as much as Dad, because if you do let him up there, well, good luck, Charlie.",Teddy,0
+582,20,0,What are you doing? Gabe says he's more scared of Mom than he is of me.,Teddy,0
+583,20,1,So I'm going to scare him.,Bob ,0
+584,20,2,"Hey, Dad! Gabe, honey, did you finish your homework?",Amy,1

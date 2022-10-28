@@ -1,0 +1,395 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker
+7575,1,0,"[Music] Howdy, Duncans.",Beau
+7576,1,1,Hey.,Bob
+7577,1,2,"Hey, Beau.",Teddy
+7578,1,3,"Morning, Sweetie.",Beau
+7579,1,4,Hi.,Teddy
+7580,1,5,"We got a big day ahead of us, little B.",Bob
+7581,1,6,"I'm looking forward to it, big B.",Beau
+7582,1,7,Oh.,Teddy
+7583,1,8,Good.,Teddy
+7584,1,9,They have nicknames.,Teddy
+7585,1,10,"Yeah, I guess we should get going.",Bob
+7586,1,11,Taking down a hornet's nest today.,Bob
+7587,1,12,Ooh.,Teddy
+7588,1,13,So that's the excitement I feel in the air.,Teddy
+7589,1,14,"Oh, hey.",Bob
+7590,1,15,Got a surprise for you.,Bob
+7591,1,16,I am gonna let you hold the fogger.,Bob
+7592,1,17,"Permission to hug you, Sir.",Beau
+7593,1,18,"Oh, bring it in, little B.",Bob
+7594,1,19,All right.,Bob
+7595,1,20,We'll see you guys.,Bob
+7596,1,21,See you girls.,Beau
+7597,1,22,See ya.,Amy
+7598,1,23,I think your father really likes this one.,Amy
+7599,1,24,I know.,Teddy
+7600,1,25,It concerns me.,Teddy
+7601,1,26,"Well, I should probably get to school.",Teddy
+7602,1,27,All right.,Amy
+7603,1,28,"Have a good day, little T.",Amy
+7604,1,29,"You too, big A.",Teddy
+7605,2,30,"[Music] [Sighs] Emmettt, we gotta pay our rent.",PJ
+7606,2,31,"Again? What is that, like every month now? ",Emmett
+7607,2,32,Yeah.,PJ
+7608,2,33,But I don't have the money right now.,Emmett
+7609,2,34,"Well, that is very irresponsible.",PJ
+7610,2,35,Especially since I don't either.,PJ
+7611,2,36,"Well, what are we gonna do? ",Emmett
+7612,2,37,I don't know.,PJ
+7613,2,38,But if we can't pay the rent on this place we're gonna have to move back home with our parents.,PJ
+7614,2,39,"Well maybe you can, but that's not an option for me.",Emmett
+7615,2,40,Why not? My parents moved and they won't tell me where.,Emmett
+7616,2,41,"Well, what if you want to see them? - Oh, we meet at a neutral location.",Emmett
+7617,2,42,But I have to leave first so that way I can't follow them.,Emmett
+7618,2,43,"Well, if we're having trouble paying the rent, maybe we could get a roommate.",PJ
+7619,2,44,"You mean like somebody else that would live here? That's what a roommate is, yes.",Emmett
+7620,2,45,"Well, that's a great idea.",Emmett
+7621,2,46,That way we'd each only have to pay one third of the rent.,Emmett
+7622,2,47,"Wait, did I do that math right? ",Emmett
+7623,2,48,Like I'd know.,PJ
+7624,3,49,"Oh, watch out for that cyborg.",Gabe
+7625,3,50,I see him.,Dabney
+7626,3,51,Got him.,Dabney
+7627,3,52,You are ruthless.,Gabe
+7628,3,53,I love it.,Gabe
+7629,3,54,I get it from my Grandma.,Dabney
+7630,3,55,I still love it.,Gabe
+7631,3,56,"[Sighs] Hey, kids.",Amy
+7632,3,57,"Something wrong, Mrs.",Dabney
+7633,3,58,"Duncan? Oh, here we go.",Dabney
+7634,3,59,Well since you asked.,Amy
+7635,3,60,"See, I'm a local television personality.",Amy
+7636,3,61,I appear on 'Good Morning Denver'.,Amy
+7637,3,62,And the flood gates are open.,Gabe
+7638,3,63,"But they haven't had me on lately, and it is really getting me down.",Amy
+7639,3,64,"Is it over for me? While I still have so much left to give? You know, that's a really good question.",Amy
+7640,3,65,Maybe Dad knows the answer to that.,Gabe
+7641,3,66,Dad! Here comes Mom.,Gabe
+7642,3,67,Yeah yeah yeah.,Amy
+7643,3,68,It's all about the Green Grocer.,Amy
+7644,3,69,He's the flavor of the month.,Amy
+7645,3,70,"I think he just got lucky with that 'eat a zucchini, wear a bikini' line.",Amy
+7646,3,71,"Oh, my Grandma saw that segment.",Dabney
+7647,3,72,And then she bought some zucchini.,Dabney
+7648,3,73,"She's not thinking of A bikini? Oh, I don't think so.",Gabe
+7649,3,74,Stay on top of that.,Gabe
+7650,3,75,I actually have a segment coming on tomorrow.,Amy
+7651,3,76,It's my first one in weeks.,Amy
+7652,3,77,"But will it be my last? Dad, these questions from Mom are piling up! Oh well.",Amy
+7653,3,78,"If it is my last, I guess the good news is I get to spend more time with my kids.",Amy
+7654,3,79,What's your segment about? Okay.,Dabney
+7655,3,80,It's about entertaining the little ones and also getting your housework done.,Amy
+7656,3,81,What I do is I fold towels into whimsical animal shapes.,Amy
+7657,3,82,A lot of it is visual.,Amy
+7658,3,83,"Here, want me to show you? - Sure.",Amy
+7659,3,84,"Okay, great.",Amy
+7660,3,85,I just made one.,Amy
+7661,3,86,You'll love it.,Amy
+7662,3,87,What is wrong with you? I thought you said you were ruthless.,Gabe
+7663,3,88,With cyborgs.,Dabney
+7664,3,89,This is your Mom.,Dabney
+7665,3,90,"What's the difference? Ba-bam! It's a swan! Do you want me to show you how? Come on, guys.",Amy
+7666,3,91,I've got a basket full of towels and nothing but time.,Amy
+7667,4,92,Hey.,Bob
+7668,4,93,"Hey, guys.",Teddy
+7669,4,94,"Teddy, the most amazing thing happened today.",Beau
+7670,4,95,I saw my first camel cricket.,Beau
+7671,4,96,"You know, this kid is a natural.",Bob
+7672,4,97,I thought it was a cave cricket.,Bob
+7673,4,98,Wow.,Teddy
+7674,4,99,"Well, I hope you turned to my Dad and gave him a big old 'in your face!' Yeah, we don't do that.",Teddy
+7675,4,100,We're a team.,Beau
+7676,4,101,Oh.,Teddy
+7677,4,102,"Well, unless we're getting attacked by a skunk.",Bob
+7678,4,103,Then you're on your own.,Bob
+7679,4,104,[Grunts] A great exterminator and a great sense of humor.,Beau
+7680,4,105,"Oh, stop.",Bob
+7681,4,106,"Beau, honey, you got the job.",Teddy
+7682,4,107,You can stop kissing up and start making fun of him like the rest of us.,Teddy
+7683,4,108,"What do you mean? It's just, you don't have to pretend to be fascinated with all of this exterminator stuff.",Teddy
+7684,4,109,But I really am fascinated.,Beau
+7685,4,110,I could see myself doing this as a career.,Beau
+7686,4,111,Seriously? Yeah.,Teddy
+7687,4,112,"Um today I was in the crawlspace, right? ",Beau
+7688,4,113,And I found this big old spider ,Beau
+7689,4,114,"Beau Beau As my Mom always says, what happens under the house stays under the house.",Teddy
+7690,4,115,All right.,Beau
+7691,4,116,"Well, I'd better go.",Beau
+7692,4,117,Okay.,Beau
+7693,4,118,I need to get home and get showered.,Beau
+7694,4,119,That stuff we were using today is highly toxic.,Beau
+7695,4,120,"Could you have maybe told me that before the hug? Yeah, you're probably gonna have to shower too.",Beau
+7696,4,121,"Sorry, Sweetie.",Beau
+7697,4,122,Hey.,Bob
+7698,4,123,"Where's Beau? - Oh, he just left.",Bob
+7699,4,124,"Without saying good-bye? Dad, you'll see him again tomorrow In some disgusting little enclosure.",Teddy
+7700,4,125,I'm telling you.,Bob
+7701,4,126,That Beau is a great kid.,Bob
+7702,4,127,And who knows.,Bob
+7703,4,128,"You two stick together, I could see passing the business down to him some day.",Bob
+7704,4,129,"Dad, we haven't been dating for that long.",Teddy
+7705,4,130,I know.,Bob
+7706,4,131,It's just This one feels special.,Bob
+7707,5,132,So I have an engineering degree.,Others
+7708,5,133,Now I'm working on my masters in astrophysics.,Others
+7709,5,134,"Well, that's all well and good, Brian, but we have a pretty strict screening process here.",PJ
+7710,5,135,So let me ask you the big question.,PJ
+7711,5,136,Do you have $167? Yes.,PJ
+7712,5,137,Okay.,Emmett
+7713,5,138,Follow-up question.,Emmett
+7714,5,139,Will you have $167 this time next month? ,Emmett
+7715,5,140,Yes.,Others
+7716,5,141,I think we have all we need.,PJ
+7717,5,142,"I'm neat, I'm quiet.",Others
+7718,5,143,And how do you feel about roommates who are neither neat nor quiet? That's fine.,PJ
+7719,5,144,I just need a place to live.,Others
+7720,5,145,"And did we ask you about the $167 already? A few times, yes.",Emmett
+7721,5,146,"Okay, Andy.",PJ
+7722,5,147,Thanks for coming over.,PJ
+7723,5,148,We'll get back to you real soon.,PJ
+7724,5,149,Great.,Others
+7725,5,150,"Well, seems to me the choice is obvious.",PJ
+7726,5,151,I'd say it's a no-brainer.,PJ
+7727,5,152,I agree.,Emmett
+7728,5,153,"Good job, roomie.",Emmett
+7729,5,154,All right.,PJ
+7730,5,155,It's gonna be nice having a new roommate.,PJ
+7731,5,156,One more guy to help with chores.,PJ
+7732,5,157,One more guy to help with shopping.,Emmett
+7733,5,158,And the best part is We can finally realize our dream.,PJ
+7734,5,159,Both: The human pyramid.,PJ
+7735,6,160,"Okay, how does this sound? 'Dear station manager Mama Bird's recent segment on towel animals was towel-rific'.",Gabe
+7736,6,161,"What are you doing? We're writing letters to 'Good Morning Denver' so they'll keep mommy on TV, and most importantly away from us.",Gabe
+7737,6,162,What's a letter? It's an expensive way to slowly send an e-mail.,Gabe
+7738,6,163,Okay.,Dabney
+7739,6,164,We have 10 letters.,Dabney
+7740,6,165,Okay.,Gabe
+7741,6,166,Let's get these things in the mail so they'll arrive the day after Mom's story airs.,Gabe
+7742,6,167,"Amy: Charlie, I'm ready to play dress-up.",Amy
+7743,6,168,[Sighs] Coming.,Charlie
+7744,6,169,This better work.,Charlie
+7745,7,170,Oh.,Teddy
+7746,7,171,Beau Jr.,Teddy
+7747,7,172,You eat just like grandpa Bob.,Teddy
+7748,7,173,And you have just as many teeth.,Teddy
+7749,7,174,Yeah.,Teddy
+7750,7,175,"Hey, darling.",Beau
+7751,7,176,"Hi, honey.",Teddy
+7752,7,177,And baby boy.,Beau
+7753,7,178,"You know, there's nothing I'd rather see after a long day of k*ll bugs than my beautiful bride.",Beau
+7754,7,179,"Oh, you're cooking.",Beau
+7755,7,180,Yeah.,Teddy
+7756,7,181,"Isn't it funny how life turned out? I cook like my Mom, and you work like my Dad.",Teddy
+7757,7,182,"But other than that, me and him are pretty different.",Beau
+7758,7,183,You lose more hair today? Yeah.,Teddy
+7759,7,184,But more came in on my back.,Beau
+7760,7,185,Oh.,Teddy
+7761,7,186,That's nice.,Teddy
+7762,7,187,You won't believe what happened at work today.,Beau
+7763,7,188,"Is this gonna be a bug story? Yeah, it starts out as one, but then a feral cat comes into it.",Beau
+7764,7,189,I'm getting ahead of myself.,Beau
+7765,7,190,"Oh, honey, take your time.",Teddy
+7766,7,191,I'm not going anywhere.,Teddy
+7767,7,192,Ever.,Teddy
+7768,7,193,There I was in the Johnson's crawlspace.,Beau
+7769,7,194,Ordinary Tuesday Or so I thought.,Beau
+7770,7,195,Yeah.,Beau
+7771,7,196,Until I saw the sawdust.,Beau
+7772,7,197,That always means termites.,Beau
+7773,7,198,"Well, almost always.",Beau
+7774,8,199,"Man, I don't think the place has ever been this clean before.",PJ
+7775,8,200,"Yeah, that was a rough 15 minutes.",Emmett
+7776,8,201,[Doorbell rings] Ah.,PJ
+7777,8,202,That must be our new roommate.,PJ
+7778,8,203,"Hi, guys.",Others
+7779,8,204,Hi.,PJ
+7780,8,205,"Uh, what's Andy doing here? ",PJ
+7781,8,206,He's our new roommate.,Emmett
+7782,8,207,"No, he's not.",PJ
+7783,8,208,Brian's our new roommate.,PJ
+7784,8,209,Hey.,Others
+7785,8,210,I don't think so.,Emmett
+7786,8,211,"Guys, come on in.",PJ
+7787,8,212,We're gonna have a quick discussion out in the hallway.,PJ
+7788,8,213,Not about you.,PJ
+7789,8,214,Oh.,PJ
+7790,8,215,A little about you.,PJ
+7791,8,216,I thought you said this was a no-brainer.,Emmett
+7792,8,217,"Yeah, to pick the short guy.",PJ
+7793,8,218,He's the perfect top for the pyramid.,PJ
+7794,8,219,The pyramid will be higher with the tall guy.,Emmett
+7795,8,220,Maybe we shouldn't have based everything on the pyramid.,PJ
+7796,9,221,I can't believe this is the first time I've been on TV in weeks.,Amy
+7797,9,222,"It's not right, Mom.",Gabe
+7798,9,223,It's just not right.,Gabe
+7799,9,224,Okay.,Amy
+7800,9,225,Here we go.,Amy
+7801,9,226,"Rhonda: Good Morning, Denver.",Others
+7802,9,227,"And good morning, Phil.",Others
+7803,9,228,"Phil: It's always a good morning when I'm with you, Rhonda.",Others
+7804,9,229,"I've got to say, I like Phil and Rhonda.",Gabe
+7805,9,230,"Behind the scenes, those two can't stand each other.",Amy
+7806,9,231,No! Yes.,Gabe
+7807,9,232,"Gabe, Phil and Rhonda used to be a couple.",Amy
+7808,9,233,That is until Rhonda decided to give the Green Grocer a squeeze.,Amy
+7809,9,234,Phil: We're getting word now of some breaking news.,Others
+7810,9,235,"Let's go live to I-70, where our news chopper is following a high speed police pursuit.",Others
+7811,9,236,"What? No, we want to see Mom! Gabe.",Gabe
+7812,9,237,"Honey, relax.",Amy
+7813,9,238,It's okay.,Amy
+7814,9,239,I'm on towards the end.,Amy
+7815,9,240,"As long as this doesn't go on too long, we'll be fine.",Amy
+7816,9,241,Phil: This is now becoming one of the longest car chases in Denver history.,Others
+7817,9,242,Oh.,Gabe
+7818,9,243,This is bad.,Gabe
+7819,9,244,This is really really bad.,Gabe
+7820,9,245,"What's wrong? Well, tomorrow the station's gonna get a bunch of letters saying how much they loved Mom's story which isn't on.",Gabe
+7821,9,246,This is bad.,Charlie
+7822,9,247,This is really bad.,Charlie
+7823,9,248,Is this chase still on? Yes.,Amy
+7824,9,249,"Somebody! Pull him over, flatten his tires.",Gabe
+7825,9,250,"We want to see towel animals! Gabe, honey, it's okay.",Gabe
+7826,9,251,We'll get through this.,Amy
+7827,9,252,"If they don't put my segment on today, they'll put it on another day.",Amy
+7828,9,253,"No, it has to be today.",Gabe
+7829,9,254,"Phil: Looks like he's pulling over, and he's putting his hands up.",Others
+7830,9,255,Guess this chase has come to a peaceful ending.,Others
+7831,9,256,Yes.,Gabe
+7832,9,257,Finally.,Gabe
+7833,9,258,"Rhonda: Well, we have time for one more segment.",Others
+7834,9,259,And we saved the best for last.,Others
+7835,9,260,"So let's hear from everybody's favorite, the Green Grocer.",Others
+7836,9,261,"Both: Oh, come on! ",Gabe
+7837,10,262,"Hey, darling.",Beau
+7838,10,263,Hey.,Teddy
+7839,10,264,How are you? ,Beau
+7840,10,265,"Uh I'm okay, I guess.",Teddy
+7841,10,266,I had this crazy dream.,Teddy
+7842,10,267,"It was the future, and we were living here.",Teddy
+7843,10,268,You inherited my Dad's business and you were telling these crazy bug stories.,Teddy
+7844,10,269,That's funny.,Beau
+7845,10,270,And you were bald.,Teddy
+7846,10,271,That's not funny.,Beau
+7847,10,272,"Listen, can we sit? I got something I need to talk to you about.",Beau
+7848,10,273,Yeah.,Teddy
+7849,10,274,What's going on? ,Teddy
+7850,10,275,[Sighs] Ralph Hughes died.,Beau
+7851,10,276,Oh no.,Beau
+7852,10,277,Who's Ralph Hughes? I don't know.,Teddy
+7853,10,278,"Well, I'm really glad we sat down for this.",Teddy
+7854,10,279,"No, I mean I just never met him.",Beau
+7855,10,280,He was the exterminator back home in Hollow Rock.,Beau
+7856,10,281,Which means there's a job opening for an exterminator and it's mine if I want it.,Beau
+7857,10,282,Oh.,Teddy
+7858,10,283,My Grandma called.,Beau
+7859,10,284,"She said if I take this job and come home, she'll pay for me to go to college at night.",Beau
+7860,10,285,So what are you saying? Are you going back to Tennessee? I don't know how I can turn this down.,Teddy
+7861,10,286,"Look, I didn't want to say anything but I've been real homesick.",Beau
+7862,10,287,I like working for your Dad and all but Teddy The only thing that would keep me in Denver is you.,Beau
+7863,10,288,"Look, Beau [Chuckles] I don't want you to go [Sighs] But I'm not gonna stand in your way.",Teddy
+7864,10,289,"So This is good-bye? Yeah, I guess so.",Beau
+7865,10,290,"You're a special girl, Teddy.",Beau
+7866,10,291,I'm gonna miss you a ton.,Beau
+7867,10,292,I'm gonna miss you too.,Beau
+7868,10,293,"Hey, guys.",Bob
+7869,10,294,Why the sad faces? Now comes the hard part.,Beau
+7870,11,295,[Bell dings] - Rotate.,PJ
+7871,11,296,"Brian, you heard the ding.",PJ
+7872,11,297,"After the ding, we rotate.",PJ
+7873,11,298,I'm not done eating yet.,Others
+7874,11,299,I don't care.,PJ
+7875,11,300,Take it to the bathroom.,PJ
+7876,11,301,That's not sanitary.,Others
+7877,11,302,And the system works.,PJ
+7878,11,303,"Hey PJ, you mind trading me some bathroom time for some chair time? The system is ding, move, ding, move.",Others
+7879,11,304,There are no tack-ons.,PJ
+7880,11,305,Andy? ,Emmett
+7881,11,306,Don't even look at me.,Others
+7882,11,307,[Bell dings] Rotate.,PJ
+7883,11,308,"Emmettt, bathroom.",PJ
+7884,11,309,"Why? I'm clean, I'm brushed and I don't have to go.",Emmett
+7885,11,310,Not my problem.,PJ
+7886,11,311,We have a system.,PJ
+7887,11,312,The system's stupid.,Others
+7888,11,313,I've seen the beginnings of three shows.,Others
+7889,11,314,I don't know how any of them end.,Others
+7890,11,315,Who's squeezing the toothpaste tube from the middle? ,Others
+7891,11,316,I wasted half my bathroom time trying to fix this.,Others
+7892,11,317,"PJ, can I talk to you in the hallway please? Sure.",Emmett
+7893,11,318,"You guys keep moving on the dings, okay? We'll catch up.",PJ
+7894,11,319,[Bell dings] - Rotate.,PJ
+7895,11,320,This isn't working.,Emmett
+7896,11,321,"Yeah, you're right.",PJ
+7897,11,322,We have to get rid of somebody.,PJ
+7898,11,323,I pick Brian.,Emmett
+7899,11,324,I pick Andy.,PJ
+7900,11,325,Re-vote.,PJ
+7901,11,326,Brian.,Emmett
+7902,11,327,Andy.,PJ
+7903,11,328,Re-vote.,Emmett
+7904,11,329,"No, man.",PJ
+7905,11,330,"As I see it, there's only one possible way to solve this.",PJ
+7906,11,331,We're out of here.,Others
+7907,11,332,Yeah.,Others
+7908,11,333,We're getting our own place.,Others
+7909,11,334,"Well, two ways.",PJ
+7910,12,335,I know it's hard right now ,Teddy
+7911,12,336,[Whimpers] But there will be other exterminators.,Teddy
+7912,12,337,No.,Bob
+7913,12,338,Not like Beau.,Bob
+7914,12,339,He was special.,Bob
+7915,12,340,"You'll be okay, I promise.",Teddy
+7916,12,341,You don't understand.,Bob
+7917,12,342,Nobody understands.,Bob
+7918,12,343,[Sniffles] I thought he was the one.,Bob
+7919,12,344,"Well, this doesn't have to be good-bye forever.",Teddy
+7920,12,345,You could video chat.,Teddy
+7921,12,346,I don't know how to do that.,Bob
+7922,12,347,I'll teach you.,Teddy
+7923,12,348,You will? Of course I will.,Bob
+7924,12,349,Come here.,Teddy
+7925,12,350,[Sobs] Come here.,Amy
+7926,13,351,Why? I want to give you a hug.,Amy
+7927,13,352,I'm gonna need more information.,Gabe
+7928,13,353,"Gabe, I just got off the phone with the station manager.",Amy
+7929,13,354,"Yeah, they received a whole bunch of letters about my segment that never aired.",Amy
+7930,13,355,And I know you wrote them.,Amy
+7931,13,356,You do? ,Gabe
+7932,13,357,Two things tipped me off.,Amy
+7933,13,358,"One, you were acting really weird when you were watching the show.",Amy
+7934,13,359,"And two, you were watching the show.",Amy
+7935,13,360,And you're not mad? ,Gabe
+7936,13,361,"No, honey.",Amy
+7937,13,362,Just the opposite.,Amy
+7938,13,363,I can't believe you would go to all that trouble to help your mommy's TV career.,Amy
+7939,13,364,That's exactly why I did it.,Gabe
+7940,13,365,"In fact, the station manager was so impressed he wants me to do a segment on our relationship.",Amy
+7941,13,366,He he wants what now? It'll be all about how close we are.,Gabe
+7942,13,367,I'm gonna call it 'my baby Gabey'.,Gabe
+7943,13,368,We're gonna wear matching outfits.,Amy
+7944,13,369,"[Chuckles] Are you for real, Mom? Or are you just messing with me or something? Why would I mess with my baby Gabey? Because the real reason you wrote the letters was to get me out of the housey wousey? ",Amy
+7945,13,370,Charlie told you? ,Gabe
+7946,14,371,She sang like a birdy wordy.,Amy
+7947,14,372,"Well, Charlie, Beau moved back to Tennessee.",Teddy
+7948,14,373,"And even though he's only been gone a few days, I already miss him.",Teddy
+7949,14,374,"Of course, not as much as Dad does.",Teddy
+7950,14,375,"Wow! A nest full of yellow jackets?! Whoa! Good k*ll, little B.",Bob
+7951,14,376,"Beau: Yeah, well, I learned from the best.",Beau
+7952,14,377,"Is Teddy around? Uh, nope.",Beau
+7953,14,378,"No, not home yet.",Beau
+7954,14,379,"Um, hey, listen.",Bob
+7955,14,380,Let me tell you about this black widow spider I saw today.,Bob
+7956,14,381,She had an egg sack on her the size of a softball.,Bob
+7957,14,382,"Uh I guess my advice to you would be Date a guy who's afraid of bugs because if not Well Good luck, Charlie.",Teddy
+7958,15,383,"What are you supposed to be? A towel lobster, obviously.",Others
+7959,15,384,Huh! I'm not getting that.,Others
+7960,15,385,"Crab, maybe.",Others
+7961,15,386,"Well, what are you supposed to be? I'm obviously a towel elephant.",Others
+7962,15,387,And a pretty good one.,Others
+7963,15,388,Really? I'm getting more anteater.,Others
+7964,15,389,Could you guys keep it down? Who are you supposed to be? A towel.,Others
+7965,15,390,And proud of it.,Others
+7966,15,391,I don't need all the bells and whistles.,Others
+7967,15,392,Hear that kids? It's okay to just be who you are.,Others
+7968,15,393,How do you like who you are now?,Others

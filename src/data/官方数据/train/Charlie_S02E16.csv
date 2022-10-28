@@ -1,0 +1,350 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+7931,1,0,"Okay, dad, so you know how I always want to go to super adventure land.",Gabe,0.0
+7932,1,1,"But you tell me it's too expensive, Even though it's totally worth it 'cause it's the funnest place on earth? Yes.",Gabe,1.0
+7933,1,2,"Well, problem solved.",Gabe,0.0
+7934,1,3,"'this coupon, good for $5 off admission price.",Bob,0.0
+7935,1,4,' To super adventure land.,Bob,0.0
+7936,1,5,"Upon $100 purchase at Jensen's groceries, Not valid Tuesday through Sunday, 'Closed Monday.",Bob,1.0
+7937,1,6,' Nice try.,Bob,0.0
+7938,1,7,"But, dad, They have this new ride called the storm twizzler.",Gabe,0.0
+7939,1,8,Nine out of 10 people barf on it.,Gabe,0.0
+7940,1,9,They even take your photo.,Gabe,0.0
+7941,1,10,"Gabe, I'll take you to super adventure land.",Bob,0.0
+7942,1,11,Just as soon as I win the lottery.,Bob,0.0
+7943,1,12,"Oh, hey, speaking of which, Maybe today is your lucky day.",Bob,0.0
+7944,1,13,Could be.,Bob,0.0
+7945,1,14,Let's take a look.,Bob,0.0
+7946,1,15,"Hey, there's a seven, right? - Yeah.",Bob,0.0
+7947,1,16,That's pretty good.,Bob,0.0
+7948,1,17,"Hey, look at this.",Bob,0.0
+7949,1,18,We got another seven.,Bob,0.0
+7950,1,19,That's not too bad.,Bob,0.0
+7951,1,20,"One more seven we got Oh, look at oh, look at oh! You're not going.",Bob,1.0
+7952,2,0,"Hey, mom.",Teddy,0.0
+7953,2,1,"Hey, honey.",Amy,0.0
+7954,2,2,Come meet our new neighbor.,Amy,0.0
+7955,2,3,This is my daughter Teddy.,Amy,0.0
+7956,2,4,Debbie dooley.,Others,0.0
+7957,2,5,"How're you doing? I'm doing dandy, Debbie dooley.",Teddy,1.0
+7958,2,6,Debbie and her husband Doug just moved here from Iowa.,Amy,0.0
+7959,2,7,Doug's our new deputy police chief.,Amy,0.0
+7960,2,8,And they have a daughter Charlie's age.,Amy,0.0
+7961,2,9,Deedee dooley.,Others,0.0
+7962,2,10,Oh.,Others,0.0
+7963,2,11,Debbie needed a babysitter for tomorrow.,Amy,0.0
+7964,2,12,And I was just telling her how terrific you are.,Amy,0.0
+7965,2,13,Oh yeah.,Teddy,0.0
+7966,2,14,"No, actually my friend Ivy and I.",Teddy,0.0
+7967,2,15,Were gonna take Charlie to make-a-monkey tomorrow.,Teddy,0.0
+7968,2,16,And we'd be happy to bring deedee along.,Teddy,0.0
+7969,2,17,"What's make-a-monkey? Oh, it's kind of complicated.",Others,0.0
+7970,2,18,It's this place where you You make A monkey.,Teddy,1.0
+7971,2,19,I I guess it's not that complicated.,Teddy,1.0
+7972,2,20,"Oh, I meant to ask Where is your dog? We don't have a dog.",Others,0.0
+7973,2,21,But that nice Mrs.,Others,0.0
+7974,2,22,Dabney next door told me.,Others,0.0
+7975,2,23,To beware of Gabe.,Others,1.0
+7976,2,24,Gabe is my son.,Amy,0.0
+7977,2,25,But she said he bit her And went to the bathroom on her lawn.,Others,1.0
+7978,2,26,They have a very unique relationship.,Amy,0.0
+7979,2,27,Welcome to the neighborhood.,Amy,0.0
+7980,3,0,"Oh, I think this one goes No.",PJ,0.0
+7981,3,1,"Oh, doesn't this one go? No.",Others,0.0
+7982,3,2,"Eh, forget it.",PJ,0.0
+7983,3,3,Charlie can help us with it later.,PJ,0.0
+7984,3,4,"Oh, my dad's outside.",Others,0.0
+7985,3,5,I gotta go.,Others,0.0
+7986,3,6,He doesn't like to be kept waiting.,Others,0.0
+7987,3,7,All right.,PJ,0.0
+7988,3,8,See ya.,Others,0.0
+7989,3,9,See ya.,PJ,0.0
+7990,3,10,No wonder we couldn't do it.,PJ,0.0
+7991,3,11,It's for ages one to three.,PJ,1.0
+7992,3,12,You P.,Others,0.0
+7993,3,13,J.,Others,0.0
+7994,3,14,"? Uh, y-yeah yeah.",PJ,0.0
+7995,3,15,That's me.,PJ,0.0
+7996,3,16,So you start going out with a girl.,Others,0.0
+7997,3,17,"And you don't think it's important to meet the father? Oh, I'm sorry.",Others,1.0
+7998,3,18,Makes me wonder what's going on inside your head.,Others,0.0
+7999,3,19,"Trust me, sir, There's nothing going on in here at all.",PJ,0.0
+8000,3,20,I'm gonna be watching you.,Others,0.0
+8001,3,21,"To make sure you treat Skyler right, That you're worthy of her.",Others,0.0
+8002,3,22,One more thing: I don't want her to know I've been checking up on you.,Others,0.0
+8003,3,23,"Well, what does she think you're doing right now? Using the bathroom.",PJ,0.0
+8004,3,24,Is there anything else? Usually it takes me a while to use the bathroom.,Others,1.0
+8005,4,0,"Hey, dad.",Gabe,0.0
+8006,4,1,Hey.,Bob,0.0
+8007,4,2,"Oh, dad, I think you dropped something.",Gabe,0.0
+8008,4,3,"Oh, hey, one of my scratchers.",Bob,0.0
+8009,4,4,"Oh, hey, let's see.",Bob,0.0
+8010,4,5,Maybe we've won.,Bob,0.0
+8011,4,6,Seven.,Bob,0.0
+8012,4,7,Another seven.,Bob,0.0
+8013,4,8,Been here before.,Bob,0.0
+8014,4,9,And the last number.,Bob,0.0
+8015,4,10,"What? Look, it's a seven.",Bob,0.0
+8016,4,11,It's a seven.,Bob,0.0
+8017,4,12,I won.,Bob,0.0
+8018,4,13,I won.,Bob,0.0
+8019,4,14,"How much did you win? $1 million! Whoo-hoo! Whoo! Whoo! I won, I won, I won! What is going on with dad? He thinks he won the lottery.",Gabe,1.0
+8020,4,15,"Thinks? - Yeah, it's a prank.",Gabe,0.0
+8021,4,16,I bought one of those fake scratchers from the joke store.,Gabe,0.0
+8022,4,17,He fell for that? Whoo-hoo! I'm king of the world! He's gonna find out.,PJ,0.0
+8023,4,18,"Yeah, and I'll be grounded for two weeks.",Gabe,0.0
+8024,4,19,"But, you know, I'll have been to super adventure land.",Gabe,0.0
+8025,4,20,It's worth it.,Gabe,0.0
+8026,4,21,I crunched the numbers.,Gabe,0.0
+8027,4,22,"I'm so happy, I don't know what to do with myself.",Bob,0.0
+8028,4,23,"Well, yesterday you said if you ever win the lottery.",Gabe,0.0
+8029,4,24,You'd take me to super adventure land.,Gabe,0.0
+8030,4,25,"All right, let's go.",Bob,0.0
+8031,4,26,Get in the car.,Bob,0.0
+8032,4,27,"Oh, wait a minute.",Bob,0.0
+8033,4,28,Wait a minute.,Bob,0.0
+8034,4,29,We're millionaires.,Bob,0.0
+8035,4,30,Forget the car.,Bob,0.0
+8036,4,31,We're renting a limo.,Bob,1.0
+8037,4,32,"Wait, dad.",Gabe,0.0
+8038,4,33,Okay.,Gabe,1.0
+8039,5,0,"Oh, thank you, Dr.",Teddy,0.0
+8040,5,1,Charlie.,Teddy,0.0
+8041,5,2,I'm all better now.,Teddy,0.0
+8042,5,3,Ow.,Teddy,0.0
+8043,5,4,Another sh*t.,Teddy,0.0
+8044,5,5,"No, I've already had seven shots.",Teddy,1.0
+8045,5,6,There's no more owies.,Teddy,0.0
+8046,5,7,Ow.,Teddy,0.0
+8047,5,8,Another sh*t.,Teddy,0.0
+8048,5,9,"Okay, I think I'm kind of over this.",Teddy,0.0
+8049,5,10,"Ivy, are you ready to go? Check out what I found in the bathroom Diamond earrings.",Ivy,0.0
+8050,5,11,Watch me work it.,Ivy,0.0
+8051,5,12,"Ivy, hey, take those off.",Teddy,0.0
+8052,5,13,Don't you know that deedee's daddy's deputy Doug dooley? Ivy wentz rocking earrings.,Teddy,0.0
+8053,5,14,From the dooley collection.,Ivy,0.0
+8054,5,15,"Seriously, take those off.",Teddy,0.0
+8055,5,16,"Yeah, they'll look better on you anyway.",Ivy,0.0
+8056,5,17,"No, we're here to babysit, not try on - Ooh.",Teddy,0.0
+8057,5,18,Yeah.,Ivy,0.0
+8058,5,19,"Oh, these do look good.",Teddy,0.0
+8059,5,20,"Yep, strut your stuff, girl.",Ivy,0.0
+8060,5,21,It's fun.,Ivy,0.0
+8061,5,22,"Go ahead, do it.",Ivy,0.0
+8062,5,23,Okay.,Teddy,0.0
+8063,5,24,Ooh ooh ooh ooh.,Ivy,1.0
+8064,5,25,"Ow! Hey, who did that? - Ooh.",Amy,0.0
+8065,5,26,Uh-oh.,Teddy,0.0
+8066,5,27,What? One of the doctors spilled a juice box.,Ivy,0.0
+8067,5,28,At least I hope it's juice.,Ivy,0.0
+8068,5,29,"All right, Ivy, why don't you take them outside? I'm gonna clean this up.",Teddy,0.0
+8069,5,30,And then we can go to make-a-monkey.,Teddy,0.0
+8070,5,31,"Okay, come on.",Teddy,0.0
+8071,5,32,"Come on, deedee.",Ivy,0.0
+8072,5,33,Let's go bye-bye.,Teddy,0.0
+8073,5,34,Go with Ivy.,Ivy,0.0
+8074,5,35,Let's go to make-a-monkey.,Ivy,0.0
+8075,5,36,"Yay! Eww, and it's not juice.",Teddy,1.0
+8076,6,0,Where are you going? - Whoa! What are you doing here? I told you I was gonna be watching you.,Others,0.0
+8077,6,1,"Did you think I was a liar? No, I just I thought you'd be watching me from a distance You know, with, like, a telescope or binoculars or something.",PJ,1.0
+8078,6,2,I did that for a while.,Others,0.0
+8079,6,3,I got bored.,Others,0.0
+8080,6,4,Now I asked you a question.,Others,0.0
+8081,6,5,"Where are you going? Uh, I'm going to the library to meet Skyler.",PJ,0.0
+8082,6,6,Looking like that? You couldn't even comb your hair? I spent 20 minutes to get it like this.,Others,1.0
+8083,6,7,"What are you doing? Anytime you do something I do not like, I mark it down in the negative column.",Others,0.0
+8084,6,8,Is there a positive column too? Not yet.,PJ,0.0
+8085,6,9,Okay.,PJ,0.0
+8086,6,10,"Well, if you'll excuse me, I'm gonna go back inside and comb my hair, But not because of anything you said Because I want to.",PJ,0.0
+8087,6,11,Stupid.,PJ,0.0
+8088,6,12,'bad with doors.,Others,1.0
+8089,7,0,' That was four hours of my life I'll never get back.,Ivy,0.0
+8090,7,1,I still have that theme song drilled into my head.,Teddy,0.0
+8091,7,2,first you pick a color brown or green or red ? then you take some stuffing and put it in its head ? then it goes on for 20 more verses and you wish you were dead ? and that's how you make a mo-oh-oh-oh-nkey.,Teddy,0.0
+8092,7,3,? - Oh no.,Ivy,0.0
+8093,7,4,What? The earrings you're still wearing them.,Ivy,0.0
+8094,7,5,What? - Yes.,Teddy,0.0
+8095,7,6,"Oh! Ivy, Ivy, I just have one earring on.",Teddy,0.0
+8096,7,7,The other one must have fallen off.,Teddy,0.0
+8097,8,0,No.,Ivy,0.0
+8098,8,1,"Yes yes, I lost her diamond earring.",Teddy,0.0
+8099,8,2,What? Why did you even try them on? - What? That was your idea! - You know better than to listen to me.,Ivy,0.0
+8100,8,3,Okay okay okay okay.,Teddy,0.0
+8101,8,4,"All right, let's not panic.",Teddy,0.0
+8102,8,5,"I'll just okay, I'll check the car.",Teddy,0.0
+8103,8,6,You you call make-a-monkey and see if they found it.,Teddy,0.0
+8104,8,7,The important thing here is Is not to panic.,Teddy,0.0
+8105,8,8,Not in the car.,Teddy,0.0
+8106,8,9,Not at the place.,Ivy,0.0
+8107,8,10,"Okay, time to panic.",Teddy,0.0
+8108,8,11,Oh! Calm down.,Ivy,0.0
+8109,8,12,Ivy's got a plan.,Ivy,0.0
+8110,8,13,"Oh, Ivy's got a plan.",Teddy,0.0
+8111,8,14,"Look, I think I know where the earring is.",Ivy,0.0
+8112,8,15,Where? Check it out.,Ivy,0.0
+8113,8,16,I took some pictures at make-a-monkey.,Ivy,0.0
+8114,8,17,Here you are at the stuffing machine two earrings.,Ivy,0.0
+8115,8,18,"Oh oh, here I am after the stuffing machine one earring.",Teddy,0.0
+8116,8,19,"Yes, so the missing earring is Inside a monkey.",Ivy,1.0
+8117,8,20,"Hi, Charlie.",Teddy,0.0
+8118,8,21,What you got there? Monkey.,Teddy,0.0
+8119,8,22,Can I see it? - Get that monkey.,Teddy,1.0
+8120,8,23,Mm-hmm.,Ivy,0.0
+8121,9,0,"Man, that sister of yours.",Ivy,0.0
+8122,9,1,Can put up quite a fight.,Ivy,0.0
+8123,9,2,I know.,Teddy,0.0
+8124,9,3,We'd be better off if we fought an actual monkey.,Teddy,0.0
+8125,9,4,She sure does love that thing.,Ivy,0.0
+8126,9,5,Yeah.,Teddy,0.0
+8127,9,6,"Yeah, she sure does.",Teddy,0.0
+8128,9,7,Now let's rip it apart.,Teddy,1.0
+8129,9,8,It's not in here.,Teddy,0.0
+8130,9,9,"Oh, this is bad.",Teddy,0.0
+8131,9,10,This is really bad.,Teddy,0.0
+8132,9,11,"T, calm down.",Ivy,0.0
+8133,9,12,"If the earring isn't in this monkey, It has to be in the other monkey.",Ivy,0.0
+8134,9,13,"Right right right right, deedee's monkey That's in the police chief's house.",Teddy,0.0
+8135,9,14,"Is that calm enough for you? Man, super adventure land was amazing.",Teddy,1.0
+8136,10,0,It sure is.,Bob,0.0
+8137,10,1,"Hey hey, give me the picture of the log ride again.",Bob,0.0
+8138,10,2,"Ah, look at your face.",Bob,0.0
+8139,10,3,Look at your face.,Gabe,0.0
+8140,10,4,Look at the limo driver's face.,Bob,0.0
+8141,10,5,"Okay, dad, now that we've had our fun, There's something I gotta tell you.",Gabe,0.0
+8142,10,6,And maybe you should sit down.,Gabe,0.0
+8143,10,7,"Hey, kids, how do you like mama's new ride? Hey, look at you.",Amy,0.0
+8144,10,8,Where did you get that? At the mall.,Gabe,0.0
+8145,10,9,"Yeah, I did a little shopping.",Amy,0.0
+8146,10,10,After your dad told me we won the lottery.,Amy,0.0
+8147,10,11,"You can return that, right? Nope, forever rich has a no-return policy.",Gabe,0.0
+8148,10,12,But who cares? Not me.,Amy,0.0
+8149,10,13,Nothing bothers a millionaire.,Bob,0.0
+8150,10,14,Nothing bothers a millionaire.,Amy,1.0
+8151,10,15,Whoo-hoo! - Whoo! You guys didn't really win the lottery.,Gabe,0.0
+8152,10,16,It was just a prank so I could go to super adventure land.,Gabe,0.0
+8153,10,17,That's really funny.,Amy,0.0
+8154,10,18,So why aren't you laughing? I'm really sorry.,Amy,0.0
+8155,10,19,I never meant for it to go this far.,Gabe,0.0
+8156,10,20,"Now I know you're probably gonna ground me for, like, two weeks, But under the circumstances, I'm fine with three.",Gabe,1.0
+8157,10,21,I quit my job today.,Amy,0.0
+8158,10,22,"What? You can get it back, right? Uh What? What? We won? I can't believe it.",Amy,0.0
+8159,10,23,"I'll tell you what I can't believe, Duncan It's that you're taking another personal call.",Others,0.0
+8160,10,24,Now I asked you to do something.,Others,0.0
+8161,10,25,With these bags of saline a half an hour ago.,Others,0.0
+8162,10,26,"Uh, gotta go.",Amy,0.0
+8163,10,27,"You know what, Karen? You're absolutely right.",Amy,0.0
+8164,10,28,I should have done something with these saline bags.,Amy,0.0
+8165,10,29,A long time ago.,Amy,0.0
+8166,10,30,"I mean, this is really overdue.",Amy,1.0
+8167,10,31,Oh! Oh! - Yeah yeah.,Others,0.0
+8168,10,32,Yeah yeah.,Amy,0.0
+8169,10,33,Hi.,Amy,0.0
+8170,10,34,Take me to easy street.,Amy,1.0
+8171,10,35,"So long, suckers.",Amy,1.0
+8172,10,36,How could you do that? Because I was a millionaire.,Gabe,0.0
+8173,10,37,Rich people play by different rules.,Amy,0.0
+8174,10,38,I'm so sorry.,Gabe,0.0
+8175,10,39,"Dad, are you okay? He's hugging the kettle corn.",Gabe,0.0
+8176,10,40,This is all I have left.,Bob,1.0
+8177,11,0,"Oh, the old orange peel smile always cracks me up.",PJ,0.0
+8178,11,1,I tried it once with a pineapple not as fun.,Others,0.0
+8179,11,2,I gotta go rinse.,PJ,0.0
+8180,11,3,I can't stand the feel of pulp on my teeth.,PJ,0.0
+8181,11,4,I love learning new things about you.,Others,1.0
+8182,11,5,Is everything okay? - Everything's great.,Others,0.0
+8183,11,6,"Really? - Really, yeah.",Others,0.0
+8184,11,7,Everything couldn't be better.,PJ,0.0
+8185,11,8,You're acting kind of weird.,Others,0.0
+8186,11,9,"I'm not acting weird, no.",PJ,0.0
+8187,11,10,"If anything, I'm acting not weird.",PJ,0.0
+8188,11,11,Why does this always happen? - What? I date a guy for a while.,Others,0.0
+8189,11,12,And then all of a sudden he starts acting all strange.,Others,0.0
+8190,12,0,Then what happens? Then he just kind of disappears.,PJ,1.0
+8191,13,0,"Hey, mom, what are you doing? Hey.",Teddy,0.0
+8192,13,1,A couple things.,Amy,0.0
+8193,13,2,Trying to find a new job.,Amy,0.0
+8194,13,3,And researching military schools for Gabe.,Amy,0.0
+8195,13,4,"Wow, that sounds stressful.",Teddy,0.0
+8196,13,5,"Hey, you know, you should go to the gym, Maybe maybe with a workout buddy, Somebody like Debbie dooley.",Teddy,0.0
+8197,13,6,She's fun.,Teddy,0.0
+8198,13,7,"Teddy, I know what you're trying to do.",Amy,0.0
+8199,13,8,"Mm-hmm, you want back into Debbie dooley's house, And I know why.",Amy,0.0
+8200,13,9,You do? - Yep.,Amy,0.0
+8201,13,10,You want another babysitting gig.,Amy,0.0
+8202,13,11,"Am I that transparent? Charlie, what happened to your monkey? I don't know.",Teddy,1.0
+8203,13,12,$62 for this? The head's not even facing the right way.,Amy,0.0
+8204,13,13,That's the way she wanted it.,Teddy,1.0
+8205,14,0,"Excuse me, are you Karen? Yeah.",Gabe,0.0
+8206,14,1,"Why? I'm Gabe, Amy Duncan's son.",Gabe,0.0
+8207,14,2,"Look, the reason my mom quit was all my fault.",Gabe,0.0
+8208,14,3,I played a really mean prank on my parents.,Gabe,0.0
+8209,14,4,And it got way out of hand.,Gabe,0.0
+8210,14,5,"Now that you know the truth, can you please give her her job back? Oh, well, If it means that much to you, No! Ha! I gotcha! Oh, you should see your face.",Gabe,0.0
+8211,14,6,"I really had you going there, didn't I? Oh good.",Others,0.0
+8212,14,7,"Good for you, Karen.",Others,1.0
+8213,14,8,Okay.,Gabe,0.0
+8214,14,9,"Excuse me, Do you know whose lottery ticket this is? Yes.",Gabe,0.0
+8215,14,10,It's mine.,Others,0.0
+8216,14,11,"I won! I won! I won, I won, I won, I won! Hey hey hey! I've always loved you.",Others,1.0
+8217,15,0,Hi.,PJ,0.0
+8218,15,1,May I? Oh.,PJ,0.0
+8219,15,2,How much longer are you gonna follow me around? Till I find out the kind of guy you are.,PJ,0.0
+8220,15,3,Now I'm a guy who's about to restock the cups.,PJ,0.0
+8221,15,4,'bad with cups.,Others,1.0
+8222,15,5,"' Look, I only messed up 'cause you made me nervous.",PJ,0.0
+8223,15,6,Thanks.,Others,0.0
+8224,15,7,Got all I need.,Others,0.0
+8225,15,8,For what? To tell Skyler you're not the guy.,Others,0.0
+8226,15,9,See ya.,Others,0.0
+8227,15,10,No no.,PJ,0.0
+8228,15,11,Stop.,PJ,0.0
+8229,15,12,I am the guy.,PJ,0.0
+8230,15,13,Skyler is the best thing that's ever happened to me.,PJ,0.0
+8231,15,14,"And I'm not going away, no matter what.",PJ,0.0
+8232,15,15,So put that in your little notebook.,PJ,0.0
+8233,15,16,"Oh, and number 12, your order's ready.",PJ,1.0
+8234,15,17,Number 12.,PJ,0.0
+8235,15,18,Uh-oh.,PJ,0.0
+8236,15,19,"Is this the part where you make me disappear? Relax, kid.",PJ,1.0
+8237,15,20,You stuck up for yourself.,Others,0.0
+8238,15,21,That's what I wanted to hear.,Others,0.0
+8239,15,22,"So it's okay if I date your daughter? Oh, she's not my daughter.",PJ,0.0
+8240,15,23,She's his daughter.,Others,1.0
+8241,15,24,He always hires me to check out the boyfriends.,Others,0.0
+8242,15,25,"With that elfin smile, people don't take him too seriously.",Others,1.0
+8243,16,0,Deedee was so excited that Teddy was back.,Others,0.0
+8244,16,1,That daughter of yours is quite something.,Others,0.0
+8245,16,2,"Yeah, I make some good daughters.",Amy,0.0
+8246,16,3,Bob makes the boys.,Amy,0.0
+8247,16,4,Yesterday it was just so good.,Others,0.0
+8248,16,5,To watch deedee have fun with Teddy.,Others,0.0
+8249,16,6,"What do you mean, watch? - Oh, well, My husband insisted we put in a nanny-cam.",Amy,0.0
+8250,16,7,"Oh, a nanny-cam? I've never seen one of those.",Amy,0.0
+8251,16,8,"If you have a laptop, I'll show you right now.",Others,0.0
+8252,16,9,"I do, right behind you.",Amy,0.0
+8253,16,10,Let's look.,Amy,0.0
+8254,16,11,Oh good.,Others,0.0
+8255,16,12,"Oh, there they are.",Others,0.0
+8256,16,13,Your daughter has a real gift.,Others,0.0
+8257,16,14,It takes me forever to put deedee down.,Others,0.0
+8258,16,15,"Well, that's a little peculiar.",Others,0.0
+8259,16,16,This doesn't seem right.,Others,1.0
+8260,16,17,"Oh my goodness, she's m*rder the monkey.",Others,1.0
+8261,16,18,Oh.,Amy,0.0
+8262,16,19,Oh.,Amy,0.0
+8263,16,20,Really? One neighbor I just want to be friends with one neighbor.,Amy,0.0
+8264,17,0,"Hey, Charlie.",Teddy,0.0
+8265,17,1,"So I learned a very important life lesson today, And that is never wear.",Teddy,0.0
+8266,17,2,"A pair of accidentally make-a-monkey, s to.",Teddy,0.0
+8267,17,3,"Because if you do, something likeHt say 'oh my goodness, That girl's just not right in the head.",Teddy,0.0
+8268,17,4,"' Hi, Charlie.",Amy,0.0
+8269,17,5,"Oh, and mom's back at work.",Teddy,0.0
+8270,17,6,"Actually her boss quit for some unknown reason, And so she got a promotion.",Teddy,1.0
+8271,17,7,Which is why daddy gets one of these too.,Bob,0.0
+8272,17,8,You're going! Ere Ahh! Oh.,Bob,1.0
+8273,17,9,"Yeah, in a couple of years, When all of us kids have left the house, They'll be all yours.",Teddy,0.0
+8274,17,10,"Good luck, Charlie.",Teddy,0.0
+8275,18,0,"Hey, what happened to you? Isn't it obvious? My head's on backwards.",Others,1.0
+8276,18,1,"Yeah, I didn't want to say anything.",Others,0.0
+8277,18,2,"Doctor, the patients are prepped and ready for surgery.",Amy,0.0
+8278,18,3,She look a little young to you? I'm sure she's highly trained.,Others,0.0
+8279,18,4,You can go first.,Others,1.0

@@ -1,0 +1,304 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+3144,1,0,"Uh-oh, Charlie, look at your tummy.",Teddy,0
+3145,1,1,I think somebody's had enough pancakes.,Teddy,0
+3146,1,2,No no.,Teddy,0
+3147,1,3,"Oh my goodness, Somebody loves her blankie.",Amy,1
+3148,1,4,"Whoo! All right, dad, now pull out your blankie.",Gabe ,1
+3149,1,5,"Sure thing, son, Right after I drop you off at a military school.",Bob,1
+3150,1,6,"Oh, hey, look what's gonna happen on Saturday.",Teddy,0
+3151,1,7,"Oh, yeah, the truck from the thrift store is coming.",Amy,0
+3152,1,8,And it's your wedding anniversary.,Teddy,0
+3153,1,9,Right.,Amy,0
+3154,1,10,What time is the truck coming? So how are you guys gonna celebrate this year? There's no better way to celebrate than the tax deduction.,Teddy,0
+3155,1,11,We're gonna get from donating old clothes.,Bob,0
+3156,1,12,"Bob, remember the deduction from our 10th anniversary? Ooh! Guys, guys, guys, you know what? I think we should do something for mom and dad on their anniversary.",Teddy,0
+3157,1,13,Don't we do enough for them on mother's and father's day? You never do anything for them.,PJ ,1
+3158,1,14,"Excuse me, I was born, Which made them a mother and a father.",PJ ,0
+3159,1,15,My work is done.,PJ ,1
+3160,1,16,"Well, I think.",Teddy,0
+3161,1,17,We should surprise them with a romantic dinner.,Teddy,0
+3162,1,18,You're gonna make a dinner? I think we should surprise them.,Gabe ,0
+3163,1,19,And order a romantic dinner.,Teddy,0
+3164,1,20,Then we can serve it to them like waiters.,Teddy,0
+3165,1,21,Why do girl ideas always take so much work? I get it.,Gabe ,1
+3166,1,22,"If we do something nice for them, They have to do something nice for us.",PJ ,0
+3167,1,23,Like give us presents.,Gabe ,0
+3168,1,24,Yes.,PJ ,0
+3169,1,25,Why can't we just do it because we love them? Because then we don't get stuff.,Teddy,0
+3170,1,26,Duh.,Gabe ,0
+3171,2,0,Hey! Shouldn't someone go tell Charlie to shut up? You know what? You give it a sh*t.,Gabe ,0
+3172,2,1,We've been trying all night long.,Bob,0
+3173,2,2,And by 'we' he means me.,Amy,1
+3174,2,3,"Come on, I got up that one time.",Bob,0
+3175,2,4,"And when you flushed, you woke her up.",Amy,1
+3176,2,5,But why is she so fussy? We can't find her blankie.,Teddy,0
+3177,2,6,And we've looked everywhere.,Amy,0
+3178,2,7,"Oh, that's ridiculous.",Gabe ,0
+3179,2,8,She shouldn't need something to help her sleep.,Gabe ,0
+3180,2,9,What about your stuffed monkey? Coco's different.,Amy,1
+3181,2,10,"Guys, what a horrible way to spend your anniversary.",Teddy,0
+3182,2,11,We should really get out of the house.,Teddy,0
+3183,2,12,Ow.,Gabe ,0
+3184,2,13,What are you doing? Oh.,Gabe ,0
+3185,2,14,"Mom and dad, on your anniversary I'm taking you to lunch and a movie, My treat.",Gabe ,0
+3186,2,15,"Oh, dad, bring your wallet.",Gabe ,0
+3187,2,16,"You don't know what 'my treat' means, do you? Okay, we'd love to go to a movie, kids, But not when Charlie's so upset.",Amy,0
+3188,2,17,I'll find Charlie's blankie and take care of her.,Teddy,0
+3189,2,18,Now you two go out and enjoy some alone time.,Teddy,0
+3190,2,19,On your anniversary.,Teddy,0
+3191,2,20,With Gabe.,Teddy,0
+3192,2,21,And I know the perfect movie to see 'star exploders ii: Ticking asteroids' in 3d.,Gabe ,0
+3193,2,22,"Hey, you know what? The critics hated that.",Bob,0
+3194,2,23,That means it's gotta be good.,Bob,1
+3195,2,24,"Oh, yeah.",Gabe ,0
+3196,2,25,Or we could see 'the willow weeps tomorrow.,Amy,0
+3197,2,26,' - What's that about? - It's a haunting tale of a young girl.,Gabe ,0
+3198,2,27,"Who lives on a farm, plants a willow tree.",Amy,0
+3199,2,28,And grows up with dreams of becoming a ballerina.,Amy,0
+3200,2,29,And then on the day of the bigudition.,Amy,0
+3201,2,30,"She twists her ankle, goes back to the farm, Gets married and has a baby.",Amy,0
+3202,2,31,And do you know what she names it? Willow.,Amy,0
+3203,2,32,I feel like we just saw it.,Gabe ,0
+3204,2,33,And hated it.,Bob,0
+3205,2,34,"Oh, come on, guys.",Amy,0
+3206,2,35,It's my anniversary too.,Amy,0
+3207,2,36,"No no no, you're absolutely right.",Bob,0
+3208,2,37,"Look, we don't have to figure this out now.",Bob,0
+3209,2,38,We'll decide when we get to the theater.,Bob,0
+3210,2,39,Okay.,Amy,0
+3211,2,40,Okay.,Bob,0
+3212,3,0,"'star exploders'! Charlie, I'm looking for your blankie.",Teddy,0
+3213,3,1,Please stop crying.,Teddy,0
+3214,3,2,"Oh, look, it's your favorite show 'the circles.",Teddy,0
+3215,3,3,' they're the colorful singing shapes.,Teddy,0
+3216,3,4,That teach you about shapes.,Teddy,0
+3217,3,5,"I am a red circle, yes, I am ♪ I am big and round and red.",Teddy,0
+3218,3,6,"Hey! Man, this is annoying.",Teddy,0
+3219,3,7,"Oh, what's this I found? Is this your blankie? I'll take that as a no.",Teddy,0
+3220,3,8,Let's take you on a walk.,Teddy,0
+3221,3,9,That'll make you feel better.,Teddy,0
+3222,4,0,Yay! Excuse me.,Amy,0
+3223,4,1,Excuse me.,Amy,0
+3224,4,2,"Great, I think I'm the only woman in here.",Amy,0
+3225,4,3,"Hey, what about? Nope.",Bob,0
+3226,4,4,I'm kind of getting hungry.,Gabe ,0
+3227,4,5,"Yeah, you know what? Let's eat.",Bob,0
+3228,4,6,Pass this to your dad.,Amy,0
+3229,4,7,Isn't this great Not having to buy that movie theater food? We're saving so much money.,Bob,0
+3230,4,8,I guess I had a different picture in my mind.,Amy,0
+3231,4,9,When Gabe said 'lunch and a movie.,Amy,0
+3232,4,10,' I think he said 'lunch in a movie.,Bob,0
+3233,4,11,"' Mom, do you have my milkshake? Oh.",Gabe ,0
+3234,4,12,You know what? I think it's easier.,Amy,0
+3235,4,13,If you just stick the straw in.,Amy,0
+3236,4,14,"Hey, the movie's starting.",Bob,0
+3237,4,15,"Really? Excuse me, could you take off your tentacles? Got the cake.",Amy,0
+3238,5,0,Whoa.,PJ ,0
+3239,5,1,"What's all this about? Oh, it's the theme for tonight's dinner.",PJ ,0
+3240,5,2,I turned the living room into a moroccan palace.,Teddy,0
+3241,5,3,So we'll be serving moroccan food? Won't that make dad gassy? Name a country that won't make dad gassy.,PJ ,1
+3242,5,4,Good point.,PJ ,0
+3243,5,5,Are you still looking for Charlie's blankie? I can't find it anywhere.,PJ ,0
+3244,5,6,I thought I put it in that pile of dirty clothes.,Teddy,0
+3245,5,7,"We have a dirty clothes pile? Yeah, it's where your clothes magically go.",Teddy,0
+3246,5,8,After you throw them on the floor.,Teddy,0
+3247,5,9,I hope you didn't put it on the donation pile.,PJ ,0
+3248,5,10,"For the thrift store, 'cause that is long gone.",PJ ,0
+3249,5,11,We gave her blankie away? - You gave her blankie away.,Teddy,0
+3250,5,12,We have to get it back.,Teddy,0
+3251,5,13,You have to get it back.,PJ ,0
+3252,5,14,Stop saying that.,Teddy,0
+3253,5,15,You stop saying that.,PJ ,1
+3254,5,16,"You know, I'm usually the one who messes things up.",PJ ,0
+3255,5,17,But this time everything on my side of the operation.,PJ ,0
+3256,5,18,Is going just fine.,PJ ,0
+3257,5,19,"See? 'bon voyage, Esther &amp; marty'? - Oops.",Teddy,0
+3258,5,20,You brought home the wrong cake.,Teddy,0
+3259,5,21,Can't we just tell mom and dad.,PJ ,0
+3260,5,22,That 'bon voyage' is french for 'happy anniversary'? What about 'esther &amp; marty'? Who cares about them? They're on a ship.,PJ ,1
+3261,5,23,"Okay, we still have time before mom and dad get home.",Teddy,0
+3262,5,24,We can fix this.,Teddy,0
+3263,5,25,How? You drop me off at the thrift store.,Teddy,0
+3264,5,26,I'll grab the blankie while you go switch cakes.,Teddy,0
+3265,5,27,Let's do it.,Gabe ,0
+3266,5,28,Let's do it with Charlie.,Teddy,1
+3267,6,0,Oh! Yeah! That was awesome.,Gabe ,0
+3268,6,1,And derivative.,Others,0
+3269,6,2,They did it in 'solar troopers: Star quest iv.,Others,0
+3270,6,3,' How many stars have to explode before this thing is over? Or so they said in the chat room.,Amy,0
+3271,6,4,"Hey, mom, could you jiggle your purse? My shake's clogging.",Gabe ,0
+3272,6,5,"Honey, put your phone away.",Bob,0
+3273,6,6,It's distracting.,Bob,0
+3274,6,7,My phone is distracting.,Amy,0
+3275,6,8,From the 3d destruction of the milky way? Do you mind? You were talking too.,Amy,0
+3276,6,9,"About the movie, which is totally allowed.",Others,0
+3277,6,10,"Oh, yeah? Honey, honey, where are you going? Out.",Bob,0
+3278,6,11,"Excuse me, could you move your flipper? I should go talk to her.",Amy,0
+3279,6,12,Mr.,Others,0
+3280,6,13,"President, Only you can give the order to explode the supernova.",Others,0
+3281,6,14,May the galaxy forgive me.,Others,0
+3282,7,0,"Whoo! Excuse me, excuse me.",Teddy,0
+3283,7,1,"Hi, I donated something and I have to get it back.",Teddy,0
+3284,7,2,"Oh, dear.",Teddy,0
+3285,7,3,Someone doesn't know what the word 'donation' means.,Others,0
+3286,7,4,"See, darling, when you 'donate' something.",Others,0
+3287,7,5,You 'do not' get it back.,Others,0
+3288,7,6,You don't understand how important this is.,Teddy,0
+3289,7,7,I accidentally gave away my baby sister's blankie.,Teddy,0
+3290,7,8,Your baby sister's blankie?! I still don't care.,Others,0
+3291,7,9,Did someone wake up on the wrong side of the bed? I sleep on the futon.,Teddy,0
+3292,7,10,Mama gets the bed.,Others,0
+3293,7,11,Can you help me? I'm afraid it's out of my hands.,Teddy,0
+3294,7,12,Everything that was donated this week is already on that truck.,Others,0
+3295,7,13,Leslie's dog-washing service.,Others,0
+3296,7,14,"If your pooch is dirty, I'll make him purty.",Others,0
+3297,7,15,Side business.,Others,0
+3298,7,16,I'm also a life coach.,Others,0
+3299,7,17,"Yeah, uh-huh.",Others,0
+3300,7,18,"Oh, I think I see it.",Teddy,0
+3301,7,19,"No, ma'am, we don't wash cats.",Others,0
+3302,7,20,Cats wash themselves.,Others,0
+3303,7,21,Uh-oh.,Teddy,0
+3304,7,22,"Wait, no.",Teddy,0
+3305,7,23,"Hold it, no.",Teddy,0
+3306,8,0,"Boop boop boop! This is zaalouk, couscous, Tajine, pastilla and harira.",Others,0
+3307,8,1,"Any questions? Actually, I do have a question.",PJ ,0
+3308,8,2,Is your name really aziz? It is on saturdays between 5:00 and 9:00.,PJ ,0
+3309,8,3,Tuesdays and thursdays I'm raoul from el gaucho.,Others,0
+3310,8,4,"Oh, cool.",PJ ,0
+3311,8,5,I'm also in the food delivery business.,PJ ,0
+3312,8,6,I work for kwikki chikki.,PJ ,0
+3313,8,7,You mean the guys who wear the rooster hat.,Others,0
+3314,8,8,"With the cartoon beak? Where's your pride, man? Gotta answer the phone.",Others,0
+3315,8,9,Hello.,PJ ,0
+3316,8,10,P.J.,Teddy,0
+3317,8,11,"Teddy, what happened to you? I went to the thrift store and you weren't there.",PJ ,0
+3318,8,12,I'm locked in the back of a truck.,Teddy,0
+3319,8,13,"Ooh, this is cute.",Teddy,0
+3320,8,14,"Someone threw this out? What? Teddy, I can't hear you.",Amy,0
+3321,8,15,Try going outside to get better reception.,PJ ,0
+3322,8,16,"If I could go outside, I wouldn't have to call you.",Teddy,0
+3323,8,17,"Okay, I have an idea why don't I go outside? Can I hear you now? I'm locked in the back of a truck.",PJ ,0
+3324,8,18,"Locked in the back of a truck? Teddy, how could you be so stupid? Um, forget that question.",PJ ,0
+3325,8,19,I gotta go.,PJ ,0
+3326,8,20,"Wait, no.",Teddy,0
+3327,8,21,"Wait, no.",Teddy,0
+3328,8,22,"Um, yeah.",Teddy,0
+3329,8,23,"Charlie, hi.",PJ ,0
+3330,8,24,"Can you open the door for me? Charlie, come here.",PJ ,0
+3331,8,25,"Charlie, where are you going? Charlie, Charlie.",PJ ,0
+3332,8,26,"Charlie, can you come here? Thattagirl.",PJ ,0
+3333,8,27,A little closer.,PJ ,0
+3334,8,28,A little closer.,PJ ,0
+3335,8,29,"Charlie, no.",PJ ,0
+3336,8,30,"No, not the food.",PJ ,0
+3337,8,31,"Charlie, please.",PJ ,0
+3338,8,32,Please come here.,PJ ,0
+3339,8,33,"Charlie, Charlie, hi, hi.",PJ ,0
+3340,8,34,Come here.,PJ ,0
+3341,8,35,Come here.,PJ ,0
+3342,8,36,"Yes, thattagirl.",PJ ,0
+3343,8,37,Thattagirl.,PJ ,0
+3344,8,38,A little closer.,PJ ,0
+3345,8,39,A little closer.,PJ ,0
+3346,8,40,Ugh.,PJ ,0
+3347,8,41,"You can do that, but you can't open the door? Hey, honey, you're missing the whole movie.",PJ ,0
+3348,9,0,"Yeah, that's kind of the idea.",Amy,1
+3349,9,1,What are you doing out here? The guy with the tentacles cut the cheese.,Gabe ,0
+3350,9,2,"Yeah, it was the guy with the tentacles.",Bob,0
+3351,9,3,"Honey, what's wrong? I don't know.",Bob,0
+3352,9,4,I guess the truth is it would be nice.,Amy,0
+3353,9,5,To do more on our anniversary.,Amy,0
+3354,9,6,We used to do special things.,Amy,0
+3355,9,7,Now we're eating onion rings out of my purse.,Amy,0
+3356,9,8,There were onion rings? But I thought we agreed.,Gabe ,1
+3357,9,9,We weren't gonna do anything special.,Bob,0
+3358,9,10,"Yeah, I know.",Amy,0
+3359,9,11,I know we did.,Amy,0
+3360,9,12,"So now you want to do special things? Well, it's better than doing unspecial things, Like sitting in a theater full of 40-year-old nerds.",Amy,0
+3361,9,13,"Hey, I'm only 36.",Others,0
+3362,9,14,"Okay, you know what? You guys go back and enjoy your movie.",Amy,0
+3363,9,15,And I'm gonna go see 'the willow weeps tomorrow.,Amy,0
+3364,9,16,"' No, honey, wait a minute, wait a minute, wait a minute.",Bob,0
+3365,9,17,Are you gonna want the onion rings or? Here you go.,Bob,0
+3366,9,18,Happy anniversary.,Amy,0
+3367,9,19,I don't think I handled that very well.,Bob,0
+3368,9,20,"Ya think? Oh, man.",Gabe ,1
+3369,9,21,I should have planned something.,Bob,0
+3370,9,22,"Well, maybe you did.",Gabe ,0
+3371,9,23,"What do you mean? Well, Teddy, p.J.",Bob,0
+3372,9,24,And I are surprising you guys.,Gabe ,0
+3373,9,25,With an anniversary dinner.,Gabe ,0
+3374,9,26,"It was all my idea, not Teddy's.",Gabe ,0
+3375,9,27,But I can let you take the credit.,Bob,0
+3376,9,28,Are you serious? You'd do that for me? Sure.,Bob,0
+3377,9,29,Just remember me on Gabe's day.,Gabe ,0
+3378,9,30,What's Gabe's day? - Surprise me.,Bob,0
+3379,10,0,"Agh! An arm! My goodness, people will donate anything.",Others,1
+3380,10,1,A little help here.,Teddy,0
+3381,10,2,What are you doing in the back of my truck? Looking for my sister's blankie.,Others,0
+3382,10,3,"And it's not in here, Although I did find this really cute top, see? You know what would look good with that? Get out of my truck! But I don't even know where I am.",Teddy,0
+3383,10,4,You're in the driveway of my house.,Others,0
+3384,10,5,Mama always likes first dibs on my pile.,Others,0
+3385,10,6,"Wait, and you still have to sleep on the futon? That just doesn't seem right.",Teddy,0
+3386,10,7,"Would you mind telling that to my mama? Charlie, please open the door.",Others,0
+3387,11,0,Open window.,PJ ,0
+3388,11,1,"Ha ha! Coming, Charlie.",PJ ,0
+3389,12,0,This is so sad.,Amy,0
+3390,12,1,I know.,Others,0
+3391,12,2,"First she loses her man, And now her sense of smell.",Amy,0
+3392,12,3,Her problem is she loves too much.,Others,0
+3393,12,4,I smell Oscar.,Amy,0
+3394,12,5,But she won't.,Others,0
+3395,12,6,What are you doing here? - I was worried about you.,Amy,0
+3396,12,7,And our movie ended.,Gabe ,0
+3397,12,8,"Ow! Look, honey, I wasn't gonna tell you this, But I've got an anniversary surprise waiting for you at home.",Bob,0
+3398,12,9,"Really? What is it? If I told you, it wouldn't be much of a surprise now, would it? Oh.",Amy,0
+3399,12,10,I love you.,Amy,0
+3400,12,11,Thanks for staying and watching the rest of the movie with me.,Amy,0
+3401,12,12,Oh.,Bob,0
+3402,12,13,Okay.,Bob,0
+3403,12,14,"Why do I have to stay? Because if you don't, Gabe's day is canceled.",Gabe ,0
+3404,12,15,What are you doing here? I have a heart as well as a brain.,Gabe ,0
+3405,12,16,I'm not a robot.,Others,0
+3406,12,17,I wish I was.,Others,0
+3407,12,18,"Hey, dad, do you want to switch seats? So then I left Broadway.",Gabe ,0
+3408,13,0,I've never looked back.,Others,0
+3409,13,1,I can't believe I didn't find Charlie's blankie.,Teddy,0
+3410,13,2,I could have sworn I looked at every single thing in that truck.,Teddy,0
+3411,13,3,"Were you even listening to my life's story? Does the name Patti lupone mean nothing to you? I'm sorry, I just - What are you sitting on? - Just a little blanket.",Others,0
+3412,13,4,"No, that's Charlie's blankie.",Teddy,0
+3413,13,5,"Give me that! Oh, there.",Teddy,0
+3414,13,6,Why were you sitting on it? How shall I put this? I have a medical condition known as posterial hydrosis.,Others,0
+3415,13,7,What's that? - Butt sweats.,Others,0
+3416,13,8,Eww.,Teddy,0
+3417,13,9,"Well, at least I got it back.",Teddy,0
+3418,13,10,Stop the truck.,Teddy,0
+3419,13,11,Back it up.,Teddy,0
+3420,14,0,"Boop boop boop! Okay, look, before we go in I just want to say something.",Bob,0
+3421,14,1,"Now I know I'm not always the most romantic guy, But I should be, because you deserve it.",Bob,0
+3422,14,2,"Happy anniversary! Surprise! Oh, Charlie.",Bob,0
+3423,14,3,What happened? Ask dad.,Teddy,0
+3424,14,4,He planned the whole thing.,Gabe ,0
+3425,15,0,For your anniversary we'd like to serve you.,PJ ,0
+3426,15,1,A traditional moroccan feast.,PJ ,0
+3427,15,2,"But since that ended up on the floor, We bring you Peanut butter toast.",Gabe ,0
+3428,15,3,This is so sweet of you kids.,Amy,0
+3429,15,4,"You know, I think this turned out to be.",Amy,0
+3430,15,5,A pretty great anniversary after all.,Amy,0
+3431,15,6,I don't even mind that I'm sitting in couscous.,Bob,1
+3432,15,7,And now it's time for the entertainment.,PJ ,0
+3433,15,8,"Ladies and gentlemen, may I present to you The dancing Duncans! Isn't it amazing how a little piece of cloth.",PJ ,0
+3434,16,0,"Can make someone so happy, Even when it's covered in tire tracks and butt sweat? I'm gonna wash it after you fall asleep.",Teddy,1
+3435,16,1,"But it's so funny, because we love our blankies so much, And then one day we forget all about them.",Teddy,0
+3436,16,2,"And if you're like me, you'll grow out of yours by the time you're five.",Teddy,0
+3437,16,3,Good night.,Gabe ,0
+3438,16,4,"But if you're like Gabe, You might bring it on your honeymoon.",Teddy,1
+3439,16,5,"Good luck, Charlie.",Teddy,0
+3440,17,0,"Hey, you know what? I'm kind of hungry.",Bob,0
+3441,17,1,Pass this your dad.,Amy,0
+3442,17,2,Anything else? I had chicken yesterday.,PJ ,0
+3443,17,3,"Got anything else? What, no fixings? Hold on.",Gabe ,0
+3444,17,4,"Hey, honey, aren't you gonna have something? Oh, I almost forgot.",Amy,0
+3445,17,5,"Okay, Who ordered nachos? That would be me.",Amy,0
+3446,17,6,Shh.,Others,0

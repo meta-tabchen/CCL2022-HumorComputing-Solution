@@ -1,0 +1,327 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+310,1,0,"Can you believe it, bob? Charlie's first big-girl bed.",Teddy,0
+311,1,1,She's not a baby anymore.,Bob,0
+312,1,2,"Charlie, do you like your new bed? No.",Teddy,1
+313,1,3,"Oh, it seems like just yesterday I was complaining about giving up this room.",Teddy,0
+314,1,4,"Aw, you miss your old room, honey? Are you kidding? There's two floors.",Teddy,0
+315,1,5,Between me and the boys now.,Teddy,0
+316,1,6,This room is dead to me.,Teddy,0
+317,1,7,"Hey, now that charlie's got her own bed, I can have a sleepover, right? Okay, how did charlie's new bed.",Gabe,0
+318,1,8,Turn into you getting a sleepover? Let me walk you through it.,Gabe,0
+319,1,9,"Oh, I love it when he walks us through stuff.",Bob,0
+320,1,10,"Every time I ask you guys for a sleepover, You tell me I can't because there's a baby in the house.",Gabe,1
+321,1,11,"Well, dad just said she's not a baby anymore.",Gabe,0
+322,1,12,And he walked us through it.,Bob,0
+323,1,13,And it's my fault.,Bob,0
+324,1,14,Look.,Gabe,0
+325,1,15,"If I don't have a sleepover soon, The other kids will stop inviting me to theirs.",Gabe,0
+326,1,16,One night of kids at our house.,PJ,0
+327,1,17,And we get rid of gabe for a bunch of nights.,PJ,0
+328,1,18,Take it.,PJ,0
+329,1,19,It's a good deal.,PJ,0
+330,1,20,"Fine, you can have your sleepover.",Amy,0
+331,1,21,"Yes! Come here, charlie.",Gabe,0
+332,1,22,Let's look at your new bed. You'll love it!,Amy,0
+333,1,23,No.,Amy,1
+334,1,24,"I bet you're glad you spent two hours putting that together, huh?",Teddy,1
+335,2,0,"How was that? Oh my gosh. Alice, are you having an asthma attack?",Teddy,0
+336,2,1,"No, that was the crowd cheering for you.",Teddy,0
+337,2,2,You were great.,Others,0
+338,2,3,"That thing at the end, that was asthma.",Others,0
+339,2,4,Oh thanks.,Teddy,0
+340,2,5,"It's my first audition for a high school show, So I really want it to go well.",Teddy,0
+341,2,6,"Oh, no worries.",Others,0
+342,2,7,Since I'll be playing.,Others,0
+343,2,8,"The piano for everyone's audition, When you're singing I'll make sure.",Others,0
+344,2,9,"The director sees me do this And when the other kids are auditioning, I'll do this Wow.",Others,1
+345,2,10,"Alice, you make a really good stink face.",Teddy,1
+346,2,11,We live next to a sewage-treatment plant.,Others,1
+347,2,12,Hey.,PJ,0
+348,2,13,"Hey, p.J. What you go there?",Teddy,0
+349,2,14,A cupful of bacon.,Teddy,0
+350,2,15,"Dude, if you don't start eating healthier, You're gonna get fat.",Teddy,0
+351,2,16,"Teddy, I can eat whatever I want.",PJ,0
+352,2,17,Nothing happens.,PJ,0
+353,2,18,"Now if you're through here, I'd like to take a nap.",PJ,1
+354,2,19,Why don't you just go upstairs to your room? 'cause this is my fourth cup of bacon.,Teddy,0
+355,2,20,And I'm feeling a little woozy.,PJ,1
+356,3,0,"I'm not bothering you, am I? A little.",Amy,1
+357,3,1,"Can we talk about my sleepover for a second? Gabe, you're distracting me from my housework.",Gabe,0
+358,3,2,Of course we can talk about your sleepover.,Amy,0
+359,3,3,"What are you serving us for dinner? Well, I was thinking of making my famous meatloaf.",Gabe,0
+360,3,4,With a nice side salad.,Amy,0
+361,3,5,Pizza it is.,Gabe,0
+362,3,6,"Okay, now I'm gonna need you to rent us a scary movie.",Gabe,0
+363,3,7,"I don't know, gabe.",Amy,0
+364,3,8,I don't want you boys to be up all night.,Amy,0
+365,3,9,"Mom, you just described the perfect sleepover.",Gabe,0
+366,3,10,Now the last thing is Charlie's writing on the wall.,Gabe,0
+367,3,11,What? - Charlie She's writing on the wall.,Gabe,0
+368,3,12,I can draw.,Charlie,0
+369,3,13,Charlie.,Amy,0
+370,4,0,"P.J., breakfast! Morning, everybody.",Amy,1
+371,4,1,I'm starving.,PJ,0
+372,4,2,"Are you stuck again? Mom, put some more butter on the door.",Gabe,1
+373,4,3,We're out of butter.,Amy,0
+374,4,4,He ate it all.,Amy,0
+375,4,5,I told you you were gonna get fat.,Teddy,0
+376,4,6,"Kids, help your brother into his harness.",Amy,0
+377,4,7,The helicopter's here to take him to school.,Amy,0
+378,4,8,"No Ooo! Ooh, bacon.",PJ,0
+379,5,0,"Hi, um, mr.",Teddy,0
+380,5,1,Billups.,Teddy,0
+381,5,2,I'm teddy duncan.,Teddy,0
+382,5,3,"I'd, um, like to sign up.",Teddy,0
+383,5,4,To audition for 'beauty and the beast.,Teddy,0
+384,5,5,"' Miss duncan, in the theater.",Others,0
+385,5,6,"One must present oneself with confidence, Not with 'like' and 'um.",Others,0
+386,5,7,' Now reenter and say it again.,Others,0
+387,5,8,This time like you want it.,Others,0
+388,5,9,Okay.,Teddy,0
+389,5,10,"Hello, mr.",Teddy,0
+390,5,11,Billups.,Teddy,0
+391,5,12,I'm teddy duncan.,Teddy,0
+392,5,13,Put me in your show! Please.,Teddy,0
+393,5,14,Better.,Others,0
+394,5,15,Now give me an arpeggio.,Others,0
+395,5,16,Right here in the hallway? Arpeggio.,Teddy,0
+396,5,17,Fair.,Others,0
+397,5,18,"How's your dancing? Would you like to hear me sing again? Teddy, with a lot of hard work, You might have a sh*t at being my beauty - Really? -If and I mean if You can show me some passion.",Teddy,0
+398,5,19,You've got to wow me.,Others,0
+399,5,20,And so far I'm not being wowed.,Others,0
+400,5,21,"Well, I'm I'm really sorry.",Teddy,0
+401,5,22,No no no no no.,Others,0
+402,5,23,Give it back to me.,Others,0
+403,5,24,Get in my face.,Others,0
+404,5,25,"I'm really sorry! Tomorrow at the audition, you've got to really bring it.",Others,1
+405,5,26,Consider it brung! - You mean 'brought.,Teddy,0
+406,5,27,' - Don't correct me! - I love it! This juice is great.,Teddy,0
+407,6,0,Really really great.,Teddy,0
+408,6,1,I'm not allowed to have sugar at home.,Others,0
+409,6,2,I huh wonder why.,Gabe,1
+410,6,3,Yeah.,Amy,0
+411,6,4,Maybe we should switch you to water.,Others,0
+412,6,5,No! What an awesome sleepover.,Others,0
+413,6,6,The best one ever.,Others,0
+414,6,7,"Xander honey, you've been here Pace yourself.",Amy,0
+415,6,8,Does this pizza have cheese on it? - 'cause I can't eat cheese.,Others,0
+416,6,9,I'll eat it.,Others,1
+417,6,10,"Liam, would you like a peanut butter sandwich? - No thanks.",Amy,0
+418,6,11,I'm allergic.,Others,0
+419,6,12,I'll eat it.,Others,1
+420,6,13,"What movie are we gonna watch later? Well, I was thinking 'monkeys go bananas.",Amy,0
+421,6,14,' It's a delightful and funny cartoon.,Amy,0
+422,6,15,About monkeys who just go bananas.,Amy,0
+423,6,16,That's for six-year-olds.,Gabe,0
+424,6,17,"No, it says 'four and up.",Amy,0
+425,6,18,' excuse me.,Gabe,0
+426,6,19,"Mom, can I talk to you for a second? - Sure, yeah.",Gabe,0
+427,6,20,Come on.,Gabe,0
+428,6,21,Okay.,Amy,0
+429,6,22,Let's go.,Gabe,0
+430,6,23,"You're k*ll me here! Where's the movie I asked you to get, 'zombie bl*od party'? Well, I got it, but I'm just not sure.",Gabe,1
+431,6,24,"Gabe, it looks very violent.",Amy,0
+432,6,25,That's kind of the point.,Gabe,0
+433,6,26,Now get over there and sell it! Come on.,Gabe,0
+434,6,27,Let's go.,Gabe,0
+435,6,28,Our other choice is 'zombie bl*od party' Awesome! Which is about zombies.,Amy,0
+436,6,29,Who just have a bl*od party.,Others,0
+437,6,30,"Yeah! - All right! Okay, guys.",Amy,0
+438,6,31,We've got the tent set up in the backyard.,Amy,0
+439,6,32,So once we're done eating I guess they're done eating.,Bob,0
+440,6,33,He might want a dessert menu.,Bob,1
+441,7,0,What you doing? - Working out.,Bob,0
+442,7,1,So I don't have to go to school in a helicopter.,PJ,0
+443,7,2,"As usual, I only understood half.",Bob,1
+444,7,3,"Hey, p.J., wait wait wait.",Bob,0
+445,7,4,What? You've got to stretch out before you pump the iron.,Bob,0
+446,7,5,You want to hurt yourself? - No.,Bob,0
+447,7,6,"Hey, come here.",Bob,0
+448,7,7,Come here.,PJ,0
+449,7,8,Let me show you a little something.,Bob,0
+450,7,9,"Do some toe-touches, all right? Just do what I do.",Bob,0
+451,7,10,"You do, okay.",Bob,0
+452,7,11,Here we go.,Bob,0
+453,7,12,"Ready? One and Ow! Ow! Ow! Ow! No! No! No! No! No no, I think I pulled a hamstring.",Bob,0
+454,7,13,What are you guys do Oh! Dad butt! Ow! - Isn't this cool? - Yeah.,Teddy,0
+455,8,0,Let's stay up all night.,Others,0
+456,8,1,I know I am.,Others,0
+457,8,2,Yeah.,Others,0
+458,8,3,This ground seems kind of hard.,Others,0
+459,8,4,"Liam, it's the ground.",Gabe,0
+460,8,5,That's how the ground always feels.,Gabe,0
+461,8,6,"Hey, zip up the door so no one else can get in.",Others,0
+462,8,7,Wait.,Others,0
+463,8,8,"We're still gonna be able to get more food, right? Well, it's official.",Others,0
+464,9,0,Charlie hates her new bed.,Amy,0
+465,9,1,Now what's going on with her? Writing on walls.,Bob,0
+466,9,2,Won't sleep in her bed.,Bob,0
+467,9,3,"Well, bob, she's an overachiever.",Amy,0
+468,9,4,She started her terrible twos at one and a half.,Amy,0
+469,9,5,Bring her over here.,Bob,0
+470,9,6,"Aw, daddy wants quality time.",Amy,0
+471,9,7,Yeah.,Bob,0
+472,9,8,Oh! Oh! Other side.,Bob,0
+473,9,9,Other side.,Bob,0
+474,9,10,There we go.,Bob,0
+475,9,11,There we go.,Bob,0
+476,9,12,Really sorry.,Amy,0
+477,9,13,It's okay.,Bob,0
+478,9,14,It's better.,Bob,0
+479,9,15,It's all better now.,Bob,0
+480,9,16,"You really hurt yourself, huh? - Yeah, well, That's what I get for trying to exercise.",Amy,0
+481,9,17,"Boy, I'm glad that chapter's closed.",Amy,0
+482,9,18,"Whoa, what's that? Oh, did you turn off the a*t*matic sprinklers? We have a*t*matic sprinklers? It was like being trapped in a washing machine.",Bob,1
+483,9,19,I thought I was gonna drown.,Others,0
+484,9,20,The whole night is ruined.,Gabe,0
+485,9,21,Relax.,Amy,0
+486,9,22,We can fix this.,Amy,0
+487,9,23,"How? We were gonna sleep in the tent, Watch a movie in the tent, Do stuff I couldn't tell you about in the tent.",Gabe,1
+488,9,24,"Hey, gabe, look.",Bob,0
+489,9,25,"Why don't you just go upstairs, Have a sleepover in your room and then p.J.",Bob,0
+490,9,26,P.J.,Bob,0
+491,9,27,Can sleep on the couch in the basement.,Bob,0
+492,9,28,"Yeah yeah, and I'll order another pizza.",Amy,0
+493,9,29,Tell them to put more pepperoni on this time.,Others,0
+494,9,30,I could still see cheese.,Others,1
+495,9,31,"Uh, liam honey, is there a problem? I'm afraid of upstairs.",Amy,1
+496,9,32,Excuse me? - We live in a one-story house.,Others,0
+497,9,33,I've never been upstairs and I'm not gonna start now.,Others,1
+498,9,34,Interesting new phobia.,Amy,0
+499,9,35,"Okay, sleepover's in the basement.",Amy,0
+500,9,36,"You're not afraid of downstairs, are you? No, I'm not crazy.",Bob,0
+501,9,37,"Hey, honey, if he goes downstairs, - Doesn't he eventually have to - No no no no.",Amy,1
+502,9,38,"One battle at a time, honey.",Amy,0
+503,10,0,"Okay, wait.",Teddy,0
+504,10,1,Confidence.,Teddy,0
+505,10,2,Passion.,Teddy,0
+506,10,3,that one stunk worse than the first.,Others,0
+507,10,4,"? sleeping bag fight! What are you doing? Sleepover's been moved to the basement! No! No! Well, I can't sleep in there if you're making noise out here.",Teddy,0
+508,10,5,Oh.,Gabe,0
+509,10,6,Good point.,Gabe,0
+510,10,7,Get her! This movie's hilarious.,Bob,0
+511,10,8,These monkeys are going absolutely crazy.,Bob,1
+512,10,9,"Yup, four and up.",Amy,0
+513,10,10,They got that right.,Amy,1
+514,10,11,"Hey, dad, I don't see any difference yet.",PJ,0
+515,10,12,"Well, how long have you been doing it? - Twice.",Bob,0
+516,11,0,"Mom, did you tell the boys they could sleep downstairs? Well, honey, they don't have anywhere else to go.",Teddy,0
+517,11,1,"Okay, well, I'm not going into p.J.'s room.",Teddy,0
+518,11,2,"And you guys are down here, so where am I supposed to sleep? - Stupid parents.",Teddy,1
+519,11,3,Heard that.,Amy,0
+520,11,4,Oh.,Teddy,0
+521,11,5,Stupid baby monitor.,Teddy,1
+522,12,0,Don't go in there.,Gabe,0
+523,12,1,"Don't go in there! Don't go Oh, man, he shouldn't have gone in there.",Gabe,1
+524,12,2,"Remember, no one is safe.",Others,0
+525,12,3,"The zombies are everywhere! Everywhere! That was a good movie, huh? I don't think I'm ever gonna sleep again.",Others,0
+526,12,4,Why'd you have to get such a scary movie? - I want to go home.,Others,0
+527,12,5,Me too.,Others,0
+528,12,6,"Come on, guys.",Gabe,0
+529,12,7,"You're not afraid of a bunch of zombies, are you? Fine.",Gabe,1
+530,12,8,I'll go upstairs and tell my parents.,Gabe,0
+531,12,9,"Upstairs? Oh, man, I really didn't think this through.",Others,1
+532,13,0,"Hey, buddy.",Bob,0
+533,13,1,How's it going? Terrible.,Bob,0
+534,13,2,Everyone wants to go home.,Gabe,0
+535,13,3,Why? - Because that movie you rented us.,Gabe,0
+536,13,4,Was completely inappropriate.,Gabe,1
+537,13,5,My first sleepovers a total disaster.,Gabe,0
+538,13,6,Oh honey.,Amy,0
+539,13,7,"Relax, okay? I'll go have a little talk with them.",Amy,0
+540,13,8,Everything's gonna be fine.,Amy,0
+541,13,9,"Okay, everybody listen up! Zombies aren't real! Now go to bed! Good night, everybody.",Amy,1
+542,14,0,Ah.,PJ,0
+543,14,1,"Wow, this is really paying off.",PJ,0
+544,14,2,It sure is.,Bob,0
+545,14,3,"Hey, p.J., do me a favor - Would you give me a hand up? - Yeah.",Bob,0
+546,14,4,"Hey, that's my favorite arm.",Bob,1
+547,14,5,Oh now.,PJ,0
+548,14,6,I'm too strong now.,PJ,0
+549,14,7,P.J.,Bob,0
+550,14,8,P.J.,Bob,0
+551,14,9,P.J.,Bob,0
+552,14,10,P.J.,Bob,0
+553,15,0,"Ow! Oh! Oh, my foot! I I'm sorry, dad.",Bob,1
+554,15,1,Are you okay? Ow! Ah.,PJ,0
+555,15,2,You know what? I should just go to bed.,Bob,0
+556,15,3,"Before I go to bed, I've got to go check on the boys.",Bob,0
+557,15,4,"Oh, my thigh.",Bob,0
+558,15,5,"Oh, my foot.",Bob,0
+559,15,6,"Oh, my thigh.",Bob,0
+560,15,7,"Oh, my foot.",Bob,1
+561,15,8,My thigh.,Bob,0
+562,15,9,My foot.,Bob,0
+563,15,10,Ah! Guys.,Bob,0
+564,15,11,"Guys, wake up.",Gabe,0
+565,15,12,"What is it? - Listen! It's getting closer! - Zombie! - What do we do? Attack! Aim for the brain! Aim for the brain! - Yeah! Get him! - Whoa whoa whoa! Oh! - Hey! - Wait, guys! Stop! Stop! - That's my dad! - Your dad's a zombie? I'm not a zombie.",Gabe,1
+566,15,13,Prove it.,Others,0
+567,15,14,Ow! He feels pain.,Others,0
+568,15,15,We're okay.,Others,0
+569,15,16,"Dad, what are you doing? I'm just checking on you guys.",Gabe,0
+570,15,17,Like a zombie? Now they're gonna.,Gabe,0
+571,15,18,Wanna go home again.,Gabe,0
+572,15,19,Thanks a lot.,Gabe,0
+573,15,20,I don't wanna go home.,Others,0
+574,15,21,That was awesome.,Others,0
+575,15,22,It was? - Yeah.,Gabe,0
+576,15,23,You were so scared.,Others,0
+577,15,24,I wasn't scared.,Gabe,0
+578,15,25,You were scared.,Gabe,0
+579,15,26,Not as scared as me.,Others,0
+580,15,27,"Let's do it again, mr.",Others,0
+581,15,28,Duncan.,Others,0
+582,15,29,No no no.,Bob,0
+583,15,30,I've got to go to bed.,Bob,0
+584,15,31,"Dad dad, come on.",Gabe,0
+585,15,32,Give the kids what they want.,Gabe,0
+586,15,33,All right.,Bob,0
+587,15,34,"Yeah, let's go.",Gabe,0
+588,15,35,Okay.,Others,0
+589,15,36,This is so cool.,Others,0
+590,15,37,Must k*ll.,Bob,0
+591,15,38,"Dad dad dad, zombies don't speak.",Gabe,1
+592,15,39,Sorry.,Bob,0
+593,16,0,"Uh Good morning, charlie.",Teddy,0
+594,16,1,Look at you.,Teddy,0
+595,16,2,Are you an artist? Huh? Did you paint a picture somewhere? Oh.,Teddy,1
+596,16,3,"Well, the walls look okay.",Teddy,1
+597,16,4,Oh my gosh! I'm late for my audition! Uh-oh.,Teddy,1
+598,17,0,Thank you.,Others,0
+599,17,1,"Alice, is that everyone? Oh no, teddy duncan isn't here yet.",Others,0
+600,17,2,No no no.,Teddy,0
+601,17,3,Sorry.,Teddy,0
+602,17,4,I'm coming.,Teddy,0
+603,17,5,I'm here.,Teddy,0
+604,17,6,there.,Teddy,0
+605,17,7,"Teddy, what happened to you? I overslept.",Others,0
+606,17,8,Okay.,Teddy,0
+607,17,9,Hi.,Teddy,0
+608,17,10,I'm going to be singing 'you'll never face it alone.,Teddy,0
+609,17,11,' hit it.,Teddy,0
+610,17,12,if you believe it's true ? and if my heart's in you ? no matter what you do ? you'll never face it alone ?.,Teddy,0
+611,17,13,Stop stop.,Others,0
+612,17,14,What was that? I was auditioning.,Teddy,0
+613,17,15,"For what, beauty or the beast? Well, beauty of course.",Others,1
+614,17,16,"Why would I be auditioning for the beast? I mean, that's something that's because I look like a beast.",Teddy,1
+615,17,17,Why do you have scribbles all over your face? Are you trying to say that beauty is only skin deep.,Others,0
+616,17,18,"And what's inside is what's truly important? - Well, actually - Because if you are, - I love it.",Others,0
+617,17,19,Then that's exactly what I was going for.,Teddy,1
+618,18,0,Whoa.,Teddy,0
+619,18,1,"Hey, charlie, are you happy now? No more big-girl bed.",Teddy,0
+620,18,2,"Yes, and since mommy insisted we'd never need the crib again, Daddy gets to go buy a new one.",Bob,1
+621,18,3,Daddy might be sleeping in his own bed too.,Amy,1
+622,18,4,"Great news, you guys! I got invited to three sleepovers today! And, dad, you got invited to two of them.",Gabe,1
+623,18,5,What? I don't want to go to any sleepover.,Bob,0
+624,18,6,"Dad dad, we're a package deal.",Gabe,0
+625,18,7,You're going.,Gabe,0
+626,18,8,That's it.,Gabe,0
+627,18,9,Now save that for tonight.,Gabe,0
+628,18,10,"Well, charlie, You're going back to your crib.",Teddy,0
+629,18,11,And I'm going places too I got the lead in the school musical.,Teddy,0
+630,18,12,I'm gonna be the best beast they've ever had.,Teddy,1
+631,18,13,Here's some really big news.,PJ,0
+632,18,14,"I'm eating healthy now, Because I decided I like mysetf just the way I am.",PJ,0
+633,18,15,"Yeah, she's not interested.",Teddy,0
+634,18,16,"One more thing: If you ever draw on my face again Good luck, charlie.",Teddy,0
+635,19,17,"What's that noise? - Is that a zombie? Dad, that's getting old! What's getting old? If if you're there, then who's Whoa! Oh those crazy monkeys!",Others,0

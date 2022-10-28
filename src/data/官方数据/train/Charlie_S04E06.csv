@@ -1,0 +1,347 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+16173,1,0,"Hey, mom, loving this new post on your Mommy Blog.",Teddy,0
+16174,1,1,"Oh, thanks, Sweetie.",Amy,0
+16175,1,2,"Yeah, according to this every morning at the breakfast table, the Duncan family takes turns saying what we're grateful for.",Teddy,1
+16176,1,3,One problem we don't do that.,Teddy,1
+16177,1,4,"Well, maybe we should, right? That way one thing that I write about is truthful.",Amy,0
+16178,1,5,I'll go first.,PJ,0
+16179,1,6,I'm grateful Gabe's still asleep.,PJ,0
+16180,1,7,Might be some Circle O's left.,PJ,0
+16181,1,8,'We need more Circle O's.,PJ,0
+16182,1,9,Gabe'.,PJ,0
+16183,1,10,"Okay, Charlie, what are you thankful for? That Toby's gonna live with grandma.",Charlie,1
+16184,1,11,"Yeah, honey, he's not.",Amy,0
+16185,1,12,Nuts! ,Charlie,1
+16186,1,13,"Okay, Bob, your turn.",Amy,0
+16187,1,14,Ah.,Bob,0
+16188,1,15,Do we have to do this every morning? ,Bob,0
+16189,1,16,No.,Amy,0
+16190,1,17,"Well then, I'm thankful for that.",Bob,1
+16191,1,18,"Okay, if no one else is gonna take this seriously then I will.",Teddy,0
+16192,1,19,"I'm thankful for good health, family ",Teddy,0
+16193,1,20,And food on this table.,Teddy,0
+16194,1,21,Aw.,Amy,0
+16195,1,22,'We also need milk.,Teddy,0
+16196,1,23,Gabe'.,Teddy,0
+16197,2,0,"Ivy, look at this note.",Teddy,0
+16198,2,1,I just found it on my windshield.,Teddy,0
+16199,2,2,Is it about the way you park? Because I've been thinking about leaving you a note myself.,Ivy,1
+16200,2,3,"No, it says, watch your back.",Teddy,0
+16201,2,4,It still could be about the way you park.,Ivy,0
+16202,2,5,"You know, those white lines are not a suggestion.",Ivy,0
+16203,2,6,"Ivy, I think someone is threatening me.",Teddy,0
+16204,2,7,"Aw, T, relax.",Ivy,0
+16205,2,8,It's probably nothing.,Ivy,0
+16206,2,9,I wouldn't even worry about it.,Ivy,0
+16207,2,10,'You have been warned'.,Teddy,0
+16208,2,11,Someone is out to get you.,Ivy,0
+16209,2,12,"Are you backing away from me? Nope, just being supportive from a distance.",Ivy,0
+16210,3,0,"Well, thanks for coming.",Amy,0
+16211,3,1,Oh.,Others,0
+16212,3,2,"Bye, Debbie, bye, Deedee.",Amy,0
+16213,3,3,"Bye, Amy, bye, Charlie.",Others,0
+16214,3,4,Hey.,Amy,0
+16215,3,5,"All right, Charlie, little Princess, sweetheart, please clean up your toys.",Amy,0
+16216,3,6,"No! I'm sorry, what did you just say? You can't tell me what to do.",Charlie,0
+16217,3,7,"Wha you pick up your toys, right now, young lady.",Amy,0
+16218,3,8,"No, you're not the boss of me.",Ivy,0
+16219,3,9,Well Did you hear what she just said? She just looked me in the eye and said you're not the boss of me.,Amy,1
+16220,3,10,What? ,Bob,0
+16221,3,11,(Laughs) ,Others,1
+16222,3,12,"Honey, everybody knows you're the boss of everybody.",Bob,1
+16223,3,13,You know what? She acted up last week after her play date with Deedee.,Amy,0
+16224,3,14,"Oh, that's where she's getting it from.",Amy,1
+16225,3,15,That kid has problems.,Amy,0
+16226,3,16,I'm gonna need to talk with Debbie.,Amy,0
+16227,3,17,"Whoa whoa whoa, are you sure that's the best idea? Yes.",Bob,0
+16228,3,18,"Honey, it will be fine.",Amy,0
+16229,3,19,I will simply sit her down and explain that Deedee has some behavioral problems she needs to address.,Amy,1
+16230,3,20,"Yeah, people love getting unsolicited advice on how to raise their kids.",Bob,0
+16231,3,21,"I know, right? ",Amy,1
+16232,4,0,(Door opens) ,Others,0
+16233,4,1,"Gabe! What are you doing here? I was just thinking, we we don't ever hang out.",Gabe,0
+16234,4,2,We did spend 13 years in the same room together.,PJ,1
+16235,4,3,"Yeah, but did we ever really talk? So what do you want to do? You know, what brothers do Watch some TV, play some video games ooh, check the mail.",Gabe,1
+16236,4,4,"I already checked the mail today, and there was something weird in it.",PJ,0
+16237,4,5,A letter from the Hamilton Middle School addressed to the parents of Gabe Duncan? Whoa whoa whoa.,PJ,0
+16238,4,6,"You want to tell me about this? It's, uh, it's a citizenship award.",PJ,0
+16239,4,7,Yeah.,Gabe,0
+16240,4,8,Uh-huh.,PJ,0
+16241,4,9,"I had them send it here, I didn't want mom and dad to make a fuss.",Gabe,0
+16242,4,10,Mmm.,PJ,0
+16243,4,11,"Gabe, I may be the dumb brother who gets everything wrong, but I think you're lying here.",PJ,0
+16244,4,12,Unless you're not and I'm getting this wrong too.,PJ,1
+16245,4,13,"No, you're right.",Gabe,0
+16246,4,14,That's my report card.,Gabe,0
+16247,4,15,And it's not very good.,Gabe,0
+16248,4,16,What happened? - I'm in middle school now.,Gabe,0
+16249,4,17,The girls got prettier and the grades got uglier.,Gabe,1
+16250,4,18,Ooh! I changed my address with the school so all the stuff would be sent here.,Gabe,0
+16251,4,19,Told them you were my legal guardian.,Gabe,1
+16252,4,20,Wow! That's a huge honor.,PJ,0
+16253,4,21,I don't know what to say.,PJ,0
+16254,4,22,"It's not an honor at all, it's a trick.",Gabe,1
+16255,4,23,It's still an honor to be part of the trick.,PJ,1
+16256,4,24,"Okay, I just have to sign your name to this.",Gabe,0
+16257,4,25,"Shouldn't I do it? Oh no, this isn't the first thing you've signed.",Gabe,1
+16258,4,26,"Wow, I've got a great signature.",PJ,0
+16259,4,27,"Oh look at that, on the tail of the 'N' you put a little heart.",PJ,0
+16260,4,28,"Yeah, it seemed like you.",Gabe,0
+16261,5,0,"Thanks for coming over, Debbie.",Amy,0
+16262,5,1,(Minnesota accent) ,Others,0
+16263,5,2,I'm actually glad you called.,Others,0
+16264,5,3,There's something I've been wanting to discuss with you - About Charlie.,Others,0
+16265,5,4,"About Charlie? Yeah, every time my Deedee comes home from a play date with your Charlie She has got a 'tude.",Others,1
+16266,5,5,And the Dooley house is a 'tude-free zone.,Others,1
+16267,5,6,Wait a minute.,Amy,0
+16268,5,7,You think Charlie's the problem.,Amy,0
+16269,5,8,Oh no no no no no.,Amy,0
+16270,5,9,Deedee's the problem.,Amy,0
+16271,5,10,Yeah.,Amy,0
+16272,5,11,That's what I wanted to talk to you about.,Amy,0
+16273,5,12,"Well, it seems convenient you came up with that right after I said it.",Others,1
+16274,5,13,I didn't just come up with it.,Amy,0
+16275,5,14,I was just talking to my husband the other day about how we were gonna have this talk.,Amy,0
+16276,5,15,"Bob, honey, could you come down here! ",Amy,0
+16277,5,16,He's at work.,Amy,0
+16278,5,17,Oh.,Others,0
+16279,5,18,"Again, convenient.",Others,1
+16280,5,19,You're not the boss of me! ,Amy,0
+16281,5,20,Hm? Charlie had to get that from someone as in Deedee.,Amy,0
+16282,5,21,Deedee got it from Charlie.,Others,0
+16283,5,22,"And where Charlie got it from, well, the apple doesn't fall far from the tree.",Others,0
+16284,5,23,Did you just call me a tree? ,Amy,0
+16285,5,24,"Oh, you betcha.",Others,0
+16286,5,25,"Well, if I'm an apple tree, you are A lemon tree! Yes, you are a lemon tree.",Amy,0
+16287,5,26,You are nice on the outside and sour on the inside.,Amy,0
+16288,5,27,"(Laughs) That would be the fruit, not the tree.",Others,0
+16289,5,28,I'm gonna have to ask you to leave.,Amy,0
+16290,5,29,"Yes yes, the Duncan house is now ",Amy,1
+16291,5,30,(Mimics accent) ,Amy,1
+16292,5,31,A Dooley-free zone.,Amy,1
+16293,5,32,"Well, now you sound more like a crab apple.",Others,0
+16294,5,33,"Ooh, well, you sound like a Like a Whoa, these fruit-tree insults are hard to come by.",Amy,0
+16295,6,0,"So I was doing my homework at lunch, and the equation was two pi r-squared.",,0
+16296,6,1,"Then I dropped my apple pie, and it became two apple pie r-squared.",,1
+16297,6,2,"Teddy, what's wrong? You always laugh at my math jokes.",,0
+16298,6,3,I guess I'm a little out of it.,Teddy,0
+16299,6,4,Somebody at school is out to get me.,Teddy,0
+16300,6,5,Wow.,Others,0
+16301,6,6,That's the motto of the Chess Club.,Others,0
+16302,6,7,The motto of the Chess Club is someone at school is out to get me? ,Teddy,0
+16303,6,8,It sounds better in Latin.,Others,1
+16304,6,9,So someone left a note on my windshield that said watch your back.,Teddy,0
+16305,6,10,"Then I got a bunch of dead flowers, and then today someone put this in my bag! Who would do something like this? I don't know.",Teddy,0
+16306,6,11,I have no idea.,Others,0
+16307,6,12,"How would I know? Well, gotta go.",Others,0
+16308,6,13,Wait a minute.,Teddy,0
+16309,6,14,You know something.,Teddy,0
+16310,6,15,I know almost everything but nothing about this.,Others,0
+16311,6,16,"Victor, you are a terrible liar.",Teddy,0
+16312,6,17,Now I want you to look me in the eyes and tell me you don't know anything about this.,Teddy,0
+16313,6,18,I don't know anything about this.,Others,0
+16314,6,19,That's my chin.,Teddy,0
+16315,6,20,I don't know anything about this.,Others,0
+16316,6,21,That's my forehead.,Teddy,0
+16317,6,22,"I don't know Victor, look me in the eye! It's right above my nose! ",Teddy,0
+16318,6,23,"Don't yell at me! When people yell at me, I tend to Someday he's gonna come over here and not faint.",Teddy,0
+16319,6,24,(Sighs) ,Teddy,0
+16320,6,25,But today is not that day.,Teddy,1
+16321,7,0,"Victor, come on, who's out to get me? It's my girlfriend Victoria.",Teddy,0
+16322,7,1,Victoria? Why? She thinks you're in love with me.,Others,0
+16323,7,2,What? Why would she think that? Because I told her you were in love with me.,Others,0
+16324,7,3,"Excuse me?! The other night Victoria and I were having a fun night, doing what young couples do Quizzing each other on state birds When I sensed her interest in me waning.",Others,0
+16325,7,4,I had to do something to re-kindle her passion.,Others,0
+16326,7,5,"So to make her jealous, I told her you were in love with me.",Others,0
+16327,7,6,"Oh, Victor! ",Teddy,0
+16328,7,7,"Well hey, it worked.",Others,0
+16329,7,8,She's fighting for her territory! And I'm her territory.,Others,1
+16330,7,9,"I've never been someone's territory! Victor, you're going to have to tell her the truth.",Others,1
+16331,7,10,"The truth has no part in our relationship! Okay fine, I'll figure something out.",Others,1
+16332,7,11,On one condition You do our entire science project by yourself.,Teddy,0
+16333,7,12,Deal.,Others,0
+16334,7,13,"Boy, that was easy.",Teddy,0
+16335,7,14,"(Chuckles) Oh, Teddy, it was gonna happen that way anyway.",Others,1
+16336,8,0,(Door closes) ,Others,0
+16337,8,1,Bob: Hey.,Bob,0
+16338,8,2,Hello.,Amy,0
+16339,8,3,I thought I'd take the kids to the park.,Bob,0
+16340,8,4,"Oh great, that sounds like fun.",Amy,0
+16341,8,5,Can Deedee come? No.,Charlie,0
+16342,8,6,Why not? Because Deedee's mommy said some very mean things about your mommy.,Amy,0
+16343,8,7,(Clears throat) Did Charlie's mommy fire back with some choice words of her own? Charlie's mommy defended herself.,Bob,1
+16344,8,8,Charlie's daddy said the whole idea of talking to Deedee's mommy was a bad idea to begin with.,Teddy,1
+16345,8,9,"Is Charlie's daddy saying I told you so? Are you kidding? Does Charlie's mommy know how long Charlie's daddy's been married to her? P.J., we have a problem.",Bob,1
+16346,9,0,Nothing you and your legal guardian can't handle.,PJ,1
+16347,9,1,"Have a seat, little buddy, let's hash this out.",PJ,1
+16348,9,2,You're not really my guardian.,Gabe,0
+16349,9,3,"It is just pretend! Gabe, you've been my brother for a long time now.",PJ,1
+16350,9,4,You should know I take pretend very seriously.,PJ,1
+16351,9,5,My counselor wants to come over and talk to you about my grades.,Gabe,0
+16352,9,6,Great.,PJ,0
+16353,9,7,I've been working on my Swedish accent.,PJ,0
+16354,9,8,What? I've been thinking about this legal guardian And I see him as someone who spent some time in Sweden.,PJ,0
+16355,9,9,"P.J., it's Mr.Rose.",Gabe,0
+16356,9,10,He knows you! He was your counselor too.,Gabe,0
+16357,9,11,"Okay, how about this, what if I moved to Sweden right after high school, picked up the accent, and now I can't shake it? No.",PJ,0
+16358,9,12,No Swedish accent.,Gabe,0
+16359,9,13,"Then why did I learn how to make Schwarzwalder Kirschtorte? Victoria, we need to talk.",PJ,1
+16360,10,0,Okay.,Teddy,0
+16361,10,1,You win.,Teddy,0
+16362,10,2,It's over.,Teddy,0
+16363,10,3,Is that what you wanted to hear? - What are you talking about? ,Teddy,0
+16364,10,4,"Victor, the finest specimen of manhood to ever walk the halls of South High.",Teddy,1
+16365,10,5,"And sadly, in this battle, you're the victor, Victoria.",Teddy,1
+16366,10,6,I was never worried.,Others,0
+16367,10,7,"I mean, sure, you're pretty, have good hair and a nice smile, but beneath all that, there's an under-performing brain.",Others,1
+16368,10,8,"Under-performing? (Sighs) Synonyms would include lackluster, sub par, inferior Nod when you understand.",Others,1
+16369,10,9,"The point is you're going to stop threatening me, right? Threatening you? Yeah, the notes, the dead flowers in my locker? I never did any of that.",Teddy,0
+16370,10,10,I don't have to.,Others,0
+16371,10,11,I have Victor wrapped around my finger like a double peptide wrapped around a protein.,Others,0
+16372,10,12,(Laughs) If you were smart you'd be laughing too.,Others,1
+16373,10,13,Then who's been leaving me the notes? I think I know.,Teddy,0
+16374,10,14,"Start talking, whatever-your-name-is.",Ivy,0
+16375,10,15,It's Petey.,Others,0
+16376,10,16,We've been in the same class for 12 years.,Others,0
+16377,10,17,Just start talking.,Ivy,0
+16378,10,18,I may have told my girlfriend you were in love with me.,Others,0
+16379,10,19,Unbelievable.,Teddy,0
+16380,10,20,Did you get this idea from Victor? No.,Teddy,0
+16381,10,21,I got it from Myron.,Others,0
+16382,10,22,We're in Chess Club together.,Others,0
+16383,10,23,"Chess Club, it's always Chess Club.",Teddy,0
+16384,10,24,"Come on, Paulie.",Teddy,0
+16385,11,0,"Okay, how many of you told your girlfriend I was in love with you? ",Teddy,0
+16386,11,1,"All right, now how many of you told a girl you were interested in, that I was in love with you? Right.",Teddy,0
+16387,11,2,"Now how many of you Don't have anyone interested in you whatsoever, you barely know what a girl is, but you still told someone I was in love with you? ",Teddy,0
+16388,11,3,Yes.,Teddy,0
+16389,11,4,"Are moms included in this? Yes, moms too.",Teddy,0
+16390,11,5,"Your hand should be up, Leon.",Others,0
+16391,11,6,Has anyone not told a girl I'm in love with you? ,Teddy,0
+16392,11,7,"That's what happens when you miss a meeting, Ollie.",Others,1
+16393,12,0,"Hey, Bob.",Others,0
+16394,12,1,"Hey, Deputy Doug.",Bob,0
+16395,12,2,Thanks for coming by.,Bob,0
+16396,12,3,"You know what? Let's Let's talk outside, away from the lady folk.",Bob,1
+16397,12,4,Right.,Others,0
+16398,12,5,So It seems like our wives are having a problem.,Bob,0
+16399,12,6,Bet you've been getting an earful of that.,Bob,0
+16400,12,7,(Minnesota accent) You betcha.,Bob,1
+16401,12,8,"Anyway, I figured you and I could get together and work things out.",Bob,0
+16402,12,9,"The gals get so emotional, don't they? ",Others,0
+16403,12,10,"Hey, but not us men.",Bob,0
+16404,12,11,Eh.,Bob,0
+16405,12,12,"We're problem solvers, it's what we do.",Bob,0
+16406,12,13,It's not all we do.,Others,0
+16407,12,14,We also have the two best lawns on the street.,Others,1
+16408,12,15,Curb appeal.,Bob,1
+16409,12,16,Up top.,Others,1
+16410,12,17,"All right, so let's settle this.",Bob,0
+16411,12,18,"Just have Debbie come on over, apologize to Amy and then the whole thing will just go away.",Bob,0
+16412,12,19,Hold up.,Others,0
+16413,12,20,Shouldn't Amy be apologizing to Debbie? And how do you get that? The wrongdoer apologizes to the wrongdo-ee.,Bob,0
+16414,12,21,Wrongdo-ee is not even a word.,Bob,0
+16415,12,22,Who went to the Academy here? ,Others,0
+16416,12,23,"What, the word academy? ",Bob,1
+16417,12,24,(Laughing) ,Others,1
+16418,13,0,"Mr.Rose, I want to assure you I'm going to ride herd, on this little guy to get those grades up.",PJ,0
+16419,13,1,"Right, Gabe? ",PJ,0
+16420,13,2,Yes.,Gabe,0
+16421,13,3,"Yes, what? ",PJ,0
+16422,13,4,"Oh, yes, guardian.",Gabe,0
+16423,13,5,Mmm.,PJ,0
+16424,13,6,I also would have accepted yes Sir.,PJ,1
+16425,13,7,"Well, I guess everything is in order.",Others,0
+16426,13,8,"P.J., it was really nice seeing you again.",Others,0
+16427,13,9,"You too, Mr.Rose.",PJ,0
+16428,13,10,"So what have you been up to lately? Well, after high school, I spent a year in Sweden.",PJ,0
+16429,13,11,Really? I'm surprised you didn't pick up the accent.,Others,0
+16430,13,12,I am too.,PJ,1
+16431,13,13,"Oh, and one more thing.",Others,0
+16432,13,14,I just need you to sign a form saying we had this home visit.,Others,0
+16433,13,15,But I left it in the car.,Others,0
+16434,13,16,Ah.,Others,0
+16435,13,17,Be right back.,Others,0
+16436,13,18,Sure.,PJ,0
+16437,13,19,"Well, that went well.",PJ,0
+16438,13,20,"No, it didn't! - You can't sign that form! ",Gabe,0
+16439,13,21,Why not? Because your signature won't match the one I've been signing! ,Gabe,0
+16440,13,22,(Swedish accent) ,PJ,1
+16441,13,23,"Oh yeah, dat's a problem.",PJ,1
+16442,14,0,"Let go of me, ya big goon! Just as soon as you un-cuff me, you smaller goon! ",Bob,0
+16443,14,1,What are you two g*ons doing? ,Amy,0
+16444,14,2,He's as*ault a Deputy! ,Others,0
+16445,14,3,"Yeah well, he's as*ault an Exterminator! ",Bob,0
+16446,14,4,Pretty sure that's different! ,Others,0
+16447,14,5,(Grunting) Oh my! What is this?! ,Others,0
+16448,14,6,"Stay out of it, Dooley! ",Amy,0
+16449,14,7,"Dial it down, Duncan! ",Others,0
+16450,14,8,"Mrs.Dabney: Hey, keep it down over there! Mind your own business, Mrs.Dabney! You can't tell me what to do! You're not the boss of me! Did she just say you're not the boss of me? She did.",Dabney,0
+16451,14,9,That's what Deedee said the other day.,Others,0
+16452,14,10,Charlie too.,Amy,0
+16453,14,11,"Well, this is awkward.",Others,1
+16454,14,12,"Uh, in a scissor-hold here! Oh, I'm sorry.",Bob,0
+16455,14,13,"You know, Deedee's not a problem.",Amy,0
+16456,14,14,Mrs.Dabney's a problem.,Amy,0
+16457,14,15,I'm so sorry.,Amy,0
+16458,14,16,I'm sorry too.,Others,0
+16459,14,17,I'll tell you what I'm sorry about I have no idea where I put the key to those handcuffs.,Others,1
+16460,14,18,"No, seriously.",Others,1
+16461,15,0,He's almost here.,PJ,0
+16462,15,1,Are you ready? ,PJ,0
+16463,15,2,Gabe: Ready.,Gabe,0
+16464,15,3,All right.,PJ,0
+16465,15,4,I'm back.,Others,0
+16466,15,5,Hello.,PJ,0
+16467,15,6,Come on in.,PJ,0
+16468,15,7,Where did Gabe go? ,Others,0
+16469,15,8,"Uh Oh, I remember now.",PJ,0
+16470,15,9,I remember.,PJ,0
+16471,15,10,He went to visit a friend Upstairs.,PJ,0
+16472,15,11,"Okay, um here's the form.",Others,0
+16473,15,12,And here's a pen.,Others,0
+16474,15,13,Thank you.,PJ,0
+16475,15,14,I'm gonna take my pen from my left hand and put it in my right hand.,PJ,1
+16476,15,15,That's my signing hand.,PJ,1
+16477,15,16,Why are you talking like that? I don't know.,PJ,0
+16478,15,17,Now let's get to signing.,PJ,0
+16479,15,18,"Um, it's just right on the dotted line.",PJ,0
+16480,15,19,"Right right there! Right no, right here.",PJ,0
+16481,15,20,"Perfect, yes.",PJ,0
+16482,15,21,Right there.,PJ,0
+16483,15,22,"Or Ah, all over the form.",PJ,0
+16484,15,23,Good.,PJ,0
+16485,15,24,And a little on the table too.,PJ,0
+16486,15,25,There you go.,PJ,0
+16487,15,26,"Thanks, P.J.",Others,0
+16488,15,27,And thank you very much.,PJ,0
+16489,15,28,I'm going to shake your hand now.,PJ,0
+16490,15,29,"I'm sorry, sorry sorry.",PJ,0
+16491,15,30,"It's just After so much time in Sweden, I've forgotten the American customs.",PJ,0
+16492,15,31,I'll just bow.,PJ,0
+16493,15,32,"Uh, well, bye-bye now.",PJ,0
+16494,15,33,"Oh, you know, there is one more thing.",Others,0
+16495,15,34,"What's that? Gabe, you want a ride home? I'm on my way to talk to your parents.",Others,0
+16496,16,0,"Well, Charlie, the mysterious warnings have stopped.",Teddy,0
+16497,16,1,Although I'm not exactly sure who did it.,Teddy,0
+16498,16,2,I've narrowed it down to Petey's girlfriend Myron's girlfriend or Leon's mother.,Teddy,0
+16499,16,3,"The point is no nerds are using me as a romantic pawn, as it were.",Teddy,0
+16500,16,4,That's a chess joke.,Teddy,0
+16501,16,5,And therefore not funny.,Teddy,1
+16502,16,6,"Ooh, I wanna show you something.",Teddy,0
+16503,16,7,"Oh, this might be it.",Others,0
+16504,16,8,Not this one.,Others,0
+16505,16,9,"Ah, not this one.",Others,0
+16506,16,10,Dad's been handcuffed to this bench for six hours.,Teddy,0
+16507,16,11,"Hey, Bob, can we take a break? I need to use the bathroom.",Others,0
+16508,16,12,"So do I, Doug.",Bob,0
+16509,16,13,"Oh, sugar-hooey! Now I have to start all over.",Others,0
+16510,16,14,"Better wish dad some good luck, Charlie.",Teddy,0
+16511,17,0,"Okay, Charlie, that's enough TV.",Amy,0
+16512,17,1,(Mrs.Dabney's voice) ,Charlie,1
+16513,17,2,"You did not just turn that off! Um, I'm sorry, what? I was trying to watch The Gurgles! ",Charlie,1
+16514,17,3,"P.J., did you let her play in the backyard? Yeah, what's the problem? Whenever she stays out there too long she starts talking like Mrs.Dabney.",Amy,0
+16515,17,4,"Someone gonna get me a juice box or what? See? Oh, relax, mom, we weren't back there for very long.",Charlie,1
+16516,17,5,"We went over to the Dooleys' for a little while too, right, Charlie? (Mrs.",PJ,0
+16517,17,6,Dooley's voice) ,Charlie,1
+16518,17,7,"Oh, you betcha.",Charlie,1

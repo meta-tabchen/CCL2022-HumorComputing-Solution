@@ -1,0 +1,363 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+5699,1,0,"Come on, Charlie.",Amy,0
+5700,1,1,Go tinkle-winkle.,Amy,1
+5701,1,2,Make the poo-poo for the mama.,Amy,1
+5702,1,3,"No no? All right, I'll tell you what Five bucks for a number one, All right? Uh uh uh, excuse me, what are you doing? Playing a video game.",Amy,0
+5703,1,4,That's how kids.,Gabe,0
+5704,1,5,From our generation entertain themselves.,Gabe,0
+5705,1,6,Charlie is watching her favorite show.,Amy,0
+5706,1,7,It's the only way we can get her to sit on the potty.,Amy,0
+5707,1,8,"Charlie has to watch 'the gurgles' In order to do her business? Yes, 'the gurgles' help Charlie.",PJ,1
+5708,1,9,The same way that the sports section helps your dad.,Amy,1
+5709,1,10,Look at this garbage Brightly colored singing and dancing shapes.,Gabe,0
+5710,1,11,"Would you guys just go upstairs? If she isn't potty-trained by tomorrow, she won't get into the good preschool.",Amy,0
+5711,1,12,Come on! - But then we're gonna have to unhook the game system.,PJ,0
+5712,1,13,Down here and rehook it up there.,PJ,0
+5713,1,14,We already walked all the way down here.,PJ,0
+5714,1,15,"Are we supposed to rewalk all the way up there? You know, we wouldn't have this problem if we had a tv in our room.",Gabe,0
+5715,1,16,"Okay, for the millionth time, I am not buying a tv for your room.",Amy,0
+5716,1,17,Fine.,Gabe,0
+5717,1,18,"Let's go, P.J.",Gabe,0
+5718,1,19,"Ooh, hold on.",PJ,0
+5719,1,20,The circle and the square are fighting over a grape.,PJ,1
+5720,1,21,I want to see how this turns out.,PJ,0
+5721,2,0,鈾?Hey.,Teddy,0
+5722,2,1,Hey hey.,Ivy,0
+5723,2,2,"Hey, Mr.",Ivy,0
+5724,2,3,Duncan.,Ivy,0
+5725,2,4,"Hey, Ivy.",Bob,0
+5726,2,5,"You spending the night? Yeah, our house is being fumigated.",Bob,0
+5727,2,6,Oh.,Ivy,0
+5728,2,7,I guess your parents didn't know.,Bob,0
+5729,2,8,That my company Bob's bugs be gone.,Bob,0
+5730,2,9,Also does fumigations.,Bob,0
+5731,2,10,"No, they knew that.",Ivy,1
+5732,2,11,"Oh, well, you know, It's too bad they didn't call.",Bob,0
+5733,2,12,I could have given them a big discount.,Bob,0
+5734,2,13,They knew that too.,Ivy,1
+5735,2,14,Oh.,Bob,0
+5736,2,15,Okay.,Bob,0
+5737,2,16,No biggie.,Bob,1
+5738,2,17,"What was that about? Who knows? It's your fault for saying, 'hey, Mr.",Teddy,1
+5739,2,18,Duncan.,Teddy,0
+5740,2,19, So are you ready for the big news? Always.,Ivy,0
+5741,2,20,Here goes.,Teddy,0
+5742,2,21,There's a guy.,Ivy,0
+5743,2,22,There's a guy? - There's a guy.,Teddy,0
+5744,2,23,There's a guy?! There's a guy! - Super happy dance.,Teddy,0
+5745,2,24,Okay.,Ivy,0
+5746,2,25,super super 鈾?happy dance.鈾?,Teddy,0
+5747,2,26,Happy! So who is he? He's that new guy in our government class Raymond.,Ivy,0
+5748,2,27,"Oh, he's cute.",Teddy,0
+5749,2,28,"Wait, so when did you start talking to him? Well, we haven't actually talked yet.",Teddy,0
+5750,2,29,We've been iming.,Ivy,0
+5751,2,30,That led to texting.,Ivy,0
+5752,2,31,Tonight he wants to step it all the way up to video chat.,Ivy,0
+5753,2,32,I don't know if I'm ready.,Ivy,0
+5754,2,33,"All right, let's get you all cutied up for your video chat.",Teddy,0
+5755,2,34,"Um, if the bugs come back I mean, when the bugs come back, This is my card.",Bob,0
+5756,2,35,You know what? I'm gonna get you a coupon.,Bob,0
+5757,2,36,You wait right there.,Bob,0
+5758,2,37,Now's our chance.,Teddy,0
+5759,2,38,"Go go go go! All right, there we go.",Teddy,0
+5760,3,0,Brand new.,Bob,0
+5761,3,1,Brand new.,Bob,0
+5762,3,2,Look.,Bob,0
+5763,3,3,Look at that.,Bob,0
+5764,3,4,"Now quack quack quack When you're a big girl, This is where you're gonna go potty.",Bob,0
+5765,3,5,Now just make sure the toilet seat is down.,Bob,0
+5766,3,6,So you don't fall in.,Bob,0
+5767,3,7,"And hopefully you'll only make that mistake once Well, unless you're P.J.",Bob,0
+5768,3,8,And then it's many many times.,Bob,1
+5769,3,9,"You know, I'm gonna let you in on a little secret.",Bob,0
+5770,3,10,Sometimes I come up here I don't even have to go.,Bob,1
+5771,3,11,Sometimes daddy just needs a little vacation.,Bob,1
+5772,3,12,Uh-oh.,Charlie,0
+5773,4,0,So what do you think? I don't know.,Teddy,0
+5774,4,1,"Ivy, Raymond will love you.",Teddy,0
+5775,4,2,"You look hot like, smoking hot.",Teddy,1
+5776,4,3,"Okay, now I see it.",Ivy,1
+5777,4,4,Okay.,Teddy,0
+5778,4,5,Now let's see how you look onscreen.,Teddy,0
+5779,4,6,Uh Pretty good.,Teddy,0
+5780,4,7,Just tilt down a little.,Teddy,0
+5781,4,8,I'm getting too much nostril.,Teddy,1
+5782,4,9,Better.,Teddy,0
+5783,4,10,Better.,Teddy,0
+5784,4,11,Now let's see some shoulder.,Teddy,0
+5785,4,12,"Ah, perfect.",Teddy,0
+5786,4,13,Now flutter your eyes.,Teddy,0
+5787,4,14,Now don't do that.,Teddy,1
+5788,4,15,Smile.,Teddy,0
+5789,4,16,Less teeth.,Teddy,0
+5790,4,17,More teeth.,Teddy,0
+5791,4,18,Less teeth.,Teddy,0
+5792,4,19,That's it.,Teddy,0
+5793,4,20,That's it.,Teddy,0
+5794,4,21,That's it.,Teddy,0
+5795,4,22,Now don't move.,Teddy,0
+5796,4,23,Look right in the camera.,Teddy,0
+5797,4,24,And tell Raymond what's on your mind.,Teddy,0
+5798,4,25,I think I'm stuck.,Ivy,1
+5799,5,0,"Honey, I try never to ask you this after you exit the bathroom, But what was that horrible sound I heard a few minutes ago? Charlie just threw some things in the toilet, clogged up the pipes.",Amy,0
+5800,5,1,"So I just gotta dig a little hole in the backyard, Clean out the main line.",Bob,0
+5801,5,2,Don't worry.,Bob,0
+5802,5,3,Everything is gonna be fine.,Bob,0
+5803,5,4,Should I call a plumber? Absolutely not.,Amy,0
+5804,5,5,I have got this all under control.,Bob,0
+5805,5,6,Where's Charlie? I'll be right back.,Bob,1
+5806,5,7,"As long as he looks scared, I've done my job.",Amy,1
+5807,6,0,"Boys, would you turn down that tv in your room? Tv in your room? Oh, mama don't think so.",Amy,0
+5808,6,1,What is this? A free tv.,Amy,0
+5809,6,2,Ha ha! - Isn't it awesome? It was just sitting on someone's lawn.,Gabe,0
+5810,6,3,"Yeah, there was a sign that said 'please take,' So we took.",PJ,1
+5811,6,4,"It's a little big for the room, don't you think? Yeah, it was at first, but then Gabe came up with the brilliant idea.",PJ,0
+5812,6,5,Of bunk desks.,PJ,1
+5813,6,6,Bunk desks.,Amy,0
+5814,6,7,Right right.,Amy,0
+5815,6,8,Where's your dresser? - Under P.J.'s bed.,Amy,0
+5816,6,9,"Yeah, at first I was concerned.",PJ,0
+5817,6,10,That getting a fresh pair of underpants every day was gonna be a little tricky.,PJ,0
+5818,6,11,But then I came up with a solution The underpants pillow.,Gabe,1
+5819,6,12,Bam! - Buh-bam! Every time I come in here I regret it.,Amy,1
+5820,6,13,Oh! Oh oh oh! Argh! Argh! Uh-oh.,Bob,0
+5821,7,0,What happened? The power went out and the plumbing.,PJ,0
+5822,7,1,"Well, how did that happen? Let's ask the soaking wet man with the pickaxe.",Teddy,1
+5823,7,2,"Hey, everybody.",Bob,0
+5824,7,3,"Dad, when is the power coming back on? Yeah, I'm 15 minutes away from a video chat.",Teddy,0
+5825,7,4,"And if we're gonna potty-train Charlie, she has to watch 'the gurgles.",Amy,0
+5826,7,5," Uh, first of all, I'm fine.",Bob,1
+5827,7,6,"What? No, didn't get electrocuted.",Bob,0
+5828,7,7,Thanks for the concern.,Bob,0
+5829,7,8,"What about the water? All right, I've already called the plumber and the electrician Oh, there we go.",Bob,0
+5830,7,9,Okay.,Teddy,0
+5831,7,10,Who can't be here until tomorrow - What? Bob! - Ish.,Bob,0
+5832,7,11,Come on.,Bob,0
+5833,7,12,Hey hey hey! We can survive one night without water and power.,Bob,0
+5834,7,13,"Come on, it's gonna be fine.",Bob,0
+5835,7,14,I heard some kind of expl*si*n and rushed right over.,Dabney,0
+5836,7,15,To see if Gabe was anywhere near the blast.,Dabney,1
+5837,7,16,"I'm right here, Mrs.",Gabe,0
+5838,7,17,"Dabney, Better than ever.",Gabe,0
+5839,7,18,Are you sure? No internal injuries? My stomach is kind of upset.,Dabney,0
+5840,7,19,Might be a touch of dabnerrhea.,Gabe,1
+5841,7,20,All right.,Bob,0
+5842,7,21,"Mrs.Dabney, you know, We're gonna be without water and power for a while.",Bob,0
+5843,7,22,It sure would be helpful if we could use your bathroom.,Bob,0
+5844,7,23,Till ours is up and running.,Bob,0
+5845,7,24,I don't even let Mr.Dabney use my bathroom.,Dabney,1
+5846,7,25,"Okay, Mrs.Dabney, I know it's an imposition, But the thing is we have a really important.",Amy,0
+5847,7,26,Preschool interview tomorrow morning.,Amy,0
+5848,7,27,And it sure would be nice if we could use your bathroom.,Amy,0
+5849,7,28,To freshen up beforehand.,Dabney,0
+5850,7,29,"Need to freshen up, huh? - Yeah.",Dabney,0
+5851,7,30,I hear the bus station has a real nice bathroom.,Dabney,1
+5852,7,31,Have a good night now.,Dabney,1
+5853,7,32,Gabriel Duncan! Dabnerrhea? Yeah.,Amy,0
+5854,7,33,Up top.,Amy,0
+5855,8,0,Bob.,Amy,0
+5856,8,1,Hey.,Bob,0
+5857,8,2,"Remember when you said we wouldn't need this? Who looks stupid now? Which question should I answer first? Any progress on the potty-training? Nope, without 'the gurgles' Charlie won't even sit on that potty, And the interview is in 12 hours.",Bob,0
+5858,8,3,"Oh, she'll get it.",Bob,0
+5859,8,4,That's the thing about us Duncans We're clutch players.,Bob,1
+5860,8,5,I see the light's on.,Amy,0
+5861,8,6,I'm not sure anybody's home.,Amy,1
+5862,8,7,Where are the kids? Charlie's taking a nap.,Bob,0
+5863,8,8,Teddy and Ivy are downstairs.,Bob,0
+5864,8,9,And the boys are in their room reading.,Bob,0
+5865,8,10,P.J.,Amy,0
+5866,8,11,"And Gabe are reading? Yeah, it was their idea.",Amy,0
+5867,8,12,So they're reading voluntarily? Huh.,Amy,0
+5868,8,13,Let's roll.,Amy,0
+5869,9,0,"Oh! Sorry, I should have warned you about that.",Amy,0
+5870,9,1,What is going on in here? Great news the power is back on.,Bob,0
+5871,9,2,"Well, it is for us.",PJ,0
+5872,9,3,"Where are you getting your power from? Hey, are you stealing electricity from Mrs.",Amy,0
+5873,9,4,Dabney? Are we in trouble? What's taking those nachos so long? There really is a lot of stuff plugged in.,Amy,0
+5874,9,5,"Are you sure this is safe? Ah, here's the problem.",PJ,0
+5875,9,6,We've got a loose connection.,Bob,0
+5876,9,7,Everything's under control.,Bob,1
+5877,9,8,"Huh, that's weird.",PJ,0
+5878,9,9,Mrs.Dabney's power is out too.,PJ,1
+5879,9,10,"Oh look, here she comes.",Gabe,0
+5880,9,11,"You know, for an older gal, she moves pretty fast.",Bob,1
+5881,9,12,Nachos? Raymond will think I blew him off.,Amy,1
+5882,10,0,I probably lost him forever.,Ivy,0
+5883,10,1,Now I'm gonna die sad and alone.,Ivy,1
+5884,10,2,"Ivy, you're not gonna die alone.",Teddy,0
+5885,10,3,You can live with me and my husband.,Teddy,1
+5886,10,4,In our pool house.,Teddy,0
+5887,10,5,"No offense, but that sounds awful.",Ivy,1
+5888,10,6,"Well, not for me.",Teddy,0
+5889,10,7,I have a husband and a pool house.,Teddy,1
+5890,10,8,You could just call Raymond.,Amy,0
+5891,10,9,"Mom, we can't do that.",Amy,0
+5892,10,10,Our cell phones are dead and we can't charge them.,Amy,0
+5893,10,11,Use the wall phone.,Amy,0
+5894,10,12,It works without electricity.,Amy,0
+5895,10,13,"The wall what? The wall phone You know, the phone.",Amy,0
+5896,10,14,On the wall.,Amy,0
+5897,10,15,When did we get that? When we bought the house.,Amy,1
+5898,10,16,Just one problem Raymond's number is in my phone.,Ivy,0
+5899,10,17,"Well, if you know his last name, - Just look him up in the phonebook.",Amy,0
+5900,10,18,"The phone what? Okay, now you can see what it was like.",Amy,0
+5901,10,19,"To live life in the olden days, Also known as the '9os.",Amy,0
+5902,10,20,Huh.,Ivy,0
+5903,10,21,Here's Raymond's number.,Ivy,0
+5904,10,22,What? - Yeah.,Ivy,0
+5905,10,23,Okay.,Ivy,0
+5906,10,24,"Oh, it's right there.",Amy,0
+5907,10,25,"Oh, right here? It's ringing.",Ivy,0
+5908,10,26,I can't do this.,Ivy,0
+5909,10,27,Ivy.,Teddy,0
+5910,10,28,I'm just not ready.,Ivy,0
+5911,10,29,Don't give it to me.,Teddy,0
+5912,10,30,What am I supposed to? Hello.,Teddy,0
+5913,10,31,"Raymond, hi.",Teddy,0
+5914,10,32,"Hi, it's Teddy.",Teddy,0
+5915,10,33,Ivy's best friend.,Teddy,0
+5916,10,34,"Yeah, I'm sure you've heard all about me.",Teddy,0
+5917,10,35,"Oh really? Not a thing? Anyways, Sorry we missed the video chat.",Teddy,0
+5918,10,36,"There were some technical difficulties, So I don't know if you and Ivy are gonna be able to talk tonight, Unless unless you want to come over.",Teddy,0
+5919,10,37,Ivy loves the idea.,Teddy,1
+5920,10,38,Ivy's at 358 edgewood.,Teddy,0
+5921,10,39,"Okay, bye.",Teddy,0
+5922,10,40,He's on his way over.,Teddy,0
+5923,10,41,"What are you doing, t? I told you I wasn't ready.",Ivy,0
+5924,10,42,But you like him.,Teddy,0
+5925,10,43,He likes you.,Teddy,0
+5926,10,44,"Now get your Booty in gear, girl, 'cause it's time to represent.",Teddy,1
+5927,10,45,Huh-uh.,Ivy,0
+5928,10,46,"Don't go street on me, t.",Ivy,0
+5929,11,0,It's just sad.,Ivy,0
+5930,11,1,Ready for operation potty train? - It's go time.,Amy,0
+5931,11,2,We hope.,Amy,0
+5932,11,3,"Okay, P.J., let's hit it.",Bob,0
+5933,11,4,"Okay, hey, Charlie, you want to watch some tv? - Yeah.",PJ,0
+5934,11,5,I bet your favorite show is on.,PJ,0
+5935,11,6,I bet yeah.,PJ,0
+5936,11,7,"It's time to giggle With 'the gurgles'! Hi there, kids.",Amy,0
+5937,11,8,Today is gonna be a super-duper day.,Bob,0
+5938,11,9,Why is that? Because we're gonna do the potty rap.,Bob,0
+5939,11,10,"hey there, kids, don't be naughty 鈾?let's have fun and use our potty 鈾?going to the potty can be so gnarly 鈾?especially if you're a girl named Charlie.鈾?",Bob,0
+5940,11,11,"Oh gosh, mommy.",Charlie,1
+5941,11,12,"Well, that didn't work.",Bob,0
+5942,11,13,Actually it worked for me.,PJ,1
+5943,11,14,See ya.,PJ,0
+5944,12,0,Hi.,Teddy,0
+5945,12,1,Hi.,Others,0
+5946,12,2,I'm Raymond.,Others,0
+5947,12,3,"Hi, I'm Teddy.",Teddy,0
+5948,12,4,Come on in.,Teddy,0
+5949,12,5,"Ivy, Raymond's here.",Teddy,0
+5950,12,6,It's kind of dark in here.,Others,0
+5951,12,7,"Yeah, we're having a power outage.",Teddy,0
+5952,12,8,Could I offer you some chunky milk.,Teddy,0
+5953,12,9,"Or a glass of ice cream? Uh, I'm cool.",Teddy,1
+5954,12,10,Can I use the bathroom? No.,Others,0
+5955,12,11,The water's out too.,Teddy,0
+5956,12,12,"Oh, nice place.",Others,1
+5957,12,13,I'm gonna see what's keeping Ivy.,Teddy,0
+5958,12,14,Just have a seat right there.,Teddy,0
+5959,12,15,Ivy! Enjoying myself so far.,Others,1
+5960,12,16,What's going on? What if I say something stupid? Then he won't like me.,Ivy,0
+5961,12,17,"Ivy, you say stupid stuff to me all the time.",Teddy,0
+5962,12,18,And I still like you.,Teddy,1
+5963,12,19,"I'm serious, t.",Ivy,0
+5964,12,20,This is the first guy I've ever really liked.,Ivy,0
+5965,12,21,I don't want to mess it up.,Ivy,0
+5966,12,22,"Come on, you can do this.",Teddy,0
+5967,12,23,I can't.,Ivy,0
+5968,12,24,I just know if I look into those big brown eyes I'm gonna freeze.,Ivy,0
+5969,12,25,So you don't want to see his eyes.,Teddy,0
+5970,12,26,I can work with that.,Teddy,0
+5971,12,27,Ivy will be right out.,Teddy,0
+5972,12,28,"Meanwhile, let's enjoy.",Teddy,0
+5973,12,29,Some nice battery-powered music Kicking it old school.,Teddy,0
+5974,12,30,Like they did back in the diz-ay.,Teddy,0
+5975,12,31,"Oh, Teddy, right.",Others,0
+5976,12,32,Ivy did mention you.,Others,1
+5977,12,33,"Okay, Ivy, come on out.",Teddy,0
+5978,12,34,There she is.,Teddy,0
+5979,12,35,Now Raymond is right over there by the couch.,Teddy,0
+5980,12,36,"Hey, how is it going? Good.",Others,0
+5981,12,37,Okay.,Others,0
+5982,12,38,"Raymond, doesn't Ivy look nice? I can't see her.",Teddy,0
+5983,12,39,Take my word for it.,Teddy,0
+5984,12,40,Okay.,Others,0
+5985,12,41,"Ivy, you look good Probably.",Others,1
+5986,12,42,Thanks.,Ivy,0
+5987,12,43,There you go.,Teddy,0
+5988,12,44,This is good.,Teddy,0
+5989,12,45,"Okay, come on, guys.",Teddy,0
+5990,12,46,You've got to keep it up.,Teddy,0
+5991,12,47,We were on a nice roll there.,Teddy,0
+5992,12,48,All right? Still just me talking.,Teddy,1
+5993,12,49,"Still just Guys, what's going on over there? Oh, okay.",Teddy,0
+5994,12,50,Don't need any light for that.,Teddy,0
+5995,12,51,I'll just I'll be in the kitchen.,Teddy,0
+5996,12,52,"Oh! Argh, that's my shin.",Teddy,0
+5997,12,53,I'm okay.,Teddy,0
+5998,12,54,I'm totally okay.,Teddy,0
+5999,12,55,Don't worry.,Teddy,0
+6000,12,56,Ow! Forehead too.,Teddy,1
+6001,13,0,"Okay, sweetheart.",Amy,0
+6002,13,1,Why don't you go over there.,Amy,0
+6003,13,2,"And play with some toys, okay? - Okay.",Amy,0
+6004,13,3,"What is that smell? That would be me, Because somebody said we didn't have enough time.",Bob,0
+6005,13,4,To stop off at the bus station to freshen up.,Bob,0
+6006,13,5,"Oh, so it's my fault? - My stink is your fault, yeah.",Amy,0
+6007,13,6,That makes a lot of sense.,Amy,0
+6008,13,7,Tonight when we're done here I'm gonna drop you off at the bus station.,Amy,0
+6009,13,8,You can stay there.,Amy,0
+6010,13,9,And freshen up all night long.,Amy,0
+6011,13,10,All night long? Sounds good to me.,Bob,0
+6012,13,11,Hi.,Amy,0
+6013,13,12,Sorry to keep you waiting.,Others,0
+6014,13,13,I'm sondra.,Others,0
+6015,13,14,"Hi, I'm Amy.",Amy,0
+6016,13,15,This is Bob.,Amy,0
+6017,13,16,And this is Charlie.,Amy,0
+6018,13,17,"What? Something wrong with your face? No, there's some kind of odor.",Others,0
+6019,13,18,"Oh, that's my husband.",Amy,0
+6020,13,19,"Yeah, guilty as charged.",Bob,0
+6021,13,20,We're having some plumbing issues at our house and we weren't able to shower.,Amy,0
+6022,13,21,"Yeah, that explains why I smell like a hobo.",Bob,0
+6023,13,22,Not that there's anything wrong with hobos.,Amy,0
+6024,13,23, ,Bob,0
+6025,13,24,Yeah.,Amy,0
+6026,13,25,Why don't we talk about Charlie? - Great idea.,Others,0
+6027,13,26,Okay.,Amy,0
+6028,13,27,So how old is Charlie? Already two.,Others,0
+6029,13,28,"Is she still napping? Most days in the afternoon, yes.",Others,0
+6030,13,29,"Is she potty-trained? - Oh, of course.",Others,0
+6031,13,30,Absolutely.,Bob,0
+6032,13,31,"Yeah, potty train has left the station.",Amy,0
+6033,13,32,Absolutely.,Amy,0
+6034,13,33,"Yes, sir.",Amy,0
+6035,13,34,Whoo-whoo! I'm sorry about that.,Amy,0
+6036,13,35,"Charlie sweetheart, can you turn the tv off? That's okay.",Amy,0
+6037,13,36,The little ones sure love those 'gurgles.,Others,0
+6038,13,37,' - It's her favorite show.,Bob,0
+6039,13,38,'Gurgles.,Bob,0
+6040,13,39,' No-o-o! So the potty train hasn't left the station.,Others,0
+6041,13,40,Whoo-whoo.,Amy,1
+6042,14,0,"Well, Charlie, looks like.",Teddy,0
+6043,14,1,Before you spend any time in preschool.,Teddy,0
+6044,14,2,You're gonna need to spend a little more time.,Teddy,0
+6045,14,3,In pee school.,Teddy,0
+6046,14,4,Sorry.,Teddy,0
+6047,14,5,"It was either that or new school-poo school, And I decided to go classy, so Watch it, you idiot.",Teddy,0
+6048,14,6,"Speaking of classy, sounds like your brothers are home.",Teddy,0
+6049,14,7,"One, two, three.",Gabe,0
+6050,14,8,What is that? We found it in the alley.,Gabe,0
+6051,14,9,We're gonna put it on top of the other one.,PJ,0
+6052,14,10,We're gonna make bunk tvs.,Gabe,1
+6053,14,11,They'll be out of the house by the time you're my age.,Teddy,0
+6054,14,12,"And if not, then good luck, Charlie.",Teddy,1
+6055,15,0,鈾?- House too small? - Family too big? Then come on down to Duncans' double Decker furniture warehouse.,PJ,0
+6056,15,1,For all your stacked furniture needs.,Gabe,0
+6057,15,2,Wouldn't it be great if your couch could seat eight? Got a full bladder? It doesn't matter.,Gabe,1
+6058,15,3,Remember that's Duncans double Decker furniture warehouse.,Gabe,0
+6059,15,4,Stacking furniture since 2011.,PJ,0
+6060,15,5,Charlie not included.,PJ,1

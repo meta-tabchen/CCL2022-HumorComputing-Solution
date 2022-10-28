@@ -1,0 +1,286 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+12670,1,0,"Hey, hon.",Bob,0
+12671,1,1,Hey.,Amy,0
+12672,1,2,What you got there? - Our new baby monitor.,Bob,0
+12673,1,3,"Hey, you know, if one of us runs upstairs, We could test it out right now.",Amy,1
+12674,1,4,The one of us who is not pregnant.,Amy,1
+12675,1,5,"Hey, how about if I go? Mm-hmm.",Bob,0
+12676,2,0,"Okay, all set! All righty, make baby noises.",Bob,0
+12677,2,1,All right.,Bob,0
+12678,2,2,Goo goo ga ga.,Bob,1
+12679,2,3,"Uh-oh! My diapie is full! Will somebody 'pwease' change me? Aw, man.",Bob,1
+12680,2,4,I didn't think we'd have to worry about this for years.,Teddy,1
+12681,3,0,"? - Morning, boys.",Bob,0
+12682,3,1,Morning.,PJ,0
+12683,3,2,I'm in charge what would you like? Dad.,PJ,0
+12684,3,3,"You want toast with that? No, I need it for bait.",PJ,1
+12685,3,4,What? How could an anaconda get to Denver? - Who knows? - Maybe some kid went to Florida.,Gabe,0
+12686,3,5,"On vacation with his grandparents, Brought a baby snake back.",PJ,1
+12687,3,6,Maybe the kid named him snappy.,PJ,1
+12688,3,7,"Maybe when snappy got too big, the kid freaked out.",PJ,0
+12689,3,8,And set him free.,PJ,1
+12690,3,9,Just a guess.,PJ,0
+12691,3,10,"Anyway, This is the opportunity of a lifetime.",Bob,0
+12692,3,11,"I mean, if I can catch this snake, This is great publicity for the triple-b-g.",Bob,0
+12693,3,12,Huh? - What? Bob's bugs be gone.,Bob,1
+12694,3,13,Oh oh! - Oh okay.,Gabe,0
+12695,3,14,"Hey, dad, can I come with you? I'd love to see you get chased by a giant snake.",Gabe,0
+12696,3,15,Hey! I'm gonna catch that giant snake.,Gabe,0
+12697,3,16,"However it plays out, I just want to see something catch something.",Gabe,0
+12698,4,0,Hi.,Spencer,0
+12699,4,1,Hi.,Teddy,0
+12700,4,2,So we've turned into that couple? - I love it! - Me too.,Teddy,0
+12701,4,3,"So about tonight - No, shh! Okay, coast is clear.",Spencer,0
+12702,4,4,"Do we really have to be so secretive? Are you kidding? Do you have any idea what would happen if my mom found out? So when I pick you up tonight, What do we say we're doing? Don't worry.",Spencer,0
+12703,4,5,I'll come up with something.,Teddy,0
+12704,4,6,I'm a pretty good actress.,Teddy,0
+12705,4,7,"Okay, first of all, In this family, I am the greatest actress.",Amy,1
+12706,4,8,"Second of all, nobody fools mama ames.",Amy,1
+12707,4,9,You bet.,Charlie,0
+12708,4,10,"Now, Charlie, when you're Teddy's age, You're not going to try to get away with stuff, are you? Yes, I will.",Amy,0
+12709,4,11,Oh.,Amy,0
+12710,4,12,"Charlie, who's the greatest actress in the family? You are, mommy.",Amy,0
+12711,4,13,All better.,Amy,0
+12712,5,0,"P.J., we need to talk.",Others,0
+12713,5,1,I've got a dangerous mission for you.,Others,0
+12714,5,2,"Mitch, I am not trying the chocolate shake again.",PJ,1
+12715,5,3,I need you to find out.,Others,0
+12716,5,4,Who is stealing chicken from the store.,Others,0
+12717,5,5,"Why would someone steal our chicken? Haven't they tasted it? I don't know, but Corporate is really busting my giblets about this.",Others,1
+12718,5,6,So I am putting my best man on it.,Others,0
+12719,5,7,You.,Others,0
+12720,5,8,Oh! Cool.,PJ,0
+12721,5,9,"Any idea who the thief is? Okay, I'm pretty sure it's an inside job.",PJ,0
+12722,5,10,"So it could be Justin - Okay, your meal was $3.",Others,0
+12723,5,11,"And you gave me a $5, so Don't help me.",Others,1
+12724,5,12,I got this.,Others,0
+12725,5,13,"Then there's Val, the vegetarian Here's your m*rder chicken.",Others,0
+12726,5,14,"And finally, big Lenny.",Others,0
+12727,5,15,"You gonna finish that? So what do you think, kid? Who's the master chicken thief? Gut instinct? I gotta go with Justin.",Others,1
+12728,5,16,"Three from five Or was it five from three? Think, Justin.",Others,0
+12729,5,17,Think.,Others,0
+12730,5,18,Or Val.,PJ,0
+12731,5,19,Could be Val.,PJ,0
+12732,6,0,"So once the snake takes the meat, Then I slip that over his neck.",Bob,0
+12733,6,1,"And then once I got him, I turn to your camera and I say, 'take a break, snake!' Ha.",Bob,1
+12734,6,2,"Dad, I wouldn't overthink the once-I've-got-him part.",Gabe,1
+12735,6,3,"You know what? I still need a catchphrase, Something Tom cruise can say when he plays me in the movie.",Bob,0
+12736,6,4,"How about, 'boy, have I been miscast'? Uh, Gabe, I don't believe you've met.",Others,0
+12737,6,5,Denver's least-favorite animal-control officer.,Bob,0
+12738,6,6,"Hello, quint.",Bob,0
+12739,6,7,"What are you doing here, bug boy? There's a monster snake on the loose, not a termite.",Others,1
+12740,6,8,Yeah.,Bob,0
+12741,6,9,Shouldn't you be getting some old lady's Kitty out of a tree? Hmm? Muffin can wait.,Bob,1
+12742,6,10,Firi'm bringing in that cold-blooded beast out there.,Others,0
+12743,6,11,Have you ever caught anything like this before? Does this answer your question? That's a t-shirt.,Gabe,0
+12744,6,12,"I'm here to catch a snake, not a cold.",Others,1
+12745,6,13,See that scar? I got that tangling with a great white.,Others,0
+12746,6,14,Shark? - Labradoodle.,Gabe,1
+12747,6,15,Those things are fierce.,Others,0
+12748,6,16,"Face it, Duncan, You're out of your league.",Others,0
+12749,6,17,"You're an exterminator! What are you going to do, tent the Lake? Uh, no.",Others,1
+12750,6,18,I'm gonna catch him with this.,Bob,0
+12751,6,19,"Well, I'm gonna catch him with these My nine assistants.",Others,1
+12752,6,20,Whoa.,Gabe,0
+12753,6,21,Labradoodle got my pinkie.,Others,0
+12754,6,22,Hmm.,Gabe,0
+12755,7,0,"Hi, Mrs.Duncan.",Spencer,0
+12756,7,1,"Hi, Spencer.",Amy,0
+12757,7,2,Come on in.,Amy,0
+12758,7,3,Thanks.,Spencer,0
+12759,7,4,"So what you kids got planned for tonight? Um, what did Teddy say we were up to? She didn't.",Amy,1
+12760,7,5,Answer the question.,Amy,0
+12761,7,6,Uh - Here I am! - Teddy.,Spencer,0
+12762,7,7,Hi.,Spencer,0
+12763,7,8,Your mom wants to know what we're doing tonight.,Spencer,0
+12764,7,9,We're going to the movies.,Teddy,0
+12765,7,10,Oh.,Amy,0
+12766,7,11,Which one? - 'table for two.,Amy,0
+12767,7,12,' - What's it about? A table for two.,Amy,0
+12768,7,13,Rating? - Pg.,Amy,0
+12769,7,14,Running time? - 98 minutes.,Amy,0
+12770,7,15,You seem to have all the answers.,Amy,0
+12771,7,16,You seem to have all the questions.,Teddy,0
+12772,7,17,"Let's go, Spencer.",Teddy,0
+12773,7,18,Sounds like you two have a very specific evening planned.,Amy,1
+12774,7,19,"Yes, we do.",Teddy,0
+12775,7,20,"Have a nice night, Mrs.Duncan.",Spencer,0
+12776,7,21,I will.,Amy,0
+12777,7,22,'table for three.,Amy,1
+12778,8,0,' Oh! Do not be alarmed.,PJ,0
+12779,8,1,I am not an intruder.,PJ,0
+12780,8,2,"P.J., what are you doing? I'm going undercover to figure out.",Gabe,0
+12781,8,3,Which one of my co-workers is stealing chicken.,PJ,0
+12782,8,4,"And you think they're going to open up when they see Gandalf? You got a better idea? Yeah, wear a wire.",Gabe,1
+12783,8,5,Yes! I love it.,PJ,0
+12784,8,6,What's a wire? A recording device.,PJ,0
+12785,8,7,You wear it under your clothes.,Gabe,0
+12786,8,8,And then you can use what the people say against them.,Gabe,0
+12787,8,9,Cool.,PJ,0
+12788,8,10,I'll wear a wire.,PJ,0
+12789,8,11,Yeah.,Gabe,0
+12790,8,12,I'll be like a spy.,PJ,0
+12791,8,13,A spy from middle earth.,PJ,0
+12792,8,14,And I'll be like your brother.,Gabe,0
+12793,8,15,From planet earth.,Gabe,0
+12794,9,0,"Oh, movie my butt.",Amy,0
+12795,9,1,Party time's over.,Amy,0
+12796,9,2,"You're doing a show Without me!? So this is what you've been doing? Rehearsing a musical behind my back? Teddy, when did you stop loving me? Mom, I was hoping you wouldn't find out this way.",Amy,1
+12797,10,0,"Actually, I was just hoping you wouldn't find out.",Teddy,1
+12798,10,1,And you're doing 'franny saves the farm'? That's my favorite musical of all time.,Amy,0
+12799,10,2,"Not only that, she's playing franny.",Others,0
+12800,10,3,"Don't help me, Franklin.",Teddy,1
+12801,10,4,"Hey, let's let's take a five, everybody.",Spencer,0
+12802,10,5,"Oh, Teddy, why would you keep this from me? I could have helped you, taught you, mentored you.",Amy,0
+12803,10,6,"Yeah, and those are three of the reasons I didn't tell you.",Teddy,1
+12804,10,7,"What are you trying to say? Mom, anytime I try to do something.",Amy,0
+12805,10,8,"That has to do with performing, you get involved.",Teddy,0
+12806,10,9,And you don't just get involved; you take over.,Teddy,0
+12807,10,10,"Well, I'm sorry, Teddy.",Amy,0
+12808,10,11,Okay? I love the spotlight.,Amy,0
+12809,10,12,"But in fairness, Not as much as the spotlight loves me.",Amy,1
+12810,10,13,"Mom, I would like for you to not make this about you, Just this one time.",Teddy,0
+12811,10,14,"Please, could you just be my mom? Moms bring flowers, They sit in the audience and they watch their kids.",Teddy,0
+12812,10,15,"Well, I - Quietly.",Amy,1
+12813,10,16,Well I'm sorry I've been such a terrible mother.,Amy,0
+12814,10,17,"No no, mom, I didn't I told you the spotlight loved me.",Teddy,0
+12815,10,18,"Clark, cut it out.",Teddy,0
+12816,11,0,"14 miles per hour Well, time to get some sleep, Gabe.",Bob,0
+12817,11,1,Got a snake to catch tomorrow.,Bob,0
+12818,11,2,"Hey, dad, have you ever knocked out a grizzly bear with one punch? Well, let me think.",Gabe,0
+12819,11,3,"Uh, no.",Bob,1
+12820,11,4,You know who has? Quint.,Gabe,1
+12821,11,5,How do you know that? I'm reading this blog.,Bob,0
+12822,11,6,It's called 'quint while you're ahead.,Gabe,0
+12823,11,7," Man, is he tough! Hey, I'm just as tough as quint.",Bob,0
+12824,11,8,"I don't know, dad.",Gabe,0
+12825,11,9,Maybe you should leave the snake catching to him.,Gabe,0
+12826,11,10,"I mean, you're an exterminator.",Gabe,0
+12827,11,11,You set off bug b*mb and run.,Gabe,1
+12828,11,12,"I have to run, Gabe.",Bob,0
+12829,11,13,It's government mandated.,Bob,1
+12830,12,0,Time to catch a chicken thief.,PJ,1
+12831,12,1,"So glad you all could come over, Justin, Val and big Lenny.",PJ,1
+12832,12,2,"And we're away from work, So we can really let our hair down.",PJ,0
+12833,12,3,I let my hair down at work all the time.,Others,0
+12834,12,4,I lost a scrunchie in the Cole slaw once.,Others,1
+12835,12,5,"Come on, guys, this is our chance to bond, Share our hopes, our dreams, Our darkest secrets.",PJ,1
+12836,12,6,Who wants to go first? Lenny? I'm hungry.,PJ,1
+12837,12,7,Good start.,PJ,0
+12838,12,8,"Not a secret, but good start.",PJ,0
+12839,12,9,"If we're telling secrets, why don't you go first? Okay.",Others,0
+12840,12,10,Okay.,PJ,0
+12841,12,11,"Uh, sometimes I steal supplies from work.",PJ,0
+12842,12,12,Anybody want to piggyback on that? - I took a straw once.,Others,0
+12843,12,13,Yeah yeah.,PJ,0
+12844,12,14,"But I felt so bad, I brought back two.",Others,1
+12845,12,15,Ahem.,PJ,0
+12846,12,16,Ah - What was that? - What was what? - Sounded like feedback.,PJ,0
+12847,12,17,I didn't hear anything.,PJ,0
+12848,13,0,"Mom, what are you doing here? Well, it is children's theater.",Teddy,0
+12849,13,1,I thought Charlie might like it.,Amy,0
+12850,13,2,And she has something for you.,Amy,0
+12851,13,3,"Aw, Charlie, thank you.",Teddy,0
+12852,13,4,"Okay, come on, sweetie, let's go.",Amy,0
+12853,13,5,"Oh, mom, wait.",Teddy,0
+12854,13,6,"Um About what I said yesterday, I was out of line.",Teddy,0
+12855,13,7,And? And I'm really sorry.,Teddy,0
+12856,13,8,And? That's all I got.,Teddy,1
+12857,13,9,Okay.,Amy,0
+12858,13,10,"Well, you may not have been entirely wrong.",Amy,0
+12859,13,11,It might be possible.,Amy,0
+12860,13,12,That I have a small problem.,Amy,0
+12861,13,13,With the spotlight.,Amy,1
+12862,13,14,"Mom, we're backstage.",Teddy,0
+12863,13,15,The lights are out front.,Teddy,1
+12864,13,16,That's what I hate about backstage.,Amy,1
+12865,13,17,"Anyway, this is your moment to shine.",Amy,0
+12866,13,18,"So as we say in the theater, - Break a leg.",Amy,0
+12867,13,19,Oh.,Teddy,0
+12868,13,20,Terrible news Franklin just broke his leg.,Spencer,0
+12869,13,21,He can't do the show.,Spencer,0
+12870,13,22,"Well, what are we going to do? I've got to find somebody to play banker Jones, Somebody who knows the part.",Spencer,1
+12871,13,23,"Okay, I swear I had nothing to do with this.",Amy,1
+12872,14,0,"Yeah, good day to catch a snake.",Bob,0
+12873,14,1,You're right! It was.,Others,0
+12874,14,2,"I caught him an hour ago, took him to the zoo.",Others,0
+12875,14,3,"You did? Well, then what are you doing here? Came back to do this.",Others,0
+12876,14,4,"Nnnngg! Aw, man, was that quint? Great.",Gabe,0
+12877,14,5,So I missed the coolest guy in the world.,Gabe,0
+12878,14,6,Because I had to get your potato chips.,Gabe,0
+12879,14,7,"Hey, the point is, did you get 'em? So did quint see the snake? Yeah, matter of fact, he did.",Bob,0
+12880,14,8,And then he And then he left Because he was afraid.,Bob,0
+12881,14,9,Quint's afraid? - Yeah.,Gabe,0
+12882,14,10,Can you believe that? Coolest guy in the world.,Bob,0
+12883,14,11,Leaves because he's afraid.,Bob,0
+12884,14,12,But you know who isn't afraid? Your old man.,Bob,0
+12885,14,13,And I am putting an end to this once and for all.,Bob,0
+12886,14,14,All right.,Bob,0
+12887,14,15,"Come and get it, snappy! Dad, are you sure about this? Hey, a man's got to do what a man's got Oh man! This water is cold.",Bob,1
+12888,14,16,What's he doing out there? - Catching the snake.,Others,0
+12889,14,17,"What? - Duncan, I was lying! - What? I didn't catch the snake! Yes, I am in the Lake! - Dad, come back.",Bob,1
+12890,14,18,I was just trying to get rid of you.,Others,0
+12891,14,19,What? - Whoa.,Bob,0
+12892,14,20,"Is that a log floating towards him or Sna-a-a-ake! Snake in the Lake! Get the truck, get the truck, get the truck, get the truck! Get the truck! Like father, like son.",Bob,0
+12893,14,21,A couple of scaredy cats running from a stupid log.,Others,1
+12894,14,22,Uh-oh.,Others,0
+12895,15,0,So that's it? You learned nothing? I learned big Lenny combs his beard with a fork.,Others,1
+12896,15,1,So we'll never find out who's stealing the chicken.,Others,0
+12897,15,2,Corporate is going to be devastated.,PJ,0
+12898,15,3,This is going to haunt me forever.,PJ,0
+12899,15,4,"Oh well! - You know, funny thing though.",Others,0
+12900,15,5,"After the party, I came back here to look at our security-camera footage.",PJ,0
+12901,15,6,"We, uh, have security cameras? Yeah.",Others,0
+12902,15,7,"Yeah, and it showed this guy who looks just like you.",PJ,0
+12903,15,8,Taking boxes of chicken out of the storage fridge.,PJ,0
+12904,15,9,Do you by chance have an evil twin brother? I don't recall.,PJ,1
+12905,15,10,Then your brother put the stolen chicken in his car.,PJ,0
+12906,15,11,You got that on tape? - Uh-huh.,Others,0
+12907,15,12,And here's the crazy part Your brother drives the exact same car that you do.,PJ,1
+12908,15,13,I guess that makes sense though.,PJ,0
+12909,15,14,"I mean, you are twins.",PJ,1
+12910,15,15,All right! Quit toying with me.,Others,0
+12911,15,16,I confess.,Others,0
+12912,15,17,I stole the chicken.,Others,0
+12913,15,18,"So I could open my own place, 'mitch's discount poultry hut.",Others,1
+12914,15,19,' Wait.,PJ,0
+12915,15,20,"So you don't have a twin brother? Stop it, kid.",PJ,0
+12916,15,21,"You got me, all right? Okay.",Others,0
+12917,15,22,"Well, I'm confused.",PJ,0
+12918,15,23,"If you were the one stealing the chicken, Why did you ask me to catch a chicken thief? I mean, I'm your best man, right? I never thought someone so stupid could catch me.",PJ,0
+12919,15,24,"Well, look who's stupid now.",PJ,0
+12920,15,25,'cause I just caught you and your twin brother.,PJ,1
+12921,16,0,"Right? franny, since I can't pay ? they're going to take my sweet farm away ? don't you worry, dry your eyes ? 'cause I just brought you a big surprise ? - who is this? ? - I'm the banker ? - with your money ? - You should thank her ? you mean I won't have to lose my farm after all? ? all it took was one little call ? franny saved the farm ? franny saved the farm ? franny saved the farm ? farm! ?.",Spencer,0
+12922,17,0,"Well, Charlie, You were a little chicken.",Teddy,0
+12923,17,1,And apparently so was dad.,Teddy,1
+12924,17,2,Hey hey! I was not chicken.,Bob,0
+12925,17,3,I was exiting the Lake in a rapid fashion.,Bob,1
+12926,17,4,"No, dad, it's all right.",Gabe,0
+12927,17,5,I'd rather have a live coward than a dead hero.,Gabe,0
+12928,17,6,"Oh, thank you, son.",Bob,0
+12929,17,7,Yeah.,Gabe,0
+12930,17,8,"Live hero would have been the best, but Of course.",Gabe,0
+12931,17,9,"I mean, if you're going to rank them, You'd want your live hero, live coward.",Bob,0
+12932,17,10,Yeah.,Gabe,0
+12933,17,11,"You know, dead hero, dead coward.",Gabe,0
+12934,17,12,"Yeah, dead coward.",Bob,0
+12935,17,13,Those guys are losers.,Bob,1
+12936,17,14,"Hey, do you guys mind? I'm trying to do a video diary here.",Teddy,0
+12937,17,15,"Just say 'good luck, charlie' and be done.",Gabe,0
+12938,17,16,"Look, it's not that easy.",Teddy,0
+12939,17,17,"It's Good luck, Charlie.",Teddy,1
+12940,18,0,Huh.,PJ,0
+12941,18,1,Down here.,Others,0
+12942,18,2,"Oh, hey, it's you.",PJ,0
+12943,18,3,"Hello, snappy.",PJ,0
+12944,18,4,P.J.,Others,0
+12945,18,5,"Long time, amigo.",Others,0
+12946,18,6,"Uh, you you look well.",PJ,0
+12947,18,7,"Save it! How could you do this to me? 'snappy, why don't you hop in the Lake.",Others,1
+12948,18,8,"While I get us some ice cream'? Well, I got ice cream.",PJ,1
+12949,18,9,But you never came back.,Others,0
+12950,18,10,"You never came oh! Oh, yummy yummy.",Others,0
+12951,18,11,What is this? This is Charlie and don't even think about it! Not even a **.,PJ,0
+12952,18,12,"Thanks for stopping by, snappy.",PJ,0
+12953,18,13,Who is it? Toy delivery for Charlie.,Others,0
+12954,18,14,Go away!,PJ,0

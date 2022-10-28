@@ -1,0 +1,320 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+8280,1,0,You will not believe the conversation I just overheard between Gabe and his friend Jake.,Lauren,0
+8281,1,1,So you were snooping.,Skyler,0
+8282,1,2,I wasn't snooping.,Emmett,0
+8283,1,3,I was tiptoeing down the stairs.,Dabney,0
+8284,1,4,When I paused for a break.,Charlie,0
+8285,1,5,"Aha, go on, snoopy.",Gabe,0
+8286,1,6,"Okay, so anyway, Gabe says, 'heather is so hot.",Emmett,0
+8287,1,7,"' And Jake's all, 'so hot!' And then Gabe says, 'I really like her, But I'm too nervous to talk to her.",PJ,0
+8288,1,8,"' And Jake's all, 'dude, you gotta hike up your skirt.",Emmett,0
+8289,1,9,And ask her out.,Skyler,0
+8290,2,0,"' Bob, what are we gonna do about this? How about we make you wear a bell so the kids can hear you coming? I'm talking about Gabe being too shy to talk to girls.",Spencer,0
+8291,2,1,"Once again, mama ames has to solve the problem.",Teddy,0
+8292,2,2,"Ooh, snooping and meddling.",Bob,0
+8293,2,3,Mama ames is on fire today.,PJ,0
+8294,2,4,You know what? I think I got a bell in the garage.,Emmett,0
+8295,2,5,"What you got there, kiddo? I'm just going through my old school photos.",Teddy,0
+8296,2,6,We're getting our pictures taken in a couple of days.,Charlie,0
+8297,2,7,And I am determined for once to not look like a dork.,Spencer,0
+8298,2,8,"What's wrong with your pictures? Well, let's stroll down memory lane, shall we? Here I am in kindergarten.",Charlie,0
+8299,2,9,"Yeah, that was the day we learned about static electricity.",Spencer,0
+8300,2,10,I just finished rubbing my head with a balloon.,Gabe,1
+8301,2,11,"Well, honey, they can't all be that bad.",PJ,0
+8302,2,12,"Oh, can't they? Here I am again, third grade.",Emmett,0
+8303,2,13,That was the morning that baby Gabe threw a sippy cup at me.,PJ,0
+8304,2,14,Baby Gabe such a little terror.,Emmett,0
+8305,3,0,And we thought it was just a phase.,PJ,0
+8306,3,1,Yeah.,Emmett,0
+8307,3,2,"Hey, mom, how can I make sure that I take a good picture? Do what I do when I wanna look good.",PJ,0
+8308,3,3,Go buy a new outfit.,Lauren,0
+8309,3,4,"Well, would you would you pay for this new outfit? Oh, sweetheart, I give advice, not money.",Lauren,0
+8310,3,5,"today's all burnt toast ? running late and dad jokes ? 'has anybody seen my left shoe?' ? I close my eyes, take a bite ? grab a ride, laugh out loud ? there it is up on the roof ? I've been there, I survived ? so just take my advice ? hang in there, baby, things are crazy ? but I know your future's bright ? hang in there, baby ? there's no maybe ? everything turns out all right ? sure life is up and down ? but trust me, it comes back around ? you're gonna love who you turn out to be ? hang in there, baby.",PJ,0
+8311,3,6,? This show is so funny.,Gabe,0
+8312,3,7,"What's it called? 'the gurgles.' right, Charlie? Te show, Well, it's my favorite show.",PJ,0
+8313,3,8,"Oh, I'd better go, But first, of you and me.",Gabe,0
+8314,3,9,Re.,Charlie,0
+8315,3,10,Can it wait till tomorrow? It'll give me a chance to trim my beard.,Charlie,0
+8316,3,11,Beard? I don't see anything.,Bob,0
+8317,3,12,"Really? I've been growing it out for, like, a month.",Charlie,0
+8318,3,13,"Well, I really need a picture now.",Amy,0
+8319,3,14,All right.,Amy,0
+8320,4,0,"Well, nobody else is home, So Charlie will have to take it.",Lauren,0
+8321,4,1,"Okay, Charlie, come here for a second.",Emmett,0
+8322,4,2,This is very easy.,Gabe,0
+8323,4,3,"Very easy, okay.",Lauren,0
+8324,4,4,You're gonna push this little button halfway down to focus.,Teddy,0
+8325,4,5,"Then when the green light goes from flashing to solid, Push it all the way down until you hear the click.",Amy,0
+8326,4,6,Okay? Okay? Or we can just take it ourselves.,Bob,0
+8327,4,7,Ready? Smile.,Ivy,0
+8328,4,8,Let's see.,Spencer,0
+8329,4,9,Aw.,PJ,0
+8330,4,10,Yeah.,Beau,0
+8331,4,11,"Oh, it's beautiful.",Charlie,0
+8332,4,12,"Well, uh, I'd better go.",Ivy,0
+8333,4,13,There you go.,Teddy,1
+8334,4,14,Thanks.,Bob,0
+8335,4,15,"Goodbye, P.",Bob,0
+8336,5,0,J.,Dabney,0
+8337,5,1,"Oh, whoa, hey.",Emmett,0
+8338,5,2,"Uh, are you okay? I'm fine.",PJ,0
+8339,5,3,It's just that I'm fine.,Amy,0
+8340,5,4,Okay.,Bob,0
+8341,5,5,See you tomorrow? Bye.,Ivy,0
+8342,5,6,That was weird.,Ivy,0
+8343,5,7,"Oh, man, this thing is driving me crazy.",Lauren,0
+8344,5,8,I gotta go shave.,Toby,0
+8345,5,9,"Spencer? Teddy, hi.",Dabney,0
+8346,5,10,"Hey, you're rockin' those flips.",Ivy,0
+8347,5,11,"What are you doing here? Without a shirt? Oh, I, uh I work here.",Bob,0
+8348,5,12,Oh.,Beau,0
+8349,5,13,Hang on.,Skyler,0
+8350,5,14,"Yeah, I'm open.",Toby,0
+8351,6,0,"Nice toss, brah.",Ivy,0
+8352,6,1,"So this is work? Yeah, I'm an in-store model.",Gabe,0
+8353,6,2,It's all part of selling the hot teen summer lifestyle.,Bob,0
+8354,6,3,"Hey, those shades are tight.",Skyler,0
+8355,6,4,So you just you stand here.,Emmett,0
+8356,6,5,And you act dumb? That's the stupidest job I've ever heard of.,Bob,0
+8357,6,6,"Well, I get a huge discount on all the clothes.",Toby,0
+8358,6,7,"Oh, I want a stupid job too.",Amy,0
+8359,6,8,I guess I could get you an interview.,Dabney,0
+8360,6,9,Okay.,Dabney,0
+8361,6,10,"Hey, righteous boardshorts, dude.",Spencer,0
+8362,6,11,And they won't set you back too much cheddar.,Beau,0
+8363,6,12,"Yeah, that's right.",Gabe,0
+8364,6,13,Lookin' gouda.,Skyler,0
+8365,6,14,Gouda? I I thought we were doing a cheese thing.,Ivy,0
+8366,6,15,Dear P.,Beau,0
+8367,6,16,J.,Bob,0
+8368,6,17,", I have something to tell you, so I'm writing this note.",Ivy,0
+8369,6,18,"But since you're not a big reader, I taped it for you instead.",Charlie,0
+8370,6,19,There's a boom box on the bench.,Amy,0
+8371,6,20,Hit 'play.,Bob,0
+8372,6,21,' So this is kind of hard.,Teddy,0
+8373,6,22,I have to tell you that I'm sorry.,Beau,0
+8374,6,23,I can't go on.,Emmett,0
+8375,6,24,Just go back to the note.,Teddy,0
+8376,6,25,I've got some really bad news.,Toby,0
+8377,6,26,"My dad has been transferred to New York City, Which means I'm moving there.",Ivy,0
+8378,6,27,"I wanted to tell you, but it made me so sad to say goodbye, I just couldn't.",Lauren,0
+8379,6,28,I'll miss you forever.,Lauren,0
+8380,6,29,"Oh, by the way, this is Skyler.",Ivy,0
+8381,6,30,Now press 'play' again.,Ivy,0
+8382,6,31,"What's going on? Here, read that.",Charlie,0
+8383,7,0,P.,Charlie,0
+8384,7,1,J.,Amy,0
+8385,7,2,", I'm so sorry.",Teddy,0
+8386,7,3,"Dad, she was she was the love of my life.",Amy,0
+8387,7,4,"I mean, I'll never be happy again.",Ivy,0
+8388,7,5,"Okay, I know it feels that way now - No, I'll never be happy again.",Bob,0
+8389,7,6,P.,Amy,0
+8390,7,7,J.,Charlie,0
+8391,8,0,", in time - No, never! All right, all right, you're never gonna be happy again.",Beau,0
+8392,8,1,"How can you say that? Oh, what you doing? Having a snack.",PJ,0
+8393,8,2,"Can I help you with something? Nope, just making convo with my boy.",Skyler,0
+8394,8,3,"Or should I say young man? Yeah, I'm out of here.",Bob,0
+8395,8,4,Nope.,Toby,0
+8396,8,5,Sit in that chair.,Lauren,0
+8397,8,6,Let's talk about school.,Ivy,0
+8398,8,7,Okay.,Teddy,0
+8399,8,8,"How are your classmates? - My classmates? Boy classmates, girl classmates Heather.",Beau,1
+8400,8,9,"Heather? Wait, how'd you know about her? Your dad is such a snoop.",Gabe,0
+8401,8,10,"Anyway, if you ever wanna talk about her, I'm here for you.",Charlie,0
+8402,8,11,"No, we are never having that conversation.",Ivy,0
+8403,8,12,"Gabe, I'm a girl.",Amy,0
+8404,8,13,I know what girls like.,Emmett,0
+8405,8,14,"Honey, I just want you to have the right information.",Gabe,0
+8406,8,15,"Mom, if I need information about girls, I'll get it where all 12-year-olds get it: From a 13-year-old.",Skyler,0
+8407,8,16,How cute.,Lauren,0
+8408,8,17,He thinks this is over.,Bob,0
+8409,8,18,"Okay, just remember, try and be - Not smart.",Beau,0
+8410,8,19,"Right, got it.",Emmett,0
+8411,8,20,"Yeah, okay.",Toby,1
+8412,8,21,"Teddy, this is my manager rain.",Spencer,0
+8413,8,22,"Oh, rain.",Toby,0
+8414,9,0,I love it.,PJ,0
+8415,9,1,It's like so Wet.,Ivy,0
+8416,9,2,"So you two go to school together? Yeah, that's right.",PJ,0
+8417,9,3,We're school buds.,Emmett,0
+8418,9,4,"I mean, when I bother to show up.",Spencer,0
+8419,9,5,And how are your grades? Not good mostly cs.,Beau,0
+8420,9,6,"And ds ds, mostly ds.",Bob,0
+8421,9,7,I like this girl.,Spencer,0
+8422,9,8,So what do you like to do in your free time? I like to hug myself? I like to chill.,Lauren,0
+8423,9,9,Chill! I like to chill.,Dabney,1
+8424,9,10,Cool.,Lauren,0
+8425,9,11,"Okay, let's see how you do with a beach ball.",PJ,0
+8426,9,12,"Yeah, you're just gonna wanna okay.",Toby,0
+8427,9,13,"What was that? If you're gonna work here, You have to make me believe that you love catching beach balls.",Bob,0
+8428,9,14,"Okay okay, all right.",Bob,0
+8429,9,15,Yeah.,Toby,0
+8430,9,16,Again.,Dabney,0
+8431,10,0,It's fun.,Toby,0
+8432,10,1,"I think you could be hot teen summer material Awesome, stoked.",PJ,1
+8433,10,2,If you do something about that pale skin.,Toby,0
+8434,10,3,"Sorry, what? You have to look like you live in the sun.",Emmett,0
+8435,10,4,At h.,Toby,0
+8436,10,5,T.,Bob,0
+8437,10,6,S - The sun is your daddy.,Bob,0
+8438,11,0,Mm-hmm.,Dabney,0
+8439,11,1,So come back tomorrow at 4:00.,Amy,0
+8440,11,2,"If you have a tan, you've got a job.",Charlie,0
+8441,11,3,Okay.,Ivy,0
+8442,11,4,Okay.,Beau,0
+8443,11,5,What am I supposed to do? I burn too easily in the sun.,Bob,0
+8444,11,6,Do what we all do get some bronzer.,Ivy,1
+8445,11,7,A spray-on tan.,Amy,0
+8446,11,8,I can do that.,Gabe,0
+8447,11,9,Thanks.,Toby,0
+8448,11,10,Yep.,Lauren,0
+8449,11,11,"Well, I should probably get going.",Emmett,0
+8450,11,12,You know we have that big physics test tomorrow.,Amy,0
+8451,11,13,Would you keep your voice down? Do you wanna get us all fired? - Oh sorry.,Gabe,0
+8452,11,14,"Shh! Hey, look what I found on the porch.",Teddy,0
+8453,11,15,"'dear Duncan family,' I wrote you this note, then decided you should hear it from me instead.",Bob,0
+8454,11,16,'Press 'play.,Lauren,0
+8455,11,17,"'' Hey, guys, So I decided to follow skyler to New York so we can be together.",Lauren,0
+8456,11,18,Skyler's parents said I could stay with them Until I land on my feet.,PJ,0
+8457,11,19,So Thanks for being a great family and don't worry about me.,Beau,0
+8458,12,0,Love you.,Gabe,0
+8459,12,1,"Oh, by the way, this is P.",Dabney,0
+8460,12,2,J.,Amy,0
+8461,12,3,Hmm Looks like somebody talked to the wrong son about girls.,Dabney,0
+8462,12,4,"Hey, Charlie, it's daddy.",Spencer,1
+8463,12,5,I'm calling you from New York City.,Beau,0
+8464,12,6,Can you put mommy on the phone? Put mommy on the phone.,PJ,0
+8465,12,7,C-can you put put mommy on the phone? Or just hang up.,Lauren,0
+8466,12,8,"Pizza's here! Skyler, it's me.",Bob,0
+8467,12,9,It's P.,Emmett,0
+8468,12,10,J.,Ivy,0
+8469,12,11,'s dad.,Dabney,0
+8470,12,12,"Oh, this is awkward.",Gabe,0
+8471,12,13,We only ordered a medium.,Beau,0
+8472,12,14,"Actually, I'm just looking for P.",Amy,0
+8473,12,15,J.,PJ,0
+8474,12,16,"Oh, P.",Ivy,1
+8475,12,17,J.,Beau,0
+8476,12,18,Can you believe he came all this way for me? - It's so romantic.,Charlie,0
+8477,12,19,Ah.,Teddy,0
+8478,13,0,So did you see a pizza delivery guy on your way up? So where is he? I don't know.,Spencer,0
+8479,13,1,I just asked you where he is.,Dabney,0
+8480,13,2,P.,Emmett,0
+8481,13,3,J.,Spencer,0
+8482,13,4,", honey.",Charlie,0
+8483,13,5,Where's P.,Gabe,0
+8484,13,6,J.,Lauren,0
+8485,13,7,? - Oh! He's at work.,Gabe,0
+8486,13,8,"He got a job already? Yeah, he wants to make money to get his own apartment.",Ivy,1
+8487,13,9,He's working on wall street.,Emmett,0
+8488,13,10,"He's working on wall street? Well, under wall street.",Dabney,0
+8489,13,11,they say new yorkers can be kind of rude ? why not give money to this Denver dude? ? a few coins or dollars sure wouldn't spoil it ? why am I singing in what smells like a toilet? ?.,Gabe,0
+8490,13,12,Okay.,Spencer,0
+8491,13,13,All right.,Gabe,0
+8492,13,14,'keep bronzer on for one hour.,Ivy,0
+8493,13,15,Then rinse and enjoy your golden tan.,Gabe,0
+8494,13,16,' Sounds simple enough.,Ivy,0
+8495,13,17,"Okay, so One hour.",Emmett,0
+8496,13,18,Now I just have to wait for the ding.,Teddy,0
+8497,13,19,"What time is it? By the way, you're orange.",Emmett,0
+8498,13,20,"Yeah, I know I'm orange.",Toby,0
+8499,13,21,"Why didn't the timer go off? Charlie, what did you do? Relax, someday you'll laugh about this.",Gabe,0
+8500,13,22,I'm gonna laugh about it today.,Beau,0
+8501,14,0,"Oh my gosh, I can't believe I, Heather grouper, Am in Gabe Duncan's house.",Amy,0
+8502,14,1,I didn't think he even knew I existed.,Amy,0
+8503,14,2,"Well, obviously I exist.",Emmett,0
+8504,14,3,"Or I wouldn't be here in Gabe Duncan's house, Which is so much bigger than I thought.",Lauren,0
+8505,14,4,Isn't it so funny how some houses.,Charlie,0
+8506,14,5,"Look so small from the outside, but are big on the inside? And other houses look big on the outside, But are small on the inside? Well, anyway, what was the question again? How are you? Good.",Emmett,0
+8507,14,6,"Great actually, Because I'm in Gabe Duncan's house! Yeah, we got that.",Spencer,0
+8508,14,7,We got that.,Toby,0
+8509,14,8,Gabe! What are you doing here? Your mom invited me.,Toby,0
+8510,14,9,She said you like me.,Bob,0
+8511,14,10,"Mom, a word in the kitchen? Okay.",PJ,1
+8512,14,11,Be right back.,PJ,0
+8513,14,12,Why did you tell annoying Heather I like her? Because I know my little boy is too shy I'm sorry.,Skyler,0
+8514,14,13,Why did you call her 'annoying Heather'? I don't like her.,Bob,0
+8515,14,14,I like hot Heather.,Skyler,0
+8516,14,15,There's two heathers? In my class there are five heathers.,PJ,0
+8517,14,16,"And I would have been okay with any of the others Smart Heather, tall Heather, Even hairy Heather.",Spencer,0
+8518,15,0,"Boy, I'm really starting.",Beau,0
+8519,15,1,To wish you hadn't gotten me involved in this.,Teddy,0
+8520,15,2,"I'm tired and hungry, so don't be so selfish ? anything helps ? but I'm allergic to shellfish.",Lauren,0
+8521,15,3,?.,Skyler,0
+8522,15,4,"Hey! Dad, what are you doing here? We need to talk.",Skyler,0
+8523,15,5,"Hey hey hey hey! Hey, get lost, mimey.",Emmett,0
+8524,15,6,This is my territory.,Ivy,0
+8525,15,7,"Go on, hit the imaginary road.",Amy,0
+8526,15,8,Get outta here.,Skyler,0
+8527,15,9,"Whoa whoa whoa, P.",Teddy,0
+8528,15,10,J.,Lauren,0
+8529,15,11,! - What happened to you? - Been in New York a day and a half.,Lauren,1
+8530,15,12,"The city changes you, man.",Teddy,0
+8531,15,13,"Okay, you need to come home.",Gabe,0
+8532,15,14,"No no, Skyler and I belong together.",Toby,0
+8533,15,15,"I know how you feel, But look at the size of that cockroach.",Spencer,0
+8534,15,16,Skyler is the best thing that's ever happened to me.,Toby,0
+8535,15,17,We're meant to be together.,Beau,0
+8536,15,18,P.,Charlie,0
+8537,15,19,J.,Lauren,0
+8538,15,20,", you're 17 years old.",Lauren,0
+8539,16,0,"How can you possibly know that? Well, all I know is I don't wanna be apart from her.",Amy,0
+8540,16,1,You might not be apart forever.,Bob,0
+8541,16,2,"What do you mean? - When it comes to love, there's a very old saying Sweet mama, that's a giant rat! Yeah, I've heard that before, but No no no, that's that's not the saying.",Toby,0
+8542,16,3,"The saying is Son, if you love something, set it free.",Emmett,0
+8543,16,4,"If it comes back to you, then it's yours.",Teddy,0
+8544,16,5,"But if it doesn't, then it never was.",Amy,0
+8545,16,6,What happened to you? I may have overbronzed just a smidge.,Emmett,0
+8546,16,7,"I didn't think you'd pull off the whole dumb thing, But it turns out you're a natural.",Emmett,0
+8547,16,8,"Teddy? - Oh hi, boss.",PJ,0
+8548,16,9,"Hey, why don't you toss me that beach ball, dude? Whoo! Yeah! Why are you orange? See, it's just a healthy glow.",Bob,0
+8549,16,10,"Hey, brother, why don't you throw me that football? Oh! - Ow.",Ivy,0
+8550,16,11,"Are you okay? Yeah, I'm good.",Ivy,0
+8551,16,12,I'm fine.,Emmett,0
+8552,16,13,"Hey, righteous beach towel, dude.",Lauren,0
+8553,16,14,"Could I use it to wipe up some bl*od? Mom, what are we gonna do? We can't hide in the kitchen forever.",PJ,0
+8554,16,15,Why not? We've got food.,Emmett,0
+8555,16,16,We've got drink.,Gabe,0
+8556,16,17,"Mom, you gotta get rid of her.",Dabney,0
+8557,16,18,This is really hard.,Amy,0
+8558,16,19,I've never broken up with a girl before.,Skyler,0
+8559,16,20,"Fine, I'll do it myself.",Ivy,0
+8560,16,21,"Gabe, no.",Gabe,0
+8561,16,22,"Heather, I gotta tell you something.",Toby,0
+8562,16,23,"Yes, Gabe? Mom, something you wanna say? Okay.",Spencer,0
+8563,16,24,"Heather, the thing is.",Gabe,0
+8564,16,25,"Um, there was a little mix-up about the who likes who thing.",Gabe,0
+8565,16,26,Oh no! Gabe doesn't like me? Only because Jake likes you.,Teddy,0
+8566,16,27,Which Jake? How many are there? Four.,Teddy,0
+8567,16,28,"There's short Jake, skinny Jake, tall Jake This one's stocky with red hair.",Amy,0
+8568,16,29,Hot Jake? Standards for the Jakes are really low.,Emmett,0
+8569,16,30,I can't believe Jake likes me.,PJ,0
+8570,17,0,"He's the total package The red hair, the freckles, the way he always smells like bananas, Which in case you didn't know, are the only fruits in the world Bye-bye now.",Bob,0
+8571,17,1,Bye-bye.,Gabe,0
+8572,17,2,So even though you won't find another guy.,Toby,0
+8573,17,3,Who's as crazy about you as I am I set you free.,Emmett,0
+8574,17,4,And even though.,Dabney,0
+8575,17,5,You'll never find a girl who's crazier than I am About you You're free too.,Amy,0
+8576,17,6,"So I guess this is it? See, this is exactly why I didn't want to say goodbye to you.",Dabney,0
+8577,17,7,"Hey, let's not say goodbye then.",Amy,0
+8578,17,8,Let's just say.,Toby,0
+8579,17,9,See you later.,Ivy,0
+8580,17,10,Hey.,Skyler,0
+8581,17,11,"It'll be okay, son.",Spencer,0
+8582,17,12,"Hey, would you watch it? I'm having a conversation here, you jerk! Dad? Wow, this city really does change you.",Beau,0
+8583,17,13,Let's get out of here.,Beau,0
+8584,17,14,"Well, Charlie, dad brought pj back home.",Bob,0
+8585,17,15,And now he's showing mom in New York.,Bob,0
+8586,17,16,He took.,Dabney,0
+8587,17,17,It's just bugs and rats.,Dabney,0
+8588,17,18,"I know, right? Where are you going? I got more.",Beau,0
+8589,17,19,"Oh, speaking of photos, back today.",Emmett,0
+8590,17,20,Ol picture.,Ivy,0
+8591,17,21,"Wow! Yeah, if the trend continues, Next year I'll be toothless and bald.",Dabney,0
+8592,17,22,"Well, wish me good luck, Charlie.",Toby,0
+8593,17,23,"Wow, tough day.",Charlie,0
+8594,17,24,How you doing? You making any money? You know what new competition.,Skyler,0
+8595,17,25,Thank you.,Bob,0
+8596,17,26,"Come on, man, a better spot.",Spencer,0
+8597,17,27,"Oh, cut it out.",Dabney,0
+8598,17,28,You are not in a box.,PJ,0

@@ -1,0 +1,351 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+13349,1,0,"Okay, everybody.",Amy,0
+13350,1,1,Listen up.,Amy,0
+13351,1,2,"Now that we have the new baby, the Duncan's are not going to be able to do our summer vacation..",Amy,0
+13352,1,3,Yay! - Yes! Like we usually do.,PJ,1
+13353,1,4,There's always more.,Teddy,0
+13354,1,5,"Why is there always more? So, the plan is to head up to the mountains for a few days.",Amy,0
+13355,1,6,Dad got a great deal.,Amy,0
+13356,1,7,"Oh, no.",PJ,0
+13357,1,8,This is bad.,PJ,0
+13358,1,9,This should be good.,Bob,0
+13359,1,10,"Okay, I know I got a reputation for finding less than stellar accommodations.",Bob,0
+13360,1,11,"But this time, it's gonna be great.",Bob,0
+13361,1,12,"We're gonna be staying in a beautiful, rustic cabin on, uh..",Bob,0
+13362,1,13,Dead Man's Lake.,Bob,1
+13363,1,14,What was that? Hmm? Um..,Teddy,0
+13364,1,15,Dead Man's Lake.,Bob,1
+13365,1,16,Are..,Teddy,0
+13366,1,17,"Are you trying to say Dead Man's Lake? I'm trying not to, actually.",Teddy,0
+13367,1,18,"Oh, come on, you guys.",Bob,0
+13368,1,19,"Once you get past the name, the place is amazing.",Bob,0
+13369,1,20,"Dead Man's Lake? What, are we gonna catch some dead fish, or hike through some dead trees? Yeah.",Gabe,1
+13370,1,21,Climb on some dead rocks.,PJ,1
+13371,1,22,"Or live rocks, whatever.",PJ,1
+13372,1,23,"Now that I think about it, that sounds really nice.",Teddy,0
+13373,2,0,"And I for one, am looking forward to spending some quality time with my family.",Teddy,0
+13374,2,1,"We made a lot of kids, Bob.",Amy,0
+13375,2,2,That one turned out good.,Amy,1
+13376,2,3,"Ivy, hi.",Teddy,0
+13377,2,4,"Okay, so listen up.",Teddy,0
+13378,2,5,Big party at my house this weekend.,Teddy,0
+13379,2,6,My family's going away and I'm going to pretend to be sick.,Teddy,0
+13380,2,7,So get the word out that..,Teddy,0
+13381,2,8,The Duncan family is going on a summer vacation.,Teddy,1
+13382,2,9,It was Ivy.,Teddy,0
+13383,2,10,I was telling her about the big trip.,Teddy,0
+13384,2,11,"Honey, thank you for what you said in there.",Amy,0
+13385,2,12,That was very sweet.,Amy,0
+13386,2,13,"Yeah, well, it needed to be said.",Teddy,0
+13387,2,14,"Are you coming down with something? Oh, no.",Amy,0
+13388,2,15,It's just a little tickle.,Teddy,0
+13389,2,16,I'm sure I will be fine for the weekend.,Teddy,0
+13390,2,17,Oh.,Teddy,0
+13391,2,18,There it is again.,Teddy,1
+13392,2,19,,,0
+13393,2,20,,,0
+13394,2,21,,,0
+13395,2,22,,,0
+13396,2,23,,,0
+13397,2,24,,,0
+13398,2,25,,,0
+13399,2,26,,,0
+13400,2,27,,,0
+13401,2,28,,,0
+13402,2,29,,,0
+13403,2,30,,,0
+13404,2,31,,,0
+13405,2,32,,,0
+13406,3,0,Okay.,Bob,0
+13407,3,1,"So, I think we have all the essentials.",Bob,0
+13408,3,2,"Water bottles, sun screen, bug repellant.",Bob,0
+13409,3,3,"Laptop, hand held, game controller.",Gabe,1
+13410,3,4,Guys.,Bob,0
+13411,3,5,We're only going for three days.,Bob,0
+13412,3,6,Three days? We're gonna need more games.,PJ,1
+13413,3,7,"Honey, where's Teddy? Here I am.",Bob,0
+13414,3,8,"Teddy, are you sick? Yes, and I was so looking forward to..",Teddy,0
+13415,3,9,Family vacation fun time.,Teddy,0
+13416,3,10,Oh.,Amy,0
+13417,3,11,"Bob, what are we going to do? Cancel the trip? Oh, no, no.",Amy,1
+13418,3,12,You guys go.,Teddy,0
+13419,3,13,"Ivy can come and stay with me, and Mrs.",Teddy,0
+13420,3,14,Dabney's right next door.,Teddy,0
+13421,3,15,I don't..,Amy,0
+13422,3,16,I don't know.,Amy,0
+13423,3,17,"Plus, I would hate to get the baby sick.",Teddy,0
+13424,3,18,That's a good point.,Amy,0
+13425,3,19,"Isn't it? Hey, we can keep an eye on her with the home monitoring system.",Teddy,1
+13426,3,20,With..,Teddy,0
+13427,3,21,With the..,Teddy,0
+13428,3,22,With the what now? Last week I did a pest control job for a home Security company.,Bob,0
+13429,3,23,They gave me a system for free.,Bob,0
+13430,3,24,Look.,Bob,0
+13431,3,25,Got a camera right over there.,Bob,0
+13432,3,26,"So it's on all the time? So, while we're in the mountains, we can watch the feed through Mom's computer.",Bob,0
+13433,3,27,And keep an eye on you.,Bob,0
+13434,3,28,Yay.,Teddy,1
+13435,3,29,Hey.,Bob,0
+13436,3,30,"Guys, come on, let's go! Bye-bye, Toby.",Bob,0
+13437,3,31,"Charlie, honey, the baby's coming with us.",Teddy,0
+13438,3,32,"Oh, nuts.",Charlie,1
+13439,3,33,"Um, where did you learn to say that? Oh, honey, baby needs a change.",Bob,0
+13440,3,34,"Oh, nuts.",Amy,1
+13441,4,0,"So that's it over there, huh? Yup.",Ivy,0
+13442,4,1,"Our new Security system, also known as the party k*ll 9,000.",Teddy,0
+13443,4,2,"Why 9,000? It's funnier with a number.",Ivy,1
+13444,4,3,"Is it? So, will your parents be able to hear us? No, there's no sound.",Ivy,0
+13445,4,4,They'll just be able to see us.,Teddy,0
+13446,4,5,Then I guess we gotta cancel the party.,Ivy,0
+13447,4,6,Wrong.,Teddy,0
+13448,4,7,I have a plan.,Teddy,0
+13449,4,8,And he's right on time.,Teddy,0
+13450,4,9,Victor.,Teddy,0
+13451,4,10,Come on in.,Teddy,0
+13452,4,11,"Ivy, you know Victor.",Teddy,0
+13453,4,12,President of South High's audio visual club.,Teddy,0
+13454,4,13,Thank you for using my full title.,Others,1
+13455,4,14,I don't always get the respect I deserve.,Others,0
+13456,4,15,This is your plan? Victor the loser? It's pronounced Deleseur.,Ivy,1
+13457,4,16,"Victor, I wanted to invite you to a party tonight.",Teddy,0
+13458,4,17,"So, you, uh, finally got rid of that dumb jock, Spencer? No.",Others,0
+13459,4,18,He's just out of town.,Teddy,0
+13460,4,19,"Oh, please don't tell him I said that.",Others,0
+13461,4,20,"Look, Victor.",Teddy,0
+13462,4,21,We need some audio visual help.,Teddy,0
+13463,4,22,"Do you know anything about cameras? Do I know anything about cameras? Oh mahn dore tool-ee-ell lay? Oh, well, that's Elvish for 'from what land do you come'? Elvish? I slip into it when I'm excited.",Others,1
+13464,4,23,What I'm trying to say is I know everything about cameras.,Others,0
+13465,4,24,"Next time, just say it like that.",Ivy,1
+13466,4,25,I'll be right back.,Others,0
+13467,4,26,Wh..,Teddy,0
+13468,4,27,"Where are you going? Well, to tell my Mother this wasn't a trap, and she may proceed back to home.",Others,1
+13469,5,0,Wow.,Amy,0
+13470,5,1,"I gotta hand it to you, Dad.",Gabe,0
+13471,5,2,This place is pretty nice.,Gabe,0
+13472,5,3,Oh.,PJ,0
+13473,5,4,Hold that thought.,PJ,0
+13474,5,5,Spooky portrait.,PJ,1
+13475,5,6,Who cares about a stupid picture? I think we can call this a win.,Bob,0
+13476,5,7,Yep.,PJ,0
+13477,5,8,The eyes follow you.,PJ,1
+13478,5,9,"Well, I think it's very nice.",Amy,0
+13479,5,10,"What do you think, Charlie? Why is Toby here? Okay, you really gotta let that go.",Amy,1
+13480,5,11,"Come on, let's go check out your room.",Amy,0
+13481,5,12,Come on.,Amy,0
+13482,5,13,"Well, as long as the picture's the only spooky thing about the place, I think we're good.",PJ,0
+13483,5,14,Afternoon..,Others,0
+13484,5,15,Who are you? Name's Willard.,Bob,0
+13485,5,16,I'm the caretaker.,Others,0
+13486,5,17,Been working here 30-odd years.,Others,0
+13487,5,18,And they have been odd.,Others,1
+13488,5,19,Okay.,Bob,0
+13489,5,20,"Well, we're the Duncans.",Bob,0
+13490,5,21,Um..,Bob,0
+13491,5,22,We're renting the place.,Bob,0
+13492,5,23,"Oh, surprised to hear they're still renting it out after the..",Others,0
+13493,5,24,Incident.,Others,0
+13494,5,25,Incident? What incident? I've said too much.,Others,1
+13495,5,26,"Could you at least tell me what kind of incident it was? Happy incident, fun incident? Well, I'd better be going.",PJ,0
+13496,5,27,"Wait, wait.",Gabe,0
+13497,5,28,"Before you go, uh, do you know anything about this guy? Sure I do.",Gabe,0
+13498,5,29,That's Commodore Elijah T.Deadman.,Others,0
+13499,5,30,That's why it's called Dead Man's Lake.,Bob,1
+13500,5,31,Oh.,Others,0
+13501,5,32,"Actually, no relation.",Others,0
+13502,5,33,"Well, enjoy your stay..",Others,0
+13503,5,34,If you can.,Others,1
+13504,5,35,If you can? What do you mean if you can? You seem a little tense.,PJ,0
+13505,5,36,Here.,Others,0
+13506,5,37,This might help.,Others,0
+13507,5,38,A coupon for dead man's massage? Unfortunate name.,PJ,1
+13508,5,39,Great value.,Others,0
+13509,6,0,Gabe? - Yeah? - Stop messing with me.,PJ,0
+13510,6,1,Stop? I haven't even started.,Gabe,0
+13511,6,2,You made all the drawers pop open.,PJ,1
+13512,6,3,Why would I do that? Did the drawers hurt you in any way? No.,Gabe,0
+13513,6,4,Were you humiliated? No.,Gabe,1
+13514,6,5,Do you know anything about my work? Okay.,Gabe,1
+13515,7,0,Good fake sneeze.,Others,0
+13516,7,1,Now check your temperature.,Others,0
+13517,7,2,You've got a fever.,Others,0
+13518,7,3,Show me some concern! Oh! Aah! Ooh! Woo! You're hot.,Others,1
+13519,7,4,You're not going to burst into flames.,Others,1
+13520,7,5,Just trying to make it more interesting.,Teddy,0
+13521,7,6,No.,Others,0
+13522,7,7,We don't want it to be interesting.,Others,0
+13523,7,8,We're creating boring footage of you being sick.,Others,0
+13524,7,9,"Then I'll insert it into the video feed, and that's what your parents will see while we're partying.",Others,1
+13525,7,10,"That's pretty good, Victor.",Ivy,0
+13526,7,11,"Excuse me? That's pretty good, Mr.President.",Ivy,1
+13527,7,12,"Okay, Ivy.",Others,0
+13528,7,13,You're on.,Others,0
+13529,7,14,Okay.,Others,0
+13530,7,15,Now taste it.,Others,0
+13531,7,16,"Mm! Mm-mm! You love the soup, you're not in love with the soup.",Others,1
+13532,7,17,Don't we have enough video? And cut.,Teddy,0
+13533,7,18,Okay.,Others,0
+13534,7,19,Question about the party.,Others,0
+13535,7,20,"What exactly happens at a party? Well, haven't you ever been to one? Nope.",Others,0
+13536,7,21,"Although, the meetings of the AV Club can be quite rambunctious.",Others,1
+13537,7,22,"One time, Gary's Mother made popcorn! You know T..",Others,1
+13538,7,23,"At some point, we have to ask ourselves..",Ivy,0
+13539,7,24,"Is it worth it? Charlie, you caught a fish! This is Daddy's.",Ivy,1
+13540,8,0,That one's mine.,Charlie,1
+13541,8,1,She's confused.,Bob,0
+13542,8,2,"No, I'm not.",Charlie,1
+13543,8,3,Okay.,Bob,0
+13544,8,4,"Why don't you run along now, okay? So, what you been up to, hon? Well, Toby's in the middle of a long nap, and I have been enjoying this novel.",Bob,0
+13545,8,5,Breathless Eternity? What's that about? Some hunky guy who lost his shirt.,Bob,0
+13546,8,6,"So, how's Teddy been doing? Let's find out.",Bob,1
+13547,8,7,"Oh, poor girl.",Amy,0
+13548,8,8,She looks miserable.,Amy,0
+13549,8,9,"Yeah, uh-huh! Woo! Yeah! Yeah! I feel like Victor da winner! What are you doing? Putting two and two together.",Others,1
+13550,9,0,"How long you been working on it? The spooky portrait, the drawers that open by themselves, the freaky caretaker.",Gabe,0
+13551,9,1,"Don't laugh at me, but I think this house is haunted.",PJ,0
+13552,9,2,Dude! I said don't laugh at me.,PJ,1
+13553,9,3,That wasn't me.,Gabe,0
+13554,9,4,"When I laugh at you, it sounds like this.",Gabe,0
+13555,9,5,Right? So who was that? I..,Gabe,0
+13556,9,6,I don't know.,Gabe,0
+13557,9,7,Maybe it's just the wind.,Gabe,0
+13558,9,8,"All right? Hey, you know what will make you feel better? If we build a nice, cheerful fire.",Gabe,0
+13559,9,9,Fire's good.,PJ,0
+13560,9,10,Fire will ward off evil spirits.,PJ,0
+13561,9,11,Right.,Gabe,0
+13562,9,12,Plus we can make S'mores.,PJ,1
+13563,9,13,"Hey, hand me that old newspaper.",Gabe,0
+13564,9,14,Look at this.,PJ,0
+13565,9,15,'m*rder at local house'.,PJ,0
+13566,9,16,It's..,PJ,0
+13567,9,17,It's..,PJ,0
+13568,9,18,It's this house.,PJ,0
+13569,9,19,There were m*rder here.,PJ,0
+13570,9,20,Give me that.,Gabe,0
+13571,9,21,'The Sheriff made a gruesome discovery today' 'when the bodies of a vacationing couple' 'were found at a cabin on Dead Man's Lake'.,Gabe,0
+13572,9,22,I knew there was something wrong with this house.,PJ,0
+13573,9,23,It's a m*rder house.,PJ,0
+13574,9,24,"Thank you, Dad.",PJ,1
+13575,9,25,Just calm down.,Gabe,0
+13576,9,26,"Just because there was a m*rder here before, doesn't mean there's gonna be more.",Gabe,0
+13577,9,27,Tell him that.,PJ,0
+13578,9,28,"Ah! Ah! PJ, Gabe.",Bob,0
+13579,9,29,"It knows our names! It's Dad! The m*rder's Dad! Hey, what the heck is wrong with you two? I'm just chopping some firewood.",Gabe,1
+13580,9,30,"Dad, there were m*rder in this house.",Gabe,0
+13581,9,31,Look at the newspaper.,Gabe,0
+13582,9,32,Where's the paper? The newspaper's gone! The newspaper's..,PJ,0
+13583,9,33,"Oh, there it is.",Bob,0
+13584,9,34,Would you please calm down? There is nothing to be afraid of.,Bob,0
+13585,9,35,Evening..,Bob,1
+13586,9,36,Ah! Jeez! You've got to stop doing that.,Bob,0
+13587,9,37,Just came to check and see if you were still here.,Others,0
+13588,9,38,Why wouldn't we be? No reason.,Bob,0
+13589,9,39,"Goodnight, now.",Others,0
+13590,9,40,Wait.,Gabe,0
+13591,9,41,Do you know anything about this? The m*rder? Yeah.,Gabe,0
+13592,9,42,They were never solved.,Others,0
+13593,9,43,Most people up here think the k*ll was..,Others,0
+13594,9,44,I've said too much.,Others,1
+13595,9,45,You never say enough.,PJ,0
+13596,9,46,"Please, finish your sentences.",PJ,0
+13597,9,47,Some folks think the k*ll is the angry spirit of..,Others,0
+13598,9,48,Commodore Elijah T.Deadman.,Others,0
+13599,9,49,Of course other folks have a different theory.,Others,0
+13600,9,50,Okay.,Gabe,0
+13601,9,51,What's that? That it's me.,Others,1
+13602,10,0,"Well, Shaggy and Scooby are convinced the house is haunted by a k*ll ghost.",Bob,1
+13603,10,1,"Bob, come here.",Amy,0
+13604,10,2,Look at this.,Amy,0
+13605,10,3,Ivy's giving Teddy soup.,Amy,0
+13606,10,4,"So? So, she's given her soup three times in the last hour.",Amy,0
+13607,10,5,It's like it's on a continuous loop.,Bob,0
+13608,10,6,You think Teddy's up to something? She's my daughter.,Amy,0
+13609,10,7,I know she's up to something.,Amy,1
+13610,10,8,"Of course, she's your daughter, too, so she shouldn't be able to pull it off.",Amy,1
+13611,10,9,Hey.,Amy,0
+13612,10,10,Teddy's not picking up.,Amy,0
+13613,10,11,You know what? I have a better idea.,Amy,0
+13614,10,12,"Hi, Mrs.Dabney, it's Amy Duncan.",Amy,0
+13615,10,13,"No, don't hang up.",Amy,1
+13616,10,14,Shh! Guys..,太太,0
+13617,10,15,Guys.,太太,0
+13618,10,16,"Hi, Mrs.Dabney.",太太,0
+13619,10,17,What's up? Your Mother called and asked me to check on you.,Teddy,0
+13620,10,18,Said you were sick.,太太,0
+13621,10,19,Oh.,Teddy,0
+13622,10,20,"Yeah, I've got a really bad cold.",Teddy,0
+13623,10,21,So you put on a party dress? It always cheers me up.,太太,0
+13624,10,22,You know what cheers me up? Busting kids who lie to their parents.,太太,0
+13625,10,23,Really? That cheers you up? We all have our things.,Teddy,0
+13626,10,24,"Okay, Mrs.Dabney.",Teddy,0
+13627,10,25,You got me.,Teddy,0
+13628,10,26,"What are you gonna do? Lucky for you, there's one thing I like more than busting kids.",太太,0
+13629,10,27,What's that? - Getting my party on.,太太,1
+13630,10,28,"Okay, so..",Teddy,0
+13631,10,29,"If I invite you to the party, this stays between us? You got a deal.",Teddy,0
+13632,10,30,"Ah, come on in.",Teddy,0
+13633,10,31,Let me call your Mother and tell her everything's okay.,太太,0
+13634,10,32,Then I'll be back.,太太,0
+13635,10,33,"Oh, one question..",太太,1
+13636,10,34,Are kids these days still doing 'The Hustle'? What's that? Ooh.,太太,0
+13637,11,0,You are in for a treat.,太太,1
+13638,11,1,"Well, thank you very much for checking Mrs.Dabney.",Amy,0
+13639,11,2,I'm..,Amy,0
+13640,11,3,I'm sorry to have bothered you.,Amy,0
+13641,11,4,"I don't get it, she said Teddy was laying on the couch, sick as a dog.",Amy,0
+13642,11,5,That's nice.,Bob,1
+13643,11,6,"Hi, Mommy.",Charlie,0
+13644,11,7,"May we help you? Charlie got scared, and thought it would be a good idea if we all came and slept with you.",Amy,0
+13645,11,8,"No, I didn't.",Charlie,1
+13646,11,9,She's embarrassed.,Gabe,1
+13647,11,10,"Okay, just for a little while.",Amy,0
+13648,11,11,Hey! Why do little knees always find that spot? Oh..,Bob,1
+13649,12,0,"Is this a great party or what? No, really.",Others,0
+13650,12,1,I'm asking.,Others,1
+13651,12,2,I have no frame of reference.,Others,1
+13652,12,3,"Hey, where's Mrs.Dabney? I thought she was supposed to be coming over? Maybe she couldn't find something to wear.",Ivy,0
+13653,12,4,"Where's your turntable? I'm ready to Boogie! Okay, what was that? It's the ghost.",太太,1
+13654,13,0,Or the k*ll.,Amy,0
+13655,13,1,Or the k*ll ghost.,PJ,0
+13656,13,2,Or the ghost k*ll.,Gabe,0
+13657,13,3,"Bob, wake up.",Amy,1
+13658,13,4,I'm up! I'm up.,Bob,0
+13659,13,5,I'm up.,Bob,0
+13660,13,6,Bob..,Amy,0
+13661,13,7,"Bob, turn on the lights.",Amy,0
+13662,13,8,They don't work.,Bob,0
+13663,13,9,Question.,PJ,0
+13664,13,10,"Was that wall dripping red ooze this afternoon? Follow up question, does anyone else see the floating candelabra? Get out! Get out! Oh! Whoa! Last summer it was us.",PJ,1
+13665,13,11,Now it's your turn.,PJ,0
+13666,13,12,He's got a kn*fe! You're all gonna die..,Bob,0
+13667,13,13,When you learn you're on 'Scary House'.,PJ,0
+13668,13,14,What's going on? 'Scary House'..,PJ,0
+13669,13,15,America's favorite new reality show.,PJ,1
+13670,13,16,"Where we take an average family, and convince them they're staying in a haunted house.",PJ,1
+13671,13,17,This was all a prank? That's terrible.,PJ,0
+13672,13,18,You made us look like fools.,Gabe,0
+13673,13,19,You people are disgusting.,Gabe,0
+13674,13,20,"We're gonna be on TV, you say? When the Duncans checked into 'Scary House,' they had no idea what they were in for.",Amy,1
+13675,14,0,"Wow, Mom.",Teddy,0
+13676,14,1,That was quite a scream.,Teddy,0
+13677,14,2,"Yeah, that was PJ.",Amy,0
+13678,14,3,"And if you want to see something really scary, check out what we saw on Mama Duncan's laptop.",PJ,0
+13679,14,4,What was that? Um..,Amy,1
+13680,14,5,That is called 'The Hustle'.,Teddy,1
+13681,14,6,It was a very popular dance move in the 1970s.,Teddy,0
+13682,14,7,"And what was it doing in our living room? Look, Mom.",Teddy,0
+13683,14,8,I don't have time for all these questions.,Teddy,1
+13684,14,9,Because I have to do my video diary.,Teddy,1
+13685,14,10,"Hi, Charlie.",Teddy,0
+13686,14,11,"Well, we have had quite a weekend.",Teddy,0
+13687,14,12,"But you know what? It's all behind us now, so why don't we just forget it and move on with our lives.",Teddy,1
+13688,14,13,Some of us won't be moving on with anything for the next two weeks.,Amy,1
+13689,14,14,Me? - Yeah.,Teddy,0
+13690,14,15,"Can you dig it? Wish her good luck, Charlie.",Amy,1
+13691,14,16,"Oh, you've got to be kidding me.",Amy,1
+13692,14,17,"How much longer is this going to go on? What are we going to do? Well, there's only one thing to do.",Bob,1
+13693,14,18,Ah! That's it.,太太,0
+13694,14,19,Get your groove on.,太太,0
+13695,14,20,"Far out, man.",Gabe,1
+13696,14,21,I can dig it.,PJ,1
+13697,14,22,"Howdy, folks..",Others,1
+13698,14,23,Oh!,Bob,0

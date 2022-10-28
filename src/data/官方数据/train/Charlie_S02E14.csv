@@ -1,0 +1,307 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+7625,1,0,"Breakfast! - Hi, I'm Teddy Duncan, Reporting live from the kitchen where, once again, Mom has taken an innocent pancake and destroyed it.",Teddy,0
+7626,1,1,Your thoughts? Why are you insulting me into a fork? I'm joining the South high action news team.,Amy,0
+7627,1,2,Today's the first meeting.,Teddy,0
+7628,1,3,"Oh, that is so exciting! You know, Teddy, when I was reporting for the Southwest Denver community college tv news.",Amy,0
+7629,1,4,"Oh, how funny.",Amy,1
+7630,1,5,Heh heh.,Amy,0
+7631,1,6,Guess I must have - Mentioned that before.,Amy,1
+7632,1,7,"Anyway, when I was reporting, I had this really cute catchphrase.",Amy,0
+7633,1,8,"It went a little something like this: I'm Amy blankenhooper, gettin' all up in your news.",Amy,0
+7634,1,9,Morning.,Bob,0
+7635,1,10,"Ooh, pancakes.",Bob,0
+7636,1,11,Yay.,Bob,0
+7637,1,12,"Uh, maybe I'll pick up something on the way to work.",Bob,1
+7638,1,13,"When he won't eat it, that's a bad pancake.",Gabe,1
+7639,1,14,Has anyone seen my boots? Looks like Charlie has.,Bob,1
+7640,1,15,"That's adorable! Miss Duncan, are you aware that dad sometimes.",Amy,0
+7641,1,16,Has to pour sweat out of those boots? Ew.,Teddy,0
+7642,1,17,Out of the mouths of babes.,Teddy,0
+7643,1,18,"This is Teddy Duncan - And Amy Duncan - Mom, it's a fork.",Amy,0
+7644,1,19,Gettin' all up in your news.,Amy,0
+7645,2,0,"鈾?Oh, hey, sis.",PJ,0
+7646,2,1,"You want to sit together? Yeah sure, I'd love to.",Teddy,1
+7647,2,2,"Oh, it never gets old.",Teddy,1
+7648,2,3,Yeah.,PJ,0
+7649,2,4,"Oh, wait.",PJ,0
+7650,2,5,Is that dustin Reese? Who's dustin Reese? We went to kindergarten together.,PJ,0
+7651,2,6,Back then he had a ponytail until Why'd you cut off his ponytail? It was my first day with scissors.,PJ,1
+7652,2,7,I had eaten a doughnut.,PJ,0
+7653,2,8,I was out of my mind.,PJ,0
+7654,2,9,So do you think he remembers you? - I hope not.,Teddy,1
+7655,2,10,"Well, here he comes.",Teddy,0
+7656,2,11,What you could have just turned around.,Teddy,1
+7657,2,12,Eh.,PJ,1
+7658,3,0,"Okay, everyone, welcome to the South high.",Others,0
+7659,3,1,"Action news team, or shant.",Others,0
+7660,3,2,"Anyway, I wanted to apologize for postponing the meeting.",Others,0
+7661,3,3,"As you know, I fell off my bike Again.",Others,1
+7662,3,4,Who laughed? Me.,Others,0
+7663,3,5,I was thinking about something else.,Others,0
+7664,3,6,And what was that? - The first time you fell off your bike.,Others,1
+7665,3,7,Moving on.,Others,0
+7666,3,8,"All right, one of you.",Others,0
+7667,3,9,Is going to have a big opportunity.,Others,0
+7668,3,10,The channel 8 news is looking for a teen reporter.,Others,0
+7669,3,11,For an internship which includes a chance to appear on tv.,Others,0
+7670,3,12,"If you're interested, have a two-minute piece on my desk by Friday Something juicy, expl*sive, hard-hitting ow.",Others,0
+7671,3,13,I'll pick the best one and submit it to channel 8.,Others,1
+7672,3,14,Now get to work.,Others,0
+7673,3,15,"Oh, and Teddy, was it? - Yeah.",Others,0
+7674,3,16,You're new around here.,Others,0
+7675,3,17,A piece of advice Don't fall in love with me.,Others,0
+7676,3,18,I shan't.,Teddy,0
+7677,4,0,"Bob, Bob, big news.",Amy,0
+7678,4,1,Walt mcguire called and invited us.,Amy,0
+7679,4,2,Out to dinner at his country club.,Amy,0
+7680,4,3,"Who is Walt mcguire? Honey, he's the hospital administrator.",Bob,0
+7681,4,4,I talk about him all the time.,Amy,0
+7682,4,5,And I listen about him all the time.,Bob,1
+7683,4,6,Ooh ooh ooh.,Amy,0
+7684,4,7,You know what? I'm going to wear that dress that makes people ask if I'm Teddy's sister.,Amy,0
+7685,4,8,"Come on, honey, has anybody ever I love that dress.",Bob,1
+7686,4,9,You know what? I think I'm going to buy a new pair of shoes too.,Amy,0
+7687,4,10,And you might want to try on your suit.,Amy,0
+7688,4,11,Why would I want to do that? You might have put on a little weight.,Bob,1
+7689,4,12,Since our homecoming dance.,Amy,1
+7690,4,13,Thank you for saying 'might have.,Bob,1
+7691,5,0,' - Aw.,PJ,0
+7692,5,1,P.J.! - Dustin.,PJ,0
+7693,5,2,What are you doing here? Do you remember me from kindergarten? I I don't know.,PJ,0
+7694,5,3,It was it was a long time ago.,PJ,1
+7695,5,4,And which year of kindergarten? I want to show you something.,PJ,0
+7696,5,5,Come on out.,Others,0
+7697,5,6,What's all this? - I came to give you a haircut.,PJ,0
+7698,5,7,Oh.,PJ,0
+7699,5,8,"Oh well, that's very nice of you, But I always go to Rachel at crazy cuts.",PJ,1
+7700,5,9,Not anymore.,Others,0
+7701,5,10,What do you mean? Ahh! No! Oh.,PJ,0
+7702,5,11,"Why do I always have nightmares when I nap on this couch? Eh, five more minutes.",PJ,1
+7703,6,0,Why are you sitting with me? - Because I didn't realize it was you.,PJ,0
+7704,6,1,Why are you dressed like that? - I don't want dustin to recognize me.,Teddy,1
+7705,6,2,"Oh, the ponytail kid? You're worried he's going to get back at you? He has gotten into my dreams, my nap dreams.",Teddy,0
+7706,6,3,That is a place filled with gumdrops and lollipops.,PJ,0
+7707,6,4,He does not belong there! - Okay.,PJ,1
+7708,6,5,"Well, I'm sorry you had a bad nap, but I've got a real problem.",Teddy,0
+7709,6,6,I have to come up with a good news story by Friday.,Teddy,0
+7710,6,7,This could be my chance to be on local tv.,Teddy,0
+7711,6,8,"Ugh! You want a good story, you should do a report.",PJ,0
+7712,6,9,On whatever this mystery meat is.,PJ,0
+7713,6,10,Wait a minute.,Teddy,0
+7714,6,11,That's not bad.,Teddy,0
+7715,6,12,I'll solve the mystery meat mystery.,Teddy,0
+7716,6,13,This disgusting slop could be my ticket to the big time.,Teddy,0
+7717,6,14,"How's lunch today? - Oh, really good, thanks.",PJ,1
+7718,7,0,"Hey, honey.",Bob,0
+7719,7,1,You get some shoes? - Did I get some shoes? Did I get some shoes? I don't know.,Amy,0
+7720,7,2,You tell me.,Amy,0
+7721,7,3,Ba-bam.,Amy,0
+7722,7,4,"Wow! Nice! - Yeah, and only $400.",Bob,1
+7723,7,5,"What?! Relax, I'm going to return them the day after the dinner.",Amy,0
+7724,7,6,I'm just borrowing them.,Amy,0
+7725,7,7,They're like a library book that makes my calves look hot.,Amy,0
+7726,7,8,"Honey, no store is going to take back shoes once you've worn them.",Bob,0
+7727,7,9,They're not going to know that I've worn them.,Amy,0
+7728,7,10,I'm putting tape on the soles so they don't scuff.,Amy,0
+7729,7,11,Where did you learn this stuff? It's an old trick from my starving student days.,Bob,0
+7730,7,12,"I thought I'd outgrow it when I was married, But four kids later and here we are ba-bam! I don't know.",Amy,1
+7731,7,13,Sounds wrong to me.,Bob,0
+7732,7,14,Or we can just pay the $400.,Amy,0
+7733,7,15,I'll get the tape.,Bob,1
+7734,8,0,So you cut a kid's hair in kindergarten.,Gabe,0
+7735,8,1,And now you're all freaked out? It was the worst thing I ever did.,PJ,0
+7736,8,2,"I don't know, maybe I should just apologize.",PJ,0
+7737,8,3,"Apologize? I'd cut his hair again, show him who's boss.",Gabe,1
+7738,8,4,"Okay, guys, what do we think, huh? Huh? Ready for the country club? I don't know, dad.",Bob,0
+7739,8,5,Button the jacket.,PJ,0
+7740,8,6,That's not going to happen.,PJ,1
+7741,8,7,So I'm guessing the top button of your pants.,Gabe,1
+7742,8,8,"Is out of the question too? Yes, sir, it is.",Gabe,1
+7743,8,9,"Bob, a little help, please? - Need a little help, please? - What? Whoa, what's wrong? Turns out that putting tape on your shoes makes them.",Amy,0
+7744,8,10,Just a little bit slippery.,Amy,1
+7745,8,11,"Well, why don't you change shoes? What, and k*ll the glamour? How'd you like to pay all that money.",Bob,0
+7746,8,12,"To join the country club and see that coming in? What is the meat in mystery meat? To find out, I decided to sit down with Lydia the lunch lady.",Gabe,0
+7747,9,0,And ask her some tough questions.,Teddy,0
+7748,9,1,"Pretty good so far, huh? - Shh! Ow.",Teddy,0
+7749,9,2,"So, Lydia, let's get right to it.",Teddy,0
+7750,9,3,Tell me about the meat.,Teddy,0
+7751,9,4,"Does that camera have to be so close? Why are you sweating? Because you're shining a very bright light in my face! Or is it because you're lying? What is it, Lydia? What is the meat? - Ground beef.",Others,1
+7752,9,5,Is it? Or is it something else? Mystery meat is it really such a mystery? This is Teddy Duncan and I'm on your side.,Teddy,0
+7753,9,6,"So, what do you think? - I can't submit this.",Teddy,0
+7754,9,7,"Why not? - Because there are no facts, no proof.",Others,0
+7755,9,8,"I'm sorry, but it stinks.",Others,0
+7756,9,9,But I need that internship.,Teddy,0
+7757,9,10,I want to be on tv.,Teddy,0
+7758,9,11,Then you'd better come up with something great by tomorrow.,Others,0
+7759,9,12,"Oh well, just watch me.",Teddy,0
+7760,9,13,I don't think you can do it.,Others,0
+7761,9,14,I'm going to make you eat those words.,Teddy,0
+7762,9,15,Do you want to kiss me.,Others,0
+7763,9,16,"As much as I want to kiss you? - No, I don't.",Teddy,1
+7764,9,17,Worth a sh*t.,Others,0
+7765,10,0,"Aw, that movie was awesome! - So awesome! When the bl*od sh*t out of that guy's arm, - It looked so real! - So real! What are you guys talking about? - Uh, nothing.",Gabe,0
+7766,10,1,We just saw 'decapitation 3.,Others,0
+7767,10,2,"' - No, we didn't.",Gabe,0
+7768,10,3,"Yes, we did.",Others,0
+7769,10,4,Remember I almost barfed when they used.,Others,0
+7770,10,5,That lady's head as a bowling ball? Wait wait wait.,Others,0
+7771,10,6,That movie's rated pg-13.,Teddy,0
+7772,10,7,Who took you guys to go see it? His mom.,Others,0
+7773,10,8,His dad.,Others,0
+7774,10,9,We slipped the guy at the box office.,Others,0
+7775,10,10,Five extra bucks and he let us in.,Others,0
+7776,10,11,What is wrong with you? She's a direct pipeline to the man.,Gabe,0
+7777,10,12,And by the man I mean my mom.,Gabe,0
+7778,10,13,"Okay, so that sleazeball at the movie theater.",Teddy,0
+7779,10,14,Is taking bribes from kids? That's Fantastic! - It is? - Yes yes.,Teddy,1
+7780,10,15,This is exactly the kind of story I need.,Teddy,0
+7781,10,16,"This is going to put me on tv, where I belong.",Teddy,0
+7782,10,17,You sound like mom.,Gabe,0
+7783,10,18,Shut up.,Teddy,1
+7784,10,19,"Ugh, nice job.",Gabe,0
+7785,10,20,We're probably going to get in trouble now.,Gabe,0
+7786,10,21,I'm sorry.,Others,0
+7787,10,22,"Hey, you want some melted pocket chocolate? That's disgusting.",Others,0
+7788,10,23,"Yeah, okay.",Gabe,1
+7789,11,0,"Emergency! Bob, we have an emergency.",Amy,0
+7790,11,1,What? What is it? - The shoes are gone.,Bob,0
+7791,11,2,"Nobody move! This house is on lockdown! What wh-when was the last time you saw them? Um, uh, when I got home last night, I put them in the box and went to bed.",Bob,0
+7792,11,3,"Then I got out of bed to go to the bathroom, put them back on, Went to the bathroom, put them back in the box and went to bed.",Amy,0
+7793,11,4,"Wait, why would you put on shoes to go to the bathroom? Because they make everything an event.",Amy,1
+7794,11,5,"Honey, look, the only event right now is that we're out $400.",Bob,0
+7795,11,6,"We've got to find the shoes! - Hey, guys.",Bob,0
+7796,11,7,Hey.,PJ,0
+7797,11,8,Hi.,Bob,0
+7798,11,9,Why is Charlie so dirty? We were playing Chase in the yard.,Amy,0
+7799,11,10,"And because she was wearing high heels, she slipped and fell.",PJ,0
+7800,11,11,What heels? - These.,Amy,0
+7801,11,12,No! - Yeah.,Amy,0
+7802,11,13,"Yeah, she looked pretty cute in them too.",PJ,0
+7803,11,14,I got some great pics on my phone.,PJ,0
+7804,11,15,You guys want to see? - Ugh.,PJ,0
+7805,11,16,"See? It's funny, not sad.",PJ,1
+7806,12,0,"Hey, dustin, how's it going? I'm P.J.",PJ,0
+7807,12,1,I don't know if you remember me.,PJ,0
+7808,12,2,We went to kindergarten together.,Others,0
+7809,12,3,"We did? Yeah yeah, I was the kid who glued his face to the desk.",PJ,0
+7810,12,4,I was the kid who got his tongue caught in the hamster wheel.,PJ,0
+7811,12,5,I was the kid who cut off your ponytail.,PJ,0
+7812,12,6,"Oh yeah, I remember that.",Others,0
+7813,12,7,Yeah yeah.,Others,0
+7814,12,8,"Listen, I know it's probably way too late for this, But I just I want to say I'm really sorry.",PJ,0
+7815,12,9,"Eh, don't worry about it.",PJ,0
+7816,12,10,It was a long time ago.,Others,0
+7817,12,11,So you're not mad? - Not at all.,PJ,0
+7818,12,12,"Oh, that's so great, man.",PJ,0
+7819,12,13,You mind if I stay? - Sure sure.,PJ,0
+7820,12,14,Cool.,Others,0
+7821,12,15,"You're not going to cut my hair again, are you? - Oh.",Others,1
+7822,12,16,Whoo.,Others,0
+7823,12,17,Yeah.,PJ,0
+7824,13,0,"Okay okay, you guys, come on.",Teddy,0
+7825,13,1,"So here's the plan: Gabe, you'll buy the tickets.",Teddy,0
+7826,13,2,"Jake, you'll wear this hat.",Teddy,0
+7827,13,3,It has a camera in it and it'll record the whole thing.,Teddy,0
+7828,13,4,I don't look good in hats.,Others,0
+7829,13,5,"Jake, come on, we got to do this.",Gabe,0
+7830,13,6,"Dude, my hair is my best feature.",Others,0
+7831,13,7,"Okay, well, if you guys don't go through with this, I'll tell both your moms about 'decapitation 3' And '1' and '2.",Teddy,0
+7832,13,8,"' - Uh, you know about those? - I do now.",Teddy,0
+7833,13,9,Can I at least wear it backwards? It's more hip hop that way.,Others,1
+7834,13,10,What he lacks in brains he makes up for in He's got a pool.,Gabe,1
+7835,14,0,Sponge.,Bob,0
+7836,14,1,Marker.,Bob,0
+7837,14,2,Pretzel.,Bob,0
+7838,14,3,Are they going to make it? - Shh.,Amy,0
+7839,14,4,A very critical part of the operation.,Bob,0
+7840,14,5,I need absolute quiet.,Bob,1
+7841,14,6,"Hey, guys! How's it going? - Ooh! My gosh! Did we lose her? - What is it, P.J.? - This is dustin.",PJ,1
+7842,14,7,Is it okay if he sleeps over? - Sure.,PJ,0
+7843,14,8,Hi.,Amy,0
+7844,14,9,Fine.,Amy,0
+7845,14,10,"Cool, thanks.",Others,0
+7846,14,11,What are they doing? - I don't know.,Others,0
+7847,14,12,Playing catch with shoes.,PJ,0
+7848,15,0,Go go.,Teddy,0
+7849,15,1,"Two tickets for 'decapitation 3,' please.",Gabe,0
+7850,15,2,"Ooh, that's pg-13, guys.",Others,0
+7851,15,3,"And since I don't see any adults around here, If you want to buy a ticket, There's going to be a handling fee.",Others,0
+7852,15,4,"Hey, maybe we should see 'fishy friendz' instead.",Others,0
+7853,15,5,No no no no.,Teddy,0
+7854,15,6,Look at Gabe! Look at Gabe! Oh! It features the voice talents Of Steve carell and Rosie Perez.,Teddy,0
+7855,15,7,Enjoy the show.,Others,0
+7856,15,8,"Okay, are we done now? - No no, you didn't get it.",Gabe,0
+7857,15,9,Jake was looking at the poster for 'fishy friendz.,Teddy,0
+7858,15,10,' I couldn't help it.,Others,0
+7859,15,11,The fish was wearing glasses.,Others,0
+7860,15,12,"That's hilarious! All right, we're doing this again.",Others,0
+7861,15,13,This time I'm wearing the hat.,Teddy,0
+7862,15,14,Here.,Teddy,0
+7863,15,15,"Jake, you wait here.",Teddy,0
+7864,15,16,One ticket for 'decapitation 3.,Gabe,0
+7865,15,17,"' - Weren't you just here? Yeah, I was here and you were there.",Others,0
+7866,15,18,And I gave you some money.,Gabe,0
+7867,15,19,"Now do you want to do it again or not? Okay, you know the drill.",Others,0
+7868,15,20,Handling fee.,Others,1
+7869,15,21,"Excuse me, did you just sell an 11-year-old boy.",Teddy,0
+7870,15,22,A ticket to a pg-13 movie? What? I I don't know what you're talking about.,Teddy,0
+7871,15,23,Oh yeah? Okay.,Teddy,0
+7872,15,24,"Well, I think you do.",Teddy,0
+7873,15,25,Because I just caught the whole thing on my hat Cam.,Teddy,0
+7874,15,26,Care to make a statement? Yeah.,Teddy,0
+7875,15,27,How about how about I give you.,Others,0
+7876,15,28,"Two free tickets to 'fishy friendz' And we make this thing go away, huh? Do it! Busted! This is Teddy Duncan, teen reporter.",Others,0
+7877,15,29,"Remember, when there's news to be reported, then The one reporting it will be me.",Teddy,0
+7878,15,30,I'll fix that later.,Teddy,0
+7879,16,0,Good morning.,Others,0
+7880,16,1,Hey.,PJ,0
+7881,16,2,Why are you holding the mirror? Because now we're even.,PJ,0
+7882,16,3,"Ahh! Ah! Dude, I just had the weirdest dream.",PJ,0
+7883,16,4,Really? What about? It was actually kind of crazy.,Others,1
+7884,16,5,To get back at me you shaved half my head.,PJ,1
+7885,16,6,Wow.,Others,0
+7886,16,7,"Wow, that is crazy.",Others,0
+7887,16,8,"Should we get some breakfast? - Yeah, sounds good.",PJ,0
+7888,16,9,Are you chilly? -.,PJ,0
+7889,16,10,I'm a little chilly.,PJ,0
+7890,16,11,Huh.,Others,0
+7891,17,0,This is Teddy duncan getting all up in your news.,Teddy,0
+7892,17,1,"So what do you think? It's hard-hitting, informative and entertaining.",Others,0
+7893,17,2,It's the best piece I've seen all semester and I'm k*ll it.,Others,0
+7894,17,3,What? Why? - That box office guy is my brother.,Teddy,0
+7895,17,4,Your brother? - Yeah.,Teddy,0
+7896,17,5,"I got the looks, but he got the crazy.",Others,0
+7897,17,6,"Wait, but I want that internship.",Teddy,0
+7898,17,7,He's my ride to school.,Others,0
+7899,17,8,That's not fair.,Teddy,0
+7900,17,9,Life isn't fair.,Others,0
+7901,17,10,You can't do this.,Teddy,0
+7902,17,11,Kiss me.,Others,0
+7903,17,12,"No, thank you.",Teddy,0
+7904,18,0,"Well, Charlie, looks like my reporting career.",Teddy,0
+7905,18,1,Has hit a little bump in the road.,Teddy,0
+7906,18,2,"Oh, my feet are k*ll me.",Amy,1
+7907,18,3,"Mom, why did you wear your heels to work? Oh, they make everything an event.",Teddy,0
+7908,18,4,Oh.,Teddy,0
+7909,18,5,"The store wouldn't take them back, huh? Laughed in my face.",Teddy,0
+7910,18,6,"See, this is a good lesson, Charlie.",Teddy,0
+7911,18,7,"If you try to pull a scam, You're going to suffer the consequences.",Teddy,0
+7912,18,8,"Here here, give me that camera.",Amy,0
+7913,18,9,"No, mom, I'll do the video diary, thank you.",Teddy,0
+7914,18,10,No no no no.,Amy,0
+7915,18,11,I've got something I'd like to say to Charlie.,Amy,0
+7916,18,12,"Stay out of my closet, all right? Yeah? Next time you take a pair of my shoes You can take it from here.",Amy,0
+7917,18,13,"Good luck, Charlie.",Teddy,0
+7918,19,0,Good evening and welcome to 'gabe and Jake at the movies.,Gabe,0
+7919,19,1,' I'm Gabe This popcorn makes my fingers shiny.,Gabe,0
+7920,19,2,And that's Jake.,Gabe,0
+7921,19,3,The first movie we're reviewing tonight is 'fishy friendz.,Gabe,0
+7922,19,4,"' Now I found it familiar and tired, Nothing I hadn't seen 100 times before.",Gabe,0
+7923,19,5,Jake? - It was awesome! That's what you say about every movie.,Others,0
+7924,19,6,Because I like every movie.,Gabe,0
+7925,19,7,Then what's the point of doing this show? Free popcorn.,Gabe,0
+7926,19,8,You're an idiot.,Gabe,0
+7927,19,9,You're the idiot.,Others,0
+7928,19,10,Am not! - Are so! That's all the time we have for this week.,Gabe,0
+7929,19,11,See the next time on: Gabe at the movies.,Gabe,0
+7930,19,12,Hey!,Others,1

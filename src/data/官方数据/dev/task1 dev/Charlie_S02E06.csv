@@ -1,0 +1,287 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+306,1,0," Thanks for the ride home, evan.",Teddy,0
+307,1,1,Sure.,Others,0
+308,1,2,"You didn't mind sitting through my practice? Oh, no no no, not at all.",Others,0
+309,1,3,You look cute in your uniform.,Teddy,0
+310,1,4,I'm on the swim team.,Others,0
+311,1,5,Yeah.,Teddy,0
+312,1,6,Hey.,Gabe,0
+313,1,7,"Oh, uh, evan, this is my brother gabe.",Teddy,0
+314,1,8,"Gabe, this is evan.",Teddy,0
+315,1,9,Wait a minute.,Gabe,0
+316,1,10,Don't I know you from somewhere? - I don't think so.,Gabe,0
+317,1,11,I've definitely seen you before.,Gabe,0
+318,1,12,"Hey, why don't you go check your room? Lots of really good clues there.",Teddy,1
+319,1,13,I should get going.,Others,0
+320,1,14,See you tomorrow? - Bye.,Others,0
+321,1,15,Yeah.,Others,0
+322,1,16,Oh god.,Teddy,0
+323,1,17,Thanks a lot.,Teddy,0
+324,1,18,What did I do? He's been driving me home every day for the past two weeks.,Teddy,0
+325,1,19,I think he was finally going to ask me out Until you scared him off with all your talking And pointing and-- ugh.,Teddy,0
+326,1,20,"I'm sorry, but he looks familiar.",Gabe,0
+327,1,21,"Was he my camp counselor? No no no, he seemed afraid of me, But not that afraid of me.",Gabe,0
+328,1,22,Why would a totally hot guy like evan know you? What's wrong with me? Slegowart! You say things like 'slegowart.,Teddy,1
+329,1,23,"' No no, slegowart is a character in pokeo.",Gabe,0
+330,1,24,That's how I know evan-- from the game store.,Gabe,0
+331,1,25,Evan plays pokeo? That nerdy card game with those stupid cartoon creatures? No.,Teddy,0
+332,1,26,"Evan plays pokeo, the fantasy card game That requires a keen level of k*ll and strategy.",Gabe,1
+333,1,27,But why would evan play that? That's for little kids.,Teddy,0
+334,1,28,Wigimon is for little kids.,Gabe,0
+335,1,29,Pokeo is for nine and up.,Gabe,0
+336,1,30,"How is that possible? Now the cute hot guy is a secret nerd? Well, many of us in the world of fantasy card games Are considered quite attractive.",Teddy,0
+337,2,0,"( sighing ) - Mom's home! - Hey, honey! Hey, the banquet's tonight.",Bob,0
+338,2,1,Did you rent me a tux? - It's right over there.,Amy,0
+339,2,2,Okay.,Bob,0
+340,2,3,"Did you get me the one that makes me look like james bond? Yeah, honey, I got you the magic tux.",Bob,0
+341,2,4,"Mom, did you type my report? You know, because of my broken finger? - Yes, I typed your report.",Gabe,0
+342,2,5,What's it about? - The civil w*r.,Amy,0
+343,2,6,"What's my take? - Why don't you read it? - No, that's the teacher's job.",Gabe,1
+344,2,7,"Mom, I'm hungry.",PJ,0
+345,2,8,"Is there anything to eat? What's that thing filled with food right next to you? Dad? Hey, mom, could you help out With my school car wash on Saturday morning? Honey, that's my only day off work.",Amy,1
+346,2,9,Perfect.,Teddy,0
+347,2,10,So you're free.,Teddy,1
+348,2,11,"All right, bring your own chamois.",Teddy,0
+349,2,12,"Okay okay, stop.",Amy,0
+350,2,13,"I need five minutes of peace, please.",Amy,0
+351,2,14,That is a wonderful idea.,Bob,0
+352,2,15,You just sit there and relax.,Bob,0
+353,2,16,Thank you.,Amy,0
+354,2,17,"I'm not seeing the bow tie-- - oh my-- okay, come on.",Bob,0
+355,2,18,"Let's go, charlie.",Amy,0
+356,2,19,You're the only one who isn't annoying me right now.,Amy,1
+357,2,20,There's no cover page.,Gabe,1
+358,3,0,Boom.,Amy,0
+359,3,1,( cooing ) Where's my nose? That's my nose.,Amy,0
+360,3,2,That's great.,Amy,0
+361,3,3,What else do you know? Where's my ear? That's my ear.,Amy,0
+362,3,4,Where's my eye? Ow! Ow.,Amy,0
+363,3,5,Oh my gosh.,Amy,0
+364,3,6,"Wow, she got me.",Amy,0
+365,3,7,Ow.,Amy,0
+366,3,8,"What? Ow, charlie poked me in the eye.",Amy,0
+367,3,9,"Oh, I can't open my eye.",Amy,0
+368,3,10,"Bob, it really hurts.",Amy,0
+369,3,11,"Mom, maybe you should get it checked out.",Teddy,0
+370,3,12,"Teddy, I'm a nurse.",Amy,0
+371,3,13,I don't need you to tell me When I need to get something checked out.,Amy,0
+372,3,14,"Bob, I need to get this checked out.",Amy,1
+373,4,0,"Well, amy, it doesn't look like your cornea is scratched.",Others,0
+374,4,1,I'm going to prescribe some drops.,Others,0
+375,4,2,Wear this eyepatch overnight and you'll be good to go.,Others,0
+376,4,3,"You mean go, as in go home? Well, that's good news, isn't it? Well, home is where the cooking and cleaning And laundry and homework and husband and kids and-- ( crying ) I don't wanna go home.",Amy,0
+377,4,4,But there's nothing wrong with you.,Others,0
+378,4,5,"( crying continues ) - well, with your eye.",Others,1
+379,4,6,"Can't you just keep me overnight for observation? Amy, as a nurse you know that's not appropriate.",Amy,0
+380,4,7,This is not a hotel.,Others,0
+381,4,8,"You know what else isn't appropriate, dr.",Amy,0
+382,4,9,Meyers? Telling people you're working at the free clinic When you're really playing 18 holes At the denver country club.,Amy,1
+383,4,10,I think you'll enjoy room 207.,Others,1
+384,5,0,"Where's mom? Oh no, she didn't make it, did she? Your mom is going to be fine.",PJ,0
+385,5,1,"No, I'm talking about the meatloaf.",PJ,1
+386,5,2,"She didn't make it, did she? You know, the concern you have for the woman Who gave birth to you is overwhelming.",Bob,0
+387,5,3,She was going to wrap it in bacon.,PJ,0
+388,5,4,Really? Wait a minute.,Bob,0
+389,5,5,What am I thinking about? I've got my banquet tonight.,Bob,0
+390,5,6,"Hey, you wanna come with? Denver pest control association puts on quite a do.",Bob,0
+391,5,7,I don't know.,PJ,0
+392,5,8,Why not? Because I had trouble staying awake during that sentence.,PJ,1
+393,5,9,"Are you telling me you don't wanna see your old man Win the exterminator of the year award? Oh right, that award you think you're going to win every year, But you don't because murray always does.",Bob,0
+394,5,10,"Look, there is no way that the same guy - Can win every year.",Bob,0
+395,5,11,Why not? The same guy loses every year.,PJ,1
+396,5,12,"All right, you know what? Enough about murray.",Bob,0
+397,5,13,"Do you wanna see your father win the award or not? Murray's my dad? - ( knocking at door ) - teddy: Mom? Oh my-- How are you feeling? - Oh, a little better.",PJ,1
+398,6,0,Yeah? But I miss you and charlie and The others.,Amy,0
+399,6,1,I'm glad one of us is doing well.,Teddy,0
+400,6,2,That's nice.,Amy,0
+401,6,3,Thank you for coming.,Amy,1
+402,6,4,"Mom, I just got here.",Teddy,0
+403,6,5,Oh right.,Amy,0
+404,6,6,Ha.,Amy,0
+405,6,7,"Well, how are you? Well, actually there's this boy evan That I really like, but, um I found out something kind of disturbing about him.",Teddy,0
+406,6,8,He's into pokeo.,Teddy,0
+407,6,9,"Pokeo? That thing gabe likes? Well, honey, what would you see in a guy like that? Well, this is evan at a swim meet.",Amy,0
+408,6,10,"Yeah, that explains that.",Amy,0
+409,6,11,"Well, honey, no one's perfect.",Amy,0
+410,6,12,Everyone has their flaws.,Amy,0
+411,6,13,"You think I was thrilled when I found out your father was into bugs? But you got over it? Yeah, that's what I did-- got over it.",Amy,0
+412,6,14,"Look, honey, relationships are about compromise.",Amy,0
+413,6,15,"If you really like this guy, Try being interested in things he's interested in.",Amy,0
+414,6,16,On my second date with your father I threw out three facts about bark beetles.,Amy,0
+415,6,17,"Ha ha, the man was mine.",Amy,1
+416,6,18,"Well, I've taken up enough of your time.",Amy,0
+417,6,19,"Mom, didn't you get poked in the other eye? No no, it was-- it was this eye.",Teddy,0
+418,6,20,I'm pretty sure it was the other one.,Teddy,0
+419,6,21,No no no no.,Amy,0
+420,6,22,"Oh gosh, let mama rest, dear.",Amy,0
+421,6,23,Let mama rest.,Amy,0
+422,7,0,"( groans ) Okay, let's do this one more time.",Gabe,0
+423,7,1,I'm putting down my dragony card.,Gabe,0
+424,7,2,What's your counterattack? Um - Weepok? - Weepok? You played a weepok when you could have played a scalamaster? Scalamaster-- that's-- that's the octopus dude With the suction cup thingies? Vortexes.,Teddy,0
+425,7,3,They're called vortexes.,Gabe,0
+426,7,4,You know what? I can't work with you.,Gabe,0
+427,7,5,You have no respect for the mythical world of dort.,Gabe,0
+428,7,6,Oh no.,Teddy,0
+429,7,7,"Gabe, please, just give me one more chance.",Teddy,0
+430,7,8,Forget it.,Gabe,0
+431,7,9,Forget it.,Gabe,0
+432,7,10,This is hopeless.,Gabe,0
+433,7,11,You're right.,Teddy,0
+434,7,12,I feel like gasio going up against misrod.,Teddy,0
+435,7,13,Wait a minute.,Gabe,0
+436,7,14,That wasn't wrong.,Gabe,0
+437,7,15,It wasn't? - No no.,Teddy,0
+438,7,16,"Gasio would have no chance against misrod because? Because grass power is no match for volcano power? Yes yes yes! Wow, teachers really do make a difference.",Gabe,0
+439,8,0,( knocking at door ) - bob: Honey? Honey? Hey.,Bob,0
+440,8,1,"How are you feeling, sweetie? ( mumbles ) I've been better.",Amy,0
+441,8,2,"Well, I got something that's going to help cheer you up.",Bob,0
+442,8,3,"Tada! Exterminator of the year! You won? That is fantastic! Oh, honey, I'm so proud of you! I gave a great big speech and everything.",Amy,0
+443,8,4,"Aw, did you say something nice about me? - Of course I did.",Amy,0
+444,8,5,"P.J., he got the whole thing recorded on his phone.",Bob,0
+445,8,6,Show her the speech.,Bob,0
+446,8,7,"Yeah, let me see it.",Amy,0
+447,8,8,"Dad, can I speak to you outside for a second? - What? - Yeah.",PJ,0
+448,8,9,What the heck are you doing? - Go go go.,Bob,0
+449,8,10,You can't show mom that video.,PJ,0
+450,8,11,Why not? - Because you don't thank her.,PJ,0
+451,8,12,"Oh, that's ridiculous.",Bob,0
+452,8,13,You don't even mention her.,PJ,0
+453,8,14,Of course I did.,Bob,0
+454,8,15,Let's take a look.,PJ,0
+455,8,16,Okay.,Bob,0
+456,8,17,"Oh, man, where do I start? Oh yeah, in your face, murray! Huh? I want to-- You know what? I want to-- I want to thank my kids p.J., teddy, gabe, charlie, Who make me want to work so hard every day.",Bob,0
+457,8,18,"Oh, and how about a shout-out to all the bugs out there, huh? Without whom none of us would be here.",Bob,1
+458,8,19,"( laughs ) Most importantly I want to thank One very special lady tonight-- My waitress! Iris! Keep 'em comin', baby! I'm a winner! Wow, that's not good.",Bob,1
+459,8,20,Oh man.,Bob,0
+460,8,21,What am I gonna do? - You could tell mom the truth.,PJ,0
+461,8,22,Or? I could tell mom the truth? Or? We could sneak out of here and think of something later? Ding ding ding ding.,PJ,0
+462,9,0,Thanks again for giving me a ride.,Teddy,0
+463,9,1,Thanks again for waiting till my swim practice was over.,Others,0
+464,9,2,Thank me? Thank you.,Teddy,0
+465,9,3,"Same time tomorrow? - Yeah, sounds good.",Others,0
+466,9,4,All right.,Others,0
+467,9,5,"Hey, could you do me a favor And grab my keys out of my backpack? Sure.",Teddy,0
+468,9,6,"You have pokeo cards? Oh no, you weren't supposed to see those.",Others,0
+469,9,7,I'm so embarrassed.,Teddy,0
+470,9,8,Don't be.,Others,0
+471,9,9,I'm into pokeo too.,Others,0
+472,9,10,"Wait, what? I didn't want to say anything because I was afraid you'd think I was weird.",Others,0
+473,9,11,"Wait, yeah, that's why I didn't want to say anything to you.",Teddy,0
+474,9,12,My dream is to become a level-four card master And earn my gorgonic shield.,Teddy,0
+475,9,13,That's my dream.,Others,0
+476,9,14,"Wait, what? Will you go out with me? Does scalamaster have vortexes? Yeah.",Teddy,0
+477,10,0,"Are you sure this is going to work? Trust me, it's going to look exactly like your real acceptance speech.",Bob,0
+478,10,1,But you might want to move charlie.,PJ,0
+479,10,2,Huh? Oh okay.,Bob,0
+480,10,3,"Come here, sweetie.",Bob,0
+481,10,4,Come on.,Bob,0
+482,10,5,Let's help daddy deceive mommy.,Bob,0
+483,10,6,"Okay let's make some magic, bobby.",PJ,0
+484,10,7,Ready? - Yeah.,Bob,0
+485,10,8,Okay.,PJ,0
+486,10,9,Okay.,Bob,0
+487,10,10,On.,PJ,0
+488,10,11,"Action! Hey hey! Hey, okay, whoo.",Bob,0
+489,10,12,I have-- no.,Bob,0
+490,10,13,No no no.,Bob,0
+491,10,14,( stuttering ) I want to-- I want to thank my wife amy b.,Bob,0
+492,10,15,Duncan.,Bob,0
+493,10,16,Cut.,PJ,0
+494,10,17,"Dad, you are stiff as a board.",PJ,0
+495,10,18,Help me.,Bob,0
+496,10,19,Show me some emotion.,PJ,0
+497,10,20,Okay.,Bob,0
+498,10,21,"All right, action.",PJ,0
+499,10,22,( crying ) Thank you for this award.,Bob,0
+500,10,23,This is one of the great moments of my life.,Bob,0
+501,10,24,( ringing ) - cut.,PJ,0
+502,10,25,I gotta take this.,PJ,0
+503,10,26,"Hello? Oh no, I'm not doing anything.",PJ,0
+504,10,27,What's going on? Sorry I had to bring charlie on our first date.,PJ,0
+505,11,0,I kind of thought my mom would be out of the hospital by now.,Teddy,0
+506,11,1,Actually I'm excited you brought her.,Others,0
+507,11,2,She's going to make this even better.,Others,0
+508,11,3,"Yeah, what is this anyway? What are we doing? - We're going to larp.",Teddy,0
+509,11,4,Larp? 'larp' stands for 'live action role-play.,Others,0
+510,11,5,"' Anyone can play pokeo with cards, But when you put on the costumes and you act it out, It takes it to a whole new level.",Others,0
+511,11,6,"Oh, you're joking, right? Oh, you're not joking.",Teddy,1
+512,11,7,"Guys, this is teddy and charlie.",Others,0
+513,11,8,"Teddy and charlie, this is slugmar, Weepok, scalamaster, and gulagon.",Others,0
+514,11,9,You brought girls.,Others,0
+515,11,10,We've never had girls.,Others,0
+516,11,11,Okay.,Teddy,0
+517,11,12,"Well, since we're not really dressed For the whole larping thing, Charlie and I are just going to go sit over here while you guys play.",Teddy,0
+518,11,13,"Oh, no no no, don't worry.",Others,0
+519,11,14,I thought of everything.,Others,0
+520,11,15,And the best part is we're out in public.,Teddy,0
+521,12,0,"Oh, bad news, mom.",Gabe,0
+522,12,1,You got a b- on my civil w*r report.,Gabe,0
+523,12,2,Not your best work.,Gabe,0
+524,12,3,I'll try harder next time.,Amy,0
+525,12,4,"So, honey, ready to see my big speech? That I sh*t with my phone At the hotel The other night.",Bob,0
+526,12,5,Just hit 'play.,Bob,0
+527,12,6,"' - ( applause ) - thank you, thank you, thank you.",Bob,0
+528,12,7,"Thank you, denver pest control association.",Bob,0
+529,12,8,Not a very nice hotel this year.,Amy,0
+530,12,9,"Uh, it's budget cuts.",Bob,1
+531,12,10,"( clears throat ) You know, winning an award like this is incredible, But I'm already a winner Because of my wonderful wife amy.",Bob,0
+532,12,11,When I think about this amazing woman I get all emotional.,Bob,0
+533,12,12,"Wait, what is that? P.J., rewind.",Amy,0
+534,12,13,"There, pause.",Amy,0
+535,12,14,"Bob, what's going on? - All right, look ( sighs ) Honey, the truth is in all the excitement of that night With the award and the lights-- I don't know.",Bob,0
+536,12,15,I just-- I forgot to thank you.,Bob,0
+537,12,16,And then we made the tape to cover up the lie And I just-- I'm really really sorry.,Bob,0
+538,12,17,"Look, bob, I really-- I appreciate the effort, But why did you have to lie to me? I mean if we don't have honesty, What do we have here? What do we have here? Mom, according to your chart, It says there's nothing wrong with your eye And you should have gone home yesterday.",Amy,1
+539,12,18,"Hey, you wanna pretend the last minute of our lives never happened? What last minute? Our two peoples have been in conflict for many years.",Amy,1
+540,13,0,Boys: Mm.,Others,0
+541,13,1,Today the final battle begins.,Others,0
+542,13,2,"Chicapu is supposed to say, 'assume the positions And prepare for the gorgonic w*r.",Others,0
+543,13,3,"' - Charlie, say 'go.",Teddy,0
+544,13,4,' - go! Chicapu has spoken.,Charlie,0
+545,13,5,"Let the battle commence! - Wardart, come quick! - ( boy yelling ) Ha! Feel my wrath, you knaves! Never! Vengeance will be mine in the name of gorgon.",Others,0
+546,13,6,"Hey, evan, evan, what am I supposed to do? - Reality! - For crying out loud.",Teddy,0
+547,13,7,You can't call me by my human name.,Others,0
+548,13,8,I'm slegowart.,Others,0
+549,13,9,"I'm sorry, slegowart.",Teddy,0
+550,13,10,"No, now I'm evan.",Others,0
+551,13,11,"Okay, guys, we've been in reality for too long.",Others,0
+552,13,12,Game on! Ooh! I am wounded.,Others,0
+553,13,13,"Chicapu, you're a worthy adversary indeed.",Others,0
+554,13,14,"Quick, wardart, throw your fireball.",Others,0
+555,13,15,"No, not at me.",Others,0
+556,13,16,"No, not-- Ha ha, dead! You are dead.",Teddy,0
+557,13,17,"What is wrong with you? Well, you told me to throw it.",Teddy,0
+558,13,18,Not at me.,Teddy,0
+559,13,19,I'm out of the game now.,Teddy,0
+560,13,20,"Well, can't you just call backsies or something? Backsies? What are you, five? Oh, I'm five? You're the one running around the park Dressed like a giant frog.",Others,1
+561,13,21,( boys gasp ) I am a magic toad.,Others,0
+562,13,22,"Yes yes, you are, Which means I must now leave The mythical land of nerdingham, For I have lost interest No matter how good thou looketh in a swimsuit.",Teddy,1
+563,13,23,"Chicapu, away! Come here, you.",Teddy,0
+564,13,24,Okay.,Teddy,0
+565,13,25,So you brought that girl here on a date? Yeah.,Others,0
+566,13,26,So it's almost as if I were on a date.,Others,1
+567,14,0,"Hey, charlie.",Teddy,0
+568,14,1,"Listen, when you get to be my age, Don't pretend to be someone you're not just to impress a guy.",Teddy,0
+569,14,2,I just learned that.,Teddy,0
+570,14,3,"I also learned that if you walk home from the park Dressed like a giant chicken, You're going to be chased by a dog.",Teddy,0
+571,14,4,"Hey, did you touch my pokeo cards? - No.",Gabe,0
+572,14,5,Liar! There's a bent corner on my slugmar card.,Gabe,0
+573,14,6,"Mom! Oh, one more thing.",Teddy,0
+574,14,7,"If you fall for a guy with something in common with gabe, Good luck, charlie.",Teddy,1
+575,15,0,"( doorbell rings ) - Lewis! - Hello, mr.D.",Others,0
+576,15,1,Come on in.,Bob,0
+577,15,2,"Hey, teddy, lewis is here.",Bob,0
+578,15,3,"Actually I came here to talk to you, bob.",Others,0
+579,15,4,Can I call you bob? - Can you? It would be my pleasure.,Bob,0
+580,15,5,"Well, bob, as you know I've been spending a lot of time with teddy And things are going very well.",Others,0
+581,15,6,And amy and I are absolutely thrilled about that.,Bob,0
+582,15,7,"My future is bright, sir.",Others,0
+583,15,8,I have a good part-time job at the comic book store.,Others,0
+584,15,9,I own my own bike.,Others,0
+585,15,10,I think I know where this is headed.,Bob,0
+586,15,11,I guess what I'm trying to say is I'd like your permission to ask teddy To be my g-girlfriend.,Others,0
+587,15,12,"Welcome to the family, son.",Bob,0
+588,15,13,"( mouths word ) Reality! Well, thank you for the larp, mr.",Others,1
+589,15,14,Duncan.,Others,0
+590,15,15,"Just go wash the car, lewis.",Bob,0
+591,15,16,"Yes, sir.",Others,0

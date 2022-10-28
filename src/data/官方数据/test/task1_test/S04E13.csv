@@ -1,0 +1,307 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker
+6610,1,0,"[Music] Hey, girls.",Amy
+6611,1,1,Whatcha you doing? Oh we're making a list of all the fun things we want to do together before we go to college.,Teddy
+6612,1,2,"Kind of like a bucket list except instead of dying, we're graduating.",Skyler
+6613,1,3,Oh okay.,Amy
+6614,1,4,"Well, what do you have so far? The word 'list'.",Amy
+6615,1,5,I came up with that.,Skyler
+6616,1,6,I have the perfect idea for you girls.,Amy
+6617,1,7,"How about you take a ride in a hot-air balloon? Ooh, that sounds good.",Amy
+6618,1,8,Yup.,Amy
+6619,1,9,"Then again, I am afraid of heights.",Skyler
+6620,1,10,And I'm not crazy about balloons.,Teddy
+6621,1,11,"Okay, how about watching the sunrise from the top of Pike's Peak.",Amy
+6622,1,12,"Oh, I've always wanted to do that.",Teddy
+6623,1,13,Of course we'd have to get up pretty early.,Skyler
+6624,1,14,And I bet it's cold up there.,Teddy
+6625,1,15,"Okay, why don't you two come up with something? Road trip.",Amy
+6626,1,16,[Excited] Road trip.,Skyler
+6627,1,17,That's sounds like fun.,Teddy
+6628,1,18,Done.,Skyler
+6629,1,19,Take a break? ,Skyler
+6630,1,20,Take a break.,Teddy
+6631,2,21,"Hey, neighbors.",Bob
+6632,2,22,To what do we owe the honor? We came over because we have some exciting news.,Bob
+6633,2,23,"Yeah, we're getting married.",others
+6634,2,24,"Didn't you two just start dating? At our age, you don't waste time.",others
+6635,2,25,"Wow, well, congratulations and, you know, many happy years.",Bob
+6636,2,26,"Yeah, hold on.",others
+6637,2,27,"Hey, listen, R.J.",others
+6638,2,28,P.J.,PJ
+6639,2,29,"Yeah, yeah, yeah, whatever.",others
+6640,2,30,I want you to be my best man.,others
+6641,2,31,"Me? Why me? Well, because you're my closest friend You know, who's living.",others
+6642,2,32,Oh.,PJ
+6643,2,33,"Yeah, as you are mine Should something terrible happen to all my friends.",PJ
+6644,2,34,"And, Bob, we'd love it if you would perform the ceremony.",others
+6645,2,35,Me? You can be certified online.,others
+6646,2,36,I looked into it.,others
+6647,2,37,Yeah We figured you'd be the right choice since we're having the wedding in your house.,others
+6648,2,38,Excuse me? We wanted to have a destination wedding.,others
+6649,2,39,"Yeah, so we thought 'across the street' Is the perfect destination.",others
+6650,2,40,So what do you say? ,others
+6651,2,41,"Eh, well ",others
+6652,2,42,Thanks.,others
+6653,2,43,That means an awful lot to us.,others
+6654,2,44,"Thanks, Bob.",others
+6655,2,45,What just happened here? I'm not sure.,Bob
+6656,2,46,We got to stop answering that door.,Bob
+6657,3,47,"Hey, Charlie.",Gabe
+6658,3,48,Have you seen Mom? ,Gabe
+6659,3,49,No.,Charlie
+6660,3,50,Good.,Gabe
+6661,3,51,Ah! I see her now.,Charlie
+6662,3,52,"Hey, Mom.",Gabe
+6663,3,53,"What's all this? Oh, um, I'm going to go play catch with Jake.",Amy
+6664,3,54,In a uniform? We take catch pretty seriously.,Gabe
+6665,3,55,Are you playing baseball behind my back? Not anymore.,Amy
+6666,3,56,"Why would you do that? Because, Mom, every time you watch me play, you yell, you scream, and get totally out of control.",Gabe
+6667,3,57,That doesn't sound like me.,Amy
+6668,3,58,"Yes, it does.",Charlie
+6669,3,59,I can't believe you're playing secret baseball.,Amy
+6670,3,60,It's only a secret to you.,Gabe
+6671,3,61,See ya.,Gabe
+6672,3,62,"Charlie, honey, you'd never play a sport behind my back, would you? ",Amy
+6673,3,63,"No, Mommy.",Charlie
+6674,3,64,That's my girl.,Amy
+6675,3,65,"Hey, Charlie, you ready for T-ball practice? Hey! ",Bob
+6676,4,66,[Doorbell rings] ,
+6677,4,67,"Hey, Ivy, what's up? So my dad, he just bought this new R.V.",Teddy
+6678,4,68,"Would you mind checking it out, make a big deal about how cool it is? It would really make his day.",Ivy
+6679,4,69,T? ,Ivy
+6680,4,70,Sorry.,Teddy
+6681,4,71,I was just remembering something my dad said about not answering the door.,Teddy
+6682,5,72,"Welcome aboard, Teddy.",others
+6683,5,73,I'm Captain Harry and the pilot of this vessel.,others
+6684,5,74,I believe you know my copilot.,others
+6685,5,75,"Ahoy, Teddy.",others
+6686,5,76,"Oh, wow, Mr.Wentz.",Teddy
+6687,5,77,This is fantastic.,Teddy
+6688,5,78,"You know, it's a home that has a motor.",Teddy
+6689,5,79,And it's recreational But it's also a vehicle.,Teddy
+6690,5,80,"And ain't she a beauty? Ivy, give Teddy the tour.",others
+6691,5,81,Sure.,Teddy
+6692,5,82,Ivy: All right.,Ivy
+6693,5,83,"This is the kitchen, dining room, living room You should check out how comfy the seats are.",Ivy
+6694,5,84,Yeah.,Teddy
+6695,5,85,Mm-hmm.,Teddy
+6696,5,86,"[Seatbelt clicks] Okay, dad.",Ivy
+6697,5,87,Let's go.,others
+6698,5,88,"[Engine starts] What's going on? Remember the road trip we wanted to take? We're on it! Okay, boys, your dad is about to become a wedding officiant.",Ivy
+6699,6,89,"Okay, I hope this isn't too complicated.",Bob
+6700,6,90,'Name'.,Bob
+6701,6,91,[Typing] 'Email address'.,Bob
+6702,6,92,Ordain me'.,Bob
+6703,6,93,[Harps play] ,Bob
+6704,6,94,[Doorbell rings] ,others
+6705,6,95,"I'll get it, dad.",PJ
+6706,6,96,Hey! Reverend Bob.,Bob
+6707,6,97,"Hey, we're here for the bachelor party.",others
+6708,6,98,What bachelor party? The one you're throwing.,PJ
+6709,6,99,You're my best man.,others
+6710,6,100,It's part of the job.,others
+6711,6,101,"Okay, well, come on in.",PJ
+6712,6,102,This is Arnie.,others
+6713,6,103,We work together at The Post Office.,others
+6714,6,104,[Heavy accent] I was told there would be food.,others
+6715,6,105,"Okay, well, uh You guys go on downstairs and I'll put something together.",PJ
+6716,6,106,"Hey, come on, Bob.",others
+6717,6,107,Me? ,Bob
+6718,6,108,Yeah.,others
+6719,6,109,Four's a party.,others
+6720,6,110,Three's just sad.,others
+6721,6,111,"Four can be sad, too.",Bob
+6722,7,112,You ever think my parents might wonder where I am? They know exactly where you are.,Teddy
+6723,7,113,Your Mom even packed your bag.,Ivy
+6724,7,114,"You know what? I'm making a new list, and you and my Mom are on it.",Teddy
+6725,7,115,"Come on, T, it's gonna be fun.",Ivy
+6726,7,116,"Where are we going, anyway? Las Vegas.",Teddy
+6727,7,117,"Oh, I love Vegas! Hey, Mr.Wentz, how long until we get to Las Vegas? Oh, hard to say.",Teddy
+6728,7,118,Depends on how much time we spend at the mystery stop.,others
+6729,7,119,"We're making a mystery stop? Oh, I love Harry's mystery stops.",others
+6730,7,120,Sometimes they're better than the final destination.,others
+6731,7,121,"Ooh, I just got tingly! Did you girls get tingly? We might as well get comfortable.",others
+6732,7,122,She's gonna be tingly for a while.,Ivy
+6733,8,123,"Hey, Mom.",Gabe
+6734,8,124,"Hello, Gabriel.",Amy
+6735,8,125,How was your baseball game? It was great.,Amy
+6736,8,126,"We won Huh, that sounds like something a parent might enjoy seeing.",Amy
+6737,8,127,"Mom, how long is this gonna go on? How long is baseball season? Look, okay, I admit that in the past, I may have gotten a little Animated.",Gabe
+6738,8,128,But a person can change.,Amy
+6739,8,129,"Yeah, sure, a person can change, but what about you? Look, if you let me go to your game I promise, that I will be so quiet you won't even know that I'm there.",Amy
+6740,8,130,"[Sighs] What do you think, Toby? Should I trust her? No.",Gabe
+6741,8,131,Don't listen to him.,Amy
+6742,8,132,He's one.,Amy
+6743,8,133,And yet he's probably right.,Gabe
+6744,9,134,So We've played Pinochle.,PJ
+6745,9,135,"Now what do you guys want to do? You tell us, best man.",PJ
+6746,9,136,[Loudly whispers] He should have planned more activities.,others
+6747,9,137,He's dropping the ball.,others
+6748,9,138,"Just so you know, old guy whispering is just like young guy talking.",PJ
+6749,9,139,[Loudly whispers] Your best man has a lot of tude.,others
+6750,9,140,"Well, I better get upstairs and make some more sandwiches.",PJ
+6751,9,141,"Uh, you need some help with that? No, you come up with your own excuse.",PJ
+6752,9,142,"So you You guys were postal workers, huh? Exterminator.",Bob
+6753,9,143,[Loudly whispers] He's more boring than the son.,others
+6754,10,144,[Reading] 'Right lane ends'.,Ivy
+6755,10,145,'Watch for falling rocks'.,Ivy
+6756,10,146,Are you gonna read every road sign? This is how I keep my sanity on these trips.,Teddy
+6757,10,147,'Exit 29B'.,Ivy
+6758,10,148,[Radio static] This is Mama Bear cruising down the highway with a couple of cubbies and a hubby-wubby on our way to a mystery stop.,others
+6759,10,149,Come on back.,others
+6760,10,150,This is Mama Bear.,others
+6761,10,151,"Anybody have their ears on? [Distorted crackle, muffled speech] Sounds like we got a mud duck.",others
+6762,10,152,"Affirmative to that, hubby-wubby.",others
+6763,10,153,"That's C.B.lingo, Teddy.",others
+6764,10,154,What I said was 'sounds like he's got a weak signal'.,others
+6765,10,155,"And I responded 'I agree, husband'.",others
+6766,10,156,'Speed limit; 70'.,Ivy
+6767,10,157,"[Music] You're not peeking, now are you, Mary Lou? Oh no! I wouldn't spoil a mystery stop.",others
+6768,10,158,All right.,others
+6769,10,159,Open your eyes.,others
+6770,10,160,Welcome to the four corners.,others
+6771,10,161,"Four corners of what? Ivy, this is the only place in the whole country where four states connect at one single point.",others
+6772,10,162,"Arizona, Utah, Colorado, and New Mexico.",others
+6773,10,163,"Oh, Harry! Oh, you've done it again! I know.",others
+6774,10,164,It doesn't get much more exciting than this.,others
+6775,10,165,"Ivy, could I talk to you for a second? Sure, which state would you like to see me in? ",Teddy
+6776,11,166,Bob: Hey! How are the sandwiches coming? Couple more minutes.,Bob
+6777,11,167,[Doorbell rings] ,others
+6778,11,168,[Tv turns off] ,others
+6779,11,169,"Hey, Mrs.Dobbs.",PJ
+6780,11,170,What are you doing here? - I have to talk to you.,others
+6781,11,171,"Is everything okay? Oh, P.J., I have to confess a terrible secret.",others
+6782,11,172,"You see, I was married before.",others
+6783,11,173,"Well, that's not that much of a secret since your name is 'Mrs.Dobbs'.",PJ
+6784,11,174,Let me finish.,others
+6785,11,175,Mm hmm.,others
+6786,11,176,"My first husband did all the cooking, so I never learned how.",others
+6787,11,177,But Bert raves about your cooking.,PJ
+6788,11,178,"That's because I secretly order takeout, and then serve it as if I made it myself.",others
+6789,11,179,"Oh, hey, my Mom used to do that Back when she still cared.",PJ
+6790,11,180,I came over because I know you're going to cooking school and I was hoping you could teach me a few things.,others
+6791,11,181,"Sure, I'd be glad to give you a few lessons.",PJ
+6792,11,182,I just hope Bert doesn't see me come over here.,others
+6793,11,183,"Well, if he does [snaps] You just tell him I'm teaching you how to tap dance.",PJ
+6794,11,184,Yeah.,others
+6795,11,185,I'll think of something.,others
+6796,12,186,"Smile, Teddy! Mrs.",Teddy
+6797,12,187,"Wentz, if you want me to smile, you might want to, stand in front of the part of me that smiles.",Teddy
+6798,12,188,[Shutters click] ,others
+6799,12,189,Got it.,others
+6800,12,190,"Oh, how's the weather in Arizona, Mary Lou? Well, it's sunny and oh, Harry! Gotcha! Well, this was Can we get going now? Right you are, Ivy.",others
+6801,12,191,"Onto our final destination, Las Vegas, New Mexico.",others
+6802,12,192,"Um, you mean Nevada.",Teddy
+6803,12,193,"Oh, no, no, no, no.",others
+6804,12,194,That Las Vegas has been done to death.,others
+6805,12,195,"We're going to Las Vegas, New Mexico.",Teddy
+6806,12,196,"There's a Las Vegas, New Mexico? The original.",Teddy
+6807,12,197,"Uh, I thought we were going to the one with the spas, the pools and the shopping.",Teddy
+6808,12,198,"What's in Las Vegas, New Mexico? The rough-rider museum.",others
+6809,12,199,The world's largest cactus.,others
+6810,12,200,"Ivy, did you know about this? I don't recall.",Teddy
+6811,12,201,Really? Because I'll tell you what I recall.,Teddy
+6812,12,202,"First, you came up with the idea for the road trip, then you lured me into the R.V., and then you conveniently left out the crucial 'New Mexico' part about Las Vegas, New Mexico.",Teddy
+6813,12,203,"Ivy, you didn't tell Teddy we were going to New Mexico? She didn't tell me we were leaving the driveway.",others
+6814,12,204,"Harry, if Teddy doesn't want to be on this trip, we should go home.",others
+6815,12,205,What?! No Rough Riders? No big cactus? We can come back another time.,others
+6816,12,206,"Come on, honey.",others
+6817,12,207,"Dad, what are you doing? Seeing what it feels like to have my heart broken in four states.",Ivy
+6818,12,208,[Applause] ,others
+6819,12,209,[Deep calming breathes] ,others
+6820,12,210,"Why you doing that? Because bases are loaded, and Gabe is up to bat, and I promised I'd stay calm.",Charlie
+6821,12,211,Strike one! ,others
+6822,12,212,"What?! Are you out of your Zip code? Because if you are, welcome to the neighborhood.",Amy
+6823,12,213,"Strike two! You stink, ump.",Charlie
+6824,12,214,What? It was Charlie.,Amy
+6825,12,215,I thought you weren't gonna tell your Mom you were playing.,others
+6826,12,216,"Yeah, I gave it my best sh*t.",Gabe
+6827,12,217,Strike three! What?! Are you kidding me?! ,Amy
+6828,12,218,On what planet is that considered a strike? You are the sorriest excuse for an ump I've ever seen! You think you can do better? ,Amy
+6829,12,219,Yeah.,Amy
+6830,12,220,Fine.,others
+6831,12,221,I thought you changed.,Gabe
+6832,12,222,I did Then I changed back.,Amy
+6833,12,223,Thank you.,Amy
+6834,13,224,Now this Is what we call a spoon.,Gabe
+6835,13,225,"Say it with me now, 'spoon'.",Gabe
+6836,13,226,Can we speed this up? The wedding's tomorrow.,others
+6837,13,227,"Hey, what's going on here? A five, six, seven, eight.",Gabe
+6838,13,228,"[Tapping] I came over to give my best man the rings, but it seems like there's something going on here.",others
+6839,13,229,"Bert, there's something I have to confess.",others
+6840,13,230,I I can't cook.,others
+6841,13,231,You've been lying to me all this time? I'm sorry.,others
+6842,13,232,"Well, sorry's not good enough.",others
+6843,13,233,The wedding's off.,others
+6844,13,234,This is awful.,others
+6845,13,235,What am I going to do? ,others
+6846,13,236,[Timer dings] ,others
+6847,13,237,"Oh, I have an idea.",PJ
+6848,13,238,"That was just the timer, but I do have an idea.",PJ
+6849,13,239,"Bert, wait.",PJ
+6850,13,240,"Wait, Bert.",PJ
+6851,13,241,You're making a huge mistake.,PJ
+6852,13,242,My mind's made up.,others
+6853,13,243,She lied to me and I can't forgive that.,others
+6854,13,244,"Come on, everyone makes mistakes.",PJ
+6855,13,245,Did she lie? Yes.,PJ
+6856,13,246,Did that hurt the trust? Yes.,PJ
+6857,13,247,Am I bad at these kinds of speeches? Yes.,PJ
+6858,13,248,"But but But, Bert, there's a woman in there who is learning how to cook just for you.",PJ
+6859,13,249,Now who else is gonna go to that much trouble to make you happy? ,PJ
+6860,13,250,"[Door opens] That's all I ever wanted, Bert; To make you happy.",others
+6861,13,251,You can't cook anything? I can boil a hot dog.,others
+6862,13,252,"Well, okay, the wedding's back on.",others
+6863,14,253,Ivy: T I'm so sorry I tricked you.,Ivy
+6864,14,254,I just really wanted you to come along.,Ivy
+6865,14,255,"Everything's more fun when you're around, always has been ever since kindergarten.",Ivy
+6866,14,256,We met in preschool But go on.,Teddy
+6867,14,257,I just wanted to spend some time with you.,Ivy
+6868,14,258,We're both going away to different colleges soon and things are gonna change.,Ivy
+6869,14,259,"Well, Ivy, we're always gonna be best friends.",Teddy
+6870,14,260,"I know, but It won't be the same.",Teddy
+6871,14,261,[Sighs] I'm gonna miss you so much.,Teddy
+6872,14,262,"I'm gonna miss you too, T.",Ivy
+6873,14,263,"And just so you know, everything's more fun when you're around too.",Teddy
+6874,14,264,"This last day was a bad example, but generally speaking.",Teddy
+6875,14,265,"Believe it or not, I'm even gonna miss them.",Teddy
+6876,14,266,"Mama Bear, this is Teddy Bear.",Teddy
+6877,14,267,Come on back.,Teddy
+6878,14,268,"This is Mama Bear, over.",others
+6879,14,269,"Teddy Bear would like to do a little flippity-flop on the whole Las Vegas thing, over.",Teddy
+6880,14,270,"Teddy Bear, are you saying what I think you're saying? We're going to Las Vegas, New Mexico! Copy that.",others
+6881,15,271,"Play ball! Hey, batter, batter, batter! Hey, batter, batter, batter, batter! ",Amy
+6882,15,272,Hey ,Amy
+6883,15,273,"Mom, Mom, the umpire doesn't chatter.",Gabe
+6884,15,274,"Sorry, I just really like that part.",Amy
+6885,15,275,"Strike one! Hey, what are you looking at? I'll run you out of here so fast it'll make your head spin.",Amy
+6886,15,276,At least you don't have to go home with her.,others
+6887,15,277,"No, no, no, too low! Downstairs! Ball one! You stink, ump.",Charlie
+6888,15,278,"Sweetheart, no, not now.",Amy
+6889,15,279,Mommy's the ump.,Amy
+6890,15,280,I know.,Charlie
+6891,16,281,"Well, Charlie, I went to Las Vegas New Mexico.",Teddy
+6892,16,282,"And I'd tell you all about the trip, but as they say, what happens in Vegas Is nothing.",Teddy
+6893,16,283,"But it doesn't matter because I was with my best friend, which means we had a lot of fun.",Teddy
+6894,16,284,"Oh, hey, check this out.",Teddy
+6895,16,285,So by the power vested in me by the website 'Five Minute Minister'.,Bob
+6896,16,286,I pronounce you husband and wife.,Bob
+6897,16,287,[Sniffles] ,Bob
+6898,16,288,I'm always a wreck at these things.,PJ
+6899,16,289,"[Loudly blows nose] Well, just a Just another Duncan-family living-room wedding between people we barely know.",Teddy
+6900,16,290,"Wish them good luck, Charlie.",Teddy
+6901,17,291,[Music] You know what? All this wedding stuff has really got me thinking.,Bob
+6902,17,292,You and I should go off on that second honeymoon.,Bob
+6903,1,293,"You know, the one we're always talking about.",Bob
+6904,1,294,You mean Paris? Where else? You have got to be kidding me.,Amy
+6905,1,295,"Paris, Texas?! Oh, yeah.",Bob
+6906,1,296,What Paris we're you thinking of? ,Bob
+6907,1,297,The one in France! ,Amy
+6908,1,298,Oh! That's been done to death.,Bob
+6909,1,299,This is where it's at.,Bob
+6910,1,300,"Oh, come on.",Bob
+6911,1,301,"Who's gonna choose this place over France? Howdy, partners.",Amy
+6912,1,302,We didn't know that you were such world travelers.,others
+6913,1,303,"Hey of you want to join us, our next stop is Athens.",others
+6914,1,304,Georgia? - Where else? Greece.,others
+6915,1,305,Greece is where else.,Amy

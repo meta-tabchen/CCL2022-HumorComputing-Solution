@@ -1,0 +1,303 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+0,1,0,"Well, Charlie, today is a very special day.",Teddy,0
+1,1,1,It's your first birthday! The whole family's excited to celebrate.,Teddy,0
+2,1,2,"Happy Birthday, sweetie.",Amy,0
+3,1,3,"I love you, baby girl.",Bob,0
+4,1,4,You're the best.,PJ,0
+5,1,5,I'm just here for the cake.,Gabe,0
+6,1,6,"Well, four out of the five Duncans are excited.",Teddy,0
+7,1,7,"Okay, who wants to give Charlie - Her first present? - Oh, I do, I do! ",Amy,0
+8,1,8,I think p.J. wants to go first.,Amy,0
+9,1,9,"Okay, you know how you said she needed something to sleep in? Well Get it? P.J.'s pjs.",PJ,0
+10,1,10,"Pretty cool, huh, dad? - Yeah, they're great.",PJ,0
+11,1,11,"I'm glad you like them-- because there was a two-for-one deal Happy early birthday, dad.",PJ,0
+12,1,12,"Boy, those are gonna be tough to regift.",Teddy,1
+13,1,13,"Your turn, Gabe.",Bob,0
+14,1,14,It's in the brown bag on the table.,Gabe,0
+15,1,15,"Oooh, nice presentation.",Bob,0
+16,1,16,"'die, zombies, die'? Hey, you're never too young to learn how to k*ll zombies.",Gabe,1
+17,1,17,"Okay, I'm next.",Teddy,0
+18,1,18,"All right, let's see what we have here.",Amy,0
+19,1,19,So pretty.,Amy,0
+20,1,20,"Oh, baby.",Amy,0
+21,1,21,"Teddy, that is so sweet.",Amy,0
+22,1,22,"Well, it's no 'die, zombies, die.",Teddy,1
+23,1,23,"' Hey, that's the picture we took the day Charlie was born.",PJ,0
+24,1,24,"What a crazy day, huh? - It didn't start out that way.",Amy,0
+25,1,25,I remember how excited I was to be carrying my little bundle of joy.,Amy,0
+26,2,0,"Oh, I can't wait to get this thing out of here! You heard her-- get out.",Amy,1
+27,2,1,She's talking about the baby.,Gabe,0
+28,2,2,"Right, mom? Whoa, what is that smell? ",PJ,0
+29,2,3,I'm pregnant. I have gas.,Amy,0
+30,2,4,Deal with it.,Amy,0
+31,2,5,"No, not that.",PJ,0
+32,2,6,It's worse.,PJ,0
+33,2,7,"No, actually that smell is coming from your lunch.",Teddy,0
+34,2,8,Dad made his famous egg salad for your fishing trip today.,Teddy,0
+35,2,9,Egg salad? Even the fish hate the smell of that.,PJ,1
+36,2,10,And they smell like fish.,PJ,0
+37,2,11,"Hey, p.J., you ready to go have some fun? Yeah, but I have to go fishing with you.",Bob,0
+38,2,12,"Oh, hey, dad, can you drop me off at school? Ivy and I are doing our children's theater thing today - And we need to get into costumes.",Teddy,0
+39,2,13,Sure.,Bob,0
+40,2,14,"Oh, and, Gabe, if you're not doing anything you can come see it.",Teddy,0
+41,2,15,"I wrote it, you know? It's a delightful fable About people from different worlds Who overcome their differences and become friends.",Teddy,0
+42,2,16,Wow You actually made the fishing trip sound fun.,Gabe,1
+43,3,0,A little more.,Amy,0
+44,3,1,And one for good luck.,Amy,0
+45,3,2,"Oh oh! Really? Can't you at least wait until I finish my waffle? Okay, we'll do it your way.",Amy,1
+46,3,3,"Bob, honey, it's time.",Amy,0
+47,3,4,The baby's coming.,Amy,0
+48,3,5,What?! You're not due for another three weeks.,Bob,0
+49,3,6,I'm in the middle of the lake.,Bob,0
+50,3,7,Would you please just calm down? I've done this three times already.,Amy,0
+51,3,8,I can do it a fourth.,Amy,0
+52,3,9,"And just so we're clear, there will not be a fifth.",Amy,0
+53,3,10,"PJ, we've got to get to the hospital.",Bob,0
+54,3,11,"No no no, you can't stand up in the canoe.",Bob,0
+55,3,12,"Why not? - Becau-- Hi, um, this is Amy Duncan.",Amy,0
+56,3,13,I'm calling for Dr.Singh.,Amy,0
+57,3,14,"Yes, could you please let him know that I have gone into labor? And to meet me at the hospital? Okay, thank you very much.",Amy,0
+58,3,15,Bye-bye.,Amy,0
+59,3,16,"Okay, we're gonna do this barefoot.",Amy,0
+60,3,17,Let's go have a baby.,Amy,0
+61,3,18,Mom! Hello? Is anyone home? Then no one can tell me not to do this.,Gabe,0
+62,3,19,Mmm! Mmm.,Gabe,0
+63,4,0,"Okay, I tipped over the boat.",PJ,0
+64,4,1,"How many times can I say I'm sorry? We've got a 45-mile drive to the hospital, I guess we'll find out.",Bob,0
+65,4,2,"Is that a bear? - In the truck? How'd he get in there? I don't know, son.",Bob,0
+66,4,3,Why don't you ask him? - How do we get him out? - We don't.,Bob,0
+67,4,4,He's the bear.,Bob,0
+68,4,5,He makes the decisions.,Bob,0
+69,4,6,"Dad, you're an exterminator.",PJ,0
+70,4,7,You should deal with this.,Bob,0
+71,4,8,I will-- when he loses 600 lbs and fits in a mousetrap.,Bob,1
+72,4,9,How are we gonna get to the hospital? Start walking.,PJ,0
+73,4,10,"Come on, let's go.",Bob,0
+74,4,11,"Oh, man! He ate all the egg salad sandwiches.",Bob,0
+75,4,12,"Oh, yes! I love that bear.",PJ,1
+76,5,0,"Oh, good, Halloween's come early this year.",Others,1
+77,5,1,Who are you two supposed to be? I'm Frankenstein and she's Gretel.,Teddy,0
+78,5,2,It's for a play I wrote.,Teddy,0
+79,5,3,I don't get it.,Others,0
+80,5,4,Neither did the audience.,Ivy,0
+81,5,5,"What are you talking about? No, the kids loved it.",Teddy,0
+82,5,6,Are you out of your flat head? It was a disaster.,Ivy,1
+83,5,7,Then why were they cheering? - Because we had to leave early.,Teddy,1
+84,5,8,We're here to see Amy Duncan.,Teddy,0
+85,5,9,Right in there.,Others,0
+86,5,10,When Hansel and Dracula get here I'll send them in.,Others,1
+87,6,0,"Hey, mom.",Teddy,0
+88,6,1,"Hi, Frankenstein.",Amy,0
+89,6,2,Hi-- I had the same reaction when I saw this wig.,Ivy,0
+90,6,3,Contraction.,Amy,0
+91,6,4,"Are you okay? - Super, great.",Amy,0
+92,6,5,Couldn't be better.,Amy,0
+93,6,6,All my ducks are in a row And everything's under control.,Amy,0
+94,6,7,So where's Gabe? I guess I left one of my ducks at home.,Amy,1
+95,6,8,"Wait, Gabe's home alone? Oh, that is not good.",Teddy,0
+96,6,9,"Gabe, you okay? I'm awesome! Hey, check it out.",Bob,0
+97,7,0,"Hey hey, anybody here? - Dad, what are you doing? - P.J., we've got to get to the hospital.",Bob,0
+98,7,1,I'm just gonna see if I can hotwire one of these things.,Bob,0
+99,7,2,"Uh, dad! - You trying to steal our bikes? Not steal-- hotwire.",PJ,0
+100,7,3,"No, look look look, before you do something you might regret, There is a perfectly good explanation.",Bob,0
+101,7,4,And I'd love to hear it Right after I gut you like a fish.,Others,0
+102,7,5,You want your big kn*fe or your really big kn*fe? Surprise me.,Others,0
+103,8,0,"Boy, Charlie's really loving her birthday cake.",Teddy,0
+104,8,1,I know.Isn't it adorable? ,Amy,0
+105,8,2,When she does it it's adorable.,Gabe,0
+106,8,3,When I do it it's wrong.,Gabe,0
+107,8,4,And that's because we were at a restaurant and it wasn't your cake.,Teddy,1
+108,8,5,"Come on, let's get back to the story.",PJ,0
+109,8,6,Did the bikers gut you like a fish? - You were there.,PJ,0
+110,8,7,"Oh, right.",PJ,0
+111,8,8,"All right, anyway, bikers were coming on strong, I had to come back stronger.",Bob,0
+112,9,0,Please don't hurt us.,Bob,0
+113,9,1,Please don't hurt us.,Bob,0
+114,9,2,Give us one good reason why we shouldn't.,Others,0
+115,9,3,Because it would hurt.,Bob,1
+116,9,4,"Look look look, you don't understand.",Bob,0
+117,9,5,My wife is having a baby and there's a bear in our truck.,Bob,0
+118,9,6,That's why I'm trying to borrow the bike.,Bob,0
+119,9,7,I can't-- I can't miss the birth of my child.,Bob,0
+120,9,8,That's beautiful.,Others,0
+121,9,9,We gotta help these people get to the hospital.,Others,0
+122,9,10,He hasn't been the same since he took up needlepoint.,Others,0
+123,9,11,"Oh, thank you.",Bob,0
+124,9,12,Thank you so much for helping us out.,Bob,0
+125,9,13,"By the way, I'm Bob.",Bob,0
+126,9,14,This is my son p.J.,Bob,0
+127,9,15,We're mad dog and Francis.,Others,0
+128,9,16,"Good to meet you, mad dog.",Bob,0
+129,9,17,I'm Francis.,Others,0
+130,9,18,She's mad dog.,Others,0
+131,9,19,My real name's Shirley.,Others,0
+132,9,20,If you call me that You'll gut him like a fish? You catch on real fast.,Others,0
+133,10,0,"Mrs.D., can you keep it down a little bit? I'm trying to win concert tickets.",Ivy,0
+134,10,1,Where is he? I'm starting to get worried.,Amy,0
+135,10,2,"Okay, mom, relax.",Teddy,0
+136,10,3,I'm sure dad's going to be here soon.,Teddy,0
+137,10,4,Dad?! Who cares about dad? I'm talking about Dr.Singh.,Amy,0
+138,10,5,He's delivered all my children.,Amy,0
+139,10,6,"And, lady, I am not having this baby without him.",Amy,0
+140,10,7,"Frankenstein, can I talk to you a minute? Yep.",Others,0
+141,11,0,Dr.Singh's not here.,Others,0
+142,11,1,Not yet? Not at all.,Others,0
+143,11,2,He's taking a personal day.,Others,0
+144,11,3,It's his son's birthday.,Others,0
+145,11,4,So you mean he's not gonna be here.,Teddy,0
+146,11,5,"Look, I know you have someone else's brain inside your head, So I'm gonna tell it to you slowly.",Others,0
+147,11,6,Singh not coming.,Others,0
+148,12,0,Is everything okay? - Everything's great.,Amy,0
+149,12,1,Just one tiny glitch.,Teddy,0
+150,12,2,Dr. Singh's not coming.,Teddy,0
+151,12,3,"All right, fine.",Amy,0
+152,12,4,So you're okay with this? - Of course.,Teddy,0
+153,12,5,"Serious, mom, that's awesome, because I thought-- - What are you doing? - Going home.",Teddy,0
+154,12,6,We'll just do this tomorrow when Dr.Singh can be here.,Amy,0
+155,12,7,"I don't think that's how it works, Mrs.D.",Ivy,0
+156,12,8,"Oh, come on, the baby's been in here nine months, It can wait another day.",Amy,0
+157,12,9,"Ivy honey, be a dear and jam that shoe onto my foot.",Amy,0
+158,12,10,"Um, mom, please get back in bed.",Teddy,0
+159,12,11,I am not gonna have this baby without Dr.Singh.,Amy,0
+160,12,12,"Okay okay, then we'll go get him.",Teddy,0
+161,12,13,You will? - We will.,Amy,0
+162,12,14,"Oh, that's so nice.",Amy,0
+163,12,15,"All right, let's roll, Gretel.",Teddy,0
+164,12,16,"Oh good, more people get to see me.",Ivy,1
+165,13,0,Yeehaw! - New record! ,Gabe,0
+166,13,1,"Gabe, it's Mrs. Dabney.",Dabney,0
+167,13,2,Open up.,Dabney,0
+168,13,3,I'm not supposed to open the door to strangers.,Gabe,0
+169,13,4,I wish we were strangers.,Dabney,1
+170,13,5,Let me in.,Dabney,0
+171,13,6,What is going on in here? Just the best day of my life.,Dabney,0
+172,13,7,Party's over.,Dabney,0
+173,13,8,Your sister called and asked me to bring you to the hospital.,Dabney,0
+174,13,9,No way.,Gabe,0
+175,13,10,I'm not going just to see some stupid baby Who I don't even want anyway.,Gabe,0
+176,13,11,I see what's going on.,Dabney,0
+177,13,12,Have a seat.,Dabney,0
+178,13,13,I'm gonna tell you a story.,Dabney,0
+179,13,14,"When I was four, I got a baby sister.",Dabney,0
+180,13,15,Hated that girl from the first minute I laid eyes on her.,Dabney,0
+181,13,16,I used to pull her hair And call her names and tease her till she cried.,Dabney,0
+182,13,17,But we grew up and one thing led to another And after all these years I still can't stand her.,Dabney,0
+183,13,18,How is that supposed to make me feel better? I didn't say it was going to make you feel better.,Dabney,0
+184,13,19,I said I was going to tell you a story.,Dabney,0
+185,13,20,Now take that helmet off and let's go.,Dabney,0
+186,13,21,What did you do to your head? - Gave myself a haircut.,Dabney,0
+187,13,22,You like it? - I want it documented That that happened before I got here.,Dabney,1
+188,14,0,"Wait wait wait wait, no, hey hey.",Others,0
+189,14,1,"All right, time out.",Others,0
+190,14,2,"Dr. Singh? Oh, it's about time.",Teddy,0
+191,14,3,I-- Wait a minute.,Others,0
+192,14,4,I ordered Batman.,Others,0
+193,14,5,Not Frankenstein and Goldilocks? Close enough.,Others,0
+194,14,6,"No, we're not here for the party.",Teddy,0
+195,14,7,You delivered me.,Teddy,0
+196,14,8,I think I would have remembered that.,Others,0
+197,14,9,"I'm Teddy, Amy Duncan's daughter.",Teddy,0
+198,14,10,She's about to give birth - And needs you at the hospital.,Teddy,0
+199,14,11,I can't leave.,Others,0
+200,14,12,I have to stay here and enjoy my son's birthday.,Others,0
+201,14,13,"Who threw that? Was it you, Tyler? Or the other Tyler? No no no no no.",Others,0
+202,14,14,No no no.,Others,0
+203,14,15,"How about we make a deal, okay? If you go to the hospital and take care of my mom, Then we'll stay here and entertain the kids.",Teddy,0
+204,14,16,And how are we gonna do that? - We'll do my play for them.,Teddy,0
+205,14,17,"Oh, it's a delightful fable about people from different worlds Who overcome their differences and become friends.",Teddy,0
+206,14,18,I give it two thumbs up.,Others,0
+207,14,19,Good luck.,Others,0
+208,14,20,"Hey, kids, who wants to see a play, huh? That is a yes from Tyler.",Teddy,0
+209,14,21,"Hey! If Gretel gets hit with a football, There's gonna be one less Tyler at this party.",Ivy,0
+210,15,0,This should be good.,Others,0
+211,15,1,We just drove 40 miles behind a truck Loaded with live chickens on motorcycles.,Bob,0
+212,15,2,The chickens weren't on motorcycles.,PJ,0
+213,15,3,We were.,PJ,0
+214,15,4,You must be the Duncans.,Others,0
+215,15,5,How'd you know that? Wild guess.,PJ,0
+216,15,6,In there.,Others,0
+217,15,7,"Oh, uh, thanks for dropping us off.",Bob,0
+218,15,8,We can handle it from here.,Bob,0
+219,15,9,"Oh, we can't leave now.",Others,0
+220,15,10,We're emotionally invested.,Others,0
+221,15,11,And I need to grab a quick shower.,Others,0
+222,15,12,She's not kidding.,PJ,0
+223,15,13,I can't believe you threw up in my car.,Dabney,0
+224,15,14,What did you expect? For lunch I ate two cans of frosting.,Gabe,0
+225,15,15,We're looking for Amy Duncan.,Dabney,0
+226,15,16,We know the Duncans.,Others,0
+227,15,17,Good enough for me.,Dabney,0
+228,15,18,I like your hair.,Others,0
+229,15,19,Thanks.,Gabe,0
+230,15,20,I like your scar.,Gabe,0
+231,16,0,"Hello, is anyone home in this gingerbread house? Frankenstein? What are you doing in German Switzerland? Me want friend.",Ivy,0
+232,16,1,But how can a big monster like you Be friends with a sweet little peasant girl like me? It's possible.,Ivy,0
+233,16,2,"If you believe We can be friends, clap hands.",Teddy,0
+234,16,3,"Clap hands! Like this! T, give it up.",Teddy,0
+235,16,4,What are you doing? Stick to the script.,Ivy,0
+236,16,5,Look at them.,Ivy,0
+237,16,6,They're bored silly.,Ivy,0
+238,16,7,Let's just stop.,Ivy,0
+239,16,8,"No, we can't.",Teddy,0
+240,16,9,Frankenstein hasn't found the courage to cry yet.,Teddy,0
+241,16,10,"Sorry, Frankie, Gretel's taking over.",Ivy,0
+242,16,11,"Hey, kids, who wants to play pin the tail on the Frankenstein? Me me me! That's a picture of our son hog.",Ivy,0
+243,17,0,His name's hog? It was.,Gabe,0
+244,17,1,He changed it to Kevin.,Others,0
+245,17,2,The boy's been a real disappointment.,Others,0
+246,17,3,Is he like a criminal or something? - Worse.,Gabe,0
+247,17,4,Vice president of marketing.,Others,0
+248,18,0,"First baby? - That obvious, huh? hey, I've been there.",PJ,0
+249,18,1,You have? - Oh yeah.,Others,0
+250,18,2,This is my third time sitting in these chairs.,PJ,0
+251,18,3,Wow.,Others,0
+252,18,4,"If you don't mind my asking, - How old were you the first time? - Two.",Others,0
+253,18,5,Has mom given birth yet? - Nope.,Teddy,0
+254,19,0,"Hey, Teddy.",Gabe,0
+255,19,1,What happened to your hair? I'm conditioning.,Teddy,0
+256,19,2,You're Teddy? You're exactly like Gabe described you.,Others,0
+257,19,3,"Hey, kids, come on.",Bob,0
+258,19,4,There's somebody I want you to meet.,Bob,0
+259,20,0,hi.,Amy,0
+260,20,1,"Come in, come in.",Amy,0
+261,20,2,"Say hello to your new baby sister, everybody.",Bob,0
+262,20,3,Her name is Charlotte.,Amy,0
+263,20,4,"Do you want to hold her, Teddy? - Can I? - Of course.",Amy,0
+264,20,5,She's beautiful.,PJ,0
+265,20,6,Hi there.,Teddy,0
+266,20,7,Nice to meet you.,Teddy,0
+267,20,8,And I don't usually look like this.,Teddy,0
+268,20,9,I can't believe I have a baby sister.,Teddy,0
+269,20,10,Would you mind taking a picture? Thank you.,Bob,0
+270,20,11,What's the baby's name? - Charlotte.,Others,0
+271,20,12,"Mama, can we call her Charlie? - Charlie! Oh, I love it.",Teddy,0
+272,20,13,Quite a family you got there.,Others,0
+273,20,14,"Good luck, Charlie.",Others,0
+274,21,0,"Sweetie, I just love this present.",Amy,0
+275,21,1,"Oh, thanks, mom.",Teddy,0
+276,21,2,"But to be fair, p.J.",Teddy,0
+277,21,3,And Gabe set the bar pretty low.,Teddy,1
+278,21,4,What?! - Hey.,Gabe,0
+279,21,5,Surprise.,Others,0
+280,21,6,"Oh, mad dog, Francis, Come on in.",PJ,0
+281,21,7,What are you guys doing here? We have a birthday present for our goddaughter.,Others,0
+282,21,8,Whoo-hoo! - Ohhh.,Others,0
+283,21,9,A baby biker vest.,Others,0
+284,21,10,Let's try it on.,Others,0
+285,21,11,That's so cute.,Amy,0
+286,21,12,I love it.,Amy,0
+287,21,13,Did you ask them to be the godparents? - Of course not.,Amy,0
+288,21,14,Then you have to tell them that they are not the godparents.,Amy,0
+289,21,15,No thank you.,Bob,0
+290,21,16,"Fine, I'll do it.",Amy,0
+291,21,17,Excuse me.,Amy,0
+292,21,18,There's something I have to tell you.,Amy,0
+293,21,19,"Oh, welcome to the family.",Amy,0
+294,21,20,"Guys, check it out.",Teddy,0
+295,21,21,Ohhh! - Cutie.,Amy,0
+296,22,0,I know I heard something.,Bob,0
+297,22,1,I think it's coming from the kitchen.,PJ,0
+298,22,2,"Okay, you wait here.",Bob,0
+299,22,3,Or I could hide upstairs.,PJ,1
+300,22,4,"You're here for the egg salad, aren't you? Okay, sit down.",Bob,0
+301,22,5,"You bring back my truck? Full t*nk of gas? What, were you raised in a cave?",Bob,1

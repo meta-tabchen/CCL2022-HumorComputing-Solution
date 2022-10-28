@@ -1,0 +1,353 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+15432,1,0,Deck the halls with boughs of Holly.,Amy,0
+15433,1,1,Fa la la la la la la la la la.,Amy,0
+15434,1,2,"'Tis the season Hi! Hey, sounding good, Mrs.",Amy,0
+15435,1,3,Duncan.,Others,0
+15436,1,4,Oh! I know.,Amy,1
+15437,1,5,It's going to sound even better when I sing it tonight at the annual Duncan Christmas Eve Talent Show.,Amy,0
+15438,1,6,"Oh, mom, Spencer and I are singing too.",Teddy,0
+15439,1,7,We even worked out a new Christmas song together.,Teddy,0
+15440,1,8,"Oh, that is so wonderful! And so brave of you to sing the same night I do.",Amy,1
+15441,1,9,"Well, we're off to Super Christmas Land.",Teddy,0
+15442,1,10,"Ooh, Super Christmas Land? What's that? Oh, that's what Super Adventure Land calls itself, for one week each year at Christmas time.",Amy,0
+15443,1,11,Last week it was Super Hanukkah Land.,Teddy,0
+15444,1,12,Next week it's Super Kwanzaa Land.,Teddy,0
+15445,1,13,"Merry Christmas, everybody! Oh, grandma's here! - ( Sarcastically ) Yay.",Others,0
+15446,1,14,"Oh! Oh oh! Charlie, what do you have to say to grandma? Good-bye.",Teddy,1
+15447,1,15,"Sorry, she's just excited.",Teddy,0
+15448,1,16,We're off to have her very first picture taken with Santa.,Teddy,0
+15449,1,17,I understand.,Others,0
+15450,1,18,"Okay, well, we gotta run, but we can't wait to see you later.",Teddy,0
+15451,1,19,"Oh, good.",Others,0
+15452,1,20,Okay.,Teddy,0
+15453,1,21,"All right, bye.",Teddy,0
+15454,1,22,Both: Bye.,Teddy,0
+15455,1,23,"Oh, Amy.",Others,0
+15456,1,24,It's nice to see you.,Others,0
+15457,1,25,"Oh, Linda, it's nice to see you.",Amy,0
+15458,1,26,( Nervous chuckle ) Well.,Others,0
+15459,1,27,The decorations look nice and whatnot.,Others,0
+15460,1,28,Although that wreath is in the wrong place.,Others,1
+15461,1,29,I like it there.,Amy,0
+15462,1,30,I'll fix it later.,Others,1
+15463,1,31,Okay.,Amy,0
+15464,1,32,"Bob? - Oh, my goodness! - Mom! Is that my son or Hercules? Oh, mom! Please! Dropped some weight, got totally buff.",Bob,0
+15465,1,33,Don't make a fuss.,Bob,1
+15466,1,34,"So, how was the flight? Oh, you know, the usual delays and whatnot.",Bob,0
+15467,1,35,But everybody on the plane loved the song that I'm going to sing at the Talent Show.,Others,0
+15468,1,36,"Deck the halls with boughs of Holly Oh, whoa whoa whoa whoa! Hang on there, grandma.",Others,0
+15469,1,37,I'm singing 'Deck The Halls'.,Amy,0
+15470,1,38,"Sweetheart, maybe you should clean the halls before you deck them.",Others,1
+15471,1,39,( Whispering ) I may deck something besides the halls.,Amy,0
+15472,1,40,"Okay, stand down.",Bob,0
+15473,1,41,We both can't sing the song and I did come all the way from Phoenix.,Others,0
+15474,1,42,She did come all the way from Phoenix.,Bob,0
+15475,1,43,"Well, it's my house.",Amy,0
+15476,1,44,It is her house.,Bob,0
+15477,1,45,I gave birth to you.,Others,0
+15478,1,46,I married you.,Amy,0
+15479,1,47,"Ba-bam! Okay, fine! Nobody sings it.",Bob,0
+15480,1,48,That's my final decision.,Bob,0
+15481,1,49,"Oh, that's your decision? Who died and made you King of the Talent Show? - Really! - Unbelievable.",Others,1
+15482,1,50,"( High voice ) Yay, Christmas.",Bob,1
+15483,2,0,"Hey, guys? Uh, listen.",Bob,0
+15484,2,1,I need a favor.,Bob,0
+15485,2,2,"Well, since we're still in the pre-Christmas gotta-be-nice zone.",Gabe,0
+15486,2,3,What can we do for you? I need you to find out what your mom got me for Christmas.,Bob,0
+15487,2,4,"Why? - Well, because.",Bob,0
+15488,2,5,"Every year, your mom and I, we make this agreement not to spend too much on each other's presents but I never know what that means.",Bob,1
+15489,2,6,I would have thought 'not spending too much' is a phrase you're very familiar with.,PJ,0
+15490,2,7,Every year I wind up getting it wrong.,Bob,0
+15491,2,8,"Oh, right, like the time she bought you really nice watch and you got her those - Uh, what were they called again? - Slocks.",PJ,0
+15492,2,9,"They're not slippers, they're not socks.",Bob,0
+15493,2,10,They're Slocks.,Bob,1
+15494,2,11,That was the Christmas that mom kept slipping and falling.,Gabe,1
+15495,2,12,"Slocks they're not just ugly, they're dangerous.",PJ,1
+15496,2,13,All right.,Bob,0
+15497,2,14,"Come on, guys.",Bob,0
+15498,2,15,"Hey When you were doing your present snooping, did you happen to see what your mom got me? Dad, I'm older now.",Bob,0
+15499,2,16,I don't do that anymore.,Gabe,0
+15500,2,17,"And thanks for the headphones! Well, naughty can't help me.",Gabe,0
+15501,2,18,Let's try nice.,Bob,1
+15502,2,19,"Ooh, that's me! - Ha ha, PJ! Come on, find out from your mom what she got me.",Bob,0
+15503,2,20,"All right, I'll talk to her.",PJ,0
+15504,2,21,"All right, great.",Bob,0
+15505,2,22,She'll tell you anything.,Bob,0
+15506,2,23,We all know you're her favorite.,Bob,0
+15507,2,24,"He is? Well, hey hey hey! I didn't say my favorite.",Gabe,1
+15508,2,25,"That would be Teddy, right? No comment.",PJ,0
+15509,2,26,"Oh, relax.",PJ,0
+15510,2,27,I'm sure you're in the top five.,PJ,1
+15511,3,0,"I know that you're tired and you're hungry and your feet are cold, but all this whining doesn't help.",Teddy,0
+15512,3,1,"But it's taking so long! When do I get to see Santa? Really soon, I promise.",Teddy,0
+15513,3,2,"Yeah, if that kid would ever get off Santa's lap.",Others,0
+15514,3,3,He's been on there for like 10 minutes.,Others,0
+15515,3,4,"Yeah, what's taking him so long? It should be sit, list, snap, go.",Teddy,0
+15516,3,5,"Sit, list, snap, go! How hard is that? Santa can hear you, young lady.",Teddy,1
+15517,3,6,"Yeah, well, that's kind of the idea, Santa.",Teddy,0
+15518,3,7,"But seriously, you might want to cool it, all right? - Carl's not the nicest guy.",Others,0
+15519,3,8,"Wait, you know Santa? Yeah, from when we worked here.",Teddy,0
+15520,3,9,I did a show with him.,Teddy,0
+15521,3,10,'The tribute to America'.,Teddy,0
+15522,3,11,He played Johnny Appleseed before he put on the weight.,Teddy,0
+15523,3,12,Santa heard that too.,Others,1
+15524,4,0,"Hey, mom.",PJ,0
+15525,4,1,Hey.,Amy,0
+15526,4,2,What you doing? Welding.,PJ,1
+15527,4,3,Good good.,PJ,0
+15528,4,4,"So, listen, I was thinking about what present to get for dad.",PJ,0
+15529,4,5,And I don't want to get him the same thing you did.,PJ,0
+15530,4,6,What did you get him again? Did your dad send you down here to find out what I got him? I'm not prepared for any follow-up questions.,Amy,0
+15531,4,7,I'm not going to tell you what I got him.,Amy,0
+15532,4,8,Then I won't ask again.,PJ,0
+15533,4,9,Am I still your favorite? That's why you're my favorite.,PJ,1
+15534,4,10,"Yes! Well, then I'll let you get back to your welding.",PJ,1
+15535,5,0,"Good news, guys.",PJ,0
+15536,5,1,"You found out what your mom's getting me? No, but I confirmed I'm her favorite.",Bob,0
+15537,5,2,"Well, there you go.",Bob,0
+15538,5,3,Gonna fail Christmas again.,Bob,0
+15539,5,4,Maybe I can help you.,Gabe,0
+15540,5,5,"You already bought mom a gift, right? And I'm guessing it's somewhere in the Slocks area? Actually, I got her a very special foam rug for the kitchen.",Gabe,1
+15541,5,6,Something she can stand on when she's doing the dishes.,Bob,0
+15542,5,7,It's called the foot cush.,Bob,0
+15543,5,8,"Oh, so you want the Slocks to seem like the good old days.",Gabe,0
+15544,5,9,"Wow, dad, you set the bar so low, I can't believe you went under it.",PJ,0
+15545,5,10,Good one.,Gabe,0
+15546,5,11,Thank you.,PJ,0
+15547,5,12,I like yours too.,PJ,0
+15548,5,13,"Guys, I'm just trying to be thoughtful.",Bob,0
+15549,5,14,"Look, your mom saw a foot cushion in a store once, and she said she might like one.",Bob,0
+15550,5,15,"All right, so the point is you got the cheap gift covered.",Gabe,0
+15551,5,16,Now all you have to do is buy mom a nice gift.,Gabe,1
+15552,5,17,Buy her two gifts? Exactly.,Bob,0
+15553,5,18,"Then hide them in different places and after you open mom's gift to you, you'll know which one to give her.",Gabe,0
+15554,5,19,Gabe! That's genius.,Bob,0
+15555,5,20,Eh? There you go.,Bob,0
+15556,5,21,That's why you're my favorite.,Bob,1
+15557,5,22,This whole favorite thing is starting to lose all meaning.,PJ,1
+15558,6,0,Yes.,Teddy,0
+15559,6,1,"We're next, Charlie.",Teddy,0
+15560,6,2,"Spencer: Teddy, look.",Others,0
+15561,6,3,Teddy: Back in one hour?! You can't do that.,Teddy,0
+15562,6,4,"Sorry, missy, I get a one hour break every four hours I work.",Others,0
+15563,6,5,Union rules.,Others,0
+15564,6,6,What Union? - H.A.G The Holiday Actors Guild.,Teddy,1
+15565,6,7,"No no, wait.",Teddy,0
+15566,6,8,"Come on, come on.",Teddy,0
+15567,6,9,"Look, we've been waiting here for two hours.",Teddy,0
+15568,6,10,"Okay, we're hungry, we're tired Take it up with H.A.G. now get out of my way.",Others,0
+15569,6,11,"You're not going anywhere, Santa.",Teddy,0
+15570,6,12,Try and stop me.,Others,0
+15571,6,13,"Ha ha ha! Whoops! Oh, Teddy.",Others,0
+15572,6,14,( Crashing ) Yes! Let's get the picture.,Teddy,1
+15573,6,15,"Here, I'll hold Santa's arms down.",Teddy,1
+15574,6,16,Step away from the fat man.,Others,1
+15575,6,17,Well well well.,Others,0
+15576,6,18,If it isn't Teddy Duncan.,Others,0
+15577,6,19,"Howdy, Sheriff.",Teddy,0
+15578,6,20,Merry Christmas.,Teddy,0
+15579,7,0,You redecorated.,Teddy,0
+15580,7,1,Place looks good.,Teddy,1
+15581,7,2,We try to give it a holiday feel.,Others,1
+15582,8,0,"Hey, honey.",Bob,0
+15583,8,1,"Oh, Bob? Um, I've decided I'm not going to sing 'Deck The Halls' at the Talent Show.",Amy,0
+15584,8,2,"Really? Oh, thank you.",Bob,0
+15585,8,3,Thank you for taking the high road and keeping the peace.,Bob,0
+15586,8,4,I'm going to do an impression instead.,Amy,0
+15587,8,5,An impression? - Mmm.,Bob,0
+15588,8,6,Of a family member.,Amy,0
+15589,8,7,Can you guess who? ( Breathing hard ) 'I flew all the way in from Phoenix and whatnot'.,Amy,1
+15590,8,8,"And, oh oh! 'Bobby is so muscley and whatnot'.",Amy,1
+15591,8,9,Oh.,Bob,0
+15592,8,10,"Hey, mom.",Bob,0
+15593,8,11,"Um, how much did you hear? I didn't hear a thing.",Bob,0
+15594,8,12,I just wanted to tell you that I've decided to let Amy sing 'Deck The Halls' this year.,Others,0
+15595,8,13,"Well, I'm glad somebody understands the true spirit of Christmas.",Bob,0
+15596,8,14,Instead I'm going to do an impression of a family member.,Others,1
+15597,8,15,Oh.,Bob,0
+15598,8,16,Can you guess who? 'My house is dirty'.,Others,0
+15599,8,17,Ba-bam! I can't even hang a wreath.,Others,1
+15600,8,18,'Ba-bam!' - Whatnot.,Others,1
+15601,8,19,"Ba-bam! - Whatnot! - Ba-bam! Oh, come on.",Others,0
+15602,8,20,You know what? I've had it with the two of you.,Bob,0
+15603,8,21,Forget it.,Bob,0
+15604,8,22,Talent Show is canceled.,Bob,0
+15605,8,23,Who does he think he is? - You gave birth to him.,Amy,0
+15606,8,24,"Well, you married him.",Others,1
+15607,9,0,"Ba-bam! So last year, you tackled the Super Adventure Land Mayor.",Others,0
+15608,9,1,Today you bowled over Santa Claus.,Others,0
+15609,9,2,"What's next? You gonna harpoon The Easter Bunny? Well, I don't know.",Others,1
+15610,9,3,I haven't made my plans yet for easter.,Teddy,1
+15611,9,4,How much longer do I have to stay in here? You aren't going anywhere till we have a trial.,Teddy,0
+15612,9,5,Can't have a trial till the Judge gets here.,Others,0
+15613,9,6,"Well, when will that be? Super Adventure Land Christmas court is now in session.",Others,0
+15614,9,7,Santa? This is not how I wanted to be spending my break.,Others,1
+15615,9,8,"Teddy Duncan, you may approach the bench.",Others,0
+15616,9,9,Finally.,Teddy,0
+15617,9,10,"In the case of Kringle versus Duncan, you are charged with as*ault with a snowman head.",Others,0
+15618,9,11,How do you plead? Not guilty by reason of being Not guilty.,Teddy,1
+15619,9,12,"All right, Santa.",Others,0
+15620,9,13,"In your own words, tell us exactly what happened.",Others,0
+15621,9,14,"Well, I was taking my H.A.G. mandated break and then she attacked me.",Others,0
+15622,9,15,Ask him.,Others,0
+15623,9,16,He saw the whole thing.,Others,0
+15624,9,17,"Uh, your honor, I have to recuse myself.",Others,0
+15625,9,18,I'm in a very happy and committed relationship with the defendant.,Others,0
+15626,9,19,"Ooh, Sweetie.",Teddy,0
+15627,9,20,"Thank you, Sweetie, you are recused.",Others,0
+15628,9,21,"All right, let's hear from the defense.",Others,0
+15629,9,22,"Your honor, if I may, Christmas is the most magical time of year.",Teddy,0
+15630,9,23,And who loves it more than anyone? The children.,Teddy,0
+15631,9,24,And I was just trying to make one child happy.,Teddy,0
+15632,9,25,"So if that's a crime, well, then call me a criminal.",Teddy,0
+15633,9,26,Or don't.,Teddy,0
+15634,9,27,"You know, whatever gets me out of here faster.",Teddy,1
+15635,9,28,I've heard enough.,Others,0
+15636,9,29,I'm ready to rule.,Others,0
+15637,9,30,My verdict is guilty.,Others,0
+15638,9,31,Yes! You're guilty.,Others,0
+15639,9,32,Me? I'm I'm not on trial here.,Others,0
+15640,9,33,"I've never liked you, Carl.",Others,0
+15641,9,34,It's time you learned a little something about Christmas spirit.,Others,0
+15642,9,35,I sentence you to one picture with this little girl.,Others,0
+15643,9,36,"Thank you, Sheriff.",Teddy,0
+15644,9,37,Yay.,Teddy,0
+15645,9,38,"( Laughs ) Jolly it up, Carl.",Others,1
+15646,10,0,What you doing? What are you looking at? What you doing? Oh.,Amy,0
+15647,10,1,"Oh, he's such a sweet little angel.",Others,0
+15648,10,2,"Aw, he sure is.",Amy,0
+15649,10,3,It's too bad his first Christmas has all this fighting and unpleasantness.,Others,0
+15650,10,4,I know.,Amy,0
+15651,10,5,I have a solution.,Others,0
+15652,10,6,I'll help you pack.,Amy,0
+15653,10,7,I was going to say that we should sing 'Deck The Halls' together.,Others,0
+15654,10,8,You mean as a duet? Yes.,Amy,0
+15655,10,9,"So, let's du-et.",Others,0
+15656,11,0,"( All cheering ) Yeah! Let's give it up for the great Bobbini and his assistant Charlie! ( All cheering ) Okay, quick question for Bobbini.",Teddy,0
+15657,11,1,"That dove you made disappear? Where is it? Oh, don't worry, honey.",Amy,0
+15658,11,2,We'll find it later Hopefully.,Bob,1
+15659,11,3,"Okay, well, up next, the musical stylings of grandma and mom.",Teddy,0
+15660,11,4,Deck the halls with boughs of Holly.,Amy,0
+15661,11,5,Fa la la la la la la la la la.,Amy,0
+15662,11,6,'Tis the season to be jolly.,Others,0
+15663,11,7,Fa la la la la la la la la la.,Others,0
+15664,11,8,Don we now our gay apparel.,Amy,0
+15665,11,9,Fa la la la la la la la la.,Others,0
+15666,11,10,Troll the ancient yuletide carol.,Others,0
+15667,11,11,Both: Fa la la la la la la la la la.,Amy,0
+15668,11,12,See the blazing yule before us.,Amy,0
+15669,11,13,Fa la la la la la la la la la.,Amy,0
+15670,11,14,Strike the harp - Ow! And join the chorus.,Others,0
+15671,11,15,Both: Fa la la la la la la la la la.,Others,0
+15672,11,16,Follow me in merry measure.,Amy,0
+15673,11,17,Fa la la la la la la la la la.,Amy,0
+15674,11,18,While I tell of yuletide treasure.,Amy,0
+15675,11,19,Fa la la la la la.,Others,0
+15676,11,20,"La la la la! Well, there you have it, grandma and mom working together for the first and probably the last time.",Teddy,1
+15677,11,21,"Okay, next we have PJ and Gabe doing what are you guys doing? An exercise in improvisational theater.",Teddy,0
+15678,11,22,That's right.,PJ,0
+15679,11,23,"Improv at its finest, people.",PJ,0
+15680,11,24,We are looking for suggestions from the audience.,PJ,0
+15681,11,25,We need an occupation and an object.,Gabe,0
+15682,11,26,A lawyer and a rock.,Others,0
+15683,11,27,Has to be a cop and a banana.,PJ,1
+15684,11,28,A cop and a banana.,Others,0
+15685,11,29,Excellent suggestion.,Gabe,1
+15686,11,30,"Oh, here I am being a cop.",PJ,0
+15687,11,31,"Ooh, look at that.",PJ,0
+15688,11,32,A banana.,PJ,0
+15689,11,33,Now I'm peeling the banana.,PJ,0
+15690,11,34,"Hey, I'm a criminal.",Gabe,0
+15691,11,35,Give me that banana.,Gabe,0
+15692,11,36,"No, it's my banana.",PJ,0
+15693,11,37,And scene.,PJ,0
+15694,11,38,"( Scattered applause ) Okay, now Spencer and I are going to sing a new Christmas song for you.",Teddy,0
+15695,11,39,Hope you like it.,Teddy,0
+15696,11,40,( Playing slow melody ) I hear church bells a'ringing.,Teddy,0
+15697,11,41,Carolers are singing.,Teddy,0
+15698,11,42,Harmony with me now.,Teddy,0
+15699,11,43,You are looking so lovely.,Teddy,0
+15700,11,44,Yeah! Even if the lights go out.,Teddy,0
+15701,11,45,"We've got mistletoe, and firelight.",Teddy,0
+15702,11,46,On this cold December night.,Teddy,0
+15703,11,47,The snow outside will set the mood.,Teddy,0
+15704,11,48,As I sing my song for you.,Teddy,0
+15705,11,49,"Woo! Merry first Christmas, Toby.",Teddy,0
+15706,11,50,( Gurgling ) Yay.,Toby,0
+15707,12,0,For Gabe.,Bob,0
+15708,12,1,Okay.,Amy,0
+15709,12,2,"Merry Christmas, Gabe.",Amy,0
+15710,12,3,"Hey, headphones! Thanks, guys.",Gabe,0
+15711,12,4,How do you know what's in it? You haven't opened it yet.,Others,1
+15712,12,5,"Oh, right.",Gabe,1
+15713,12,6,"Hey, headphones.",Gabe,0
+15714,12,7,"Thanks, guys.",Gabe,0
+15715,12,8,"Okay, where are mom's presents? Expensive one's under the red tree, cheap one's behind my chair.",PJ,1
+15716,12,9,"Okay, honey, time for you and I to exchange presents.",Bob,0
+15717,12,10,But I want mine first.,Bob,0
+15718,12,11,"Well, hang on there, tiger.",Amy,0
+15719,12,12,Easy easy.,Amy,0
+15720,12,13,"Okay, let's see what we've got here.",Amy,0
+15721,12,14,"( Struggling ) Oh, my goodness! Whoa.",Amy,0
+15722,12,15,"( Laughs ) Big box, small present.",Amy,0
+15723,12,16,Mama Ames's Christmas fake-out.,Amy,0
+15724,12,17,Woo woo! What is it? I bought you your very own star.,Amy,0
+15725,12,18,All: Nice! Ooh! It's recorded in the International Star Registry and everything.,Amy,0
+15726,12,19,I almost bought him a planet.,PJ,0
+15727,12,20,That could have been ugly.,PJ,1
+15728,12,21,Wow.,Bob,0
+15729,12,22,"Thank you, Sweetie.",Bob,0
+15730,12,23,"Hey, mom, check it out.",Bob,0
+15731,12,24,Eh.,Others,1
+15732,12,25,"Okay, where's my present? Uh, hang on.",Amy,0
+15733,12,26,"Still still loving my present, which must have cost you a pretty penny, yes? Dad, it's the thought that counts.",Bob,0
+15734,12,27,Can't put a price on that.,Teddy,0
+15735,12,28,Yes.,Bob,0
+15736,12,29,But if you could Still waiting for my present.,Bob,1
+15737,12,30,"Okay, um Uh Okay, all right.",Bob,0
+15738,12,31,There we go.,Bob,0
+15739,12,32,Ooh! What do we have here? ( Gasps ) Oh.,Amy,0
+15740,12,33,It's a bracelet.,Amy,0
+15741,12,34,"Oh, Bob, it's beautiful.",Amy,0
+15742,12,35,"But you must have spent Oh, now we're gonna talk prices.",Amy,0
+15743,12,36,"Well, honey, I just I'm very thankful, I just I thought we agreed not to spend very much.",Amy,0
+15744,12,37,Maybe you'll find our gift a little more appropriate.,Gabe,0
+15745,12,38,"Hey, what are you you can't - This is from me and PJ! - Oh, my goodness! A foot cush? Yeah.",Amy,1
+15746,12,39,"How did you guys know? Seriously, you guys! I have been wanting one of these forever.",Amy,1
+15747,12,40,"Oh, my gosh.",Amy,0
+15748,12,41,"I mentioned it to your father once, but I guess he wasn't listening.",Amy,0
+15749,12,42,"We listen, mom.",Gabe,0
+15750,12,43,Because we care.,PJ,1
+15751,12,44,"Okay, time for our Christmas picture.",Teddy,0
+15752,12,45,All: Okay.,Amy,0
+15753,12,46,"Let's do it, guys.",Amy,0
+15754,12,47,Come on.,Bob,0
+15755,12,48,"Hey, buddy.",Bob,0
+15756,12,49,Hey.,Bob,0
+15757,12,50,"Oh, up we go.",Bob,0
+15758,12,51,"Hey, buddy.",Amy,0
+15759,12,52,"Smile! - Sweetheart, oh! Dove at 10:00! All: Ah! Hey, Charlie.",Others,0
+15760,13,0,"Well, you finally got your first picture with Santa Claus.",Teddy,0
+15761,13,1,It was a day to remember.,Teddy,0
+15762,13,2,"Although I hope you forget the part about me attacking Santa clause, and then going to jail.",Teddy,1
+15763,13,3,Maybe I shouldn't have mentioned that.,Teddy,1
+15764,13,4,"( Rewinding ) Hey, Charlie.",Teddy,0
+15765,13,5,"So, you finally got your first picture with Santa Claus.",Teddy,0
+15766,13,6,That I'm mentioning for the very first time.,Teddy,0
+15767,13,7,"Hey, any chance I could say 'good luck, Charlie'? - I've never said it before.",Others,0
+15768,13,8,"Oh, yeah.",Teddy,0
+15769,13,9,"Sure, of course.",Teddy,0
+15770,13,10,"Good luck, Charlie.",Amy,0
+15771,13,11,Hey! Ba-bam! ( Rewinding ) Hey.,Others,0
+15772,13,12,You got your first picture with Santa.,Teddy,0
+15773,13,13,"Good luck, Charlie.",Teddy,0
+15774,14,0,"( Doorbell rings ) ( Gasps ) Snowy the Snowman, registered trademark of Super Adventure Land, incorporated? What are you doing here? My head's fine.",Teddy,0
+15775,14,1,Thanks for asking.,Others,0
+15776,14,2,"Oh, are you mad because I used your head as a bowling ball? Little bit.",Teddy,1
+15777,14,3,"Look, I'm I'm really sorry.",Teddy,0
+15778,14,4,Come on in.,Teddy,0
+15779,14,5,"Hey, how about I make it up to you? How about some cookies? I could eat.",Teddy,1
+15780,14,6,Great.,Teddy,0
+15781,14,7,"All right, well, make yourself comfortable.",Teddy,0
+15782,14,8,I'll be right back.,Teddy,0
+15783,14,9,"Okay, so great news, we've got chocolate chip, peanut butter Yeee! Oh! Snowy, no! Snowy: I'm having a bad day.",Teddy,1

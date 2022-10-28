@@ -1,0 +1,313 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+585,1,0,"All right, class.",Others,0
+586,1,1,"These progress reports will let you know how you're doing in English so far, and for many of you I use the word 'progress' loosely.",Others,0
+587,1,2,Please let it be an 'a'.,Teddy,0
+588,1,3,Please let it be an 'a'.,Teddy,0
+589,1,4,Please let it be a 'c'.,Ivy,0
+590,1,5,Please let it be a 'c'.,Ivy,0
+591,1,6,Mr.,Others,0
+592,1,7,"Gerkin, the fast food industry is booming and offers a bright future.",Others,0
+593,1,8,This is great.,Ivy,0
+594,1,9,This is terrible.,Teddy,0
+595,1,10,I got a 'b'.,Ivy,0
+596,1,11,So did I.,Teddy,1
+597,1,12,( Bell rings ) I can't believe I got a real 'b'.,Ivy,0
+598,1,13,As opposed to what? A 'd' that I have to write another 'd' on top of to make it look like a 'b'.,Ivy,0
+599,1,14,Mr.,Teddy,0
+600,1,15,"Dingwall, can I ask you a quick question? You just did.",Teddy,0
+601,1,16,Goodbye.,Others,0
+602,1,17,"No, actually it's about my grade.",Teddy,0
+603,1,18,I was kind of expecting an 'a'.,Teddy,0
+604,1,19,'A'-- the same letter that begins the words 'annoying' and 'adios.,Others,0
+605,1,20,' Can you just explain to me why I got a 'b'? English is my best subject.,Teddy,0
+606,1,21,Although my math and science teachers would argue with that.,Teddy,0
+607,1,22,Here's another one-- aloha.,Others,1
+608,2,0,"( Rock music playing ) hey, ready for your basketball game? Do I have to go? All we ever do is lose.",Gabe,0
+609,2,1,That is not true.,PJ,0
+610,2,2,Sometimes you forfeit.,PJ,0
+611,2,3,"Oh, honey, it's important to think positive.",Amy,0
+612,2,4,"True, you've lost 11 games in a row and you're dead last in the league, but-- I don't know where I'm going with this.",Amy,0
+613,2,5,"Bad news, Gabe.",Bob,0
+614,2,6,I can't coach your game today.,Bob,0
+615,2,7,Just got an emergency extermination call.,Bob,0
+616,2,8,What's the big emergency? Ladybug infestation.,Bob,0
+617,2,9,Aww.,Amy,0
+618,2,10,"Oh, sure, one's cute.",Bob,0
+619,2,11,Thousands-- unspeakable horror.,Bob,0
+620,2,12,So I guess without a coach we won't be able to play our game today.,Gabe,0
+621,2,13,"Hey, wait a minute.",Amy,0
+622,2,14,I can coach.,Amy,0
+623,2,15,"( Laughs ) That's cute, honey, but coaching's a little more complicated than you might think.",Bob,0
+624,2,16,"Oh, honey, I can lose just as good as you can.",Amy,0
+625,2,17,What am I saying? I can't coach.,Amy,0
+626,2,18,I have mommy &amp; me with Charlie.,Amy,0
+627,2,19,I could take Charlie to mommy &amp; me.,PJ,0
+628,2,20,"Honey, that's cute, but mommy &amp; me is a little more complicated than you might think.",Amy,1
+629,2,21,"Actually, it's really not.",Amy,0
+630,2,22,You go ahead and take her.,Amy,0
+631,2,23,"All right, honey, looks like you're in.",Bob,0
+632,2,24,Here's the playbook.,Bob,0
+633,2,25,"Now this might be a little over your head, so just do your best.",Bob,0
+634,2,26,Xs are our team.,Bob,0
+635,2,27,Os are the other guys.,Bob,0
+636,2,28,"Okay, the xs have lost - Right.",Amy,0
+637,2,29,We're gonna be the os this week.,Amy,0
+638,3,0,"Hi, Charlie, it's your big sister Teddy here.",Teddy,0
+639,3,1,Or should I say big failure Teddy? I just wanted to show you how sad I look after I got my first 'b'.,Teddy,0
+640,3,2,And I just want to show you how happy I look when I got my first 'b'.,Ivy,1
+641,3,3,Whoo! Sorry you had to see that.,Teddy,0
+642,3,4,I do not deserve a 'b'.,Teddy,0
+643,3,5,I felt the same way.,Ivy,0
+644,3,6,"You know, I know why Dingwall gave me a bad grade.",Teddy,0
+645,3,7,He just doesn't like me.,Teddy,0
+646,3,8,"You know, that could be.",Teddy,0
+647,3,9,"Whenever he talks to you, he makes a face like somebody just cut one.",Ivy,0
+648,3,10,But it's not fair.,Teddy,0
+649,3,11,I never cut one.,Teddy,0
+650,3,12,It's always gerkin.,Teddy,0
+651,3,13,So what if Dingwall doesn't like you? Who cares? I care.,Ivy,0
+652,3,14,No one's ever not liked me before.,Teddy,0
+653,3,15,"I don't mean to be conceited, but likable people like me are liked.",Teddy,0
+654,3,16,It's just a fact.,Teddy,0
+655,3,17,As long as you're not conceited.,Teddy,0
+656,3,18,I know what I gotta do-- get Dingwall to like me.,Teddy,0
+657,3,19,I know what I gotta do-- more dancing.,Ivy,0
+658,3,20,I still got some happy left in me.,Ivy,0
+659,3,21,You'd better watch out if I ever get an 'a'.,Ivy,1
+660,4,0,"Hey, dad.",PJ,0
+661,4,1,"Hey, how was mommy &amp; me? It was awesome.",Bob,0
+662,4,2,The moms loved me.,PJ,0
+663,4,3,"I told them some jokes, made them laugh, taught them how to change their ringtones.",PJ,0
+664,4,4,Did Charlie have a good time? I don't know.,Bob,0
+665,4,5,I wasn't really watching her.,PJ,0
+666,4,6,So? How bad was it? It was terrible.,Bob,0
+667,4,7,It was terrible for the other team because we won! We won.,Amy,0
+668,4,8,Ooh ooh! I don't believe it.,Amy,0
+669,4,9,"Where's Gabe? He went out for ice cream with the rest of the team, right after they carried me to my car, chanting 'amy! Amy!' Really, such a fuss.",Bob,0
+670,4,10,"Did the other team just not show up? Oh, they showed up, but they wish they hadn't.",Bob,0
+671,4,11,Kapow! That's amazing.,Amy,0
+672,4,12,"Actually, it wasn't as hard as you thought.",Amy,0
+673,4,13,I just told the boys to go out there and have fun.,Amy,0
+674,4,14,Did you at least use the playbook? Absolutely.,Bob,0
+675,4,15,"The bench was freezing, so I sat on it.",Amy,1
+676,4,16,( Phone ringing ) Hello.,Amy,0
+677,4,17,"Hey, Angie.",Amy,0
+678,4,18,"Look, I'm sorry I couldn't make it to mommy &amp; me-- you want to talk to p.J.",Amy,0
+679,4,19,? I think he's here.,Amy,0
+680,4,20,Hang on a sec.,Amy,0
+681,4,21,P.,Amy,0
+682,4,22,J.,Amy,0
+683,4,23,Yeah? Hello.,PJ,0
+684,4,24,"Oh, hey, ange.",PJ,0
+685,4,25,"Yeah, it was fun hanging out with you too.",PJ,0
+686,4,26,( Laughing ) That's hilarious.,PJ,0
+687,4,27,"Oh no, you didn't.",PJ,0
+688,4,28,You guys mind? This is kinda personal.,PJ,1
+689,4,29,"By the way, did you see Linda's hair? Right? Hey, there's my winner.",PJ,1
+690,5,0,"( Laughs ) - Hey, dad.",Gabe,0
+691,5,1,Congratulations.,Bob,0
+692,5,2,"I mean, obviously a fluke, right, happening when your mom was coaching? But you know what? I think we can build on this.",Bob,0
+693,5,3,Yeah yeah.,Gabe,0
+694,5,4,"Dad, we need to talk.",Gabe,0
+695,5,5,What about? - Have a seat.,Gabe,0
+696,5,6,Okay.,Bob,0
+697,5,7,What's up? These things are never easy.,Bob,0
+698,5,8,"What things? Look, the team talked things over and we think it's in everyone's best interest if we make some changes involving the coaching staff.",Gabe,0
+699,5,9,The coaching staff? I'm the coaching staff.,Bob,1
+700,5,10,Yeah.,Gabe,0
+701,5,11,"Oh, wait a minute.",Bob,0
+702,5,12,Are you firing me? After everything I've done for this team? We wish you the best.,Bob,0
+703,5,13,"Oh, come on.",Bob,0
+704,5,14,"Oh, come on.",Bob,0
+705,5,15,"Hey, give me another chance.",Bob,0
+706,5,16,I can turn this thing around.,Bob,0
+707,5,17,I think we're done here.,Gabe,0
+708,5,18,"Oh, dad, would you send mom in? I have some good news for her.",Gabe,1
+709,6,0,"Hey, Mr.",Teddy,0
+710,6,1,'d'.,Teddy,0
+711,6,2,"Got a little present for you-- some yummy homemade brownies, just 'cause.",Teddy,0
+712,6,3,"School district policy prohibits me from receiving gifts which, judging by these, does not appear to be a tragedy.",Others,0
+713,6,4,"Well, I thought you might have a sweet tooth like me-- just one more thing we have in common, I mean, besides our ethnic heritage.",Teddy,0
+714,6,5,This should be good.,Others,0
+715,6,6,"Dingwall is a scottish name, like Duncan.",Teddy,0
+716,6,7,I looked up your family crest.,Teddy,0
+717,6,8,"Did you know that it's two eagles in flight? Miss Duncan, let's cut to the Chase.",Teddy,0
+718,6,9,"You're here about your grade, right? You are one sharp scottish cookie.",Others,0
+719,6,10,The issue is your oral book reports.,Teddy,0
+720,6,11,I work very hard on those.,Teddy,0
+721,6,12,"They're lifeless and dry, and that's coming from me.",Others,0
+722,6,13,"Okay, so I'll jazz them up.",Teddy,0
+723,6,14,Find a way to make the book come alive.,Others,0
+724,6,15,"Put your energy into that instead of kissing up to your teacher, which I find shallow, insulting and-- adorable! - What? - Honey, come on, let's go.",Others,0
+725,6,16,Who-- who-- who is that? Who is that? That's my mom and my sister Charlie.,Others,0
+726,6,17,Aren't you the cutest baby ever? We like to think so.,Others,0
+727,6,18,And you look just like your mommy.,Others,0
+728,6,19,"If you're saying I'm the cutest mommy ever, I accept.",Amy,0
+729,6,20,"Teddy dear, I had no idea you had a baby sister.",Others,0
+730,6,21,What are you doing? - I'm watching my book.,Teddy,0
+731,7,0,For your book report? That's right.,Teddy,0
+732,7,1,"Aren't you supposed to, oh, I don't know, read your book? Teddy, get with it.",Ivy,0
+733,7,2,Kids don't read anymore.,Ivy,0
+734,7,3,You're so old school.,Ivy,0
+735,7,4,"And if you don't read your book, you're gonna be old and still going to school.",Teddy,0
+736,7,5,Hey.,Ivy,0
+737,7,6,Sorry.,Teddy,0
+738,7,7,I'm just a little upset about my conversation with Mr.,Teddy,0
+739,7,8,Dingwall.,Teddy,0
+740,7,9,"He was telling me how boring I was, and then Charlie came in and he lit up like a Christmas tree.",Teddy,0
+741,7,10,"Well, there's your answer.",Ivy,0
+742,7,11,To what? To getting an 'a'.,Teddy,0
+743,7,12,You should do your presentation dressed up like a baby.,Ivy,0
+744,7,13,You know what? I might have a better idea.,Teddy,0
+745,7,14,"And I'd love to hear it, but the last of the mohicans just took off his shirt.",Ivy,1
+746,8,0,Gabe.,Amy,0
+747,8,1,"Hey, honey, you coming to Gabe's basketball game? - What for? - Because you're his father.",Bob,0
+748,8,2,Or has he fired me from that too? You're still upset about this coaching thing? Of course not.,Amy,0
+749,8,3,"Although according to the by-laws of the Denver junior basketball association, article 17, section 9, the team is not allowed to take a vote and replace me, but I've let it go.",Bob,1
+750,8,4,Good.,Amy,0
+751,8,5,Oh.,Gabe,0
+752,8,6,"Hi, dad.",Gabe,0
+753,8,7,Gabe.,Bob,0
+754,8,8,This is awkward.,Bob,0
+755,8,9,I didn't expect to see you here.,Gabe,0
+756,8,10,"In my home? Gabe, honey, is there something you would like to say to your father? Yeah.",Bob,1
+757,8,11,"Dad, I'm gonna need the whistle.",Gabe,0
+758,8,12,"( Doorbell rings ) Hey, ange.",Amy,0
+759,8,13,What are you doing here? It's girls' night out.,Others,0
+760,8,14,"Oh, you're kidding.",Amy,0
+761,8,15,Tonight's not good for me.,Amy,0
+762,8,16,"Actually, I'm here to pick up p.",Others,0
+763,8,17,J.,Others,0
+764,8,18,"What's up, girlfriend? Ooh ooh! Are you going out with the moms? Yeah, gonna have some appetizers, maybe do a little karaoke, just let our hair down.",PJ,0
+765,8,19,"Actually, Jeannie rented a chick flick, so we're gonna hang at her place.",Others,0
+766,8,20,A chick flick? I'm good to go.,PJ,0
+767,8,21,Don't wait up.,PJ,0
+768,8,22,"Okay, that's just weird.",PJ,0
+769,8,23,"No, what's weird is that I coach those kids for half a season and-- oh, let it go, Bob.",Bob,0
+770,9,0,"( Boys cheering ) Are you having fun out there, kiddo? Mom, can you not see the scoreboard? It's 44-12.",Gabe,0
+771,9,1,We're getting creamed.,Gabe,0
+772,9,2,"Gabe, over here now.",Others,0
+773,9,3,What? We never should have fired your dad.,Others,0
+774,9,4,It was your idea.,Gabe,0
+775,9,5,"Dude, I was hopped up on ice cream.",Others,0
+776,9,6,"Well, it's too late now.",Others,0
+777,9,7,Or is it? You know what you gotta do.,Others,0
+778,9,8,What are you saying? - I'm saying it's time to hike up your skirt and fire your mom.,Others,0
+779,9,9,"Hey, mom, we need to talk.",Gabe,0
+780,9,10,Sure.,Amy,0
+781,9,11,"What's on your mind, honey? These things are never easy.",Gabe,0
+782,9,12,"You're firing me, aren't you? Yep.",Amy,0
+783,9,13,"Well, at least one of us is undefeated.",Amy,0
+784,9,14,"Good luck, losers.",Amy,0
+785,9,15,"Hey, dad, old pal, what's goin' on? Let me guess-- coach 'fun' didn't work out, so now you're crawling back to dad.",Gabe,0
+786,9,16,"Well, you know what? Maybe I've moved on.",Gabe,0
+787,9,17,Fine.,Gabe,0
+788,9,18,I'll go ask Nick's dad.,Gabe,0
+789,9,19,No no no.,Bob,1
+790,9,20,I'll do it.,Bob,1
+791,9,21,I'll do it.,Bob,0
+792,9,22,"Guys, men, come on, gather round.",Bob,0
+793,9,23,Listen up.,Bob,0
+794,9,24,All right.,Bob,0
+795,9,25,We're gonna pull together.,Bob,0
+796,9,26,We're gonna play as a team.,Bob,0
+797,9,27,And we're gonna give it our all.,Bob,0
+798,9,28,And then we'll win? - Not a chance.,Others,0
+799,9,29,But here's what we can do-- we can go out there and we can lose with dignity.,Bob,0
+800,9,30,"Lose with dignity! Lose with dignity! Yeah! Hey, guys, come on back.",Others,0
+801,9,31,It's only halftime.,Bob,0
+802,10,0,'Animal farm' by George orwell.,Teddy,0
+803,10,1,'Animal farm' is a story about what happens when idealistic animals take control of their farm from the evil human owners.,Teddy,0
+804,10,2,Oof.,Others,0
+805,10,3,Now I'd like to introduce you to some of the animals.,Teddy,0
+806,10,4,Meet snowball the pig.,Teddy,0
+807,10,5,Charlie's a pig.,Others,1
+808,10,6,I've died and gone to heaven.,Others,1
+809,10,7,"Snowball, tell us about yourself.",Teddy,0
+810,10,8,"Oh, I'm good-hearted and I believe that all animals should be treated fairly and share their property equally.",Teddy,0
+811,10,9,"Thanks, snowball.",Teddy,0
+812,10,10,Time to get back to the farm.,Teddy,0
+813,10,11,"Bye, snowball.",Others,0
+814,10,12,Bye.,Others,0
+815,10,13,"But all is not well on the farm, because here comes-- - ( hums an ominous tune ) - ( Gasps ) - -napoleon, the conqueror pig.",Teddy,0
+816,10,14,( Laughs ) ( In french accent ) I am a troublemaker.,Teddy,0
+817,10,15,I tell some of the animals they're better than others.,Teddy,0
+818,10,16,"That's right, I'm a bad pig.",Teddy,0
+819,10,17,( Muttering ) Oh oh oh.,Others,0
+820,10,18,That is my new screen saver.,Others,0
+821,10,19,"But thankfully, Muriel the goat calms things down with some of her words of wisdom.",Teddy,0
+822,10,20,"( Clears throat ) Come on, Muriel.",Teddy,0
+823,10,21,I'm gonna see what's keeping her.,Teddy,0
+824,10,22,What's the holdup? - Charlie's kinda gassy.,Teddy,0
+825,10,23,Might be those fish sticks we fed her in the cafeteria.,Ivy,1
+826,10,24,( Charlie fusses ) - They're talking back to me too.,Teddy,0
+827,10,25,"Okay, I'd better wrap things up.",Teddy,0
+828,10,26,Come here.,Teddy,0
+829,10,27,Come here.,Teddy,0
+830,10,28,Yes yes yes.,Teddy,0
+831,10,29,All right.,Teddy,0
+832,10,30,Okay.,Teddy,0
+833,10,31,And here is Muriel the fast-talking goat.,Teddy,0
+834,10,32,"Hey, kids.",Teddy,0
+835,10,33,Want to know what I have to say? Read the book.,Teddy,0
+836,10,34,So in the end the animals become just as evil as the humans they overthrew.,Teddy,0
+837,10,35,And now you can't tell the animals from the humans.,Teddy,0
+838,10,36,"Thank you, everyone.",Teddy,0
+839,10,37,"Bravo, miss Duncan.",Others,0
+840,10,38,"You made the book come alive, and in the most adorable way.",Others,0
+841,10,39,I'm-- I'm-- I'm so sorry.,Others,0
+842,10,40,"Ivy, help.",Others,0
+843,10,41,"Oh, here come the sticks.",Others,0
+844,10,42,"( Retches ) Well, now it smells like an animal farm.",Teddy,1
+845,11,0,"Hey, mom.",PJ,0
+846,11,1,"Hey, dad.",PJ,0
+847,11,2,"Hey, how was story time at the library? It was okay.",Amy,0
+848,11,3,We read 'everybody poops.,PJ,0
+849,11,4,' The title kind of gives away the ending.,PJ,0
+850,11,5,Did Charlie have fun? I don't know.,PJ,0
+851,11,6,We didn't sit together.,PJ,0
+852,11,7,"Anyway, I'm gonna be taking off again soon.",PJ,0
+853,11,8,"Going out with the moms again? No no, I'm done with that.",PJ,0
+854,11,9,I'm glad you're over it.,Amy,0
+855,11,10,Me too.,PJ,0
+856,11,11,"What was I thinking? What do I have in common with a bunch of women in their 30s? ( Doorbell rings ) Mom, dad, this is Marge, the story lady from the library.",PJ,0
+857,11,12,We're going to tea.,PJ,0
+858,11,13,These are your grades on yesterday's final presentations.,PJ,0
+859,12,0,Mr.,Others,0
+860,12,1,"gerkin, fit yourself with a hairnet.",Others,0
+861,12,2,Miss wentz.,Others,0
+862,12,3,Oh my gosh.,Ivy,0
+863,12,4,"Miss Duncan, your grade and my dry-cleaning bill.",Others,0
+864,12,5,Oh my gosh.,Teddy,0
+865,12,6,( Bell rings ) Two 'b's in a row? What if my mom starts to expect this? I'd better turn this into a 'd'.,Ivy,1
+866,12,7,Mr.,Teddy,0
+867,12,8,Dingwall.,Teddy,0
+868,12,9,Yes? I just wanted to say thank you for my 'a'.,Teddy,0
+869,12,10,"You earned it, for creativity, imagination and style.",Others,0
+870,12,11,Nicely done.,Others,0
+871,12,12,Thank you.,Teddy,0
+872,12,13,Now pretend that bell was a fire alarm and the flames are upon us.,Teddy,0
+873,12,14,Just one more thing.,Teddy,0
+874,12,15,"You know, I had this crazy idea that the reason you were being so tough on me was because you didn't like me.",Teddy,0
+875,12,16,"It's crazy, right? Because obviously you like me, right? Teddy, not everyone in your life is going to like you, and the reason may have nothing to do with you.",Teddy,0
+876,12,17,Doesn't mean you've failed.,Others,0
+877,12,18,Just means you're human.,Others,0
+878,12,19,Okay? Okay.,Teddy,0
+879,12,20,"But, you know, you never actually said if you like me-- okay.",Teddy,0
+880,12,21,"Okay, if you like me, don't say a word.",Teddy,0
+881,12,22,Goodbye.,Others,1
+882,13,0,"Ugh! Well, Charlie, no more fish sticks for you.",Teddy,0
+883,13,1,But thanks for all your help with Mr.,Teddy,0
+884,13,2,Dingwall.,Teddy,0
+885,13,3,Because of you I got an 'a'.,Teddy,0
+886,13,4,"Whoo! And I learned that not everyone is going to like me, and I'm okay with that.",Teddy,0
+887,13,5,I'm working on being okay with that.,Teddy,0
+888,13,6,"But just in case Wish me good luck, Charlie.",Teddy,1
+889,14,0,[b*at music] Go go go.,Gabe,0
+890,14,1,"Come on, come on.",Gabe,0
+891,14,2,Have you seen the team? They went thataway.,Bob,1
+892,14,3,"Come on, come on.",Gabe,0
+893,14,4,Have you seen the--? Duncans.,Bob,0
+894,14,5,Still can't find them? No.,Amy,0
+895,14,6,And I've searched the entire city.,Bob,0
+896,14,7,"You know, when I was coaching we didn't have this problem.",Amy,0

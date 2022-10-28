@@ -1,0 +1,322 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,Label
+9294,1,0,"Hey, Teddy bear.",Emmet,0
+9295,1,1,Don't call me that.,Teddy,0
+9296,1,2,P.J.,Teddy,0
+9297,1,3,Actually I had a question for you.,Emmet,0
+9298,1,4,"For my tuxedo, should I go.",Emmet,0
+9299,1,5,With tangerine or powder blue? P.J.,Emmet,1
+9300,1,6,"And the limo was kind of expensive, So my grandpa is gonna drive us in his station wagon.",Emmet,0
+9301,1,7,"Okay, I'm gonna regret asking this, But what are you talking about? Homecoming dance.",Teddy,1
+9302,1,8,You're my date.,Emmet,0
+9303,1,9,"Again, what are you talking about? You promised you'd go with me.",Teddy,1
+9304,1,10,"Emmett, wake up.",Teddy,1
+9305,1,11,"I'm not dreaming, okay? April 19, 2004 You agreed to go to homecoming dance with me.",Emmet,0
+9306,1,12,I have proof.,Emmet,0
+9307,1,13,"Well, let's see the proof.",Teddy,0
+9308,1,14,Okay.,Emmet,0
+9309,1,15,"Hey, Teddy bear.",Emmet,0
+9310,1,16,Don't call me that.,Teddy,0
+9311,1,17,Will you be my girlfriend? No.,Emmet,0
+9312,1,18,How about now? No.,Emmet,0
+9313,1,19,"Okay, how about this? If I don't have a girlfriend in High School, Will you go to the homecoming dance with me? If I say yes, will you get out of my face? - Yes.",Emmet,1
+9314,1,20,Then yes.,Teddy,0
+9315,1,21,"Yes! You got that, pj? Emmett, we were just kids.",Emmet,1
+9316,1,22,"You're not gonna actually make me go, are you? My grandpa doesn't like to drive at night, So be ready around 4:30.",Emmet,0
+9317,2,0,鈾?Oh hey.,Bob,0
+9318,2,1,Guess what I just found in the garage.,Bob,0
+9319,2,2,"Ooh, those are never good words.",PJ,1
+9320,2,3,May I introduce my High School band: The Bob Duncan experience? Ha ha.,Bob,1
+9321,2,4,Look at that.,Bob,0
+9322,2,5,There's Richie.,Bob,0
+9323,2,6,There's Marty.,Bob,0
+9324,2,7,"And check out your old man in the middle there, huh? That look familiar? Um No.",Bob,1
+9325,2,8,"Oh, come on, P.J., I look just like you.",Bob,0
+9326,2,9,I don't see it.,PJ,1
+9327,2,10,We could be twins.,Bob,0
+9328,2,11,I choose not to see it.,PJ,0
+9329,2,12,All right.,Bob,0
+9330,2,13,We made an album.,Bob,0
+9331,2,14,Check that out.,Bob,0
+9332,2,15,"Pretty rad, huh? Right, 'the Bob Duncan' - 'experience.",PJ,0
+9333,2,16,"' - No no! Oh! Aw man! Oh sh**t! Uh, can we can we glue it or tape it or No no, it's gone.",PJ,0
+9334,2,17,"That that wasn't the only one, right? Yeah.",PJ,0
+9335,2,18,"Well, I told you, we maan album.",Bob,0
+9336,2,19,"Dad, I am so sorry.",PJ,0
+9337,2,20,"No, it's all right.",Bob,0
+9338,2,21,It's my fault for having sweet memories And kids.,Bob,0
+9339,3,0,"Okay, pirate Charlie, let me see your boo-boo.",Amy,0
+9340,3,1,Not a good idea to wear a patch on both eyes.,Amy,0
+9341,3,2,"Hi, guys.",Amy,0
+9342,3,3,"How's the lemonade business? Great, thanks to Leo's awesome lemonade recipe.",Gabe,0
+9343,3,4,"Oh, I can't take all the credit.",Other,0
+9344,3,5,It was your idea to steal I mean borrow the lemons from Mrs.,Other,0
+9345,3,6,Dabney's tree.,Other,0
+9346,3,7,"Gabe, you stole lemons from Mrs.",Amy,0
+9347,3,8,"Dabney? I hope this doesn't come back to bite me in the Hello, Mrs.",Amy,0
+9348,3,9,Dabney.,Amy,0
+9349,3,10,Lemons? I don't know anything about lemons.,Amy,0
+9350,3,11,We should do this again tomorrow.,Gabe,0
+9351,3,12,Definitely.,Other,0
+9352,3,13,"Hey, let's divide up the profits.",Other,0
+9353,3,14,Yeah.,Gabe,0
+9354,3,15,"Okay, so we made Looks like $40.",Gabe,0
+9355,3,16,25,Gabe,0
+9356,3,17,So here.,Gabe,0
+9357,3,18,Cool.,Other,0
+9358,3,19,Why do you get the quarter? I thought we were partners.,Other,0
+9359,3,20,"Fine, we'll split the quarter.",Gabe,0
+9360,3,21,Why do you get the extra Penny? Because it was my idea.,Other,0
+9361,3,22,I'm the brains of this operation.,Gabe,0
+9362,3,23,"Yeah, but I'm the eye candy.",Other,0
+9363,3,24,"Okay, this is stupid.",Gabe,0
+9364,3,25,"The next time we have an extra Penny, you can have it.",Gabe,0
+9365,3,26,I want this one.,Other,0
+9366,3,27,This one's mine.,Gabe,0
+9367,3,28,You're being a jerk.,Other,0
+9368,3,29,You're being a Jerky jerk.,Gabe,0
+9369,3,30,And you call yourself the brains.,Other,0
+9370,3,31,You know what? Keep your precious Penny.,Other,0
+9371,3,32,This partnership is over.,Other,0
+9372,3,33,Fine.,Gabe,0
+9373,3,34,I don't need you.,Gabe,0
+9374,3,35,I don't need you.,Other,0
+9375,3,36,I don't need anybody.,Other,0
+9376,3,37,I need your mom.,Other,0
+9377,3,38,She's my ride.,Other,1
+9378,4,0,"Oh hey, Emmett, Emmett.",Teddy,0
+9379,4,1,"Uh, we need to talk.",Teddy,0
+9380,4,2,"Sure thing, homecoming date.",Emmet,0
+9381,4,3,She's my homecoming date! Maybe not.,Emmet,0
+9382,4,4,Here we go.,Teddy,0
+9383,4,5,Let's just sit.,Teddy,0
+9384,4,6,So in that video your exact words were I had to go to homecoming with you.,Teddy,0
+9385,4,7,Unless you had a girlfriend.,Teddy,0
+9386,4,8,So? - So I'm gonna get you one.,Teddy,0
+9387,4,9,"Oh, that's funny.",Emmet,0
+9388,4,10,"No no, I'm serious.",Teddy,0
+9389,4,11,There's this new girl in school and I think she's perfect for you.,Teddy,0
+9390,4,12,What makes her perfect? - She doesn't know anything about you.,Teddy,0
+9391,4,13,So her name is alicia.,Teddy,0
+9392,4,14,She's very sweet.,Teddy,0
+9393,4,15,She is very attractive.,Teddy,0
+9394,4,16,So I just have to figure out a way to make you Appealing.,Teddy,0
+9395,4,17,Is it gonna be easy? No.,Teddy,0
+9396,4,18,Is it gonna be doable? It has to be.,Teddy,1
+9397,5,0,"Hey, dad! Come up here.",PJ,0
+9398,5,1,I got a surprise.,PJ,0
+9399,5,2,Those are never good words.,Bob,0
+9400,5,3,"Richie! - Bobby! Heh heh hey! Look at you! You haven't changed at all! Ha, and you Ah, Bobby! - What what are you doing here? - P.J.",Bob,0
+9401,5,4,Called me up.,Other,0
+9402,5,5,Something about getting the band back together.,Other,0
+9403,5,6,"Dad, I felt so bad about breaking the album, I thought you guys could make another one.",PJ,0
+9404,5,7,"P.J., this is fantastic.",Bob,0
+9405,5,8,"Hey, did you track down madman Marty? Yeah yeah.",Bob,0
+9406,5,9,He can't make it book club.,PJ,1
+9407,5,10,"No, he's still a madman, just with books.",PJ,0
+9408,5,11,"Well, hey, P.J.",Other,0
+9409,5,12,Can sit in on guitar.,Other,0
+9410,5,13,This is great! The Bob Duncan experience is back! How how long do we do this? Until the imaginary applause dies down.,Bob,1
+9411,6,0,Kind of quiet around here.,Other,0
+9412,6,1,Want to know why? 'Leo's lemonade lounge'? You're competing with me? Competing would imply competition.,Bob,0
+9413,6,2,"And from what I see, hmph, I don't have any.",Other,1
+9414,6,3,The 's' in 'leo's' is backwards.,Gabe,0
+9415,6,4,I did that on purpose.,Other,0
+9416,6,5,It's cuter.,Other,0
+9417,6,6,"Is that why you put two ms in 'lemonade'? I did? Check your spelling, eye candy.",Gabe,1
+9418,6,7,Forget that.,Other,0
+9419,6,8,Wait till you see what else I have.,Other,0
+9420,6,9,I'm gonna squeeze you out of business.,Other,0
+9421,6,10,Like you squeeze a lemon.,Other,0
+9422,6,11,"You know, because to make lemonade - Yeah, I got it.",Other,0
+9423,6,12,"This isn't over, Leo.",Gabe,0
+9424,6,13,"Oh, but I think it is.",Other,1
+9425,6,14,He's evil.,Gabe,0
+9426,6,15,He's diabolical.,Gabe,0
+9427,6,16,I despise him.,Gabe,0
+9428,6,17,The backwards 's' sure is cute though.,Gabe,1
+9429,7,0,"Okay, there she is.",Teddy,0
+9430,7,1,"Oh, I don't know about this, Teddy.",Emmet,0
+9431,7,2,Alicia might be too hot for me.,Teddy,0
+9432,7,3,Wh I'm too hot for you.,Teddy,0
+9433,7,4,"Yeah, but I got something on you.",Emmet,0
+9434,7,5,"Okay, so here's what you're gonna do.",Teddy,0
+9435,7,6,"You walk over to alicia and you say, 'I'm Emmett.",Teddy,0
+9436,7,7,I've seen you around and I just wanted to say hi.,Teddy,0
+9437,7,8,' - Then what? - Then you just walk away.,Teddy,0
+9438,7,9,"Oh, okay.",Teddy,0
+9439,7,10,"What kind of walk are you looking for? Like a moonwalk or like a robot or like a shuffle Oh, none none none of the above.",Emmet,0
+9440,7,11,You just leave.,Teddy,0
+9441,7,12,You're creating mystery.,Teddy,0
+9442,7,13,"Oh, one more thing.",Teddy,0
+9443,7,14,"Wait, what are you doing? I need those and they go with my hat.",Emmet,0
+9444,7,15,Good point.,Teddy,0
+9445,7,16,"Okay, go get her, tiger.",Teddy,0
+9446,7,17,"Hi, I'm Emmett.",Emmet,0
+9447,7,18,I've seen you around and I wanted to say hi.,Emmet,0
+9448,7,19,"Well, hi.",Other,0
+9449,7,20,Ha.,Emmet,0
+9450,7,21,Ooh! Okay.,Emmet,0
+9451,7,22,Okay.,Teddy,0
+9452,7,23,So maybe you do need these.,Teddy,0
+9453,7,24,Yeah.,Emmet,0
+9454,8,0,Yeah! That was awesome! Welcome to the experience.,PJ,0
+9455,8,1,"Richie dude, I love that move.",PJ,0
+9456,8,2,"Where you, like, stood up in the middle of your drum solo.",PJ,0
+9457,8,3,My butt fell asleep.,Other,0
+9458,8,4,"Isn't it great? Hey, you know what? After we record the album, we should play some gigs.",Bob,0
+9459,8,5,"Oh, I second that emotion.",Other,0
+9460,8,6,"P.J., are you in? Hecks to the yeah.",PJ,0
+9461,8,7,"All right, gentlemen, Time to take a break for the sake, a pause for the cause.",Bob,0
+9462,8,8,Same patter.,Other,0
+9463,8,9,Same bladder.,Bob,0
+9464,8,10,"Man, it's awesome to see my dad so happy again.",PJ,0
+9465,8,11,"Yeah, he enjoys his bathroom.",Other,1
+9466,8,12,"I mean the music, man.",PJ,0
+9467,8,13,Oh.,Other,0
+9468,8,14,"Why did you guys ever break up? Well Bobby was dating this chick who was always hanging around, Trying to weasel her way into the band.",Other,0
+9469,8,15,Oh.,PJ,0
+9470,8,16,She drove me and Marty nuts.,Other,0
+9471,8,17,"Ugh, sounds like a nightmare.",PJ,0
+9472,8,18,She was.,Other,0
+9473,8,19,Now what was her name? - Richie! - Amy! It was Amy.,PJ,1
+9474,9,0,I heard Richie was in da house.,Amy,0
+9475,9,1,"Ooh ooh! Speaking of house, are you still living in your parents' basement? Of course.",Amy,1
+9476,9,2,You know how hard it is to move a waterbed? - Yeah.,Other,0
+9477,9,3,"Hey, honey! Hi, rock star.",Amy,0
+9478,9,4,You're not gonna believe this.,Bob,0
+9479,9,5,We're gonna start playing gigs again.,Bob,0
+9480,9,6,"That is so rad! Hey hey hey, play 'rocky mountain chick.",Amy,0
+9481,9,7,"' - P.J., that's about me.",PJ,0
+9482,9,8,Rad! - Did I use that right? - Kind of.,PJ,0
+9483,9,9,"Ready? One, two, three, four! Rocky mountain chick, you make my body tick 鈾?when you're not here, I'm sick sick sick 鈾?",Bob,0
+9484,9,10,"Guys, guys.",Amy,0
+9485,9,11,"Guys, guys, guys, guys, guys.",Amy,0
+9486,9,12,"Hey, waterbed, x-nay on the rums-dray.",Amy,0
+9487,9,13,"Guys, pick up the pace.",Amy,0
+9488,9,14,Have some fun with it.,Amy,0
+9489,9,15,This is how we played it on the album.,Other,0
+9490,9,16,"Yeah, and how did that sell? Look, just follow me, people.",Amy,0
+9491,9,17,"A-one, two, three, four.",Amy,0
+9492,9,18,"Rocky mountain chick, you make my body tick 鈾?when you're not here, I'm sick sick sick 鈾?your blonde disheveled locks 鈾?thrill me to my socks 鈾?all the nerds and jocks think you're a stone-cold fox 鈾?I'm foxy foxy 鈾?foxy foxy foxy foxy foxy 鈾?foxy foxy 鈾?foxy foxy foxy 鈾?guys, hang with me.",Amy,0
+9493,9,19,"Hey, why don't we take a break? Ooh, that's a great idea.",Other,0
+9494,9,20,It'll give me a chance to grab my tambourine.,Amy,0
+9495,9,21,Band meeting.,Other,0
+9496,9,22,Why? What's up? What's up? It's 1988 all over again.,Other,0
+9497,9,23,"No, it's not.",Bob,0
+9498,9,24,She's totally taking over.,Bob,0
+9499,9,25,"Can I say something? - Shut up, Marty.",PJ,0
+9500,9,26,Sorry.,Bob,0
+9501,9,27,Force of habit.,Bob,0
+9502,9,28,That chick is trying to force her way into the band.,Other,0
+9503,9,29,"Bobby, you gotta do something.",Other,0
+9504,9,30,"All right, you're right.",Bob,0
+9505,9,31,You're right.,Bob,0
+9506,9,32,"Okay, look, as leader of the Bob Duncan experience, I'm gonna take charge.",Bob,0
+9507,9,33,"P.J., go kick your mother out of the band.",PJ,1
+9508,10,0,"Welcome to club triple-l, everybody.",Other,0
+9509,10,1,"I'm l to the e to the eh-eh-o! yo, my name is Leo and I'm here to tell 鈾?I got some refreshments I'd like to sell 鈾?I take the best lemons, don't you know? 鈾?I just squeeze and add sugar, yo yo yo yo yo 鈾?yeah, Leo, Leo 鈾?yeah, Leo! 鈾?",Other,0
+9510,10,2,"Remember, peeps, everything's free at Leo's lemonade, Popcorn and wi-fi.",Other,0
+9511,10,3,"Whoohoo! If everything's free, how are you making money? This isn't about making money.",Gabe,0
+9512,10,4,"It's about taking you down, my brotha.",Other,0
+9513,11,0,Ha.,Teddy,0
+9514,11,1,Now today we're gonna try something a little new.,Teddy,0
+9515,11,2,Try whatever you want.,Emmet,0
+9516,11,3,Either way I have a date.,Emmet,1
+9517,11,4,"Yeah yeah, why don't you just stand here.",Teddy,0
+9518,11,5,"And wait until I give you a signal? Hi, alicia.",Teddy,0
+9519,11,6,I know you're new here.,Teddy,0
+9520,11,7,I'm Teddy.,Teddy,0
+9521,11,8,Hi.,Other,0
+9522,11,9,"So you came here kind of in an awkward time, What with homecoming dance just days away and Oh my gosh.",Teddy,0
+9523,11,10,Oh my gosh.,Teddy,0
+9524,11,11,"Oh my gosh! Oh my gosh! - What? Okay okay, so you see that really cute guy there? Where? Behind the guy with the hat and the glasses? No no no.",Teddy,0
+9525,11,12,No no no.,Teddy,0
+9526,11,13,"Under the hat, behind the glasses.",Teddy,0
+9527,11,14,The plate crasher? His name is Emmett.,Other,0
+9528,11,15,"Oh, emmett even his name is dreamy.",Teddy,0
+9529,11,16,"Every girl in school wants to go to homecoming with him, especially me.",Teddy,0
+9530,11,17,"Were you here yesterday? Oh my gosh, here he comes.",Other,0
+9531,11,18,Hi.,Teddy,0
+9532,11,19,"Hi, Teddy.",Emmet,0
+9533,11,20,"Oh, he knows my name! Hi, Emmett.",Teddy,0
+9534,11,21,"So, uh, are you going to the dance? Actually, that's what I came to talk to alicia about.",Teddy,0
+9535,11,22,"Oh, alicia.",Teddy,0
+9536,11,23,"Of course, the new girl.",Teddy,0
+9537,11,24,You're so lucky.,Teddy,0
+9538,11,25,Oh well.,Teddy,0
+9539,11,26,"It hurts, but I'll smile through the pain.",Teddy,0
+9540,11,27,Now I'll leave you two alone to talk about.,Teddy,0
+9541,11,28,"Your magical evening together while I go nurse my Whoa! What? No, alicia Why fight it? We're perfect for each other.",Emmet,1
+9542,12,0,"Rocky mountain chick, you make my heart go tick 鈾?when you're not here, I'm sick sick sick.",Amy,1
+9543,12,1,"鈾?- Hey, mom.",PJ,0
+9544,12,2,"Hey there, my lead guitarist.",Amy,0
+9545,12,3,"Yeah yeah, about that can I can I talk to you? - Sure.",PJ,0
+9546,12,4,What about? - Actually I think it would be better if you If you heard it from Charlie.,PJ,0
+9547,12,5,"Go ahead, Charlie.",PJ,0
+9548,12,6,Tell mommy what's on your mind.,PJ,0
+9549,12,7,"Mommy Okay, she's obviously too upset to say anything.",PJ,1
+9550,12,8,No no no.,Amy,0
+9551,12,9,"You're upset? Why? Um, she thinks it's a bad idea for you to be in the band.",PJ,1
+9552,12,10,Charlie said that? - Yes.,Amy,1
+9553,12,11,"Did you say that, Charlie? - No, mommy.",Amy,1
+9554,12,12,"Wait, P.J., you don't want me in the band? But it's so much better with me in it.",Amy,0
+9555,12,13,"Yeah yeah, it is, but the problem is - That is the problem.",PJ,0
+9556,12,14,What is? You're good.,PJ,0
+9557,12,15,You're too good.,PJ,1
+9558,12,16,You're too good.,PJ,0
+9559,12,17,And we all know you're a star.,PJ,0
+9560,12,18,But when you're next to dad - He fades into the woodwork.,PJ,0
+9561,12,19,"Ex yes! I mean, come on.",PJ,0
+9562,12,20,The Bob Duncan experience? - Hello? The Amy Duncan experience? - Exactly! - Oh! - Exactly.,Amy,0
+9563,12,21,I can't do that to him.,Amy,0
+9564,12,22,"Can I? No no, Because you are too good a person.",PJ,1
+9565,12,23,Darn my humanity.,Amy,0
+9566,12,24,Yeah yeah.,PJ,0
+9567,12,25,Okay okay.,PJ,0
+9568,12,26,Pulled that out.,PJ,0
+9569,12,27,"By the way, you are terrible under pressure.",PJ,1
+9570,12,28,Sorry.,Charlie,1
+9571,13,0,Yeah! Those cheerleaders aren't done yet.,Gabe,0
+9572,13,1,They'll now be serving your next round of lemonade! - Whoo! - Yeah! The entertainment marathon continues here at Gabe's.,Gabe,0
+9573,13,2,With a hot new group: The Bob Duncan experience.,Gabe,0
+9574,13,3,"Yeah! - Yeah! Hey, don't disappoint me.",Gabe,0
+9575,13,4,Hey.,Amy,0
+9576,13,5,"Now that you're booking live music, You know, I'm putting a little something together myself.",Amy,0
+9577,13,6,So we should talk.,Amy,0
+9578,13,7,All right.,Bob,0
+9579,13,8,"Good afternoon, Edward drive! We are the Bob Duncan experience.",Bob,0
+9580,13,9,And I would like to dedicate this very first song.,Bob,0
+9581,13,10,To my very own Rocky mountain chick.,Bob,0
+9582,13,11,"That's me, everybody.",Amy,0
+9583,13,12,"I'm the Rocky mountain chick, Whoo! Rocky mountain chick, you make my heart go tick 鈾?when you're not here, I'm sick sick sick 鈾?",Amy,0
+9584,13,13,"Wow cheerleaders, live music, a full house? You win, Gabe.",Other,0
+9585,13,14,The great lemonade w*r is over.,Other,0
+9586,13,15,What did I win? - I'm down more than $200.,Gabe,0
+9587,13,16,I'm down $300.,Other,0
+9588,13,17,Renting porta-potties is expensive.,Other,0
+9589,13,18,"How are we gonna make this up? Hey, my next door neighbor has an avocado tree.",Other,0
+9590,13,19,We'll start a guacamole stand.,Gabe,0
+9591,13,20,Leo and Gabe's guacamole stand.,Other,0
+9592,13,21,Gabe and Leo's guacamole stand.,Gabe,1
+9593,14,0,"Well, Charlie, I learned a lesson from Gabe this week: When life hands you lemons, You go to homecoming with Emmett.",Teddy,0
+9594,14,1,"You know, but the truth is.",Teddy,0
+9595,14,2,We're probably gonna have a good time.,Teddy,0
+9596,14,3,And it's just one dance.,Teddy,0
+9597,14,4,Until prom.,Emmet,0
+9598,14,5,"Wait, what? What do you have on me? - Oh, not much.",Teddy,0
+9599,14,6,Oh! 'Teddy says yes to prom.,Teddy,0
+9600,14,7,' 'Teddy says yes to marriage'? That one took a bit of editing.,Teddy,0
+9601,14,8,"If he thinks that's gonna happen, He's gonna need some good luck, Charlie.",Teddy,0
+9602,15,0,Gabe and Leo's guacamole stand.,Gabe,0
+9603,15,1,Leo and Gabe's guacamole stand.,Other,0
+9604,15,2,Gabe and Leo's.,Gabe,0
+9605,15,3,Leo and Gabe's.,Other,0
+9606,15,4,Gabe and Leo's.,Gabe,0
+9607,15,5,Leo and Gabe's.,Other,0
+9608,15,6,Gabe and Leo's.,Gabe,0
+9609,15,7,Leo and Gabe's.,Other,1
+9610,15,8,Gabe and Leo's.,Gabe,1
+9611,15,9,Leo and Gabe's.,Other,1
+9612,15,10,You know what? Fine.,Gabe,0
+9613,15,11,Fine.,Gabe,0
+9614,15,12,Whatever! - Whatever? You can't have said that before we were dead?,Other,1

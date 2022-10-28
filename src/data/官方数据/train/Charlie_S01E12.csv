@@ -1,0 +1,331 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+2814,1,0,"Hey, charlie, check this out.",Teddy,0
+2815,1,1,Here's something nobody has ever seen before.,Teddy,0
+2816,1,2,Gabe is brushing his hair.,Teddy,1
+2817,1,3,Do you have to videotape everything we do? This isn't a reality show.,Gabe,0
+2818,1,4,"Oh, I know it's not reality because he took a shower without being asked.",Teddy,0
+2819,1,5,You know what I think? I think you like someone.,Teddy,0
+2820,1,6,What if I do? No big deal.,Gabe,0
+2821,1,7,Are you kidding? Your first crush is a huge deal.,Teddy,0
+2822,1,8,"Look, she is a girl.",Gabe,0
+2823,1,9,I'm a guy.,Gabe,0
+2824,1,10,These things happen every day.,Gabe,0
+2825,1,11,Not to you.,Teddy,0
+2826,1,12,I know.,Gabe,0
+2827,1,13,"Can you believe it? Hey, kids, come on, let's go.",Gabe,1
+2828,1,14,P.J.,Amy,0
+2829,1,15,"Honey, can you watch charlie after school? I have to work.",Amy,0
+2830,1,16,I can't.,PJ,0
+2831,1,17,I'm working too.,PJ,0
+2832,1,18,I can take charlie with me if you want.,PJ,0
+2833,1,19,You want to help your big brother deliver chicken? Or you could come to the hospital And help mommy change bedpans.,PJ,0
+2834,1,20,You take her.,Amy,0
+2835,1,21,"Gabe, are you wearing aftershave? A little.",Bob,0
+2836,1,22,Why would you do that? You're not shaving yet.,Bob,0
+2837,1,23,"As long as we're being logical, why do you still have a comb? Get in the car.",Bob,1
+2838,2,0,"Bean Gabe's voice: Okay, this is my chance.",Gabe,0
+2839,2,1,Don't blow it.,Gabe,0
+2840,2,2,Say something to her.,Gabe,0
+2841,2,3,"H-h-hi, kit.",Gabe,0
+2842,2,4,"Hellllooo, kit! Yo yo yo, kit! My mouth's so dry.",Gabe,0
+2843,2,5,I need juice.,Gabe,0
+2844,2,6,It's juice.,Gabe,0
+2845,2,7,This is not pee.,Gabe,1
+2846,2,8,That went well.,Gabe,0
+2847,3,0,( doorbell rings ) Is your sister home? Yes.,Dabney,0
+2848,3,1,Who was that? Mrs.,Teddy,0
+2849,3,2,Dabney with her stupid questions.,Gabe,0
+2850,3,3,"( doorbell rings ) I have a follow-up question-- May I speak to your sister? What can I do for you, mrs.",Dabney,0
+2851,3,4,Dabney? I'm going out of town for a couple of days And I was wondering if y'd be kind enough To look after my cat caboodle.,Teddy,0
+2852,3,5,"Oh, I don't know.",Teddy,0
+2853,3,6,I'm awfully busy.,Teddy,0
+2854,3,7,I'll pay you $20 a day.,Dabney,0
+2855,3,8,My schedule just opened up.,Teddy,1
+2856,3,9,Mm-hmm.,Dabney,0
+2857,3,10,"I can trust you, right? - Of course.",Dabney,0
+2858,3,11,You do seem to be the least disturbed of all the duncan kids.,Dabney,0
+2859,3,12,What an almost sweet thing to say.,Teddy,1
+2860,3,13,You need to know that caboodle Is the most important thing in the world to me.,Dabney,0
+2861,4,0,How's mr.,Others,0
+2862,4,1,"Dabney doing? Like I said, love that caboodle.",PJ,0
+2863,4,2,( rings doorbell ) - woman: Who is it? Kwikki chikki.,PJ,0
+2864,4,3,"Oh, hello.",Others,0
+2865,4,4,"Hi, it's $21.07.",PJ,0
+2866,4,5,"Oh, okay.",Others,0
+2867,4,6,Who is this cutie pie? I'm p.J.,Others,1
+2868,4,7,I meant the other cutie pie.,Others,0
+2869,4,8,"Oh, this is charlie.",PJ,0
+2870,4,9,She's my baby sister.,PJ,0
+2871,4,10,"Why, isn't she the most precious thing in the whole world? Yeah, my mom's at the hospital, so I'm looking after her.",PJ,0
+2872,4,11,"Oh, you poor dear.",Others,0
+2873,4,12,Keep the change.,Others,0
+2874,4,13,Are you sure? This is almost a $20 tip.,PJ,0
+2875,4,14,"Oh, you need it more than I do, What with your mom being in the hospital and all.",PJ,0
+2876,4,15,"Oh, you think my mom is in-- I'm not gonna lie to you.",PJ,0
+2877,4,16,It's been hard.,PJ,0
+2878,4,17,Enjoy your chicken.,PJ,0
+2879,4,18,"Charlie, welcome to the chicken delivery business.",PJ,1
+2880,5,0,Give him dry food twice a day And make sure his water bowl is always filled.,Dabney,0
+2881,5,1,"Oh, and my sister virginia is coming by later for a play date.",Dabney,0
+2882,5,2,You want me to have a play date with your sister? Not you-- caboodle.,Dabney,0
+2883,5,3,Virginia brings her cat stanley over.,Dabney,0
+2884,5,4,What a ridiculous name for a cat.,Dabney,0
+2885,5,5,Caboodle? - Stanley.,Dabney,0
+2886,5,6,"Oh, I should go.",Dabney,0
+2887,5,7,"But so my little caboodie won't make a scene, You need to distract him.",Dabney,0
+2888,5,8,Should I pretend to be a mouse? Yes.,Teddy,0
+2889,5,9,I was joking.,Teddy,0
+2890,5,10,I wasn't.,Dabney,0
+2891,5,11,The cat seems fine to me.,Teddy,0
+2892,5,12,I'm paying you.,Dabney,0
+2893,5,13,Now put him down and act like a mouse.,Dabney,0
+2894,5,14,Squeak squeak.,Teddy,0
+2895,5,15,You can do better than that.,Dabney,0
+2896,5,16,"Bare your teeth, wiggle your nose And act like you're eating a piece of cheese.",Dabney,0
+2897,5,17,"Now keep doing that for 20 minutes, And he should be fine.",Dabney,0
+2898,5,18,"Goodbye, my caboodle.",Dabney,0
+2899,5,19,"Teddy honey, did you lose something? Only my dignity.",Amy,1
+2900,6,0,"Mom, can you help me with something? Sure, honey.",Gabe,0
+2901,6,1,"What can I do for you? Well, I have this friend And he needs to know how to talk to girls.",Gabe,0
+2902,6,2,Does this friend have a name? No-orman.,Amy,0
+2903,6,3,That's an odd name.,Amy,0
+2904,6,4,"Well, I think he's from no-orway.",Gabe,0
+2905,6,5,"Gabe honey, I'm your mom.",Amy,0
+2906,6,6,You don't have to be embarrassed About telling me about your first crushy-wushy.,Amy,0
+2907,6,7,I'm just gonna go look it up on the internet.,Gabe,0
+2908,6,8,"No no no, it's okay.",Amy,0
+2909,6,9,I'm sorry.,Amy,0
+2910,6,10,I'm sorry.,Amy,0
+2911,6,11,"Okay, so what have you said to her so far? Um, I said, 'that was juice, not pee.",Gabe,0
+2912,6,12,' And then she walked away.,Gabe,0
+2913,6,13,"Oh, no-orman.",Amy,1
+2914,6,14,"Every time I get near her, My heart starts pounding, my hands get all sweaty And I can't speak.",Gabe,0
+2915,6,15,"Oh, you've got it bad.",Amy,0
+2916,6,16,I remember my first crush.,Amy,0
+2917,6,17,"Was it dad? Sure, why not? So what do I do? How do I talk to her? Well, when you start to get a little nervous, Just ask her questions.",Gabe,0
+2918,6,18,Let her do the talking.,Amy,0
+2919,6,19,Find things you have in common.,Amy,0
+2920,6,20,So just ask her stuff and listen to the answers? That sounds easy.,Gabe,0
+2921,6,21,Sure.,Amy,0
+2922,6,22,Relationships are a piece of cake.,Amy,0
+2923,6,23,That's why married people are always so happy.,Amy,0
+2924,6,24,"Did dad ever get nervous talking to you? Oh, when your dad and I first started dating We didn't do a lot of talking.",Gabe,0
+2925,6,25,Mostly we just-- Just what? Played checkers-- Lots and lots of checkers.,Amy,1
+2926,7,0,"P.J.: Hey, dad.",Bob,0
+2927,7,1,Hey.,PJ,0
+2928,7,2,"You're taking care of charlie tomorrow afternoon, right? I believe I am.",Bob,0
+2929,7,3,"You know, I was thinking maybe she should come to work with me.",PJ,0
+2930,7,4,Why? Because I feel I didn't do enough to help out When teddy and gabe were babies.,PJ,0
+2931,7,5,Enough? You didn't do anything.,Bob,0
+2932,7,6,I know.,Bob,0
+2933,7,7,And it haunts me.,Bob,0
+2934,7,8,It haunts you? Yes.,PJ,0
+2935,7,9,That's why I have to make it up to you with charlie.,PJ,0
+2936,7,10,Okay.,Bob,0
+2937,7,11,"Love you, dad.",PJ,0
+2938,7,12,"Oh, that boy's up to something.",Bob,0
+2939,7,13,I should probably get into this.,Bob,0
+2940,7,14,"Eh, he's all the way upstairs.",Bob,1
+2941,8,0,Gabe's voice: Listen and find things in common.,Gabe,0
+2942,8,1,Listen and find things in common.,Gabe,0
+2943,8,2,Hi.,Gabe,0
+2944,8,3,Hi.,Others,0
+2945,8,4,Tell me about yourself.,Gabe,0
+2946,8,5,"Why? I mean, only if you want to.",Gabe,0
+2947,8,6,"Okay, what do you want to know? Tell me about your family.",Others,0
+2948,8,7,"Oh, the family.",Gabe,0
+2949,8,8,Actually there's not much to tell.,Others,0
+2950,8,9,I'm an only child.,Others,0
+2951,8,10,Me too.,Gabe,1
+2952,8,11,Cool.,Others,0
+2953,8,12,"What else? Well, my parents are divorced.",Others,0
+2954,8,13,Mine too.,Gabe,1
+2955,8,14,Who do you live with? - Who do you live with? - My mom.,Others,0
+2956,8,15,Me too.,Gabe,1
+2957,8,16,"Wow, we really have a lot in common.",Others,0
+2958,8,17,"You kn, I had a eling we might.",Gabe,0
+2959,8,18,"Want half of a peanut-butter sandwich? No, thanks.",Gabe,0
+2960,8,19,I'm allergic tpeanuts.,Others,0
+2961,8,20,Me too.,Gabe,1
+2962,9,0,"You d'do much, do you? Hey hey, catch.",Teddy,0
+2963,9,1,Or stay.,Teddy,0
+2964,9,2,Good cat.,Teddy,0
+2965,9,3,"( doorbell rings ) Mrs. Dabney, why are you back here? Oh, I'm not estelle.",Teddy,0
+2966,9,4,I'm her sister virginia.,Others,0
+2967,9,5,"Wow, you really look like mrs. Dabney.",Teddy,0
+2968,9,6,Except for my laugh lines.,Others,0
+2969,9,7,Estelle doesn't have any of those.,Others,0
+2970,9,8,"Gabe, this is mrs. Dabney's twin sister virginia.",Teddy,0
+2971,9,9,This is my brother gabe.,Others,0
+2972,9,10,"Oh, you look like a nice little boy.",Others,0
+2973,9,11,Would you like some candy? Only if you eat one first.,Others,0
+2974,9,12,You're as cute as the dickens.,Others,0
+2975,9,13,"Okay, this is dang freaky.",Teddy,0
+2976,9,14,"Okay, stanley.",Others,0
+2977,9,15,Let's go play with caboodle.,Others,0
+2978,9,16,Here we go.,Others,0
+2979,9,17,Uh-oh.,Others,0
+2980,9,18,What's wrong? Caboodle always gets excited when stanley arrives.,Teddy,0
+2981,9,19,He's just been lying on the couch all day.,Others,0
+2982,9,20,Do you think he's sick? You'd better hope not.,Others,0
+2983,9,21,I'd hate to be in your shoes If something happened to my sister's baby.,Others,0
+2984,9,22,"Well, it's not my fault.",Teddy,0
+2985,9,23,"She'd understand that, right? Oh, yeah.",Teddy,0
+2986,9,24,She's very understanding.,Others,0
+2987,9,25,"Come on, caboodle, perk up.",Teddy,0
+2988,9,26,This does not look good.,Others,0
+2989,9,27,"Oh, I know what will cheer you up-- Mr. Mouse, right? This does not look good either.",Teddy,0
+2990,10,0,"The whole family's pitching in to help out with charlie, Because my mom's in the hospital.",PJ,0
+2991,10,1,Thank you.,PJ,0
+2992,10,2,And thank you.,PJ,1
+2993,10,3,"Used to be her Halloween costume, But with mom in the hospital, We can't afford to buy her a winter coat-- A new winter coat.",PJ,0
+2994,10,4,"Is your mom any better? - The same, But we're trying to be brave.",PJ,0
+2995,10,5,You poor thing.,Others,0
+2996,10,6,Aww.,PJ,0
+2997,10,7,It's hardest on the little ones.,PJ,0
+2998,10,8,"Whenever we visit mom in the hospital, Charlie does this.",PJ,0
+2999,10,9,Mama mama mama.,PJ,0
+3000,11,0,"Warren, get out here! And bring your wallet! Thanks for coming on such short notice, dr.",Teddy,0
+3001,11,1,Tushy.,Teddy,0
+3002,11,2,It's pronounced 'tushy.,Others,0
+3003,11,3,' you don't have to thank me.,Others,0
+3004,11,4,Caboodle dabney is one of my favorite patients.,,0
+3005,11,5,I didn't know veterinarians made house calls.,Teddy,0
+3006,11,6,"Oh, they don't.",Others,0
+3007,11,7,I'm a therapist.,Others,0
+3008,11,8,A therapist for cats? And birds.,Teddy,0
+3009,11,9,But never at the same time.,Others,0
+3010,11,10,You only make that mistake once.,Others,0
+3011,11,11,Uh-huh.,Others,0
+3012,11,12,Huh.,Others,0
+3013,11,13,Oh.,Others,0
+3014,11,14,"( sighs ) So what's wrong with caboodle? Well, his aura is off.",Teddy,0
+3015,11,15,His chakras are out of line.,Others,0
+3016,11,16,How's his poop? Fine.,Teddy,0
+3017,11,17,"How's yours? Well, that's a little personal, But since you ask, super good and getting better.",Others,0
+3018,11,18,"Maybe we should get back to the cat, dr.Tushy.",Teddy,0
+3019,11,19,It's 'tushy.,Others,0
+3020,11,20,' Tushy.,Teddy,0
+3021,11,21,"Huh-uh, tushy.",Others,0
+3022,11,22,Tushy? Tushy tushy tushy.,Others,0
+3023,11,23,Do you have a first name? - Tish.,Teddy,0
+3024,11,24,Tish tushy? 'doctor.,Others,0
+3025,11,25," Anyway, can you fix him? No.",Teddy,0
+3026,11,26,But you can.,Others,0
+3027,11,27,Caboodle is feeling abandoned.,Others,0
+3028,11,28,He needs to know he's safe and secure.,Others,0
+3029,11,29,Now close your eyes and send him a thought To let him know you care.,Others,0
+3030,11,30,Can't you give him a sh*t or--? Send him a thought.,Others,0
+3031,11,31,Send him a thought.,Others,0
+3032,11,32,Send him a thought.,Others,0
+3033,11,33,"Do you have a thought? Oh, I'm having a few of them.",Teddy,1
+3034,12,0,( doorbell rings ) - Kit.,Gabe,0
+3035,12,1,"Hi, gabe.",Others,0
+3036,12,2,What are you doing here? - I told my mom all about you And we just wanted to say hi.,Others,0
+3037,12,3,"Yeah, it is so wonderful that kit met someone With a family just like ours.",Others,0
+3038,12,4,Okay.,Gabe,0
+3039,12,5,"Do you mind if we come in? Yeah, sure, I guess.",Gabe,0
+3040,12,6,Okay.,Gabe,0
+3041,12,7,"You know, I'll actually be right back.",Gabe,0
+3042,12,8,Okay.,Others,0
+3043,12,9,I have a big problem.,Gabe,0
+3044,12,10,What are you doing? I'm readjusting caboodle's aura.,Teddy,0
+3045,12,11,Duh.,Teddy,0
+3046,12,12,I'm in big trouble.,Gabe,0
+3047,12,13,What's wrong? - The girl I like is here with her mom.,Gabe,0
+3048,12,14,What's wrong with that? I told her mom and dad are divorced And I'm an only child.,Gabe,0
+3049,12,15,"What am I gonna do? Okay, the first thing you're gonna do is calm down.",Teddy,0
+3050,12,16,Your negative energy is upsetting the cat.,Teddy,0
+3051,12,17,You gotta help me.,Gabe,0
+3052,12,18,"Okay, relax, Or later you're gonna have trouble with your poop.",Teddy,1
+3053,12,19,Teddy.,Gabe,0
+3054,12,20,"Fine, I'll go and get rid of them.",Teddy,0
+3055,12,21,"Wait, they can't know you're my sister.",Gabe,0
+3056,12,22,"Right, so I will be somebody else.",Teddy,0
+3057,13,0,"Hi, I'm teddy, the housekeeper.",Teddy,0
+3058,13,1,"See? Hi, I'm dana.",Teddy,0
+3059,13,2,This is kit.,Teddy,0
+3060,13,3,Why are you wearing a cat? Because in my country we have a saying 'the house looks its best when a cat's On your chest.,Teddy,0
+3061,13,4,' What country is that? Canada.,Others,0
+3062,13,5,"Mrs. Duncan isn't home and I have a house to clean, So as we say in my country, 'oot.",Others,0
+3063,13,6,' 'oot oot.,Others,1
+3064,13,7," Okay, could you just tell her we stopped by? You betcha.",Others,0
+3065,13,8,"Hey, everybody.",PJ,0
+3066,13,9,Who's that? - That's the chicken delivery guy.,Teddy,0
+3067,13,10,"Dude, what's with the cat? - None of your business.",Teddy,0
+3068,13,11,"And don't call me 'dude,' chicken delivery guy.",Others,0
+3069,13,12,Now come out to the porch Where I will teach you how to use a doorbell.,Others,0
+3070,13,13,You know what's weird? He didn't have any chicken.,Others,0
+3071,13,14,He's just here to take our order.,Gabe,0
+3072,13,15,Then another guy comes and delivers it.,Gabe,0
+3073,13,16,It's not a good system.,Gabe,1
+3074,13,17,I'm the chicken delivery guy.,PJ,0
+3075,13,18,See? That is such an adorable baby.,Others,0
+3076,13,19,Is she--? Part of the promotion.,Others,0
+3077,13,20,"Right, p.J., Which may or may not be your name? That's right.",Teddy,0
+3078,13,21,A promotion.,Teddy,0
+3079,13,22,Kwikki chikki is introducing Baby back ribs.,PJ,0
+3080,13,23,And they make you carry around a baby? That comes from corporate.,PJ,0
+3081,13,24,They have no idea what it's like out in the field.,PJ,0
+3082,13,25,Look who's here.,PJ,0
+3083,13,26,"Who is here? - Hi, I'm bob.",Bob,0
+3084,13,27,The exterminator.,Teddy,0
+3085,13,28,"Yeah, I'm a little more than that.",Teddy,0
+3086,13,29,"Why are you wearing a cat? Oh, forget the cat.",Bob,0
+3087,13,30,There is a skunk in the backyard And I demand you go exterminate it right now.,Teddy,0
+3088,13,31,What are you talking about? Skunks don't come out during the day.,Bob,0
+3089,13,32,"Well, then go out and tell him that.",,0
+3090,13,33,Sorry about that.,Teddy,0
+3091,13,34,"He does good work, but he's a little chatty.",Teddy,0
+3092,13,35,"Mom? No! Well, hello to you too.",Amy,0
+3093,13,36,Hello.,Others,0
+3094,13,37,"Hi, I'm dana.",Others,0
+3095,13,38,I'm kit's mom.,Others,0
+3096,13,39,I'm amy.,Others,0
+3097,13,40,This baby is so cute.,Amy,0
+3098,13,41,Isn't she? She sure makes me want some baby back ribs.,Others,0
+3099,13,42,Beg pardon? - No skunk back there.,Amy,0
+3100,13,43,"Oh, hey, sweetie.",Bob,0
+3101,13,44,Hey.,Amy,0
+3102,13,45,"Wow, you're very friendly with the exterminator.",Others,0
+3103,13,46,I do sleep next to him every night.,Amy,1
+3104,13,47,I didn't realize you had a boyfriend.,Others,0
+3105,13,48,She's got a what? The exterminator is your boyfriend.,Amy,0
+3106,13,49,The exterminator is my husband.,Others,0
+3107,13,50,So you remarried? - I was never divorced.,Amy,0
+3108,13,51,"Well, kit told me you were.",Others,0
+3109,13,52,Because that's what gabe told me.,Others,0
+3110,13,53,I may have told a teeny little lie.,Gabe,0
+3111,13,54,Sorry.,Gabe,0
+3112,13,55,I just wanted you to like me.,Gabe,0
+3113,13,56,"Gabe, you should have just told me the truth.",Others,0
+3114,13,57,I know.,Gabe,0
+3115,13,58,"And I promise, From now on I'll always be completely honest with you.",Gabe,0
+3116,13,59,I'm back.,Others,0
+3117,13,60,Now who's this? That's either virginia who's nice and gives out candy Or mrs.,Gabe,1
+3118,13,61,Dabney-- her evil twin.,Gabe,0
+3119,13,62,We're out of here.,Others,1
+3120,14,0,"Well, charlie, the good news is caboodle's fine.",Teddy,0
+3121,14,1,Turns out all he needed was a trip to the litter box.,Teddy,0
+3122,14,2,But the bad news is gabe's romance with kit is over.,Teddy,0
+3123,14,3,"Well, the good news is I don't have to shower anymore.",Gabe,0
+3124,14,4,That's really good news.,Teddy,0
+3125,14,5,"So if your brother gabe goes to give you a hug, Well, good luck, charlie.",Teddy,0
+3126,14,6,Don't worry.,Gabe,0
+3127,14,7,That won't happen.,Gabe,0
+3128,14,8,"Hey, mom, charlie and I have to work a double tomorrow.",PJ,0
+3129,14,9,What? Why do you keep taking charlie to work? Because I love her.,Amy,0
+3130,14,10,( doorbell rings ) Nobody? - May I help you? - I just wanted to drop off this casserole.,Others,0
+3131,14,11,"Excuse me? Well, with p.J.'s mom being in the hospital And him practically having to raise charlie on his own-- It's just so sad.",Others,0
+3132,14,12,"You think-- Gosh, that smells good.",Amy,1
+3133,14,13,It is sad.,Amy,0
+3134,14,14,I find when people are in need-- - thank you.,Amy,0
+3135,14,15,"Kids, dinner's ready.",Amy,0
+3136,15,0,( doorbell rings ) - It's open.,Gabe,0
+3137,15,1,There's another one? There's another one? - What? - I don't know.,Gabe,0
+3138,15,2,"We're the world famous queens of ***, Winsconsin.",Dabney,0
+3139,15,3,We were the biggest news story of 1958.,Dabney,0
+3140,15,4,This was supposed to be a family reunion.,Dabney,0
+3141,15,5,What happened? - Estelle kicked us out.,Dabney,0
+3142,15,6,That woman's not right.,Dabney,0
+3143,15,7,Tell me about it!,Dabney,1

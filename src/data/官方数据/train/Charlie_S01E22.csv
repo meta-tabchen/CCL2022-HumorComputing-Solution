@@ -1,0 +1,352 @@
+id,Dialogue_id,Utterance_id,Sentence,Speaker,label
+4357,1,0,"Oh, you've got to be kidding me.",Teddy,0
+4358,1,1,Listen to spencer's latest status update.,Teddy,0
+4359,1,2,'just chilling at home.,Teddy,0
+4360,1,3,' who cares? Apparently you do.,Amy,0
+4361,1,4,Mom.,Teddy,0
+4362,1,5,"No no, I do not.",Teddy,0
+4363,1,6,I could care less what my ex-boyfriend is up to.,Teddy,0
+4364,1,7,"Oh, he hasn't even changed his online status yet.",Teddy,0
+4365,1,8,It still says 'in a relationship.,Teddy,0
+4366,1,9,' - He just can't let me go.,Teddy,0
+4367,1,10,"Well, maybe he forgot to change it.",Amy,0
+4368,1,11,"Uh, mom, how could he forget? He's online all the time.",Teddy,0
+4369,1,12,And you know this how? I check his status every hour.,Teddy,1
+4370,1,13,"Well, the important thing is you've moved on.",Amy,0
+4371,1,14,"Gabe honey, you have a playdate this afternoon.",Amy,0
+4372,1,15,"No, I don't.",Gabe,0
+4373,1,16,"Yes, you do.",Amy,0
+4374,1,17,A new family moved in down the street.,Amy,0
+4375,1,18,"And they have a son your age, So I made plans for the two of you to get together.",Amy,0
+4376,1,19,"Oh, mom, let me explain where you went wrong.",Gabe,0
+4377,1,20,I'm 11.,Gabe,0
+4378,1,21,I don't have 'playdates' anymore.,Gabe,1
+4379,1,22,I hang.,Gabe,1
+4380,1,23,His name is austin and I think he'll be.,Amy,0
+4381,1,24,A very good influence on you.,Amy,0
+4382,1,25,He's very well-behaved.,Amy,0
+4383,1,26,You know that well-behaved and I are natural enemies.,Gabe,0
+4384,1,27,"Could you just be nice? Okay, be civil.",Amy,0
+4385,1,28,It's too late to cancel.,Amy,1
+4386,2,0,Please don't be a plumbing problem.,Bob,0
+4387,2,1,Please don't be a plumbing problem! Thank you.,Bob,0
+4388,2,2,We'll be in touch.,PJ,0
+4389,2,3,What is what is going on? We're having auditions for a new band member.,PJ,0
+4390,2,4,P.J.,PJ,0
+4391,2,5,And the vibe need a fuller sound so we can start getting gigs.,PJ,0
+4392,2,6,"And that fuller sound is gonna come from a didgeridoo? Is that what that thing is called? All right, look.",PJ,0
+4393,2,7,How much longer are these auditions gonna go on? - For a few more hours.,PJ,0
+4394,2,8,Oh man.,Bob,0
+4395,2,9,I really gotta get my own place.,Bob,1
+4396,2,10,Next.,Emmett,0
+4397,2,11,Thanks.,PJ,0
+4398,2,12,"Uh, you can keep the microphone.",PJ,0
+4399,2,13,Wait.,Emmett,0
+4400,2,14,Stop.,Emmett,0
+4401,2,15,That was awful.,Emmett,0
+4402,2,16,"Emmett, don't be rude.",PJ,0
+4403,2,17,"I'm sorry, but I'm not gonna sugarcoat it, Even if she is my grandma.",Emmett,1
+4404,2,18,"What do you think? - Well, he's pretty good, But I'm not sure if he has the right look.",Emmett,0
+4405,2,19,"What do you mean? Well, you and me are so hot.",Emmett,0
+4406,2,20,And he's so Not.,Emmett,0
+4407,2,21,I can't argue with that.,PJ,0
+4408,2,22,"Listen, jimmy.",Others,0
+4409,2,23,We're gonna think about it and let you know.,PJ,0
+4410,2,24,Could you let me know soon? 'cause my brother's having a party this weekend.,Others,0
+4411,2,25,And he wants live music.,Others,0
+4412,2,26,He's willing to pay.,Others,0
+4413,2,27,Welcome to the band.,PJ,0
+4414,3,0,"Hey, austin.",Amy,0
+4415,3,1,Come on in.,Amy,0
+4416,3,2,"Gabe honey, austin's here.",Amy,0
+4417,3,3,"What a lovely home, mrs.",Others,0
+4418,3,4,Duncan.,Others,0
+4419,3,5,So comfortable looking.,Others,0
+4420,3,6,What a nice way of saying messy.,Amy,0
+4421,3,7,"Gabe, this is austin.",Amy,0
+4422,3,8,How do you do? - How do I do what? - He's saying hello.,Gabe,0
+4423,3,9,"Why are you dressed like that? Well, I wasn't sure what activities you had planned, So I settled on daytime casual.",Others,0
+4424,3,10,"Really, mom? This is how you want me to spend my afternoon? Well, you boys have fun.",Gabe,0
+4425,3,11,I'll be upstairs with charlie.,Amy,0
+4426,3,12,Poor little baby's not feeling well.,Amy,0
+4427,3,13,Poor little gaby's not feeling so hot either.,Gabe,1
+4428,3,14,"What do you want to do, play video games? - Oh, I'm not allowed.",Gabe,0
+4429,3,15,Watch tv? I've already exceeded my allotted one hour of the week.,Gabe,0
+4430,3,16,Go to the park? - I'm not wearing sunscreen.,Gabe,0
+4431,3,17,"How do you think this is going? Hey, guys.",Gabe,0
+4432,3,18,Hi.,Others,0
+4433,3,19,I don't believe we've met.,Others,0
+4434,3,20,"Teddy, austin; Austin, teddy.",Gabe,0
+4435,3,21,"Nice to meet you, austin.",Teddy,0
+4436,3,22,The pleasure is all mine.,Others,0
+4437,3,23,"Well, aren't you a little gentleman? She's glorious.",Teddy,0
+4438,3,24,What an exquisite creature.,Teddy,0
+4439,3,25,"Look, we have to figure out how to get through this.",Gabe,0
+4440,3,26,"So either you stop being weird or Yeah, that's the only way.",Gabe,0
+4441,4,0,I took 'awesome' and mashed it with 'righteous.,Others,0
+4442,4,1,' 'awe-teous.,PJ,0
+4443,4,2," Dude, I love that.",PJ,0
+4444,4,3,"Hey, can I get something to drink? - Yeah, the kitchen's upstairs.",Others,0
+4445,4,4,What do you think of jimmy? - He's 'gna-teous.,PJ,0
+4446,4,5,' - What? - I mashed 'gnarly' and 'awe-teous.,Emmett,0
+4447,4,6,' 'awe-teous' is already a mash-up.,PJ,0
+4448,4,7,Just let him do it.,PJ,0
+4449,5,0,"Charlie honey, drink your juice.",Amy,0
+4450,5,1,It'll make you feel better.,Amy,0
+4451,5,2,No no.,Charlie,0
+4452,5,3,I don't think you should argue with me.,Amy,0
+4453,5,4,I know a lot more words.,Amy,0
+4454,5,5,"May I have some water, please? Sure, jimmy, coming right up.",Others,0
+4455,5,6,"Well, aren't you a cutie-pie? I'd be lying if I said I hadn't heard that before.",Amy,0
+4456,5,7,I I meant the baby.,Others,0
+4457,5,8,Right.,Amy,0
+4458,5,9,Huh.,Amy,0
+4459,5,10,"Oh, jimmy, I wouldn't get too close to charlie.",Amy,0
+4460,5,11,She's Sick.,Amy,0
+4461,5,12,Whoa.,Others,0
+4462,5,13,She blasted me with snot.,Others,0
+4463,5,14,Which was also the name of my last band.,Others,1
+4464,6,0,It's austin.,Gabe,0
+4465,6,1,Tell him I'm not here.,Gabe,0
+4466,6,2,"Sorry, austin, gabe's not here.",Teddy,0
+4467,6,3,He's hiding under that blanket.,Teddy,0
+4468,6,4,"Actually, I came to see you.",Others,0
+4469,6,5,"You did? - Well, this just got interesting.",Teddy,0
+4470,6,6,I brought you some presents.,Others,0
+4471,6,7,An african orchid.,Others,0
+4472,6,8,I cultivate them myself.,Others,0
+4473,6,9,I also made you some soap.,Others,0
+4474,6,10,Thank you.,Teddy,0
+4475,6,11,I was running low on orchids and soap.,Teddy,0
+4476,6,12,Anything else? I also wanted to ask you something.,Others,0
+4477,6,13,Okay.,Teddy,0
+4478,6,14,Will you go with me? Go with you where? I'm asking you to be my girlfriend.,Others,0
+4479,6,15,Wait.,Teddy,0
+4480,6,16,"I I'm sorry, what? I'm almost 16 and you're 11.",Teddy,0
+4481,6,17,And a half.,Others,0
+4482,6,18,I believe there's a question on the table.,Gabe,0
+4483,6,19,"Teddy, love knows no age.",Others,0
+4484,6,20,But it does know height.,Teddy,1
+4485,6,21,"Austin, I'm flattered, but I just came out of a relationship.",Teddy,0
+4486,6,22,"I have loved, let us see if that's all.",Others,0
+4487,6,23,' E.E.Cummings.,Others,0
+4488,6,24,'I'm not interested.,Teddy,0
+4489,6,25,' t.R.Duncan.,Teddy,0
+4490,6,26,"Your words say one thing, but your eyes say another.",Others,0
+4491,6,27,Okay.,Teddy,0
+4492,6,28,Focus on my hands.,Teddy,0
+4493,6,29,They're pushing you out the door.,Teddy,0
+4494,6,30,This is not over.,Others,0
+4495,6,31,"I shall return! You know, he's growing on me.",Gabe,1
+4496,7,0,I got your message.,Emmett,0
+4497,7,1,What's the bad news? - Jimmy's sick.,PJ,0
+4498,7,2,Charlie sneezed on him.,PJ,0
+4499,8,0,Now he can't make the gig this weekend.,PJ,0
+4500,8,1,"Man, that's 'awf-able.",Emmett,0
+4501,8,2," - Stop that! Dude, we have got to find a new bass player and fast.",PJ,0
+4502,8,3,But where? - I don't know.,PJ,0
+4503,9,0,Dad? - Hey.,PJ,0
+4504,9,1,Oh sorry.,Bob,0
+4505,9,2,I saw it here.,Bob,0
+4506,10,0,I couldn't resist.,Bob,0
+4507,10,1,"How'd you learn to do that? - When I was in high school, I had my own band the bob duncan experience.",Bob,0
+4508,10,2,You were in a band? How come I never knew that? Because whenever I start a story.,Bob,0
+4509,10,3,"With 'when I was in high school,' you zone out.",Bob,0
+4510,10,4,I'm sorry.,PJ,1
+4511,10,5,"What? Well, mr.D., you are the answers to our prayers.",PJ,1
+4512,10,6,How would you like Band meeting.,Emmett,0
+4513,10,7,Band meeting? That's not good.,Bob,0
+4514,10,8,That's how I got thrown out.,Bob,0
+4515,10,9,Of the bob duncan experience.,Bob,0
+4516,10,10,"Emmett, I don't want to be the loser who's in a band with his dad.",PJ,0
+4517,10,11,"A little quieter, guys.",PJ,1
+4518,10,12,"I know he's old, But what choice do we have? Still hearing it.",Emmett,0
+4519,10,13,I guess you're right.,PJ,0
+4520,10,14,Dad Do you want to do the gig with us? Yes! The experience continues! I'm back! For one gig only.,PJ,0
+4521,10,15,For one gig only! 'you are the light of my life.,Bob,0
+4522,11,0,Austin.,Teddy,0
+4523,11,1,"P.S., not to be used in non-ventilated areas.",Teddy,0
+4524,11,2," Yep, that's my special fella.",Teddy,0
+4525,11,3,Hey.,Spencer,0
+4526,11,4,Hey.,Teddy,0
+4527,11,5,Okay.,Teddy,0
+4528,11,6,"Spencer, uh, This is awkward, but I have to tell you something.",Teddy,0
+4529,11,7,"Sure, what is it? - Well, I heard your online status.",Teddy,0
+4530,11,8,"Says you're in a relationship Somebody told me, I don't remember who So you should probably change that.",Teddy,0
+4531,11,9,I'm just saying.,Teddy,0
+4532,11,10,"Actually, I did change it.",Spencer,0
+4533,11,11,And then I changed it back.,Spencer,0
+4534,11,12,Huh.,Teddy,0
+4535,11,13,"Okay look, I know you still have feelings for me.",Teddy,0
+4536,11,14,I get it.,Teddy,0
+4537,11,15,I have that effect on people.,Teddy,0
+4538,11,16,"But really, it's time to move on, okay? Teddy, my status isn't about you.",Spencer,0
+4539,11,17,I oh.,Teddy,0
+4540,11,18,Her name's nicole.,Spencer,0
+4541,11,19,We've had a few dates.,Spencer,0
+4542,11,20,She doesn't go to our school.,Spencer,0
+4543,11,21,"Well, that's that's good for you.",Spencer,0
+4544,11,22,"I mean it's good for both of us, actually, Because I'm also in a relationship.",Teddy,0
+4545,11,23,You are? - Yes.,Teddy,0
+4546,11,24,Cool.,Spencer,0
+4547,11,25,"Who is it? - Uh, austin Is his name.",Teddy,0
+4548,11,26,Austin doesn't go to our school.,Teddy,0
+4549,11,27,He Got me this candle.,Teddy,0
+4550,11,28,Whatever.,Teddy,0
+4551,11,29,Ah.,Spencer,0
+4552,11,30,That's nice.,Teddy,0
+4553,11,31,"Yeah, he's thoughtful like that.",Teddy,0
+4554,11,32,Ah.,Spencer,0
+4555,11,33,It's nicole.,Spencer,0
+4556,11,34,I should probably take this.,Spencer,0
+4557,11,35,Oh sure.,Spencer,0
+4558,11,36,Go for it.,Spencer,0
+4559,11,37,I have to call austin anyway Once he's old enough to have a phone.,Teddy,1
+4560,12,0,"Hey, te oh.",Amy,0
+4561,12,1,Please tell me you're not still obsessing about spencer.,Amy,0
+4562,12,2,"No no, I'm obsessing about some girl named nicole.",Teddy,0
+4563,12,3,Who he's supposedly dating.,Teddy,0
+4564,12,4,But I don't think she exists.,Teddy,0
+4565,12,5,I just scrolled through all 452 of his friends.,Teddy,0
+4566,12,6,And there's not one nicole.,Teddy,0
+4567,12,7,You think he made up a fake girlfriend.,Amy,0
+4568,12,8,"Just to get a rise out of you? Oh, that is sad and pathetic.",Amy,0
+4569,12,9,"Well, in certain situations.",Teddy,0
+4570,12,10,It's understandable.,Teddy,0
+4571,12,11,What's your fake boyfriend's name? Austin.,Amy,0
+4572,12,12,Oh teddy.,Teddy,0
+4573,12,13,I panicked! At least he's a real guy.,Teddy,0
+4574,12,14,"For you, my love! Is that the lute? Oh, I love the lute.",Amy,0
+4575,12,15,"Sorry, austin.",Teddy,0
+4576,12,16,Now's not a good time.,Teddy,0
+4577,12,17,"Teddy, go out with me.",Others,0
+4578,12,18,No.,Teddy,0
+4579,12,19,Then I will continue to serenade you.,Others,0
+4580,12,20,With every instrument at my disposal.,Others,0
+4581,12,21,But you should know.,Others,0
+4582,12,22,My father owns a music store.,Others,0
+4583,12,23,So what's it gonna take to make you go away? One date.,Teddy,0
+4584,12,24,"Okay, fine.",Others,0
+4585,12,25,Let's get this over with.,Teddy,0
+4586,12,26,"Well, not now.",Others,0
+4587,12,27,I'm not dressed.,Others,0
+4588,12,28,I shall return Saturday afternoon.,Others,0
+4589,12,29,Shall we say 1:00-ish? - Say whatever you want.,Others,0
+4590,12,30,Our relationship ends at 3:00-ish.,Teddy,0
+4591,12,31,Until then I bid you a gentle good morrow.,Others,0
+4592,13,0,"Yahoo! Dad! Come on, let's have a look at you.",PJ,0
+4593,13,1,Huh? Look at that.,Bob,0
+4594,13,2,Can I pass for a teenager? Absolutely.,Bob,0
+4595,13,3,Just stay out of direct light Or any light.,Amy,0
+4596,13,4,"Is that a zit? - Yep, drew that on myself.",Gabe,0
+4597,13,5,"Makes me look younger, huh? Ugh.",Bob,0
+4598,13,6,"Putting a lot of pressure on one little zit, dad.",Gabe,0
+4599,13,7,Okay.,PJ,0
+4600,13,8,Dad.,PJ,0
+4601,13,9,Let's go over it one more time.,PJ,0
+4602,13,10,"Oh, all right.",Bob,0
+4603,13,11,My name is bo.,Bob,0
+4604,13,12,I go to north high.,Bob,0
+4605,13,13,"And, if anybody asks, I have a bizarre medical condition.",Bob,0
+4606,13,14,That makes me look older.,Bob,0
+4607,13,15,Called? Old-man-itus.,Bob,1
+4608,13,16,We're good.,PJ,0
+4609,13,17,"Oh, honey.",Amy,0
+4610,13,18,Want to go out with a teenager tonight? Not with that zit.,Bob,0
+4611,14,0,This is our date? Your six-year-old cousin's birthday party? I couldn't show up without a date.,Teddy,0
+4612,14,1,That would be embarrassing.,Others,0
+4613,14,2,We wouldn't want anyone here to be embarrassed.,Teddy,0
+4614,14,3,"Oh, no, I've arranged a private table for us.",Others,0
+4615,14,4,How romantic.,Teddy,0
+4616,14,5,I slipped the clown a few dollars.,,0
+4617,14,6,He'll be by shortly.,Others,0
+4618,14,7,"Come on, swing like you mean it! She's gonna be seven by the time we get out of here.",Teddy,0
+4619,14,8,It won't take that long.,Others,0
+4620,14,9,"After the pinata, we have cake.",,0
+4621,14,10,Then we kiss and it's over.,Others,0
+4622,14,11,What did you say? We have cake.,Teddy,0
+4623,14,12,"Uh, it's your turn.",Others,0
+4624,14,13,Ah.,Teddy,0
+4625,14,14,Let's do this.,Teddy,0
+4626,14,15,"Open your bags, girls.",Teddy,0
+4627,14,16,This pretty rainbow's going down.,Teddy,0
+4628,14,17,"Yeah, that's what I'm talking about! Whoo! - Teddy? - Oh! Spencer.",Teddy,0
+4629,14,18,"That is you, uh, tiger.",Spencer,0
+4630,14,19,How do you do? - Oh my gosh.,Others,0
+4631,14,20,How do I do what? - I'm austin.,Spencer,0
+4632,14,21,"This is austin? The guy you're in a relationship with? Well, it's just our first date.",Spencer,0
+4633,14,22,We're taking things slow.,Others,0
+4634,14,23,"Um, well, I should go.",Others,0
+4635,14,24,Nicole's waiting for me.,Spencer,0
+4636,14,25,It was nice to meet you.,Spencer,0
+4637,14,26,"And you, sir.",Others,0
+4638,14,27,Are you okay? Not really.,Teddy,0
+4639,14,28,That was my ex-boyfriend.,Teddy,0
+4640,14,29,Oh.,Teddy,0
+4641,14,30,"He's here with nicole, Who is pretty and real.",Teddy,0
+4642,14,31,And you're here with an 11-year-old.,Others,0
+4643,14,32,Pretty much.,Teddy,0
+4644,14,33,"Well, you know, teddy, I may be only 11, But I'm old enough to know you deserve someone.",Others,0
+4645,14,34,Who will appreciate how wonderful you are.,Others,0
+4646,14,35,"And for your information, spencer ain't it.",Others,0
+4647,14,36,Did you just say 'ain't'? - Listen to me.,Teddy,0
+4648,14,37,"I'm so passionate, I'm throwing grammar to the wind.",Others,0
+4649,14,38,"Yeah thanks, austin.",Teddy,0
+4650,14,39,"And you know, as first dates go, This wasn't all that bad.",Teddy,0
+4651,14,40,"Not now, slappy.",Others,0
+4652,14,41,"Anyway, you really You deserve somebody great too.",Teddy,0
+4653,14,42,"I mean, somebody who's smart.",Teddy,0
+4654,14,43,"Kind and, well, 11.",Teddy,0
+4655,14,44,"Shall we grab our goody bags, quick kiss.",Others,0
+4656,14,45,And get out of here? - What did you say? I said let's grab our goody bags.,Others,1
+4657,15,0,This is awful.,PJ,0
+4658,15,1,We're totally b*mb.,PJ,0
+4659,15,2,They're not even paying attention to us.,Emmett,0
+4660,15,3,"All right, guys.",Bob,0
+4661,15,4,Calm down.,Bob,0
+4662,15,5,"If there's anything I learned from the bob duncan experience, It's that if you want to get people to notice you, - You give them something to notice.",Bob,0
+4663,15,6,How do you do that? Band meeting.,PJ,0
+4664,15,7,"Okay, guys, follow my lead.",PJ,0
+4665,15,8,This crowd's about to get fired up.,PJ,0
+4666,16,0,"Well, charlie, Thanks to a strange little dude named austin, I think I'm finally over spencer.",Teddy,0
+4667,16,1,"In fact, I'm about to defriend him right now.",Teddy,0
+4668,16,2,Whoo! Moving on.,Teddy,0
+4669,16,3,Feel good.,Teddy,0
+4670,16,4,"Ooh, looks like I have an email from Austin.",Teddy,0
+4671,16,5,"Oh, he posted the teddy the tiger pictures.",Teddy,0
+4672,16,6,All over the internet.,Teddy,0
+4673,16,7,"Wish me good luck, charlie.",Teddy,0
+4674,16,8,Whoa! What happened? Dad breathed fire.,Teddy,0
+4675,16,9,It was so awesome The first time.,PJ,0
+4676,16,10,The second time there were some problems.,PJ,0
+4677,16,11,No big deal.,Bob,0
+4678,16,12,Tomorrow morning I'll go down to the music store.,Bob,0
+4679,16,13,"And get jimmy a new bass, Then go over to the lumber yard.",Bob,0
+4680,16,14,And get jimmy's parents a new deck.,Bob,0
+4681,16,15,Wait.,Teddy,0
+4682,16,16,"Dad, you played in p.J.'s band? - I didn't know you were into music.",Teddy,0
+4683,16,17,Of course I am.,Bob,0
+4684,16,18,"When I was in high school, I had my own band.",Bob,0
+4685,16,19,"I'm sorry, what? I really got to get my own place.",Teddy,1
+4686,17,0,Hey! Look at that.,Bob,0
+4687,17,1,Ain't she a beauty? I thought you already bought jimmy a bass.,Bob,0
+4688,17,2,This is for me.,PJ,0
+4689,17,3,"Dad, um, I thought we made it pretty clear.",PJ,0
+4690,17,4,You being in the band was just a one-time thing.,PJ,0
+4691,17,5,I'm sorry.,PJ,0
+4692,17,6,I'm not.,Bob,0
+4693,17,7,I've got my own band now.,Bob,1
+4694,18,0,All right.,Bob,0
+4695,18,1,Okay whoa.,Bob,0
+4696,18,2,Wait a minute.,Bob,0
+4697,18,3,Wait a minute.,Bob,0
+4698,18,4,Stop stop stop.,Bob,0
+4699,18,5,"Let's try it again, all right? Let's bring the accordion down a little bit.",Bob,0
+4700,18,6,A little more from you.,Bob,0
+4701,18,7,A little less from you.,Bob,0
+4702,18,8,And as for emmett's grandma You sound great.,Bob,0
+4703,18,9,"Alright, listen.",Bob,0
+4704,18,10,One more time from the top.,Bob,0
+4705,18,11,"Ok? On 3 Hey, dummer, come on.",Bob,0
+4706,18,12,I said 'On three'.,Bob,1
+4707,18,13,"Oh that's right, you You can't count to three yet.",Bob,1

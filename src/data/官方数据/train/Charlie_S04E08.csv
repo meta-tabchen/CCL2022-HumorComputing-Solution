@@ -1,0 +1,342 @@
+id,Dialogue_id,Utterance_id,Sentence,speaker,label
+16918,1,0,"Why is there two cakes? Because you and Toby share a birthday, remember? I don't like that.",Charlie,0
+16919,1,1,"Well, maybe it'll be different next year.",Amy,1
+16920,1,2,"How can it be different next year? Won't they always PJ, look! Pretty balloon.",Amy,0
+16921,1,3,"Oh, that is nice.",PJ,0
+16922,1,4,"You know, Charlie, you're also having another party at preschool.",Amy,0
+16923,1,5,It's birthday day on Friday.,Amy,0
+16924,1,6,Is that party gonna be just for me? Of course it might.,Amy,1
+16925,1,7,"Hey, honey, you need any help with the preschool party? Nope.",Bob,0
+16926,1,8,Five kids.,Amy,0
+16927,1,9,Got it down to a science.,Amy,1
+16928,1,10,"And, that's why I offered.",Bob,0
+16929,1,11,"Ah, come on, a few cupcakes, couple party hats.",Amy,0
+16930,1,12,"Ba-bam! Childhood memory, done.",Amy,1
+16931,1,13,"Come on, Toby, eat some cake.",Teddy,0
+16932,1,14,"We gotta get a picture of you with cake smushed all over your face, buddy.",Teddy,0
+16933,1,15,Everybody else has one.,Teddy,0
+16934,1,16,I don't remember seeing a picture of me with smushed cake.,PJ,0
+16935,1,17,"Uh, almost everybody.",Amy,0
+16936,1,18,"Left out again, really? Well well, that ends now.",PJ,0
+16937,1,19,Oh! Take the picture.,PJ,0
+16938,1,20,This is adorable.,PJ,0
+16939,2,0,Hey.,Bob,0
+16940,2,1,What are you doing here? I live here.,Gabe,1
+16941,2,2,It's the middle of the day.,Bob,0
+16942,2,3,"Shouldn't you be in school? Shouldn't you be at work? Look, sometimes I don't like using the bathroom at This isn't about me.",Bob,1
+16943,2,4,What's going on? - All right.,Bob,0
+16944,2,5,Truth is I got into trouble.,Gabe,0
+16945,2,6,"I punched out Bryce Jenkins, the toughest kid in school.",Gabe,0
+16946,2,7,"Whoa, you got into a fight? And won? It wasn't a fight.",Bob,1
+16947,2,8,It was an accident.,Gabe,0
+16948,2,9,I was really tired.,Gabe,0
+16949,2,10,I yawned.,Gabe,0
+16950,2,11,Like like this.,Gabe,1
+16951,2,12,Just as Bryce was walking by.,Gabe,0
+16952,2,13,"Yeah, Principal sees Bryce on the floor, I get sent home.",Gabe,0
+16953,2,14,Didn't you explain it was an accident? ,Bob,0
+16954,2,15,I tried.,Gabe,0
+16955,2,16,Nobody believed me.,Gabe,0
+16956,2,17,"Man, you tell 300 lies All right, well, tomorrow you're gonna have to go down there and you're gonna have to clear all this up.",Gabe,0
+16957,2,18,And apologize to Bryce as well.,Bob,0
+16958,2,19,"Yeah, I will.",Gabe,0
+16959,2,20,"Well, gotta head back to the triple B-G.",Bob,0
+16960,2,21,The what? - Bob's Bugs-Be-Gone.,Bob,1
+16961,2,22,"It's just kind of a more hip, happenin' way of saying it.",Bob,1
+16962,3,0,"Is it? Oh, thanks so much for letting me borrow this, Amy.",others,0
+16963,3,1,My cake pan was getting worn out.,others,0
+16964,3,2,"So I thought to myself 'Who would have one that's never been used?' Well, uh, as long as you're replacing things that are worn out, would you like to borrow a dress? Anyhoo I'm really looking forward to birthday day at preschool.",others,1
+16965,3,3,"Oh, that's right.",Amy,0
+16966,3,4,Deedee and Charlie were born in the same month.,Amy,0
+16967,3,5,"The way it works is we each get Yeah, I have five kids.",Amy,0
+16968,3,6,To know how it works.,Amy,1
+16969,3,7,"Well, my 15 minutes are gonna be quite something.",others,0
+16970,3,8,"Yeah, mine too.",Amy,0
+16971,3,9,I just don't wanna be one of those lazy moms who just gets some store-bought cupcakes and a couple of sad hats.,others,0
+16972,3,10,"Yeah, those moms are so lame.",Amy,1
+16973,3,11,"Hey, mom.",PJ,0
+16974,3,12,Got Charlie's cupcakes and party hats.,PJ,0
+16975,3,13,That's that's for a different Charlie.,Amy,0
+16976,3,14,"Oh, really? - Yes.",others,0
+16977,3,15,Who's this Charlie? ,others,0
+16978,3,16,That is a we have Have a cat.,Amy,1
+16979,3,17,And the cat is also named Charlie.,Amy,1
+16980,3,18,And it is also Celebrating a birthday.,Amy,1
+16981,3,19,"Here, kitty kitty kitty.",Amy,1
+16982,3,20,"Come here, Charlie girl.",Amy,0
+16983,3,21,Come here.,Amy,0
+16984,3,22,Come here.,Amy,0
+16985,3,23,That was sad.,others,1
+16986,3,24,You're telling me.,PJ,1
+16987,3,25,We finally get a cat and then we lose it? There he is! ,PJ,1
+16988,4,0,What's all this? ,Gabe,0
+16989,4,1,"Dude, you're a hero! ",others,0
+16990,4,2,I am? ,Gabe,0
+16991,4,3,"Yeah, you took down Bryce Jenkins.",others,0
+16992,4,4,"Oh, the punch Hi, Gabe.",Gabe,0
+16993,4,5,"Hi, girl who's never talked to me before.",Gabe,1
+16994,4,6,I'm Natalie.,others,0
+16995,4,7,I had no idea you were so brave.,others,0
+16996,4,8,"Yeah, so what happened? How did it go down? Oh, guys, look, the truth is I was just really tired Of of Bryce's attitude.",Gabe,1
+16997,4,9,So I decided enough was enough.,Gabe,1
+16998,4,10,That's when I brought the hammer down.,Gabe,1
+16999,4,11,This is the hammer.,Gabe,1
+17000,4,12,These are the nails.,Gabe,1
+17001,5,0,Ooh Bob's Bugs-Be-Gone.,Teddy,0
+17002,5,1,"Yeah, sure.",Teddy,0
+17003,5,2,"What's the problem? Ants in the kitchen ewe, that's gross! Yes, I am new.",Teddy,1
+17004,5,3,"How did you know? Okay, um I'll have somebody call you.",Teddy,0
+17005,5,4,Just in the meanwhile Go to a movie or something.,Teddy,0
+17006,5,5,Just get out of the house.,Teddy,1
+17007,5,6,"Hey, Teddy.",Beau,0
+17008,5,7,"Hi, Beau.",Teddy,0
+17009,5,8,"What are you doing here? Uh, well, my dad's having me help out and answer phones while he's training you.",Teddy,0
+17010,5,9,So Are you trained yet? Because this is kinda boring.,Teddy,1
+17011,5,10,"Excuse me, I gotta take this.",Beau,0
+17012,5,11,"Hey, Julie, listen.",Beau,0
+17013,5,12,I can't talk right now.,Beau,0
+17014,5,13,I'm at work.,Beau,0
+17015,5,14,"Yes, I got your text and your e-mail and your text about your e-mail.",Beau,1
+17016,5,15,"Hey, can you hold on a second? My boss needs to tell me something.",Beau,0
+17017,5,16,Beau! Get over here! We have an emergency.,Teddy,1
+17018,5,17,"Look, I really gotta go.",Beau,0
+17019,5,18,"Okay, I will.",Beau,0
+17020,5,19,I promise.,Beau,0
+17021,5,20,"Okay, bye.",Beau,0
+17022,5,21,Thank you.,Beau,0
+17023,5,22,No problem.,Teddy,0
+17024,5,23,"So, who was that? Julie, my girlfriend back in Tennessee.",Beau,0
+17025,5,24,She's having a hard time with the long distance thing.,Beau,0
+17026,5,25,"Yeah, that can be tough.",Teddy,0
+17027,5,26,It's her again.,Beau,0
+17028,5,27,Voice mail.,Beau,0
+17029,5,28,"You are at work, right? Bob's bugs-be It's for you.",Teddy,1
+17030,6,0,"Toby, where's your train? Oh, he didn't get one.",PJ,0
+17031,6,1,I just gave him the box.,Amy,0
+17032,6,2,You gave him a box for his birthday? Yeah.,PJ,0
+17033,6,3,After five kids you learn they're always more excited about the box.,Amy,1
+17034,6,4,I see.,PJ,0
+17035,6,5,"So is the train still available or? Honey, I'm so glad you're here.",PJ,0
+17036,6,6,I need your help.,Amy,0
+17037,6,7,Have a seat.,Amy,0
+17038,6,8,I need you to help me come up with some ideas for Charlie's preschool party.,Amy,0
+17039,6,9,"The objective here blow Debbie Dooley out of the water! Wow, mom, you kinda make it sound like a battle plan.",Amy,1
+17040,6,10,"Oh, good.",PJ,0
+17041,6,11,"That's coming through? The idea is We go first, we go big, we go loud.",Amy,1
+17042,6,12,"When Charlie's part of the party is over, little Deedee isn't even gonna want a birthday.",Amy,0
+17043,6,13,"Isn't that a little extreme? Well, it's just a goal.",PJ,0
+17044,6,14,I'm not saying we'll get there.,Amy,1
+17045,6,15,"Okay, brainstorming time.",Amy,0
+17046,6,16,"Mm, I have to warn you, brainstorming's not really my thing.",PJ,0
+17047,6,17,It's always sunny up here.,PJ,1
+17048,6,18,"PJ, I have faith in you.",Amy,0
+17049,6,19,"Besides, you're the only one who's home.",Amy,1
+17050,6,20,Okay.,PJ,0
+17051,6,21,Throw out some ideas.,Amy,0
+17052,6,22,Just give me something.,Amy,0
+17053,6,23,What you got? ,Amy,0
+17054,6,24,Um ,PJ,0
+17055,6,25,Kid's birthday party.,Amy,0
+17056,6,26,Going big.,Amy,0
+17057,6,27,An elephant.,PJ,0
+17058,6,28,Little smaller.,Amy,0
+17059,6,29,A baby elephant.,PJ,1
+17060,6,30,Good! - You like the baby elephant? No.,PJ,0
+17061,6,31,It's good that we're getting the bad ideas out of the way.,Amy,1
+17062,7,0,"Uh, Gabe, there you are.",others,0
+17063,7,1,Bryce is looking for you.,others,0
+17064,7,2,He is? Yeah.,Gabe,0
+17065,7,3,He wants to talk to you.,others,0
+17066,7,4,"Yeah, well, tell Bryce I'll be right here waiting for him.",Gabe,0
+17067,7,5,Yeah.,others,0
+17068,7,6,Yeah.,Gabe,0
+17069,7,7,Okay.,others,0
+17070,8,0,"Hey, I thought you and my dad weren't coming back until later.",Teddy,0
+17071,8,1,"Yeah, well, there was kind of an incident.",Beau,0
+17072,8,2,I set off a bug b*mb and then I got a text.,Beau,0
+17073,8,3,"And then he answered the text rather than say 'You have five seconds, Bob'.",Bob,1
+17074,8,4,"Again, I'm really sorry, Mr.",Beau,0
+17075,8,5,Duncan.,Beau,0
+17076,8,6,"Hey, a little poison never k*ll anybody.",Bob,1
+17077,8,7,"Oh, yeah, it did.",Bob,1
+17078,8,8,"Um, you know what? I'm gonna go home and get cleaned up.",Bob,0
+17079,8,9,Let me guess The text was from your girlfriend? Yeah.,Teddy,0
+17080,8,10,This is getting to be too much.,Beau,0
+17081,8,11,Now it's affecting my job.,Beau,0
+17082,8,12,"Well, if it's any consolation, it's not much of a job.",Teddy,1
+17083,8,13,That's it.,Beau,0
+17084,8,14,I gotta break up with her.,Beau,0
+17085,8,15,And this time it's gonna stick.,Beau,0
+17086,8,16,This time? I tried to break up with Julie before I moved here.,Beau,0
+17087,8,17,"But as soon as I started, her eyes got all misty and her bottom lip popped out.",Beau,1
+17088,8,18,Next thing I know I'm making her a mix tape.,Beau,1
+17089,8,19,"Well, good luck.",Teddy,0
+17090,8,20,I need help.,Beau,0
+17091,8,21,From you.,Beau,0
+17092,8,22,Me? What can I do? You can pretend to be Julie.,Teddy,0
+17093,8,23,"I'll try and break up with you, and you try and talk me out of it.",Beau,0
+17094,8,24,"Ooh, hey! Lucky for you, I do an amazing southern accent.",Teddy,1
+17095,8,25,That really won't be necessary.,Beau,0
+17096,8,26,"Howdy, Beau.",Teddy,0
+17097,8,27,How's your mama and them? ,Teddy,0
+17098,8,28,"Teddy, I don't ",Beau,0
+17099,8,29,"Teddy? Who's Teddy? I'm Julie, the flower of the south.",Teddy,1
+17100,8,30,Or maybe you can just be there to support me when I break up with her.,Beau,0
+17101,8,31,Quietly.,Beau,0
+17102,8,32,With no accent.,Beau,1
+17103,8,33,"All right, sugar.",Teddy,0
+17104,8,34,Let me know if you change your mind.,Teddy,1
+17105,8,35,Okay.,Beau,0
+17106,8,36,But I won't.,Beau,1
+17107,9,0,"Okay, dry run for Charlie's party.",Amy,0
+17108,9,1,Let's take it from the top.,Amy,0
+17109,9,2,"Ladies and gentlemen, you've seen her at one, you've seen her at two, again at three and now Charlie Duncan Is four! Is four! ",Amy,1
+17110,9,3,Great.,Amy,0
+17111,9,4,I should have sunglasses.,Charlie,1
+17112,9,5,"Ooh, nice touch.",Amy,1
+17113,9,6,We'll get those.,Amy,1
+17114,9,7,"Okay, once she gets to the center of the room, you go for the big finish.",Amy,0
+17115,9,8,Let's talk about our understanding of 'big finish'.,Amy,1
+17116,9,9,I'm still waiting for my glasses.,Charlie,1
+17117,9,10,"Okay okay, this is good.",Amy,0
+17118,9,11,But is it enough? I feel like we need one more thing.,Amy,0
+17119,9,12,"Hi, hon'.",Bob,0
+17120,9,13,A clown.,Amy,1
+17121,9,14,We need a clown.,Amy,1
+17122,9,15,"No, it's okay.",Bob,0
+17123,9,16,Not life-threatening.,Bob,0
+17124,9,17,But thanks for the concern.,Bob,1
+17125,9,18,"Oh, no no no no.",Amy,0
+17126,9,19,You're not tracking that stuff through my house.,Amy,0
+17127,9,20,"How else am I gonna get cleaned up? Charlie, honey, take your father to the backyard and hose him down.",Amy,1
+17128,9,21,"Come on, daddy.",Charlie,1
+17129,9,22,You know the drill.,Charlie,1
+17130,10,0,"Duncan! Hey, Bryce.",Gabe,0
+17131,10,1,I've been looking for you.,others,0
+17132,10,2,"Hey, that is the first I'm hearing of that.",Gabe,1
+17133,10,3,There's something I've been meaning to do.,others,0
+17134,10,4,"Okay, just get it over with.",Gabe,1
+17135,10,5,"Dude, I'm not gonna hit you.",others,0
+17136,10,6,I just wanna thank you.,others,0
+17137,10,7,For what? I'm not the toughest kid in school anymore.,others,0
+17138,10,8,What a relief.,others,0
+17139,10,9,I'm free to be me.,others,0
+17140,10,10,"I can finally join the Book Club, take modern dance.",others,1
+17141,10,11,All the things you used to b*at people up for.,Gabe,1
+17142,10,12,"Ironic, huh? - Yeah.",others,0
+17143,10,13,"I wouldn't wanna be you, though.",others,0
+17144,10,14,"Now that you're the toughest kid, everyone's gonna want a piece of you.",others,0
+17145,10,15,That doesn't sound good.,Gabe,1
+17146,10,16,Here's a tip make sure the nurse knows your bl*od type.,others,1
+17147,10,17,"Oh! Ow! - Oh, he punched me! Noah punched me! - What? Noah Nixon's now the toughest kid in school! Glad that's over.",Gabe,1
+17148,11,0,Just stay strong.,Teddy,0
+17149,11,1,You can do this.,Teddy,0
+17150,11,2,"Hey, Julie.",Beau,0
+17151,11,3,"Hi, darling.",others,0
+17152,11,4,"Hey, look, there's something I've been meaning to tell you.",Beau,0
+17153,11,5,Have you been getting my messages? Because the girl who answers the phone doesn't seem very smart.,others,1
+17154,11,6,"Look, I've been thinking about this a lot.",Beau,0
+17155,11,7,"Now that we're so far apart, it's tough, so - You're moving back home?! - No, I'm not moving back home.",Beau,0
+17156,11,8,"Look, I'm calling to tell you that I think we should break up.",Beau,0
+17157,11,9,What? You're dumping me? I can't believe this.,others,0
+17158,11,10,"Oh, come on.",Beau,0
+17159,11,11,Don't do that.,Beau,0
+17160,11,12,Not the lip.,Beau,0
+17161,11,13,Please not the lip.,Beau,0
+17162,11,14,"Okay, maybe we can make this work.",Beau,1
+17163,11,15,No.,Teddy,0
+17164,11,16,"Julie, hi.",Teddy,0
+17165,11,17,I'm Teddy.,Teddy,0
+17166,11,18,"Um Put the lip away, Sweetie.",Teddy,0
+17167,11,19,It's not gonna work on me.,Teddy,0
+17168,11,20,Who are you? - I work with Beau.,Teddy,0
+17169,11,21,I take the messages.,Teddy,0
+17170,11,22,"And I happen to think I'm very smart, but maybe that doesn't come across over the phone.",Teddy,1
+17171,11,23,Are you trying to steal my boyfriend? - No! No no no no no.,others,0
+17172,11,24,Not at all.,Teddy,0
+17173,11,25,We're just friends.,Teddy,0
+17174,11,26,"In fact, I just went through what you're going through.",Teddy,0
+17175,11,27,A long-distance relationship that didn't work.,Teddy,0
+17176,11,28,Until we both decided that we had to make a tough choice.,Teddy,0
+17177,11,29,We had to be mature and let each other go.,Teddy,0
+17178,11,30,"Who are you again? Look, I know it's hard now, but you're gonna be okay.",others,1
+17179,11,31,You got a lot going for you.,Teddy,0
+17180,11,32,"You're pretty, you seem nice and you got that cute southern accent.",Teddy,0
+17181,11,33,You really think I'll be okay? Absolutely.,others,0
+17182,11,34,"Hey, and, uh speaking of southern accents, I don't mean to brag, but I happen to think I do a pretty good one myself.",Teddy,1
+17183,11,35,"Would you like to hear it? - No, thank you.",Teddy,0
+17184,11,36,But I appreciate you making this easier.,others,0
+17185,11,37,Okay.,Teddy,0
+17186,11,38,We'll y'all have a real good Oh.,Teddy,0
+17187,11,39,And she's gone.,Teddy,0
+17188,11,40,I can't believe it.,Beau,0
+17189,11,41,I did it.,Beau,0
+17190,11,42,"Well, we did it.",Teddy,1
+17191,11,43,I feel so much better.,Beau,0
+17192,11,44,"I can't thank you enough, Teddy.",Beau,0
+17193,11,45,I'm glad I could help.,Teddy,0
+17194,11,46,I should probably Get out to the job.,Beau,0
+17195,11,47,Yeah.,Teddy,0
+17196,11,48,And I I should Get back over here.,Teddy,1
+17197,12,0,"Okay, everybody.",Amy,0
+17198,12,1,"Kids, it's time for Charlie's super-incredible Amazing party! And the other one.",Amy,0
+17199,12,2,"Okay, Charlie, this is your big moment.",Amy,0
+17200,12,3,Let's see the wave.,Amy,0
+17201,12,4,"Remember, swivel the wrist.",Amy,1
+17202,12,5,It's like screwing in a light bulb.,Amy,1
+17203,12,6,Okay.,Amy,0
+17204,12,7,It's go time.,Amy,0
+17205,12,8,"Mom, wait.",PJ,0
+17206,12,9,Look.,PJ,0
+17207,12,10,Deedee looks sad.,Charlie,0
+17208,12,11,She sure does.,PJ,0
+17209,12,12,Yeah.,Amy,0
+17210,12,13,It's really bringing me down.,Amy,0
+17211,12,14,"Excuse me, honey.",Amy,0
+17212,12,15,Could you move out of the doorway? Grand entrance coming through.,Amy,1
+17213,12,16,Can Deedee ride in the car with me? It would be the right thing to do.,Charlie,0
+17214,12,17,No no no no no! This is not about doing the right thing.,Amy,1
+17215,12,18,This is about winning.,Amy,1
+17216,12,19,Think about what you're teaching Charlie.,PJ,0
+17217,12,20,"And I mean her, not the cat.",PJ,1
+17218,12,21,"Okay, fine.",Amy,0
+17219,12,22,I always hate this part.,Amy,1
+17220,12,23,"May I present to you Charlie and Deedee! The birthday girls! Wave, Deedee, wave.",Amy,0
+17221,12,24,Thanks for including Deedee.,others,0
+17222,12,25,That was nice.,others,0
+17223,12,26,"Oh, well, you know me.",others,0
+17224,12,27,Always taking the high road.,Amy,1
+17225,12,28,That's one way to go.,others,0
+17226,12,29,Here's another.,others,0
+17227,12,30,"Hey, everybody.",others,0
+17228,12,31,I've got a special surprise for Deedee's birthday.,others,0
+17229,12,32,"Look outside! Oh! A baby elephant! I knew that was a good idea! Come on, everyone.",PJ,1
+17230,12,33,"Elephant rides on the playground! Well, at least you have the satisfaction of knowing you did the right thing.",PJ,0
+17231,12,34,Yeah.,Amy,0
+17232,12,35,That's true.,Amy,0
+17233,12,36,"Why don't I feel better? I'm proud of you, mom.",Amy,1
+17234,12,37,Thanks.,Amy,0
+17235,12,38,"Yeah, I got nothing.",Amy,0
+17236,12,39,"Well, I'm gonna go use the restroom and then I'll help you clean up all this.",PJ,0
+17237,12,40,Okay.,Amy,0
+17238,12,41,"Thanks, honey.",Amy,0
+17239,12,42,Mm hmm.,PJ,1
+17240,13,0,"Woo-hoo! Well, Charlie, you'll always remember your fourth birthday.",Teddy,0
+17241,13,1,That's the one where they couldn't get PJ off the elephant.,Teddy,1
+17242,13,2,"I missed it, though.",Teddy,0
+17243,13,3,I was at dad's office breaking up with Beau's girlfriend.,Teddy,1
+17244,13,4,"So, now he's single.",Teddy,0
+17245,13,5,"Why did I smile when I said that? Why Why am I still smiling? Ladies and gentlemen, presenting Dinner! She hasn't put that thing down all day.",Teddy,0
+17246,13,6,"In this corner, weighing in at six and a half pounds, everybody's favorite, baked chicken! And in this corner, it's the lean, green fighting machine Salad! Tonight's meal will be refereed by Applesauce! Wish us good luck, Charlie.",Amy,1
+17247,14,0,"Okay, Charlie.",Amy,0
+17248,14,1,Make a wish.,Amy,0
+17249,14,2,Charlie! You bring your brother back right now! Okay.,Amy,1
+17250,14,3,Thank you.,Amy,0
+17251,14,4,"Now, I am going to give you one more chance young lady.",Amy,0
+17252,14,5,And this time make it a nice wish.,Amy,0
+17253,14,6,"Charlie Duncan, that was very naughty.",Bob,0
+17254,14,7,Do you wanna go where mommy is? No.,Charlie,0
+17255,14,8,I I was just I was just wondering if you wanted your presents.,Bob,1
+17256,14,9,And Toby's presents.,Bob,1
+17257,14,10,And anything else that you wanted.,Bob,1
+17258,14,11,We're gonna get along just fine.,Charlie,1
